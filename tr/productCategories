@@ -1,4 +1,37 @@
 [
-	{ "name": "Yönlendiriciler", "imageUrl":"https://placehold.co/600x400/000000/blue", "desc": "Bla bla Yönlendirici", "slug": "yonlendiriciler"},
-	{ "name": "Antenler", "imageUrl":"https://placehold.co/600x400/000000/pink", "desc": "Bla bla Anten", "slug": "antenler"}
-	]
+	{
+		"name": "Yönlendiriciler",
+		"imageUrl": "https://placehold.co/600x400/000000/blue",
+		"desc": "Bla bla Yönlendirici",
+		"slug": "yonlendiriciler",
+		"url": "/router"
+	},
+	{
+		"name": "Antenler",
+		"imageUrl": "https://placehold.co/600x400/000000/pink",
+		"desc": "Bla bla Antenler",
+		"slug": "antenler",
+		"url": "/antenna"
+	},
+	{
+		"name": "Erişim Noktası",
+		"imageUrl": "https://placehold.co/600x400/000000/green",
+		"desc": "Bla bla Erişim Noktası",
+		"slug": "erisim-noktasi",
+		"url": "/ap"
+	},
+	{
+		"name": "Anahtar",
+		"imageUrl": "https://placehold.co/600x400/000000/yellow",
+		"desc": "Bla bla Anahtar",
+		"slug": "anahtar",
+		"url": "/switch"
+	},
+	{
+		"name": "Yazılım",
+		"imageUrl": "https://placehold.co/600x400/000000/orange",
+		"desc": "Bla bla Yazılım",
+		"slug": "yazilim",
+		"url": "/software"
+	}
+]
