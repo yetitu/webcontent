@@ -1,1 +1,10 @@
-
+{
+	"name": "Erişim Noktası",
+	"brand": "NetModule",
+	"series": "AP3400",
+	"description": "Tren ve tramvaylarda, hızlı, sağlam ve güvenilir WLAN bağlantıları için WiFi-6 standardını destekleyen NetModule'ün AP3400 erişim noktasını tercih edin. Yolcularınız ve personeliniz için tren boyunca kesintisiz LTE ve 5G bağlantısı sağlayın.",
+	"heroText": "WiFi'nizi güçlendirin",
+	"image": "ap3400_front.jpg",
+	"group": "accesspoint",
+	"usage": "railway"
+}
