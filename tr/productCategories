@@ -1,4 +1,4 @@
 [
 	{ "name": "Yönlendiriciler", "imageUrl":"https://placehold.co/600x400/000000/blue", "desc": "Bla bla Yönlendirici", "slug": "yonlendiriciler"},
-	{ "name": "Antennas", "imageUrl":"https://placehold.co/600x400/000000/pink", "desc": "Bla bla Anten", "slug": "antenler"}
+	{ "name": "Antenler", "imageUrl":"https://placehold.co/600x400/000000/pink", "desc": "Bla bla Anten", "slug": "antenler"}
 	]
