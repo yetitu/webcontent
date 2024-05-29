@@ -1,0 +1,10 @@
+{
+	"name": "Access Point",
+	"brand": "NetModule",
+	"series": "AP3400",
+	"description": "For fast, stable and reliable WLAN connections on trains and trams, choose NetModule's AP3400 access point, which supports the WiFi-6 standard. Provide uninterrupted LTE and 5G connectivity throughout the train for your passengers and staff.",
+	"heroText": "Boost your WiFi",
+	"image": "ap3400_front.jpg",
+	"group": "accesspoint",
+	"usage": "Railway Vehicles"
+}
