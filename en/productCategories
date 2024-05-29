@@ -1,1 +1,4 @@
-
+[
+	{ "name": "Routers", "imageUrl":"https://placehold.co/600x400/000000/blue", "desc": "Bla bla Router", "slug": "routers"},
+	{ "name": "Antennas", "imageUrl":"https://placehold.co/600x400/000000/pink", "desc": "Bla bla Antenna", "slug": "antennas"}
+]
