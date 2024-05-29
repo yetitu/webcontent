@@ -1,4 +1,37 @@
 [
-	{ "name": "Routers", "imageUrl":"https://placehold.co/600x400/000000/blue", "desc": "Bla bla Router", "slug": "routers"},
-	{ "name": "Antennas", "imageUrl":"https://placehold.co/600x400/000000/pink", "desc": "Bla bla Antenna", "slug": "antennas"}
+	{
+		"name": "Routers",
+		"imageUrl": "https://placehold.co/600x400/000000/blue",
+		"desc": "Bla bla Router",
+		"slug": "routers",
+		"url": "/router"
+	},
+	{
+		"name": "Antennas",
+		"imageUrl": "https://placehold.co/600x400/000000/pink",
+		"desc": "Bla bla Antenna",
+		"slug": "antennas",
+		"url": "/antenna"
+	},
+	{
+		"name": "Access Point",
+		"imageUrl": "https://placehold.co/600x400/000000/green",
+		"desc": "Bla bla Access Point",
+		"slug": "accesspoint",
+		"url": "/ap"
+	},
+	{
+		"name": "Switch",
+		"imageUrl": "https://placehold.co/600x400/000000/yellow",
+		"desc": "Bla bla Switch",
+		"slug": "switch",
+		"url": "/switch"
+	},
+	{
+		"name": "Software",
+		"imageUrl": "https://placehold.co/600x400/000000/orange",
+		"desc": "Bla bla Software",
+		"slug": "software",
+		"url": "/software"
+	}
 ]
