@@ -1,10 +1,107 @@
 {
-	"name": "Erişim Noktası",
-	"brand": "NetModule",
-	"series": "AP3400",
-	"description": "Tren ve tramvaylarda, hızlı, sağlam ve güvenilir WLAN bağlantıları için WiFi-6 standardını destekleyen NetModule'ün AP3400 erişim noktasını tercih edin. Yolcularınız ve personeliniz için tren boyunca kesintisiz LTE ve 5G bağlantısı sağlayın.",
-	"heroText": "WiFi'nizi güçlendirin",
-	"image": "ap3400_front.jpg",
-	"group": "accesspoint",
-	"usage": "railway"
+  "name": "AP3400 Serisi",
+  "brand": "NetModule",
+  "series": "AP3400",
+  "description": "Tren ve tramvaylarda, hızlı, sağlam ve güvenilir WLAN bağlantıları için WiFi-6 standardını destekleyen NetModule'ün AP3400 erişim noktasını tercih edin. Yolcularınız ve personeliniz için tren boyunca kesintisiz LTE ve 5G bağlantısı sağlayın.",
+  "heroText": "WiFi'nizi güçlendirin",
+  "image": "ap3400_front_small.png",
+  "group": "accesspoint",
+  "usage": "railway",
+  "overview": [
+    {
+      "id": 1,
+      "text": "AP3400, demiryolu araçlarında, farklı SSID'lere sahip yolcular ve tren çalışanları için farklı WLAN'lar oluşturmak için kullanılır. Vagona en az bir adet PoE+ destekli ağ anahtarı (ES3300 gibi) ve en az iki adet AP3400 kurulursa tüm vagonda çok etkili bir WiFi kapsama alanı oluşturulur."
+    },
+    {
+      "id": 2,
+      "text": "AP3400, demiryolu araçlarında kullanılmak üzere tasarlanmış güçlü ve sağlam bir Erişim Noktasıdır. Yüksek titreşimlere ve aşırı sıcaklıklara (-40C° ila +70°C) dayanması açısından EN50155 ve EN45545 demiryolu düzenlemelerine uygundur."
+    },
+    {
+      "id": 3,
+      "text": "AP3400, 200'e kadar istemciyi hizmet verebilen WiFi-6 destekli ile iki adet radyo ile donatılmıştır. İki radyo modülü, aynı anda hem 2,4GHz hem de 5GHz bantlarında çalışmasına olanak tanır. Ayrıca iki adet 2,5 Gigabit Ethernet bağlantı noktasına sahiptir. AP3400'e, M12 konnektörlü bağlantı noktasından PoE+ (Ethernet üzerinden güç) güç verilebilir."
+    },
+    {
+      "id": 4,
+      "text": "AP3400, trende bulunan bir NetModule yönlendiricideki NetModule Yönlendirici Yazılımı (NRSW) yardımıyla yapılabilir. NetModule yönlendirici aslında AP3400 için bir sağlama denetleyicisi görevi de görür. NetModule Yönlendirici Yazılımı kapsamlı bir ağ özellikleri seti ile birlikte gelir. AP3400, Connectivity Suit isimli uzaktan yönetim sistemi ile, REST API arayüzü veya cihazın kendi web arayüzü aracılığıyla da yapılandırılabilir."
+    }
+  ],
+  "keyFeatures": [
+    {
+      "id": 1,
+      "title": "WiFi-6",
+      "text": "AP3400'deki en yeni WiFi 6 teknolojisi sayesinde, WiFi 5'e kıyasla daha yüksek yükleme hızları, birden fazla cihazın eş zamanlı kullanımı ve gelişmiş veri çıkışı ve bant genişliği verimliliğiyle tüm yolculara daha iyi bir Wi-Fi deneyimi sunabilirsiniz. WiFi 6'nın bir parçası olduğundan iletilen veriler başkalarının meraklı gözlerinden korunur."
+    },
+    {
+      "id": 2,
+      "title": "Dual Radyo",
+      "text": "Çift radyo modülleri, 200'e kadar istemci için 2,4 GHz ve 5 GHz bantlarında eşzamanlı çalışmayı mümkün kılar. Aynı 2x2 MU-MIMO anten bağlantısında 2,4 GHz ve 5 GHz frekansları için yalnızca tek bir anten gerektirerek ek kablolama ve maliyetlerden tasarruf edilir."
+    },
+    {
+      "id": 3,
+      "title": "Az yer kaplar",
+      "text": "Yolcu sayısı arttıkça trenin uzunluğu da artıyor. Optimum yolcu akışını sağlamak için örneğin trenlerdeki biniş alanı geniş olarak tasarlanmıştır; bu da teknik bileşenler için giderek daha az alanın kalmasına neden olur. Düz ve kompakt tasarımı sayesinde AP3400 kolayca ve yerden tasarruf sağlayacak şekilde kurulabilir."
+    },
+    {
+      "id": 4,
+      "title": "Bütünleşik",
+      "text": "AP3400, halka topolojisine sahip yedek bir Gigabit IP omurgası oluşturmak için tercihen NB3800 serisi bir yönlendirici ve ES3300 ağ anahtarıyla birlikte kullanılır. Ayrıca AP3400'ün güç kaynağı, Power over Ethernet, PoE+ (IEEE 802.3 at) özellikli ES3300 ağ anahtarıyla yönetilebilir. Bu, veri ve gücün aynı Ethernet kablosu üzerinden iletilmesi nedeniyle kablolama masrafından %50'ye kadar tasarruf sağlayabilir."
+    },
+    {
+      "id": 5,
+      "title": "Kolay devreye alım",
+      "text": "NB3800 serisi yönlendirici ile birlikte AP3400, REST API sayesinde yönlendiriciden yapılandırılabilir. Ağ anahtarı ve erişim noktası da dahil olmak üzere tüm cihazların hızlı ve kolay devreye alınması (Otomatik Keşif), NetModule Router Yazılımı, Connectivity Suite veya AP3400 üzerindeki grafik kullanıcı arayüzü aracılığıyla yapılabilir.  Connectivity Suite, birden fazla cihazın birçok araçta kolayca kullanıma sunulmasına (dağıtım ve yönetim) olanak tanır. Tüm sistem bileşenlerinin bu kablosuz konfigürasyonu (OTA, Over-the-air) zamandan ve paradan tasarruf sağlar ve yolcu WiFi ve yolcu bilgi-eğlence sistemleri için mükemmel hepsi bir arada çözüm sağlar."
+    }
+  ],
+  "techSpecs": [
+    {
+      "id": 1,
+      "feature": "WLAN",
+      "description": "IEEE 802.11a/b/g/n/ac/ax (Wi-Fi 6), Dual Radio concurrent 2.4/5GHz, 2x2 MU-MIMO, 573Mbps (2.4GHz) / 1201 Mbps (5GHz), 2x QLS-f konnektör, Erişim Noktası veya İstemci (radyo başına en fazla 100 istemci)"
+    },
+    {
+      "id": 2,
+      "feature": "Ethernet",
+      "description": "2x 2.5 Gigabit Ethernet, 2500Base-T Auto MDIX, 10/100/1000/2500 Mbps, 2x  M12 socket, X-coded konnektör"
+    },
+    {
+      "id": 3,
+      "feature": "Güç",
+      "description": "PoE+ (IEEE 802.3 at), En fazla 15 W güç tüketimi, 1x M12 socket, X-coded konnektör"
+    },
+    {
+      "id": 4,
+      "feature": "Sıcaklık",
+      "description": "-40° C ile +70°C arasında çalışır"
+    },
+    {
+      "id": 5,
+      "feature": "Yönetim",
+      "description": "NetModule Connectivity Suite, NB3800 yönlendiricinin «Access Controller WLAN-AP» servisi, REST API, Web-UI"
+    },
+    {
+      "id": 6,
+      "feature": "Yazılım",
+      "description": "Multi-SSID, Encryption seçenekleri; Open WPA1/2/3-Personal, WPA 1/2/3-Enterprise, Hide SSID, Isolate Clients, RADIUS Authentication, Fixed fallback IP, VLAN, Static Routes, Port Forwarding, VPN(WireGuard), DHCP Server/Client, NTP Client, Device Discovery, Automatic Firmware Update"
+    },
+    {
+      "id": 7,
+      "feature": "Arayüzü",
+      "description": "REST API, HTTP/HTTPS, SNMP 2/3 and SNMP-Traps, Command Line Interface (SSH and Telnet)"
+    },
+    {
+      "id": 8,
+      "feature": "İzleme",
+      "description": "Device Discovery, Site Survey, Ping, Traceroute, Log View, Speed test"
+    },
+    {
+      "id": 9,
+      "feature": "Uygunluk",
+      "description": "CE (RED), EN 50155, EN 45545-2, E1 UN ECE R10, R118"
+    },
+    {
+      "id": 10,
+      "feature": "Diğer",
+      "description": "Raf montaj, 200 x 40 x 133,5 mm, 700 g, IP 40, MTBF 373.000 saat/43.6yıl"
+    }
+  ]
 }
