@@ -23,7 +23,7 @@
 	{
 		"name": "Anahtar",
 		"imageUrl": "https://placehold.co/600x400/000000/yellow",
-		"desc": "Tren ve tramvaylarda; Araç içi kablosuz ağ erişim noktalarını ve güvenlik kameralarını Ethernet bağlantı noktalarıyla yerleşik Gigabit yerel ağ omurgasına kolayca bağlayın.",
+		"desc": "Araç içi kablosuz ağ erişim noktalarını, PIS ve güvenlik kameralarını M12 Ethernet bağlantı noktalarıyla Gigabit yerel ağ omurgasına kolayca bağlayın. ITxPT uyumlu ve birlikte çalışabilirlik onaylı, internet özellikli bir IP omurgası oluşturun.",
 		"slug": "anahtar",
 		"url": "/switch"
 	},
