@@ -2,21 +2,21 @@
 	{
 		"name": "Connectivity Suite",
 		"imageUrl": "https://placehold.co/600x400/000000/blue",
-		"desc": "Bla bla Connectivity Suite in TÜRKÇE",
+		"desc": "NetModule NB- serisi yönlendiricileri ile oluşturulan, işletmenize özel ağınızı uzaktan izleyin, yönetin ve bakımını yapın. Ağınızı izleyin, yönetin, bakımını yapın",
 		"slug": "connectivity-suite",
 		"url": "/cs"
 	},
 	{
 		"name": "NRSW",
 		"imageUrl": "https://placehold.co/600x400/000000/pink",
-		"desc": "Bla bla NRSW in TÜRKÇE",
+		"desc": "NRSW Linux tabanlı yönlendirici yazılımı, çok çeşitli ağ işlevleri ve akıllı bağlantı yönetimi (sabit ve mobil) ile güvenilir veri bağlantıları sağlar. Ürünün yaşam döngüsü boyunca güvenli çalışmaya yönelik yapılandırma ve güncelleme paketleri ücretsiz sunulur.",
 		"slug": "nrsw",
 		"url": "/nrsw"
 	},
 	{
 		"name": "OEM",
 		"imageUrl": "https://placehold.co/600x400/000000/green",
-		"desc": "Bla bla OEM Linux in TÜRKÇE",
+		"desc": "NetModule Linux dağıtımı, araçlar ve hizmetlere yönelik tarifler ve konfigürasyonlardan oluşan bir koleksiyondur ve NetModule ürün platformları için temel yazılım işlevlerini sağlar. NetModule donanımıyla birlikte OEM Linux İşletim Sistemi, kendi ürününüzü yaratmanın etkili bir yoludur.",
 		"slug": "oem-linux",
 		"url": "/oem"
 	}
