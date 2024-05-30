@@ -1,0 +1,74 @@
+{
+  "title": "ES3300 Serisi",
+  "brand": "NetModule",
+  "series": "ES3300",
+  "description": "Tren ve tramvaylarda; Araç içindeki, Ethernet bağlantı noktasına sahip, kablosuz ağ erişim noktalarını ve güvenlik kameralarını, araçtaki Gigabit yerel ağ omurgasına kolayca bağlayın.",
+  "heroText": "Yönetilebilir Ağ Anahtarı - ES3300",
+  "image": "es3300.png",
+  "group": "switch",
+  "usage": "railway",
+  "overview": [
+    {
+      "id": 1,
+      "text": "Araç içindeki, PoE+ ile çalışan, kablosuz ağ erişim noktalarını ve güvenlik kameralarını, araçtaki Gigabit yerel ağ omurgasına kolayca bağlayın."
+    },
+    {
+      "id": 2,
+      "text": "ITxPT uyumlu, M12 konnektörü olan, Gigabit bağlantı noktalı, yönetilebilen ES3300 ağ anahtarı, araç içinde internet erişimli, halka topolojisine sahip, yedekli bir IP omurgası oluşturmak için idealdir. NB2810 veya NB3800 yönlendiriciler ile mükemmel uyumlu çalışır."
+    },
+    {
+      "id": 3,
+      "text": "ES3300’de ikisi Gigabit ve sekizi Fast Ethernet bağlantı noktası olmak üzere toplam on adet Ethernet bağlantı noktası bulunur. Entegre PoE güç kaynağına sahip modelinde, 8 adet Fast Ethernet bağlantı noktasında 62W'a kadar güç sağlar."
+    },
+    {
+      "id": 4,
+      "text": "Katman 2 anahtarı, ağ bölümlendirmesini ve yedekli halka topolojisi ağlarını gerçekleştirmek için yönetim işlevine sahiptir. Otomatik IP adresi yapılandırması için de kullanılabilir. Bir USB flash sürücü yardımıyla kolayca yapılandırılabilir."
+    },
+    {
+      "id": 5,
+      "text": "Metal bir muhafaza içinde tasarlanan ES3300, IP54 koruma sınıfına ulaşır ve oldukça dayanıklıdır. Ayrıca M12 konnektörler güvenli bir bağlantı sağlar ve yüksek titreşime ve mekanik darbelere dayanabilir."
+    }
+  ],
+  "techSpecs": [
+    {
+      "id": 1,
+      "feature": "Ethernet",
+      "description": "2x Gigabit Ethernet M12 X-coded female, 8x Fast Ethernet M12 D-coded female, PoE+ Seçeneğinde PoE+'lı 8x Fast Ethernet M12 D-coded female, bağlantı noktası başına en fazla 30W güç, toplamda ise en fazla 60W güç sağlanır."
+    },
+    {
+      "id": 2,
+      "feature": "USB",
+      "description": "USB flash sürücü yardımıyla yapılandırma için 1x USB (M12 A-coded female)"
+    },
+    {
+      "id": 3,
+      "feature": "Güç",
+      "description": "1x M12 A-coded female, PoE+ seçeneği yok ise 12-48VDC (-%12/+%20) 5W, PoE+ seçeneği var ise  24-48VDC (-%33/+%8) 70W"
+    },
+    {
+      "id": 4,
+      "feature": "Çevresel Koşullar",
+      "description": "-40° C ile +70°C arasında çalışır, IP54 koruma seviyesine sahiptir. 10 % ile 90 % yoğuşmasız bağıl nem toleransına sahiptir."
+    },
+    {
+      "id": 5,
+      "feature": "Layer 2 Anahtar",
+      "description": "Yönetilebilir Layer-2 anahtardır. Web arayüzü veya USB ile yönetim, Jumbo çerçeve değiştirme, VLAN 802.1Q, VLAN grupları, bağlantı noktası yansıtma, IGMP gözetleme, STP, MSTP, RSTP, DHCP Server, SNMP v1/v2/v3, 1:1 NAT, PAT, ITxPT servisleri (modül envanteri)"
+    },
+    {
+      "id": 6,
+      "feature": "Uygunluk",
+      "description": "CE (RED), EN 50155, EN 45545-2, E1 UN ECE R10, R118, ITxPT"
+    },
+    {
+      "id": 7,
+      "feature": "Diğer",
+      "description": "Raf montaj, 175 x 52 x 121 mm, 750 g (PoE+ var), 550 g (PoE+ yok)"
+    },
+    {
+      "id": 8,
+      "feature": "Sipariş Kodları",
+      "description": "PoE+'siz ES3300-2Eg8Ef, PoE+'li ES3300-2Eg8Eq"
+    }
+  ]
+}
