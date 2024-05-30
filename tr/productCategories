@@ -23,7 +23,7 @@
 	{
 		"name": "Anahtar",
 		"imageUrl": "https://placehold.co/600x400/000000/yellow",
-		"desc": "Bla bla Anahtar",
+		"desc": "Araçtaki erişim noktalarını, kameraları aracın Gigabit omurgasına bağlayın. ES3300, yönetilebilen M12 konektörlü Gigabit anahtar, internet özellikli bir IP omurgası oluşturmak için NB2810 veya NB3800 serisi yönlendiricilere mükemmel çalışır. ITxPT uyumludur.",
 		"slug": "anahtar",
 		"url": "/switch"
 	},
