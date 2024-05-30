@@ -9,7 +9,7 @@
 	{
 		"name": "NRSW",
 		"imageUrl": "https://placehold.co/600x400/000000/pink",
-		"desc": "Our Linux-based router software ensures reliable data connections with a wide range of network functions and smart link management – stationary and mobile. Configuration and update options for secure operation throughout the product life cycle and over-the-air complete the package. As a special service, we offer you free updates and support.",
+		"desc": "Our Linux-based router software ensures reliable data connections with a wide range of network functions and smart link management. Configuration and update options for secure operation throughout the product life cycle and over-the-air complete the package. As a special service, we offer you free updates and support.",
 		"slug": "nrsw",
 		"url": "/nrsw"
 	},
