@@ -1,0 +1,24 @@
+[
+	{
+		"name": "Connectivity Suite",
+		"imageUrl": "https://placehold.co/600x400/000000/blue",
+		"desc": "Bla bla Connectivity Suite in ENGLISH",
+		"slug": "connectivity-suite",
+		"url": "/cs"
+	},
+	{
+		"name": "NRSW",
+		"imageUrl": "https://placehold.co/600x400/000000/pink",
+		"desc": "Bla bla NRSW in ENGLISH",
+		"slug": "nrsw",
+		"url": "/nrsw"
+	},
+	{
+		"name": "OEM",
+		"imageUrl": "https://placehold.co/600x400/000000/green",
+		"desc": "Bla bla OEM Linux in ENGLISH",
+		"slug": "oem-linux",
+		"url": "/oem"
+	}
+
+]
