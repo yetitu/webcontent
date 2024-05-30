@@ -23,7 +23,7 @@
 	{
 		"name": "Switch",
 		"imageUrl": "https://placehold.co/600x400/000000/yellow",
-		"desc": "Bla bla Switch",
+		"desc": "In trains and trams; Easily connect in-car wireless network access points and security cameras with Ethernet ports to the on-board Gigabit local network backbone.",
 		"slug": "switch",
 		"url": "/switch"
 	},
