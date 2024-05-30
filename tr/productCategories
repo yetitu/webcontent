@@ -30,7 +30,7 @@
 	{
 		"name": "Yazılım",
 		"imageUrl": "https://placehold.co/600x400/000000/orange",
-		"desc": "Yazılım portföyümüz, terminal cihazından şirket ağına kadar, her noktada, tutarlı ve güvenli iletişimi temsil eder. Tüm cihazlarımız standartlaştırılmış bir işletim ve konfigürasyon konseptine uygun geliştirilir.",
+		"desc": "Terminal cihazından şirket ağına kadar, her noktada, tutarlı ve güvenli iletişimi sağlayan, tüm cihazlarda standart bir işletim ve yapılandırma konseptine uygun geliştirilen yazılım ürünlerine göz atın.",
 		"slug": "yazilim",
 		"url": "/software"
 	}
