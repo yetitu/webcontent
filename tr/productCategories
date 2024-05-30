@@ -30,7 +30,7 @@
 	{
 		"name": "Yazılım",
 		"imageUrl": "https://placehold.co/600x400/000000/orange",
-		"desc": "Bla bla Yazılım",
+		"desc": "Yazılım portföyümüz, terminal cihazından şirket ağına kadar tutarlı ve güvenli iletişimi temsil eder. Tüm cihazlarımız standartlaştırılmış bir işletim ve konfigürasyon konseptini takip etmektedir. Sonuç olarak ürünlerimiz geniş bir uygulama yelpazesinde verimli bir şekilde ağ oluşturulabilir ve bakımı yapılabilir.",
 		"slug": "yazilim",
 		"url": "/software"
 	}
