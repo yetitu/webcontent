@@ -9,7 +9,7 @@
 	{
 		"name": "Antennas",
 		"imageUrl": "https://placehold.co/600x400/000000/pink",
-		"desc": "Bla bla Antenna",
+		"desc": "For fast, stable and reliable WLAN connections on trains and trams, choose NetModule's AP3400 access point, which supports the WiFi-6 standard. Provide uninterrupted LTE and 5G connectivity throughout the train for your passengers and staff.",
 		"slug": "antennas",
 		"url": "/antenna"
 	},
