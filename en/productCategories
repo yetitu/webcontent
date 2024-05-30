@@ -30,7 +30,7 @@
 	{
 		"name": "Software",
 		"imageUrl": "https://placehold.co/600x400/000000/orange",
-		"desc": "Our software portfolio stands for consistent and secure communication – from the terminal device to the company network. All our devices follow a standardized operating and configuration concept. As a result, our products can be efficiently networked and maintained in a wide range of applications.",
+		"desc": "Take a look at the software products developed in accordance with a standard operating and configuration concept on all devices, ensuring consistent and secure communication at every point, from the terminal device to the company network.",
 		"slug": "software",
 		"url": "/software"
 	}
