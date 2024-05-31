@@ -2,14 +2,14 @@
 	{
 		"name": "Routers",
 		"imageUrl": "https://placehold.co/600x400/000000/blue",
-		"desc": "Bla bla Router",
+		"desc": ""Discover NetModule mobile network routers! Using modular and industry-standard solutions tailored to your project's needs, connect your assets seamlessly, securely, and quickly through wired or wireless networks. Choose NetModule for secure and uninterrupted connectivity!",
 		"slug": "routers",
 		"url": "/router"
 	},
 	{
 		"name": "Antennas",
 		"imageUrl": "https://placehold.co/600x400/000000/pink",
-		"desc": "Bla bla Antenna",
+		"desc": "Explore the antennas that you can use with NetModule mobile network routers, which can create an effective wireless network in all kinds of applications, whether in an industrial environment such as a factory or in a vehicle such as train. Make effective use of wireless networks with our antennas.",
 		"slug": "antennas",
 		"url": "/antenna"
 	},

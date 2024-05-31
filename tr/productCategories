@@ -2,28 +2,28 @@
 	{
 		"name": "Yönlendiriciler",
 		"imageUrl": "https://placehold.co/600x400/000000/blue",
-		"desc": "Bla bla Yönlendirici",
+		"desc": "NetModule mobil ağ yönlendiricileriyle tanışın! Projenizin ihtiyaçlarına uygun, modüler ve endüstri standartlarına uygun çözümler kullanarak varlıklarınızı kablolu veya kablosuz ağlarla kesintisiz, güvenli ve hızlı bir şekilde bağlayın. Güvenli ve kesintisiz bağlantı için NetModule'u seçin!",
 		"slug": "yonlendiriciler",
 		"url": "/router"
 	},
 	{
 		"name": "Antenler",
 		"imageUrl": "https://placehold.co/600x400/000000/pink",
-		"desc": "Bla bla Antenler",
+		"desc": "İster fabrika gibi endüstriyel bir ortamda, ister tren gibi bir araçta, her türlü uygulamada etkili bir kablosuz ağ oluşturabilen NetModule mobil ağ yönlendiricileri ile kullanabileceğiniz antenleri keşfedin. Antenlerimizle kablosuz ağlardan etkili şekilde yararlanın.",
 		"slug": "antenler",
 		"url": "/antenna"
 	},
 	{
 		"name": "Erişim Noktası",
 		"imageUrl": "https://placehold.co/600x400/000000/green",
-		"desc": "Bla bla Erişim Noktası",
+		"desc": "Tren ve tramvaylarda WLAN için WiFi-6'yı destekleyen NetModule AP3400 erişim noktasını seçin. Yolcularınız ve personeliniz için tren boyunca kesintisiz LTE ve 5G bağlantısı sağlayın.",
 		"slug": "erisim-noktasi",
 		"url": "/ap"
 	},
 	{
 		"name": "Anahtar",
 		"imageUrl": "https://placehold.co/600x400/000000/yellow",
-		"desc": "Araç içi kablosuz ağ erişim noktalarını, PIS ve güvenlik kameralarını M12 Ethernet bağlantı noktalarıyla Gigabit yerel ağ omurgasına kolayca bağlayın. ITxPT uyumlu ve birlikte çalışabilirlik onaylı, internet özellikli bir IP omurgası oluşturun.",
+		"desc": "Araç içi kablosuz ağ erişim noktalarını, yolcu bilgilendirme ekranlarını (PIS) ve güvenlik kameralarını M12 Ethernet bağlantı noktalarıyla, Gigabit yerel ağ omurgasına kolayca bağlayın. ITxPT uyumlu ve birlikte çalışabilirlik onaylı, internet özellikli bir IP omurgası oluşturun.",
 		"slug": "anahtar",
 		"url": "/switch"
 	},
