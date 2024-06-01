@@ -2,7 +2,9 @@
   "title": "About Us",
   "description": "Telista offers solutions that support the most advanced technologies in the fields of voice, video and data communications. It has a strong reputation for the quality of its technical support services.",
   "image": "kolaj.jpg",
-  "Experience": "Since our founding in 2004 as Telista Information and Communication Technologies Industry and Trade Inc., we've successfully completed numerous projects for major businesses in Turkey. Our solutions reflect the high standards of leading global network technology manufacturers, ensuring top-notch quality and success every step of the way.",
-  "Expertise": "We offer essential hardware and software components, guaranteeing seamless, secure, and lightning-fast voice and data communication. Experience rapid data flow between your machinery and business applications, whether in your facilities or fleet vehicles, leveraging the power of 5G or 4G networks.",
-  "Choose Telista": "Empower your business with future-ready solutions that meet today's demands and anticipate tomorrow's challenges. Access top-tier products from renowned global suppliers, all from one trusted source. Partner with our seasoned and dedicated team of experts to harness the full potential of cutting-edge technology. Elevate your strategy with a dependable advisor by your side."
+  "paragraphs": [
+    "Since our founding in 2004 as Telista Information and Communication Technologies Industry and Trade Inc., we've successfully completed numerous projects for major businesses in Turkey. Our solutions reflect the high standards of leading global network technology manufacturers, ensuring top-notch quality and success every step of the way.",
+    "We offer essential hardware and software components, guaranteeing seamless, secure, and lightning-fast voice and data communication. Experience rapid data flow between your machinery and business applications, whether in your facilities or fleet vehicles, leveraging the power of 5G or 4G networks.",
+    "Empower your business with future-ready solutions that meet today's demands and anticipate tomorrow's challenges. Access top-tier products from renowned global suppliers, all from one trusted source. Partner with our seasoned and dedicated team of experts to harness the full potential of cutting-edge technology. Elevate your strategy with a dependable advisor by your side."
+  ]
 }
