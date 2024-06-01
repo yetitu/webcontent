@@ -1,0 +1,151 @@
+{
+  "title": "NRSW",
+  "brand": "NetModule",
+  "series": "NRSW",
+  "description": "NRSW Linux tabanlı yönlendirici yazılımı, çok çeşitli ağ işlevleri ve akıllı bağlantı yönetimi (sabit ve mobil) ile güvenilir veri bağlantıları sağlar. Ürünün yaşam döngüsü boyunca güvenli çalışmaya yönelik yapılandırma ve güncelleme paketleri ücretsiz sunulur.",
+  "heroText": "Standart Yönlendirici Yazılımı",
+  "image": "nrsw_gray_bg.png",
+  "groupImage": "nrsw_gray_bg.png",
+  "group": "software",
+  "overview": [
+    {
+      "id": 1,
+      "text": "NetModule yönlendirici yazılımı (NRSW) standart yazılımımızdır ve tüm cihazlarımızda çalışır. Bu, her yönlendirici için aynı yapılandırma süreçlerini ve işlevlerini kullanabilme avantajına sahiptir (teknik kısıtlamalar aksini gerektirmedikçe). Gömülü Linux gibi kanıtlanmış bileşenlere ve güçlü bir iletişim protokolü paketine dayanmaktadır."
+    },
+    {
+      "id": 2,
+      "text": "Yönlendirme seçenekleri arasında statik yollar, çoklu yol, OSPF, BGP ve daha fazlası bulunur. Mobil IP, kalıcı bir IP adresini korurken bir ağdan diğerine geçişe izin verir. Hizmet Kalitesi (QoS) ve çeşitli güvenlik duvarı seçenekleri de mevcuttur. Uzak konumlara güvenli bağlantılar için NRSW, OpenVPN veya IPSec gibi VPN protokolleri sunar."
+    },
+    {
+      "id": 3,
+      "text": "Önemli bir özellik, yönlendirici için kendi komut dosyalarınızı ve işlevlerinizi yazmanıza olanak tanıyan Yazılım Geliştirme Kitidir (SDK). Sistem durumu parametrelerini almak, e-posta veya SMS göndermek veya yönlendirici yapılandırma görevlerini gerçekleştirmek için donanım arayüzlerine erişim için kapsamlı işlevler içerir."
+    },
+    {
+      "id": 4,
+      "text": "NRSW ayrıca ek uygulamaların entegre edilmesi durumunda Linux Konteynerlerini (LXC) de destekler. Kapsayıcılar, çekirdek kaynaklarını sanallaştırarak ve birbirlerinden koruyarak süreçlerin ve süreç gruplarının yalıtılmasına olanak tanır. LXC ile tek uygulamaları veya tüm Linux dağıtımlarını bir kapta başlatabilirsiniz. Konteynerler, her iki uygulamanın da güvenli bir şekilde yürütülmesi için kullanıcı ve yönlendirici uygulamalarını özellikle verimli bir şekilde ayırır."
+    },
+    {
+      "id": 5,
+      "text": "NRSW, bir Web GUI'si veya bir komut satırı arayüzü (CLI) aracılığıyla yapılandırılabilir. Yapılandırma dosyaları otomatik çalıştırılan USB yoluyla da sağlanabilir."
+    }
+  ],
+  "techSpecs": [
+    {
+      "id": 1,
+      "feature": "Genel",
+      "description": "USB, HTTP(S), (S)FTP, TFTP aracılığıyla Arızaya Karşı Güvenli Güncelleme (FOTA), Uzak CLI ve WebGUI, RADIUS kimlik doğrulaması, Basit Sertifika Kayıt Protokolü (SCEP), Donanım ve yazılım gözlemcisi"
+    },
+    {
+      "id": 2,
+      "feature": "Uzaktan Yönetim",
+      "description": "SNMP V1/V2/V3, Netmodule Vendor-MIB, Telnet, SSH veya HTTP/HTTPS ile cihazların yönetimi ve izlenmesi"
+    },
+    {
+      "id": 3,
+      "feature": "Bağlantı Yönetimi",
+      "description": "Bağlantı önceliklendirme ve toplama, Yük dengeleme, Çok Yollu TCP, IP Geçişi, Bağlantı denetimi"
+    },
+    {
+      "id": 4,
+      "feature": "Mobil Ağ",
+      "description": "Çoklu SIM, yazılım SIM, Çoklu APN, Sinyal gücü denetimi, CSFB/VoLTE Aramaları (isteğe bağlı lisansla)"
+    },
+    {
+      "id": 5,
+      "feature": "WLAN-İstemci",
+      "description": "Çoklu İstemci SSID Profili, Şifreleme (Açık, WEP, WPA1/2/3-Kişisel, WPA1/2/3-Kurumsal), Hızlı Dolaşım (Hızlı BSS Geçişi - 802.11r), Ön Kimlik Doğrulama Korumalı Yönetim Çerçeveleri (802.11w)"
+    },
+    {
+      "id": 6,
+      "feature": "WLAN-Erişim Noktası",
+      "description": "Çoklu SSID'ler (8'e kadar), WPA1/2/3-Kişisel, WPA1/2/3-Kurumsal şifreleme, Hızlı BSS Geçişi (802.11r), Ön Kimlik Doğrulama, DFS desteği, Korumalı Yönetim Çerçeveleri (802.11w), Müşteri Takibi, Bant Streering, SSID yayınını gizleme, İstemcileri Yalıtımı, Accounting, Kısa koruma aralığı"
+    },
+    {
+      "id": 7,
+      "feature": "WLAN-Mesh",
+      "description": "SAE şifreleme, Ağ geçidi duyuruları"
+    },
+    {
+      "id": 8,
+      "feature": "USB",
+      "description": "Veri depolama, seriden IP sunucusuna Ethernet, RS232/RS485 arayüzleri için adaptör olarak, Otomatik Çalıştırma Hazırlama Yapılandırması veya yazılım güncellemesi için kullanılır."
+    },
+    {
+      "id": 9,
+      "feature": "IP/Yönlendirme",
+      "description": "Yönlendirme (Hedef, Politika, Çoklu Yol), Mobil IP, OSPF, BGP, Çok Noktaya Yayın, TCP MSS Sıkıştırma, Köprüleme, Keşif protokolleri LLDP, CDP, SONMP, EDP, FDP, IRDP, STP, RSTP, VRRP, VLAN, PPPoE, VXLAN"
+    },
+    {
+      "id": 10,
+      "feature": "VPN",
+      "description": "OpenVPN, IPsec (IKEv1 ve IKEv2), PPTP, GRE, L2TP, CSD Dial-In, Sertifika iptal hizmeti"
+    },
+    {
+      "id": 11,
+      "feature": "QoS",
+      "description": "Diffserv, SFQ, HTB, Öncelik tabanlı kuyruk, Netflow (Softflow)"
+    },
+    {
+      "id": 12,
+      "feature": "Güvenlik Duvarı",
+      "description": "Durum bilgisi, bağlantı izleme, NAT, NAPT, maskeleme, köprü filtreleme"
+    },
+    {
+      "id": 13,
+      "feature": "Şifreleme",
+      "description": "Parola korumalı PKCS12 dosyalarını destekleme, entegre rastgele sertifika anahtar oluşturucu, \"Hadi şifreleyelim\" sertifikası, ECC (Eliptik Şifrelemeli Sertifikalar)"
+    },
+    {
+      "id": 14,
+      "feature": "Servisler",
+      "description": "DHCP Client/Server, DNS Caching Server, Email, SMS Service, NTP Client/Server, SNTP Server, DynDNS, SSH Server, SNMP Agent, HTTP/HTTPS/FTP Server, IPv6 for WAN, 802.1x over Ethernet, MQTT Broker, Voice Gateway (SIP, Call Routing, Audio with optional license), Coovachilli Hotspot"
+    },
+    {
+      "id": 15,
+      "feature": "Programlama",
+      "description": "SDK"
+    },
+    {
+      "id": 16,
+      "feature": "Problem Giderme",
+      "description": "Logging, Ping, Traceroute, Tcpdump, Speed-test"
+    }
+  ],
+  "optional": [
+    {
+      "id": 1,
+      "feature": "GNSS Lisansı",
+      "description": "JSON/NMEA veri akışı yoluyla veri sağlayan bağımsız GNSS sunucusu Destekli ve Ölü Hesaplama desteklenir (donanımda GNSS desteği varsa)."
+    },
+    {
+      "id": 2,
+      "feature": "OpenVPN ve DynDNS Sunucu Lisansı",
+      "description": "NetModule yönlendirici yazılımı, UDP veya TCP aracılığıyla şifreli bağlantılar kurmak için OpenVPN'i destekler. Standart versiyonda, bir NetModule yönlendiricisinde en fazla dört OpenVPN modeli yapılandırılabilir; bunlardan biri sunucu  olabilir. VPN istemci kapasitesi genişletilmek ve DynDNS sunucu özelliği istenirse; Ücretsiz olarak verilen 10 adet yerine 25 adet VPN istemcisi ve DynDNS sağlayan lisans satın alınabilir."
+    },
+    {
+      "id": 3,
+      "feature": "Ses Geçidi Lisansı",
+      "description": "NetModule yönlendiricileri, bir ses lisansı ile VoIP telefonu (IP üzerinden Ses) için bir ses ağ geçidi görevi de görebilir. Mobil ağ üzerinden yapılan aramalar, NetModule yönlendirici aracılığıyla VoIP istemcilerine bağlanabilir veya bunun tersi de geçerlidir. Donanıma bağlı olarak sesli iletişim için PTT (Push-to-Talk, Bas-Konuş) veya ses arayüzü de kullanılabilir."
+    },
+    {
+      "id": 4,
+      "feature": "LXC Konteyner Lisansı",
+      "description": "Sanallaştırma lisansı, müşteri uygulamalarının aynı donanım (uç bilgi işlem) üzerindeki yönlendirici uygulamasına paralel olarak kurulmasına ve çalıştırılmasına olanak tanır. Linux Konteynerleri (LXC) kullanılarak, birkaç izole Linux sistemi aynı ana bilgisayar üzerinde işletim sistemi düzeyinde çalıştırılabilir. LXC, ana sistemin çekirdeğini kullanarak kendi süreçleriyle sanal bir ortam oluşturur. Bu, her ikisinin de güvenli çalışmasını sağlayarak birbirlerinden çok etkili bir şekilde korunmalarına olanak tanır."
+    },
+    {
+      "id": 5,
+      "feature": "FMS2IP Geçidi Lisansı",
+      "description": "Yazılım yığını, CAN arayüzlerindeki J1939 paketlerini alır ve ağ düzeyindeki bir ağ geçidi işlevini kullanarak çevirir; bu paketler, yerel olarak veya arka uç sistemde diğer sistemlere de sunulabilir."
+    },
+    {
+      "id": 6,
+      "feature": "ITxPT Uyumluluk Etiketi",
+      "description": "Etiket, ürünün; Modül envanteri, Zaman, GNSS konumu (GNSS lisansı gerektirir), FMStoIP (FSM2IP lisansı gerektirir), VEHICLEtoIP (FSM2IP lisansı gerekli) hizmetleri için S01 v2.0.1 ve S02 v2.0.1 ITxPT spesifikasyonlarına uygunluğunu beyan eder."
+    },
+    {
+      "id": 7,
+      "feature": "Gelişmiş RF Yapılandırması",
+      "description": "Radyo frekansları, Anten amplifikasyonu (artan kazanç), Düzenleyici alan gibi WiFi ayarlarının eğitimli bir personel tarafından yapılandırılmasına olanak sağlar."
+    }
+  ]
+}

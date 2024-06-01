@@ -1,0 +1,151 @@
+{
+  "title": "NRSW",
+  "brand": "NetModule",
+  "series": "NRSW",
+  "description": "Our Linux-based router software ensures reliable data connections with a wide range of network functions and smart link management – stationary and mobile. Configuration and update options for secure operation throughout the product life cycle and over-the-air complete the package. As a special service, we offer you free updates and support.",
+  "heroText": "Standart Router Software",
+  "image": "nrsw_gray_bg.png",
+  "groupImage": "nrsw_gray_bg.png",
+  "group": "software",
+  "overview": [
+    {
+      "id": 1,
+      "text": "The NetModule router software (NRSW) is our standard software and runs on all our devices. This has the advantage of being able to use identical configuration processes and functions for every router (unless technical restrictions dictate otherwise). It is based on proven components such as Embedded Linux and a powerful communication protocol suite."
+    },
+    {
+      "id": 2,
+      "text": "Routing options include static routes, multipath, OSPF, BGP, and more. Mobile IP permits switching from one network to the next while retaining a permanent IP address. Quality of Service (QoS) and various firewall options are also available. For secure connections to remote locations, the NRSW offers VPN protocols such as OpenVPN or IPSec."
+    },
+    {
+      "id": 3,
+      "text": "An important feature is the Software Development Kit (SDK), which allows you to write your own scripts and functions for the router. It contains extensive functions for accessing hardware interfaces – to retrieve system status parameters, send email or SMS, or perform router configuration tasks."
+    },
+    {
+      "id": 4,
+      "text": "The NRSW also supports Linux Containers (LXC) in case additional applications are to be integrated. The containers allow processes and process groups to be isolated by virtualizing kernel resources and shielding them from each other. With LXC you can launch single applications or whole Linux distributions in a container. Containers separate user and router applications particularly efficiently for the secure execution of both applications."
+    },
+    {
+      "id": 5,
+      "text": "The NRSW can be configured via a Web GUI or a command-line interface (CLI). Configuration files can also be provided via auto-run USB."
+    }
+  ],
+  "techSpecs": [
+    {
+      "id": 1,
+      "feature": "General",
+      "description": "Fail-safe Update (FOTA) via USB, HTTP(S), (S)FTP, TFTP, Remote CLI & WebGUI, RADIUS authentication, Simple Certificate Enrollment Protocol (SCEP), Hardware and software watchdog"
+    },
+    {
+      "id": 2,
+      "feature": "Remote Management",
+      "description": "Management and monitoring of devices with SNMP V1/V2/V3, Netmodule Vendor-MIB, Telnet, SSH or HTTP/HTTPS"
+    },
+    {
+      "id": 3,
+      "feature": "Link Management",
+      "description": "Link prioritization and aggregation, Load Balancing, Multipath-TCP, IP-Passthrough, Link supervision"
+    },
+    {
+      "id": 4,
+      "feature": "Cellular Networking",
+      "description": "Multi-SIM, soft-SIM, Multi-APN, Signal strength supervision, CSFB/VoLTE Calls (with optional license)"
+    },
+    {
+      "id": 5,
+      "feature": "WLAN-Client",
+      "description": "Multiple Client SSID Profile, Encryption (Open, WEP, WPA1/2/3-Personal, WPA1/2/3-Enterprise), Fast Roaming (Fast BSS Transition (802.11r), PreAuthentication), Protected Management Frames (802.11w)"
+    },
+    {
+      "id": 6,
+      "feature": "WLAN-Access Point",
+      "description": "Multi-SSIDs (up to 8), Encryption (Open WPA1/2/3-Personal, WPA1/2/3-Enterprise), Fast Roaming (Fast BSS Transition, 802.11r), PreAuthentication, DFS support, Protected Management Frames (802.11w), Client Tracking, Band Steering, Hide SSID broadcasting, Isolate Clients, Accounting, Short guard Intervall"
+    },
+    {
+      "id": 7,
+      "feature": "WLAN-Mesh",
+      "description": "SAE encryption, Gateway annoucements"
+    },
+    {
+      "id": 8,
+      "feature": "USB",
+      "description": "USB sticks for mass storage, adapter for Ethernet or RS232/RS485 interfaces for serial-to-IP-server. Used for Autorun Provisioning Config, Software update"
+    },
+    {
+      "id": 9,
+      "feature": "IP/Routing",
+      "description": "Routing (Destination, Policy, Multipath), Mobile-IP, OSPF, BGP, Multicast, TCP MSS Clamping, Bridging, Discovery protocols LLDP, CDP, SONMP, EDP, FDP, IRDP, STP, RSTP, VRRP, VLAN, PPPoE, VXLAN"
+    },
+    {
+      "id": 10,
+      "feature": "VPN",
+      "description": "OpenVPN, IPsec (IKEv1 und IKEv2), PPTP, GRE, L2TP, CSD Dial-In, Certificate revocation service"
+    },
+    {
+      "id": 11,
+      "feature": "QoS",
+      "description": "Diffserv, SFQ, HTB, Priority-based Queuing, Netflow (Softflow)"
+    },
+    {
+      "id": 12,
+      "feature": "Firewall",
+      "description": "Stateful firewall, connection tracking, NAT, NAPT, masquerading, bridge filtering"
+    },
+    {
+      "id": 13,
+      "feature": "Encryption",
+      "description": "Supporting password protected PKCS12 files, integrated random certificate key generator, \"Let's encrypt\" certificate, ECC (Certificates with Elliptic Cryptography)"
+    },
+    {
+      "id": 14,
+      "feature": "Services",
+      "description": "DHCP Client/Server, DNS Caching Server, Email, SMS Service, NTP Client/Server, SNTP Server, DynDNS, SSH Server, SNMP Agent, HTTP/HTTPS/FTP Server, IPv6 for WAN, 802.1x over Ethernet, MQTT Broker, Voice Gateway (SIP, Call Routing, Audio with optional license), Coovachilli Hotspot"
+    },
+    {
+      "id": 15,
+      "feature": "Programmability",
+      "description": "SDK"
+    },
+    {
+      "id": 16,
+      "feature": "Troubleshooting",
+      "description": "Logging, Ping, Traceroute, Tcpdump, Speed-test"
+    }
+  ],
+  "optional": [
+    {
+      "id": 1,
+      "feature": "GNSS License",
+      "description": "Standalone GNSS server that provides data via a JSON/NMEA data stream Assisted and Dead Reckoning are supported (if the hardware allows it)."
+    },
+    {
+      "id": 2,
+      "feature": "OpenVPN- and DynDNS Server License",
+      "description": "The NetModule router software supports OpenVPN for establishing encrypted connections via UDP or TCP. In the standard version, a maximum of four OpenVPN instances can be configured on a NetModule router, one of which can be a server instance. Extension subject to additional licensing; OpenVPN server instance with a maximum of 25 clients (instead of 10 without license), DynDNS server"
+    },
+    {
+      "id": 3,
+      "feature": "Voice Gateway License",
+      "description": "With a voice license, NetModule routers can also act as a voice gateway for VoIP telephony (Voice over IP). Calls made over the mobile network can be connected to VoIP clients through the NetModule router and vice versa. A PTT or audio interface can also be used for voice communication. Note that the range of available features is dependent on the hardware deployed."
+    },
+    {
+      "id": 4,
+      "feature": "LXC Container License",
+      "description": "The virtualization license allows the installation and execution of customer applications parallel to the router application on the same hardware (edge computing). Using Linux Containers (LXC), several isolated Linux systems can be operated on the same host at the operating-system level. LXC creates a virtual environment with its own processes using the kernel of the host system. This allows them to be shielded from each other very effectively, ensuring the safe operation of both."
+    },
+    {
+      "id": 5,
+      "feature": "FMS to IP Gateway License",
+      "description": "The software stack picks up J1939 packets on the CAN interfaces and translates using a gateway function on the network level, where they can be made available to other systems, either locally or on the back-end system."
+    },
+    {
+      "id": 6,
+      "feature": "ITxPT Accordance Label",
+      "description": "The label declares the conformity of the product with the ITxPT specifications S01 v2.0.1 and S02 v2.0.1 for the following services; Module inventory, Time, GNSS location (requires GNSS license), FMStoIP (requires FSM2IP license), VEHICLEtoIP (required FSM2IP license)"
+    },
+    {
+      "id": 7,
+      "feature": "Enhanced RF Configuration",
+      "description": "Allows; Radio frequencies, Antenna amplification (increased gain), Regulatory domain WiFi settings to be configured by trained personnel."
+    }
+  ]
+}
