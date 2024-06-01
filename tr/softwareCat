@@ -9,7 +9,7 @@
 	{
 		"name": "NRSW - NetModule Router Software",
 		"imageUrl": "https://placehold.co/600x400/000000/pink",
-		"desc": "NRSW Linux tabanlı yönlendirici yazılımı, çok çeşitli ağ işlevleri ve akıllı bağlantı yönetimi (sabit ve mobil) ile güvenilir veri bağlantıları sağlar. Ürünün yaşam döngüsü boyunca güvenli çalışmaya yönelik yapılandırma ve güncelleme paketleri ücretsiz sunulur.",
+		"desc": "NRSW Linux tabanlı yönlendirici yazılımı, çok çeşitli ağ işlevleri ve akıllı bağlantı (sabit ve mobil) yönetimi ile güvenilir veri bağlantıları sağlar. Ürünün yaşam döngüsü boyunca güvenli çalışmaya yönelik yapılandırma ve güncelleme paketleri ücretsiz sunulur.",
 		"slug": "nrsw",
 		"url": "/nrsw"
 	},

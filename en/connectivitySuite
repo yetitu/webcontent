@@ -1,0 +1,92 @@
+{
+  "title": "Connectivity Suite",
+  "brand": "NetModule",
+  "series": "CS",
+  "description": "Remotely monitor, manage and maintain your business-specific network created with NetModule NB-series of mobile routers.",
+  "heroText": "Monitor, manage, maintain your network",
+  "image": "cs_gray_bg.png",
+  "groupImage": "cs_gray_bg.png",
+  "group": "software",
+  "overview": [
+    {
+      "id": 1,
+      "text": "The Connectivity Suite ('CS' for short) is web-based and modular. It allows system administrators to configure and monitor all devices, while a technician can only interfere with the devices of the network under his responsibility. It allows multiple hosted networks to be logically grouped and isolated from each other on a single platform."
+    },
+    {
+      "id": 2,
+      "text": "Each network receives service from its own VPN server. After a simple initial configuration and certificate assignment, all routers are automatically connect to their VPN server. Thus, you do not have to deal with individual IP addresses and certificates. It creates an automatic and secure communication environment between the server of the CS program and the hosted networks and devices, using techniques with proven cryptographic capabilities such as OpenVPN, SSL or IPsec."
+    },
+    {
+      "id": 3,
+      "text": "Configuration management allows accessing the latest configuration settings on any device. It allows changing the configuration settings of all devices at once. The date and time at which firmware and configuration updates will start automatically can be set in advance. The connection status of all networks and all devices hosted on the platform is constantly monitored and displayed on the control panel."
+    },
+    {
+      "id": 4,
+      "text": "REST API allows the integration of Connectivity Suite into existing 3rd party tools or the functionality could be extended with additional components. By being powerful enough for projects with hundreds of devices, Connectivity Suite guarantees a sustainable investment. The platform can also be installed on-premises for ensuring the confidentiality, authenticity and integrity of the data and information flows."
+    }
+  ],
+  "techSpecs": [
+    {
+      "id": 1,
+      "feature": "Device Management",
+      "description": "Centralized device management, Platform database for devices, clients and servers, Structured views of device attributes (filtering, queries), Device provisioning process\""
+    },
+    {
+      "id": 2,
+      "feature": "Network Health",
+      "description": "Auto-setup of VPN network infrastructure, Centralized management of various separated network sites, Scalability by distributed platform architecture, Redundant VPN servers and load balancing"
+    },
+    {
+      "id": 3,
+      "feature": "Device Configuration",
+      "description": "Management of device configuration and firmware, Auto-setup of router and VPN server configuration, PKI certificate handling for VPN servers and clients, Management of device specific update packages (configuration, certificates, firmware, …), Import / export of device configuration"
+    },
+    {
+      "id": 4,
+      "feature": "Security",
+      "description": "User management, Encrypted VPN (OpenVPN, IPsec), Secured management platform interface (https), Separated device provisioning server, Automated PKI certificate management, Partitioned management and operational networks"
+    },
+    {
+      "id": 5,
+      "feature": "Deployment of Packages",
+      "description": "Fail-safe OTA updates of device configuration and firmware (update packages), Scheduled roll-out plans for automated device updates, Package downloads for manual updates (e.g. via USB stick), Monitored update procedures"
+    },
+    {
+      "id": 6,
+      "feature": "API",
+      "description": "REST API to platform components, Customizable platform UI and middleware components, Integration with 3rd party tools"
+    },
+    {
+      "id": 7,
+      "feature": "System Health",
+      "description": "Link supervision for servers and devices, Network status and performance analysis, Direct service access to router (UI, CLI)"
+    },
+    {
+      "id": 8,
+      "feature": "Installation",
+      "description": "Cloud or on-premises installation, Linux operating system, At least 4 GB RAM, 30 GB disk space, Docker, Docker Compose, Data backup and data migration"
+    }
+  ],
+  "benefits": [
+    {
+      "id": 1,
+      "feature": "Remotely manage the entire network",
+      "description": "In rapidly growing networks, maintenance processes such as updating the 'Internet of Things' ('IoT') devices and softwares, changing the configuration settings have become a complex and challenging subject. Configuring each device on the network individually on-site can be extremely expensive. Managing large networks may cost a lot of effort and money. You will not experience these problems in your network with 'Connectivity Suite'."
+    },
+    {
+      "id": 2,
+      "feature": "Suitable for all types of vehicles",
+      "description": "The routers are always in motion with the vehicles and are often difficult to access. Configuring new routers in vehicles and managing repairs and replacements for faulty devices are difficult. Connectivity Suite helps you to remotely manage your routers and connected devices (such as ticket vending machines, computers, cameras) in vehicles. It doesn't matter if the router is installed on a trolleybus, subway, tram or bus."
+    },
+    {
+      "id": 3,
+      "feature": "Always secure and fast connections",
+      "description": "By automatically updating the routers in your network from the center, you can be sure that you always get the best performance from your network. The monitoring platform constantly monitors the connection status of devices and networks. This feature provides reliable monitoring of installed devices. When a bus or tram network fails, it proactively notifies the user about the network change in their fleet."
+    },
+    {
+      "id": 4,
+      "feature": "Reduce maintenance costs",
+      "description": "Configuration management provides instant access to the latest configuration settings of any device. Enables OAT configuration or updates. It manages the automatic execution of software and configuration updates. All devices in the fleet can be remotely configured at once. It is enough for field technicians to physically install the hardware. Software updates and configuration processes of the device will be managed remotely later."
+    }
+  ]
+}

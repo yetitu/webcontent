@@ -1,0 +1,92 @@
+{
+  "title": "Connectivity Suite",
+  "brand": "NetModule",
+  "series": "CS",
+  "description": "NetModule NB- serisi yönlendiricileri ile oluşturulan, işletmenize özel ağınızı uzaktan izleyin, yönetin ve bakımını yapın.",
+  "heroText": "Ağınızı izleyin, yönetin, bakımını yapın",
+  "image": "cs_gray_bg.png",
+  "groupImage": "cs_gray_bg.png",
+  "group": "software",
+  "overview": [
+    {
+      "id": 1,
+      "text": "Connectivity Suite (kısaca 'CS') web tabanlıdır ve modülerdir. Bir teknisyen sadece kendi sorumluluğundaki ağın cihazlarına müdahale edebilirken, sistem yöneticilerinin tek noktadan ve güvenli bir şekilde, tüm cihazları yapılandırmalarına ve izlemelerine olanak tanır. Tek bir platformda birden fazla barındırılan ağın mantıksal olarak gruplanmasını ve birbirlerinden izole edilmesini sağlar."
+    },
+    {
+      "id": 2,
+      "text": "Connectivity Suite, NetBox yönlendirici cihazlarının merkezi bir konumdan güvenli bir şekilde yapılandırılmasını ve yönetilmesini sağlar. Her ağ kendi VPN sunucusundan hizmet alır. Başlangıçta basit bir yapılandırma ve sertifika ataması yapıldıktan sonra tüm yönlendiriciler otomatik olarak kendi VPN sunucusuna bağlanır. Böylece tek tek IP adresleri ve sertifikalar ile uğraşmak zorunda kalınmaz. CS programının sunucusu ile barındırılan ağlar ve cihazlar arasında, OpenVPN, SSL veya IPsec gibi kripto yetenekleri ispatlanmış teknikleri kullanarak, otomatik ve güvenli bir iletişim ortamı oluşturur."
+    },
+    {
+      "id": 3,
+      "text": "Connectivity Suite, işletmenize özel ağ altyapınızı oluşturmak ve tüm NetBox cihazlarını tek bir noktadan yönetmek için geliştirilen kullanımı oldukça basit uzaktan yönetim sistemidir. Yapılandırma yönetimi herhangi bir cihazdaki en son yapılandırma ayarlarına erişmeye ve tüm cihazların yapılandırma ayarlarını tek seferde değiştirmeye olanak tanır. Donanım yazılımı ('Firmware') ve yapılandırma güncellemelerinin otomatik olarak başlatılacağı tarih ve saati önceden belirlenebilir. Platformda barındırılan tüm ağların ve tüm cihazların bağlantı durumları sürekli olarak izlenir ve kontrol panelde görüntülenir."
+    },
+    {
+      "id": 4,
+      "text": "REST API, CS'nin 3ncü taraf sistemlerle kolayca bütünleştirilmesine veya yeni yetenekler kazandırılmasına olanak tanır. Böylece yüzlerce cihazın gerektiği ölçekteki projelerde CS, yapılan yatırımın korunmasını garantiler. CS işletmenin veri merkezine de kurulabilir. Böylece veri akışının gizliliğinde, yetkilendirmede ve veri bütünlüğünün korunması güvence altına alınır."
+    }
+  ],
+  "techSpecs": [
+    {
+      "id": 1,
+      "feature": "Cihaz Yönetimi",
+      "description": "Tek noktandan yönetim, Cihazlar, istemciler ve sunucular için platforma veri tabanı, Cihaz niteliklerinin yer aldığı yapılandırılmış görüntülemeler (Filtreler, sorgular),Cihaz karşılama süreçleri"
+    },
+    {
+      "id": 2,
+      "feature": "Ağ Sağlığı",
+      "description": "VPN destekli ağ alt yapısının otomatik olarak oluşturulması, İzole haldeki farklı ağların tek merkezden yönetimi, Dağıtık platform mimarisi sayesinde ölçeklenebilirlik, Yedek VPN sunucular ve otomatik yük dağılımı"
+    },
+    {
+      "id": 3,
+      "feature": "Cihaz Yapılandırma",
+      "description": "Cihaz yapılandırma ve donanım yazılımı yönetimi, Cihazda VPN sunucu ayarlarının otomatik olarak oluşturulması, VPN sunucular ve istemciler için PKI sertifikasyonlarının işlenmesi, Cihaza özel güncelleme paketlerinin (yapılandırma, sertifika, donanım yazılımı, ...) yönetimi, Cihaz yapılandırma ayarlarının dışarı çıkarılması ve içeri alınması ('Export/Import')"
+    },
+    {
+      "id": 4,
+      "feature": "Güvenlik",
+      "description": "Kullanıcı yönetimi, Şifreli VPN (OpenVPN, IPsec), Güvenli platform yönetimi (HTTPS), Ayrılmış cihaz karşılama sunucusu, Otomatik PKI sertifika yönetimi, Bölümlenmiş yönetim ve operasyonel ağlar"
+    },
+    {
+      "id": 5,
+      "feature": "Paketlerin Dağıtımı",
+      "description": "Güvenceli OTA ('Over-the-Air') ile yapılandırma ve donanım yazılımı ('Firmware') güncelleme, Önceden tarihi ve saati belirleyerek güncelleme, USB bellekteki paketlerin elle indirilmesi, Güncelleme işlemlerinin izlenebilmesi"
+    },
+    {
+      "id": 6,
+      "feature": "API",
+      "description": "Platform bileşenleri için REST API, Özelleştirilebilen kullanıcı ara yüzü ve ara katman bileşenleri, 3ncü taraf sistemlerle bütünleştirilebilme"
+    },
+    {
+      "id": 7,
+      "feature": "Sistem Sağlığı",
+      "description": "Sunucu ile cihazlar arasındaki bağlantıların izlenmesi Ağın durumunun ve performansının analizi, Kullanıcı ara yüzü veya komut satırı ile cihaza doğrudan erişim"
+    },
+    {
+      "id": 8,
+      "feature": "Kurulum",
+      "description": "Bulut tabanlı veya fiziksel sunucuya kurulabilme, Linux işletim sistemi, En az 4GM bellek ve 30GB disk alanı gerektirir, Docker ve Docker Compose destekler, Veri yedekleme veya transferi mümkündür"
+    }
+  ],
+  "benefits": [
+    {
+      "id": 1,
+      "feature": "Tüm ağın yönetimi tek merkezden",
+      "description": "Hızla büyüyen ağlardaki, sayısı her geçen gün artan, 'Nesnelerin İnterneti' ('IoT') cihazlarının ve yazılımlarının güncellemeleri, yapılandırma ayarlarının değiştirilmesi gibi bakım süreçleri karmaşık ve zorlu bir hal almıştır. Ağdaki her bir cihazı yerinde ve ayrı ayrı yapılandırmak son derece pahalı olabilir. Ayrıca büyük ağları yönetmek çok fazla çabaya ve paraya mal olabilir. Web tabanlı Connectivity Suite yazılımı ile NetBox cihazlarından oluşan ağınızda bu sorunları yaşamazsınız. Kurulumu ve kullanımı son derece basittir."
+    },
+    {
+      "id": 2,
+      "feature": "Her türden araç için uygun",
+      "description": "Taşımacılık sektöründe, yönlendiriciler araçlarla birlikte sürekli hareket halindedir ve genellikle erişilmesi zordur. Araçlardaki yeni yönlendiricilerin yapılandırılması, arızalı yönlendiricilerin onarımları ve değişimlerinin yönetilmesi genellikle zordur. Connectivity Suite, araçlardaki yönlendiricilerinizi ve bunlara bağlı cihazları (bilet otomat makineleri, bilgisayarlar, kameralar gibi) uzaktan yönetmenize yardımcı olur. Yönlendiricinin bir troleybüs, metro, tramvay veya otobüse kurulu olmasının bir önemi yoktur."
+    },
+    {
+      "id": 3,
+      "feature": "Her zaman güvenli ve hızlı bağlantılar",
+      "description": "Ağınızdaki yönlendiricilerin merkezden otomatik olarak güncellenmesi sayesinde, ağınızdan her zaman en iyi performansı güvenli bir şekilde aldığınızdan emin olursunuz. İzleme platformu, cihazların ve ağların bağlantı durumunu sürekli olarak denetler. Bu özellik, kurulu cihazların güvenilir şekilde izlenmesini sağlar. Bir otobüs veya tramvay ağı arızalandığında, kullanıcıyı filosundaki ağ değişikliği hakkında proaktif olarak bilgilendirir."
+    },
+    {
+      "id": 4,
+      "feature": "Bakım maliyetlerini düşürün",
+      "description": "Yapılandırma yönetimi, herhangi bir cihazın en son yapılandırma ayarlarına anında erişimi sağlar, OAT yapılandırma veya güncellemelerini mümkün kılar. Yazılım ve yapılandırma güncellemeleri kurgusunun istenilen zamanda otomatik olarak yürütülmesini yönetir. Filodaki tüm cihazlar toplu olarak tek seferde uzaktan yapılandırabilir. Saha teknisyenlerinin donanımı fiziki olarak kurması yeterlidir. Cihazın yazılım güncellemeleri ile yapılandırma işlemleri daha sonra uzaktan yönetilecektir."
+    }
+  ]
+}
