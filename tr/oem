@@ -1,0 +1,111 @@
+{
+  "title": "OEM Linux",
+  "brand": "NetModule",
+  "series": "OEM Linux",
+  "description": "NetModule Linux dağıtımı, araçlar ve hizmetlere yönelik tarifler ve konfigürasyonlardan oluşan bir koleksiyondur ve NetModule ürün platformları için temel yazılım işlevlerini sağlar. NetModule donanımıyla birlikte OEM Linux İşletim Sistemi, kendi ürününüzü yaratmanın etkili bir yoludur.",
+  "heroText": "Kendi ürününüzü geliştirin",
+  "image": "software_gray_bg.png",
+  "groupImage": "software_gray_bg.png",
+  "group": "software",
+  "overview": [
+    {
+      "id": 1,
+      "text": "OEM Linux işletim sistemi, YoctoProject'in referans dağıtımı olan Poky Linux dağıtımını temel alır. OpenEmbedded yapı sisteminin yanı sıra donanım desteği ve sistem bileşenleri için kullanışlı meta katmanlardan oluşan bir koleksiyon içerir ve Linux yazılım geliştiricilerinin donanımımıza hemen başlamasına olanak tanır."
+    },
+    {
+      "id": 2,
+      "text": "Her altı ayda bir, mevcut Poky dağıtımı tarafından güncellenen ve güvenlik yamaları uygulayan yeni bir sürüm oluşturulur."
+    },
+    {
+      "id": 3,
+      "text": "Destek ekibimiz, eşleşen referans yazılım görüntüsüyle donanımımıza dayalı sorunları analiz etmenize ve çözmenize yardımcı olur."
+    }
+  ],
+  "techSpecs": [
+    {
+      "id": 1,
+      "feature": "Meta-Layers",
+      "description": "OpenEmbedded-Çekirdek (OE-Çekirdek), YoctoProject'e özgü meta veriler (meta-yocto), OSTree'ye özgü katman (meta güncelleyici), NetModule tarafından sağlanan BSP katmanı (meta-netmodule-bsp), NetModule tarafından sağlanan dağıtım katmanı (meta-netmodule-distro)"
+    },
+    {
+      "id": 2,
+      "feature": "Kernel",
+      "description": "Çekirdek NetModule tarafından korunur ve ana hat LTS çekirdeğini temel alır. Öncelikle yapılandırmayı (defconfig), çeşitli TI yamalarını ve NetModule tarafından uyarlanmış çeşitli sürücüleri içerir. Çekirdek bir FIT (Düzleştirilmiş Görüntü Ağacı) dosyası olarak oluşturulmuştur ve çekirdeği, RAM diskini ve aygıt ağacını içerir."
+    },
+    {
+      "id": 3,
+      "feature": "Boot-Loader",
+      "description": "Önyükleyici (SPL + U-Boot), DENX U-Boot'un uyarlanmış bir versiyonudur. NetModule tarafından eklenen değişiklikler donanım konfigürasyonunu oluşturur."
+    },
+    {
+      "id": 4,
+      "feature": "Anakart",
+      "description": "Anakart destek paketi (BSP), meta-netmodule-bsp meta katmanında tanımlanır. Önyükleyiciyi ve çekirdeği oluşturmak için tarifler içerir."
+    },
+    {
+      "id": 5,
+      "feature": "Firmware",
+      "description": "Güncelleme işlevi olarak OSTree Çerçevesi kullanılır; Automotive Grade Linux (AGL) için kullanılanla aynıdır."
+    },
+    {
+      "id": 6,
+      "feature": "Paketler",
+      "description": "Paket yönetimi (dnf), yeni yazılım paketlerinin çalışan bir sisteme daha sonra kurulmasına olanak tanır."
+    },
+    {
+      "id": 7,
+      "feature": "Senkronizasyon",
+      "description": "Sistem saati ve tarihi, bir NTP istemcisi kullanılarak bir NTP sunucusuyla senkronize edilir. Zaman, yerel olarak RTC tarafından kontrol edilir (eğer bir RTC mevcutsa)."
+    },
+    {
+      "id": 8,
+      "feature": "Sistem/Servis",
+      "description": "Systemd ile sistem ve hizmet yönetimi (init)."
+    },
+    {
+      "id": 9,
+      "feature": "Network",
+      "description": "NetworkManager, ağ arayüzlerini yöneten bir hizmettir. Modem veya Bluetooth gibi alt düzey bileşenler eklenti olarak entegre edilebilir."
+    },
+    {
+      "id": 10,
+      "feature": "Modem",
+      "description": "ModemManager, mobil ağ (2G/3G/4G) bileşenlerini kontrol eden bir hizmettir. Modem bağlantılarının modem yapılandırması ve yönetim arayüzü de dahildir."
+    },
+    {
+      "id": 11,
+      "feature": "Bluetooth",
+      "description": "Bluez Bluetooth protokol yığını gerekli arayüzleri ve protokolleri içerir."
+    },
+    {
+      "id": 12,
+      "feature": "CAN",
+      "description": "SocketCAN, kullanıcının birden fazla yerleşik CAN denetleyicisini adreslemesine olanak tanır."
+    },
+    {
+      "id": 13,
+      "feature": "GNSS",
+      "description": "Gpsd (GPS Servis Programı), GNSS alıcısını izler ve konum ve hız verilerini dağıtır."
+    },
+    {
+      "id": 14,
+      "feature": "Python",
+      "description": "Python 3.x ortamı, çeşitli temel modüller ile doğrudan görüntüye dahil edilir ve uygulama komut dosyalarının kolayca geliştirilmesini kolaylaştırır. Pip kullanılarak ek Python paketleri kurulabilir."
+    },
+    {
+      "id": 15,
+      "feature": "SDK",
+      "description": "SDK, YoctoProject kullanılarak oluşturulabilir. Uygulama geliştiricileri için kolay bir başlangıç noktası sağlayan çapraz geliştirme araç zinciri, kitaplıklar, başlık dosyaları ve diğer araçları içerir."
+    },
+    {
+      "id": 16,
+      "feature": "Teslimat",
+      "description": "Her sürümde; NetModule tarafından oluşturulan ve test edilen referans yazılım görüntüsü, YoctoProject tarafından oluşturulan standart bir yazılım geliştirme kiti (SDK), Yocto meta katmanı ve ZIP dosyasındaki yamalar dahil kaynak kodu ve Sürüm notları içerilir."
+    },
+    {
+      "id": 17,
+      "feature": "Lisanslar",
+      "description": "Tüm OEM Linux İşletim Sistemi bileşenleri açık kaynaklı yazılımdır."
+    }
+  ]
+}

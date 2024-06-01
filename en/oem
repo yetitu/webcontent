@@ -1,0 +1,111 @@
+{
+  "title": "OEM Linux",
+  "brand": "NetModule",
+  "series": "OEM Linux",
+  "description": "NetModule is a collection of plans and configurations for Linux systems, tools and services, enabling the use of underlying software for NetModule product platforms. OEM Linux Operating System with NetModule structure is an effective way to create your own product.",
+  "heroText": "Develop your own product",
+  "image": "software_gray_bg.png",
+  "groupImage": "software_gray_bg.png",
+  "group": "software",
+  "overview": [
+    {
+      "id": 1,
+      "text": "The OEM Linux operating system is based on the Poky Linux distribution, which is YoctoProject's reference distribution. It includes the OpenEmbedded build system as well as hardware support and a collection of useful meta layers for system components, allowing Linux software developers to get started on our hardware right away."
+    },
+    {
+      "id": 2,
+      "text": "Every six months, a new version is created that updates the current Poky distribution and applies security patches."
+    },
+    {
+      "id": 3,
+      "text": "Our support team helps you analyze and resolve issues based on our hardware with the matching reference software image."
+    }
+  ],
+  "techSpecs": [
+    {
+      "id": 1,
+      "feature": "Meta-Layers",
+      "description": "OpenEmbedded-Core (OE-Core), YoctoProject specific metadata (meta-yocto), OSTree specific layer (meta updater), BSP layer provided by NetModule (meta-netmodule-bsp), distribution provided by NetModule layer (meta-netmodule-distro)"
+    },
+    {
+      "id": 2,
+      "feature": "Kernel",
+      "description": "The kernel is maintained by NetModule and is based on the mainline LTS kernel. It primarily contains the configuration (defconfig), various TI patches, and various drivers adapted by NetModule. The kernel is created as a FIT (Flattened Image Tree) file and contains the kernel, RAM disk, and device tree."
+    },
+    {
+      "id": 3,
+      "feature": "Boot Loader",
+      "description": "Bootloader (SPL + U-Boot) is an adapted version of DENX U-Boot. The changes added by NetModule constitute the hardware configuration."
+    },
+    {
+      "id": 4,
+      "feature": "Motherboard",
+      "description": "The motherboard support package (BSP) is defined in the meta-netmodule-bsp meta layer. Contains recipes for building the bootloader and kernel."
+    },
+    {
+      "id": 5,
+      "feature": "Firmware",
+      "description": "OSTree Framework is used as the update function; Same as used for Automotive Grade Linux (AGL)."
+    },
+    {
+      "id": 6,
+      "feature": "Packages",
+      "description": "Package management (dnf) allows the subsequent installation of new software packages on a running system."
+    },
+    {
+      "id": 7,
+      "feature": "Synchronization",
+      "description": "System time and date are synchronized with an NTP server using an NTP client. The time is controlled locally by the RTC (if an RTC is available)."
+    },
+    {
+      "id": 8,
+      "feature": "System/Service",
+      "description": "System and service management (init) with Systemd."
+    },
+    {
+      "id": 9,
+      "feature": "Network",
+      "description": "NetworkManager is a service that manages network interfaces. Lower-level components such as a modem or Bluetooth can be integrated as plug-ins."
+    },
+    {
+      "id": 10,
+      "feature": "Modem",
+      "description": "ModemManager is a service that controls mobile network (2G/3G/4G) components. Modem configuration and management interface of modem connections are also included."
+    },
+    {
+      "id": 11,
+      "feature": "Bluetooth",
+      "description": "The Bluez Bluetooth protocol stack contains the necessary interfaces and protocols."
+    },
+    {
+      "id": 12,
+      "feature": "CAN",
+      "description": "SocketCAN allows the user to address multiple onboard CAN controllers."
+    },
+    {
+      "id": 13,
+      "feature": "GNSS",
+      "description": "Gpsd (GPS Service Program) monitors the GNSS receiver and distributes location and speed data."
+    },
+    {
+      "id": 14,
+      "feature": "Python",
+      "description": "The Python 3.x environment is included directly in the image with various core modules, facilitating easy development of application scripts. Additional Python packages can be installed using pip."
+    },
+    {
+      "id": 15,
+      "feature": "SDK",
+      "description": "SDK can be built using YoctoProject. The cross-development toolchain includes libraries, header files, and other tools that provide an easy starting point for application developers."
+    },
+    {
+      "id": 16,
+      "feature": "Delivery",
+      "description": "In each version; Includes reference software image created and tested by NetModule, a standard software development kit (SDK) created by YoctoProject, source code and Release notes including the Yocto metalayer and patches in a ZIP file."
+    },
+    {
+      "id": 17,
+      "feature": "Licenses",
+      "description": "All OEM Linux Operating System components are open source software."
+    }
+  ]
+}
