@@ -14,14 +14,14 @@
 		"url": "/antenna"
 	},
 	{
-		"name": "Access Point",
+		"name": "WiFi Access Point",
 		"imageUrl": "https://placehold.co/600x400/000000/green",
 		"desc": "For WLAN on trains and trams, choose NetModule AP3400 access point, which supports the WiFi-6. Provide uninterrupted LTE and 5G connectivity throughout the train for your passengers and staff.",
 		"slug": "accesspoint",
 		"url": "/ap"
 	},
 	{
-		"name": "Switch",
+		"name": "LAN Switch",
 		"imageUrl": "https://placehold.co/600x400/000000/yellow",
 		"desc": "Easily connect in-vehicle wireless network access points, PIS  and security cameras with M12 Ethernet ports to the Gigabit local network backbone. Build an internet-enabled IP backbone – ITxPT compliant and interoperability approved.",
 		"slug": "switch",

@@ -14,14 +14,14 @@
 		"url": "/antenna"
 	},
 	{
-		"name": "Erişim Noktası",
+		"name": "WiFi Erişim Noktası",
 		"imageUrl": "https://placehold.co/600x400/000000/green",
 		"desc": "Tren ve tramvaylarda WLAN için WiFi-6'yı destekleyen NetModule AP3400 erişim noktasını seçin. Yolcularınız ve personeliniz için tren boyunca kesintisiz LTE ve 5G bağlantısı sağlayın.",
 		"slug": "erisim-noktasi",
 		"url": "/ap"
 	},
 	{
-		"name": "Anahtar",
+		"name": "LAN Anahtarı",
 		"imageUrl": "https://placehold.co/600x400/000000/yellow",
 		"desc": "Araç içi kablosuz ağ erişim noktalarını, yolcu bilgilendirme ekranlarını (PIS) ve güvenlik kameralarını M12 Ethernet bağlantı noktalarıyla, Gigabit yerel ağ omurgasına kolayca bağlayın. ITxPT uyumlu ve birlikte çalışabilirlik onaylı, internet özellikli bir IP omurgası oluşturun.",
 		"slug": "anahtar",
