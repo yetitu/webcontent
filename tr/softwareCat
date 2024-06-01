@@ -1,21 +1,21 @@
 [
 	{
 		"name": "Connectivity Suite",
-		"imageUrl": "cs_gray_bg.png",
+		"imageUrl": "/images/products/cs/cs_gray_bg.png",
 		"desc": "NetModule NB- serisi yönlendiricileri ile oluşturulan, işletmenize özel ağınızı uzaktan izleyin, yönetin ve bakımını yapın. Ağınızı izleyin, yönetin, bakımını yapın",
 		"slug": "connectivity-suite",
 		"url": "/cs"
 	},
 	{
 		"name": "NRSW - NetModule Router Software",
-		"imageUrl": "nrsw_gray_bg.png",
+		"imageUrl": "/images/products/nrsw/nrsw_gray_bg.png",
 		"desc": "NRSW Linux tabanlı yönlendirici yazılımı, çok çeşitli ağ işlevleri ve akıllı bağlantı (sabit ve mobil) yönetimi ile güvenilir veri bağlantıları sağlar. Ürünün yaşam döngüsü boyunca güvenli çalışmaya yönelik yapılandırma ve güncelleme paketleri ücretsiz sunulur.",
 		"slug": "nrsw",
 		"url": "/nrsw"
 	},
 	{
 		"name": "OEM",
-		"imageUrl": "software_gray_bg.png",
+		"imageUrl": "/images/products/oem/software_gray_bg.png",
 		"desc": "NetModule Linux dağıtımı, araçlar ve hizmetlere yönelik tarifler ve konfigürasyonlardan oluşan bir koleksiyondur ve NetModule ürün platformları için temel yazılım işlevlerini sağlar. NetModule donanımıyla birlikte OEM Linux İşletim Sistemi, kendi ürününüzü yaratmanın etkili bir yoludur.",
 		"slug": "oem-linux",
 		"url": "/oem"
