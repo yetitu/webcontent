@@ -1,21 +1,21 @@
 [
 	{
 		"name": "Connectivity Suite",
-		"imageUrl": "https://placehold.co/600x400/000000/blue",
+		"imageUrl": "cs_gray_bg.png",
 		"desc": "Remotely monitor, manage and maintain your business-specific network created with NetModule NB-series of mobile routers. Monitor, manage, maintain your network with Connectivity Suite.",
 		"slug": "connectivity-suite",
 		"url": "/cs"
 	},
 	{
 		"name": "NRSW - NetModule Router Software",
-		"imageUrl": "https://placehold.co/600x400/000000/pink",
+		"imageUrl": "nrsw_gray_bg.png",
 		"desc": "Our Linux-based router software ensures reliable data connections with a wide range of network functions and smart link management. Configuration and update options for secure operation throughout the product life cycle and over-the-air complete the package. As a special service, we offer you free updates and support.",
 		"slug": "nrsw",
 		"url": "/nrsw"
 	},
 	{
 		"name": "OEM",
-		"imageUrl": "https://placehold.co/600x400/000000/green",
+		"imageUrl": "software_gray_bg.png",
 		"desc": "NetModule is a collection of plans and configurations for Linux systems, tools and services, enabling the use of underlying software for NetModule product platforms. OEM Linux Operating System with NetModule structure is an effective way to create your own product.",
 		"slug": "oem-linux",
 		"url": "/oem"
