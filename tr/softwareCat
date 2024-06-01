@@ -15,7 +15,7 @@
 	},
 	{
 		"name": "OEM",
-		"imageUrl": "/images/products/oem/software/software_gray_bg.png",
+		"imageUrl": "/images/products/software/oem/software_gray_bg.png",
 		"desc": "NetModule Linux dağıtımı, araçlar ve hizmetlere yönelik tarifler ve konfigürasyonlardan oluşan bir koleksiyondur ve NetModule ürün platformları için temel yazılım işlevlerini sağlar. NetModule donanımıyla birlikte OEM Linux İşletim Sistemi, kendi ürününüzü yaratmanın etkili bir yoludur.",
 		"slug": "oem-linux",
 		"url": "/oem"
