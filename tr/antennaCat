@@ -8,14 +8,14 @@
   },
   {
     "series": "Antenna-Railway",
-    "imageUrl": "/images/products/antenna/coach/antenna-railway.png",
+    "imageUrl": "/images/products/antenna/railway/antenna-railway.png",
     "desc": "Demiryolları için antenler  ",
     "slug": "antenna-railway",
     "url": "/railway"
   },
   {
     "series": "Antenna-Roof",
-    "imageUrl": "/images/products/antenna/coach/antenna-roof.png",
+    "imageUrl": "/images/products/antenna/roof/antenna-roof.png",
     "desc": "Çatıya monte edilen antenler  ",
     "slug": "antenna-roof",
     "url": "/roof"
