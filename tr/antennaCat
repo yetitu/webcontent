@@ -1,0 +1,23 @@
+[
+  {
+    "series": "Antenna-Coach",
+    "imageUrl": "/images/products/antenna/coach/antenna-coach.png",
+    "desc": "Karayolları için antenler  ",
+    "slug": "antenna-coach",
+    "url": "/coach"
+  },
+  {
+    "series": "Antenna-Railway",
+    "imageUrl": "/images/products/antenna/coach/antenna-railway.png",
+    "desc": "Demiryolları için antenler  ",
+    "slug": "antenna-railway",
+    "url": "/railway"
+  },
+  {
+    "series": "Antenna-Roof",
+    "imageUrl": "/images/products/antenna/coach/antenna-coach.png",
+    "desc": "Çatıya monte edilen antenler  ",
+    "slug": "antenna-roof",
+    "url": "/roof"
+  }
+]

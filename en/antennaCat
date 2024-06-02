@@ -1,0 +1,23 @@
+[
+  {
+    "series": "Antenna-Coach",
+    "imageUrl": "/images/products/antenna/coach/antenna-coach.png",
+    "desc": "Antennas for highway vehicles",
+    "slug": "antenna-coach",
+    "url": "/coach"
+  },
+  {
+    "series": "Antenna-Railway",
+    "imageUrl": "/images/products/antenna/coach/antenna-railway.png",
+    "desc": "Antennas for railway vehicles",
+    "slug": "antenna-railway",
+    "url": "/railway"
+  },
+  {
+    "series": "Antenna-Roof",
+    "imageUrl": "/images/products/antenna/coach/antenna-coach.png",
+    "desc": "Antennas for roof tops",
+    "slug": "antenna-roof",
+    "url": "/roof"
+  }
+]
