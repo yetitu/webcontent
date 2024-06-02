@@ -5,6 +5,7 @@
     "imageUrl": "/images/products/antenna/coach/antenna-coach.png",
     "desc": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir.",
     "slug": "antenna-coach",
+    "usage": "Karayolu Araçları",
     "url": "/coach"
   },
   {
@@ -13,6 +14,7 @@
     "imageUrl": "/images/products/antenna/railway/antenna-railway.png",
     "desc": "Demiryollarında toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir.",
     "slug": "antenna-railway",
+    "usage": "Demiryolu Araçları",
     "url": "/railway"
   },
   {
@@ -21,6 +23,7 @@
     "imageUrl": "/images/products/antenna/roof/antenna-roof.png",
     "desc": "Endüstriyel tesisler veya karayolu araçları için ideal, MIMO destekli, kurulumu kolay, zorlu fiziksel koşullarda kullanılabilecek nitelikte, kompakt tasarımlı antenlerdir.",
     "slug": "antenna-roof",
+    "usage": "Çatı Montajı",
     "url": "/roof"
   }
 ]

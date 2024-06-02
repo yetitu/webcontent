@@ -5,6 +5,7 @@
     "imageUrl": "/images/products/antenna/coach/antenna-coach.png",
     "desc": "Coach series of antennas are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle.",
     "slug": "antenna-coach",
+    "usage": "Highway Vehicles",
     "url": "/coach"
   },
   {
@@ -13,6 +14,7 @@
     "imageUrl": "/images/products/antenna/railway/antenna-railway.png",
     "desc": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation on railways to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle.",
     "slug": "antenna-railway",
+    "usage": "Railway Vehicles",
     "url": "/railway"
   },
   {
@@ -21,6 +23,7 @@
     "imageUrl": "/images/products/antenna/roof/antenna-roof.png",
     "desc": "They are compactly designed antennas that are ideal for industrial facilities or road vehicles, are MIMO supported, easy to install, and can be used in harsh physical conditions.",
     "slug": "antenna-roof",
+    "usage": "Roof Tops",
     "url": "/roof"
   }
 ]
