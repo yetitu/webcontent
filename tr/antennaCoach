@@ -38,5 +38,63 @@
       "title": "Uygunluk Sertifikaları",
       "text": "Otomotiv endüstrisindeki üreticiler, ürettikleri araçlarda güvenliği son derece önemserler. Tüm modeller RoHS, REAch ve UN ECE-R 118 sertifikasına sahiptir. Bazı modeller UN ECE-R10 uygunluğuna da sahiptir."
     }
-  ]
+  ],
+  "models":[
+    {
+        "productCode": "Antenna-Coach-2L",
+        "cellular": "MIMO LTE/UMTS/GSM",
+        "wlan": "",
+        "gps": "",
+        "type": "UN ECE R118"
+    },
+    {
+        "productCode": "Antenna-Coach-2L2WG",
+        "cellular": "MIMO LTE/UMTS/GSM",
+        "wlan": "MIMO 2.4 / 5 GHz",
+        "gps": "GNSS aktif",
+        "type": "UN ECE R10 / UN ECE R118"
+    },
+    {
+        "productCode": "Antenna-Coach-2LG",
+        "cellular": "MIMO LTE/UMTS/GSM",
+        "wlan": "",
+        "gps": "GNSS aktif",
+        "type": "UN ECE R10 / UN ECE R118"
+    },
+    {
+        "productCode": "Antenna-Coach-2W",
+        "cellular": "",
+        "wlan": "MIMO 2.4 / 5 GHz",
+        "gps": "",
+        "type": "UN ECE R118"
+    },
+    {
+        "productCode": "Antenna-Coach-4N4W",
+        "cellular": "MIMO 5G / LTE / UMTS / GSM",
+        "wlan": "MIMO 2.4 / 5 GHz",
+        "gps": "",
+        "type": "UN ECE R10 / UN ECE R118"
+    },
+    {
+        "productCode": "Antenna-Coach-4N4WG",
+        "cellular": "MIMO 5G / LTE / UMTS / GSM",
+        "wlan": "MIMO 2.4 / 5 GHz",
+        "gps": "GNSS aktif",
+        "type": "UN ECE R10 / UN ECE R118"
+    },
+    {
+        "productCode": "Antenna-Coach-4NG",
+        "cellular": "MIMO 5G / LTE / UMTS / GSM",
+        "wlan": "",
+        "gps": "GNSS aktif",
+        "type": "UN ECE R10 / UN ECE R118"
+    },
+    {
+        "productCode": "Antenna-Coach-Indoor-2W",
+        "cellular": "",
+        "wlan": "MIMO 2.4 / 5 GHz",
+        "gps": "",
+        "type": "UN ECE R118"
+    }
+]
 }
