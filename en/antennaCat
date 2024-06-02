@@ -1,22 +1,25 @@
 [
   {
+    "brand": "Reel",
     "series": "Antenna-Coach",
     "imageUrl": "/images/products/antenna/coach/antenna-coach.png",
-    "desc": "Antennas for highway vehicles",
+    "desc": "Coach series of antennas are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle.",
     "slug": "antenna-coach",
     "url": "/coach"
   },
   {
+    "brand": "Antonics",
     "series": "Antenna-Railway",
     "imageUrl": "/images/products/antenna/railway/antenna-railway.png",
-    "desc": "Antennas for railway vehicles",
+    "desc": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation on railways to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle.",
     "slug": "antenna-railway",
     "url": "/railway"
   },
   {
+    "brand": "Reel",
     "series": "Antenna-Roof",
     "imageUrl": "/images/products/antenna/roof/antenna-roof.png",
-    "desc": "Antennas for roof tops",
+    "desc": "They are compactly designed antennas that are ideal for industrial facilities or road vehicles, are MIMO supported, easy to install, and can be used in harsh physical conditions.",
     "slug": "antenna-roof",
     "url": "/roof"
   }

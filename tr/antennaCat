@@ -1,22 +1,25 @@
 [
   {
+    "brand": "Reel",
     "series": "Antenna-Coach",
     "imageUrl": "/images/products/antenna/coach/antenna-coach.png",
-    "desc": "Karayolları için antenler  ",
+    "desc": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir.",
     "slug": "antenna-coach",
     "url": "/coach"
   },
   {
+    "brand" :"Antonics",
     "series": "Antenna-Railway",
     "imageUrl": "/images/products/antenna/railway/antenna-railway.png",
-    "desc": "Demiryolları için antenler  ",
+    "desc": "Demiryollarında toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir.",
     "slug": "antenna-railway",
     "url": "/railway"
   },
   {
+    "brand": "Reel",
     "series": "Antenna-Roof",
     "imageUrl": "/images/products/antenna/roof/antenna-roof.png",
-    "desc": "Çatıya monte edilen antenler  ",
+    "desc": "Endüstriyel tesisler veya karayolu araçları için ideal, MIMO destekli, kurulumu kolay, zorlu fiziksel koşullarda kullanılabilecek nitelikte, kompakt tasarımlı antenlerdir.",
     "slug": "antenna-roof",
     "url": "/roof"
   }
