@@ -5,7 +5,6 @@
   "description": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir.",
   "heroText": "Dayanıklı, kompakt, kombo, sertifikalı",
   "image": "antenna-coach.png",
-  "groupImage": "antenna-coach.jpg",
   "group": "antenna",
   "usage": "Karayolu Araçları",
   "general": [
