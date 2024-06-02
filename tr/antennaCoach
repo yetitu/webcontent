@@ -1,0 +1,43 @@
+{
+  "title": "Antenna-Coach Serisi",
+  "brand": "Reel",
+  "series": "Antenna-Coach",
+  "description": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir.",
+  "heroText": "Dayanıklı, kompakt, kombo, sertifikalı",
+  "image": "antenna-coach.png",
+  "groupImage": "antenna-coach.jpg",
+  "group": "antenna",
+  "usage": "Karayolu Araçları",
+  "general": [
+    {
+      "id": 1,
+      "title": "Otomotiv sektörüne özel",
+      "text": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir."
+    },
+    {
+      "id": 2,
+      "title": "Outdoor",
+      "text": "Açık hava montajına uygun modellerde, 4G/3G/2G/GSM mobil ağ ve GNSS bağlantıları için araç dışında, aracının tavanına kurulan dış ortam antenlerin yüksekliği 30mm ve 5G destekleyen antenlerin yüksekliği ise 90mm'dir."
+    },
+    {
+      "id": 3,
+      "title": "Indoor",
+      "text": "WiFi kablosuz ağ oluşturmak amacıyla araç içinde kurulan iç ortam antenleri çok az yer kaplar. Yükseklikliyi 21 mm, çapı ise 65 mm'dir. Tüm modeller IP69K koruma seviyesine sahiplerdir. Bu sayede toz geçirmez, yakın mesafedeki yüksek basınca ve yüksek sıcaklıktaki püskürtmelere karşı korumalıdırlar. -40°C ile +85°C arasında çalışabilirler."
+    },
+    {
+      "id": 4,
+      "title": "Kombo",
+      "text": "Farklı haberleşme sistemlerinin (5G/4G/3G/2G/GSM mobil ağ bağlantıları, 2.4/5 GHz WLAN için MIMO ve GNSS için GPS/Galileo/GLONASS/BeiDou) bir arada kullanılmasına olanak tanır."
+    },
+    {
+      "id": 5,
+      "title": "FAKRA Konnektör",
+      "text": "FAKRA konektörleri, plastik bir mahfazanın içine yerleştirilmiş bir itmeli mekanizma aracılığıyla eşleşen bir fiş ve jaktan oluşur. Sesli kilitleme onayı, kullanıcının bağlantının kurulduğunu bilmesini sağlar. Otomotiv sektörünün zorlu gereksinimlerini karşılanır. Güvenli kodlama sistemi sayesinde hatalı kullanım söz konusu değildir. Birincil ve ikincil kilitleme sistemleri yüksek montaj güvenliği sağlar. Güvenilir ve dayanıklıdır. Az yer kaplar."
+    },
+    {
+      "id": 6,
+      "title": "Uygunluk Sertifikaları",
+      "text": "Otomotiv endüstrisindeki üreticiler, ürettikleri araçlarda güvenliği son derece önemserler. Tüm modeller RoHS, REAch ve UN ECE-R 118 sertifikasına sahiptir. Bazı modeller UN ECE-R10 uygunluğuna da sahiptir."
+    }
+  ]
+}

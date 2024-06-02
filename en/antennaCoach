@@ -1,0 +1,43 @@
+{
+  "title": "Antenna-Coach Series",
+  "brand": "Reel",
+  "series": "Antenna-Coach",
+  "description": "Coach series of antennas are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle.",
+  "heroText": "Durable, compact, combo, certified",
+  "image": "antenna-coach.png",
+  "groupImage": "antenna-coach.jpg",
+  "group": "antenna",
+  "usage": "Highway Vehicles",
+  "general": [
+    {
+      "id": 1,
+      "title": "Special for the automotive industry",
+      "text": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle."
+    },
+    {
+      "id": 2,
+      "title": "Outdoor",
+      "text": "In models suitable for outdoor installation, the height of the outdoor antennas installed on the roof of the vehicle outside the vehicle for 4G/3G/2G/GSM mobile network and GNSS connections is 30mm, and the height of the antennas supporting 5G is 90mm."
+    },
+    {
+      "id": 3,
+      "title": "Indoor",
+      "text": "Indoor antennas installed in the vehicle to create a WiFi wireless network take up very little space. Its height is 21 mm and its diameter is 65 mm. All models have IP69K protection level. In this way, they are dustproof and protected against high pressure and high temperature sprays at close range. They can operate between -40°C and +85°C."
+    },
+    {
+      "id": 4,
+      "title": "Combo",
+      "text": "They allow the combination of different communication systems (5G/4G/3G/2G/GSM mobile network connections, MIMO for 2.4/5 GHz WLAN and GPS/Galileo/GLONASS/BeiDou for GNSS)."
+    },
+    {
+      "id": 5,
+      "title": "FAKRA Connector",
+      "text": "FAKRA connectors consist of a plug and jack that mate via a push-in mechanism housed inside a plastic housing. Voice lock confirmation lets the user know that the connection has been established. The stringent requirements of the automotive industry are met. Thanks to the secure coding system, there is no misuse. Primary and secondary locking systems provide high installation security. It is reliable and durable. It takes up little space."
+    },
+    {
+      "id": 6,
+      "title": "Certificates of Conformity",
+      "text": "Manufacturers in the automotive industry attach great importance to safety in the vehicles they produce. All models have RoHS, REAch and UN ECE-R 118 certification. Some models also comply with UN ECE-R10."
+    }
+  ]
+}
