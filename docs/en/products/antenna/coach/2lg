@@ -1,0 +1,56 @@
+{
+  "title": "Antenna-Coach-2LG",
+  "description": "It is an omnidirectional combo antenna for signal improvement in 4G, 3G, 2G networks.",
+  "heroText": "It is an antenna that is suitable for use inside or outside road vehicles and allows the most effective use of mobile networks and GPS connection. The active GPS antenna has right circular polarization.",
+  "image": "coach-2lg.png",
+  "overview": [
+    "Antenna-Coach-2LG is the ideal omnidirectional combo antenna for signal enhancement in mobile networks and GNSS. ECE-R 118 is specially designed according to combustion behavior and can be used in the internal structures of motor vehicles. The antenna combines two LTE antennas and an active GPS antenna in a single housing and thus supports MIMO LTE as well as GNSS (GPS & GLONASS). LTE is linear and active GNSS is right circular polarized.",
+    "The antenna is RoHS, REAch and ECE-R 118 compliant and has an IP69K protection level (mounted) and is suitable for indoor and outdoor use in harsh environments, with a supported temperature range of -40 °C to +85 °C. The antenna can be permanently mounted with screws and the two supplied 3 m cables allow flexible positioning."
+  ],
+  "cellular": {
+    "standard": "2x LTE/UMTS/GSM",
+    "lteBands": "1, 2, 3, 4, 5, 7, 8, 10, 11, 12, 13, 14, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29, 30, 32, 65, 66, 67, 68, 69, 70, 74, 75, 76, 85 - TDD Bands: 33, 34, 35, 36, 37, 38, 39, 40, 41, 44, 45, 50, 51, 53",
+    "umtsBands": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 19, 20, 21, 25, 26, 32 - TDD Bands: 33, 34, 35, 36, 37, 38, 39, 40",
+    "gsmBands": "700, 850, 900, 1800, 1900",
+    "frequency": "700 - 2600",
+    "gain": "-9 dBi typ. (700 MHz), ±0 dBi typ. (800 MHz), +3 dBi typ. (900 MHz), +3 dBi typ. (1800 MHz), +1 dBi typ. (2100 MHz/UMTS), +2 dBi typ. (2600 MHz)",
+    "vswr": "≤ 2 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "omnidirectional",
+    "connectors": "2x FAKRA D-coded female",
+    "cableLength": "2x 3m (fixed)"
+  },
+  "gnss": {
+    "standard": "1x GPS/Galileo/GLOSNASS/BeiDou",
+    "type": "Active",
+    "frequency": "1565 - 1625",
+    "gain": "25 dBi",
+    "vswr": "≤ 1,5 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Omnidirectional",
+    "amplifier": {
+      "power": "3-5 V",
+      "current": "13mA (Max.)",
+      "gain": "25 dB typ."
+    },
+    "connector": "1x FAKRA C-coded male",
+    "cableLength": "1x 3m (fixed)"
+  },
+  "mechanical": {
+    "dimensions": "Diameter (112), Height (30)",
+    "weight": "350",
+    "mounting": "Screws to vehicle roof, no ground plane required",
+    "color": "Black"
+  },
+  "environmental": {
+    "temperature": "-40 °C to 70 °C",
+    "iPLevel": "IP69K – Dust-tight, protected against close-range high pressure, high temperature spray downs"
+  },
+  "certifications": {
+    "rohsReach": "Yes",
+    "vehicleTypes": "Highway vehicles, UN ECE R118"
+  },
+  "other": {
+    "orderCorder": "Antenna-Coach-2LG"
+  }
+}

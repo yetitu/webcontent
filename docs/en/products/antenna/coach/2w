@@ -1,0 +1,37 @@
+{
+  "title": "Antenna-Coach-2W",
+  "description": "It is an omnidirectional combo antenna for signal improvement in WIFI networks.",
+  "heroText": "It is an omnidirectional combo antenna with linear polarization for signal improvement in WIFI networks.",
+  "image": "coach-2w.png",
+  "overview": [
+    "Antenna-Coach-2W is an omnidirectional combo antenna designed for signal improvement in WiFi networks. ECE-R 118 is specially designed according to combustion behavior and can be used in the interior and exterior structures of motor vehicles. The antenna combines two WiFi antennas in a single housing and thus supports MIMO WiFi 2.4/5 GHz. WiFi is linear polarized.",
+    "The antenna is RoHS, REAch and ECE-R 118 compliant and has an IP69K protection level (mounted) and is suitable for indoor and outdoor use in harsh environments, with a supported temperature range of -40 °C to +85 °C. The antenna can be permanently mounted with screws and the two supplied 3 m cables allow flexible positioning."
+  ],
+  "wifi": {
+    "standard": "2x Dual-band WLAN 2.4/5 Ghz",
+    "frequency": "2408 - 2480, 5150 - 5850",
+    "gain": "4 dBi (WLAN 2.4) / 1 dBi (WLAN 5)",
+    "vswr": "≤ 2 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Omnidirectional",
+    "connectors": "1x FAKRA I-coded female",
+    "cableLength": "1x 3m (fixed)"
+  },
+  "mechanical": {
+    "dimensions": "Diameter (76), Height (21)",
+    "weight": "160",
+    "mounting": "Screws to vehicle roof, no ground plane required",
+    "color": "Black"
+  },
+  "environmental": {
+    "temperature": "-40 °C to 70 °C",
+    "iPLevel": "IP69K – Dust-tight, protected against close-range high pressure, high temperature spray downs"
+  },
+  "certifications": {
+    "rohsReach": "Yes",
+    "vehicleTypes": "Highway vehicles, UN ECE R118"
+  },
+  "other": {
+    "orderCorder": "Antenna-Coach-2W"
+  }
+}
