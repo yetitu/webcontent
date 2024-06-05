@@ -20,8 +20,21 @@
     "connectors": "2x FAKRA D-coded female",
     "cableLength": "2x 3m (sabit)"
   },
+  "mechanical": {
+    "dimensions": "Çap (112), Yükseklik (30)",
+    "weight": "350",
+    "mounting": "Araç çatısına vidalanır, yer düzlemi gerektirmez",
+    "color": "Siyah"
+  },
+  "environmental": {
+    "temperature": "-40 °C ile 70 °C arası",
+    "iPLevel": "IP69K, Toz geçirmez, yakın mesafedeki yüksek basınca ve yüksek sıcaklıktaki püskürtmelere karşı korumalıdır"
+  },
   "certifications": {
     "rohsReach": "Var",
     "vehicleTypes": "Karayolu araçları, UN ECE R118"
+  },
+  "other": {
+    "orderCorder": "Antenna-Coach-2L"
   }
 }
