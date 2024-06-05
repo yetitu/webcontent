@@ -1,0 +1,24 @@
+{
+  "title": "Antenna-Coach-2W",
+  "description": "WLAN ağlarında sinyal iyileştirme için çok yönlü kombo antendir.",
+  "heroText": "WLAN ağlarında sinyal iyileştirme için doğrusal polarizasyona sahip çok yönlü kombo antendir.",
+  "image": "coach-2w.png",
+  "overview": [
+    "Antenna-Coach-2W, WiFi ağlarında sinyal iyileştirme için tasarlanmış çok yönlü bir kombo antendir. ECE-R 118 yanma davranışına göre özel olarak tasarlanmış olup, motorlu araçların iç ve dış yapılarında kullanılabilir. Anten, iki WiFi antenini tek bir muhafazada birleştirir ve böylece MIMO WiFi 2,4/5 GHz'i destekler. WiFi doğrusal polarizedir.",
+    "Anten, RoHS, REAch ve ECE-R 118 uyumludur ve IP69K koruma düzeyine (monte edilmiş) sahiptir ve -40 °C ile +85 °C arası desteklenen sıcaklık aralığıyla, zorlu ortamlarda iç ve dış mekan kullanımına uygundur. Anten vidalarla kalıcı olarak monte edilebilir ve birlikte verilen iki adet 3 m'lik kablo esnek konumlandırmaya olanak tanır."
+  ],
+  "wifi": {
+    "standard": "2x Dual-band WLAN 2.4/5 Ghz",
+    "frequency": "2408 - 2480, 5150 - 5850",
+    "gain": "4 dBi (WLAN 2.4) / 1 dBi (WLAN 5)",
+    "vswr": "≤ 2 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Her Yöne (omnidirectional)",
+    "connectors": "2x FAKRA I-coded female",
+    "cableLength": "1x 3m (sabit)"
+  },
+  "certifications": {
+    "rohsReach": "Var",
+    "vehicleTypes": "Karayolu araçları, UN ECE R118"
+  }
+}

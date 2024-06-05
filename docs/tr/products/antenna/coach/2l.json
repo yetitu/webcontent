@@ -1,0 +1,27 @@
+{
+  "title": "Antenna-Coach-2L",
+  "description": "4G, 3G, 2G ağlarında sinyal iyileştirme için çok yönlü kombo antendir.",
+  "heroText": "Karayolu araçlarının içinde veya dışında kullanılmaya elverişli, mobil ağlardan en etkin şekilde yararlanmaya olanak tanıyan çok yönlü (omni-directional) antenlerdir.",
+  "image": "coach-2l.png",
+  "overview": [
+    "Antenna-Coach-2L, mobil ağlarda sinyal iyileştirmeye yönelik çok yönlü bir antendir. ECE-R 118 yanma davranışına göre özel olarak tasarlanmış olup, motorlu araçların iç yapılarında kullanılabilir. İki adet LTE radyosunu tek bir muhafazada birleştirir. Bu sayede MIMO LTE'yi destekler.",
+    "Anten, RoHS, REAch ve ECE-R 118 uyumludur ve IP69K koruma düzeyine (monte edilmiş) sahiptir ve -40 °C ile +85 °C arası desteklenen sıcaklık aralığıyla, zorlu ortamlarda iç ve dış mekan kullanımına uygundur. Anten vidalarla kalıcı olarak monte edilebilir ve birlikte verilen iki adet 3 m'lik kablo esnek konumlandırmaya olanak tanır."
+  ],
+  "cellular": {
+    "standard": "2x LTE/UMTS/GSM",
+    "lteBands": "1, 2, 3, 4, 5, 7, 8, 10, 11, 12, 13, 14, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29, 30, 32, 65, 66, 67, 68, 69, 70, 74, 75, 76, 85 - TDD Bands: 33, 34, 35, 36, 37, 38, 39, 40, 41, 44, 45, 50, 51, 53",
+    "umtsBands": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 19, 20, 21, 25, 26, 32 - TDD Bands: 33, 34, 35, 36, 37, 38, 39, 40",
+    "gsmBands": "700, 850, 900, 1800, 1900",
+    "frequency": "700 - 2600",
+    "gain": "-9 dBi typ. (700 MHz), ±0 dBi typ. (800 MHz), +3 dBi typ. (900 MHz), +3 dBi typ. (1800 MHz), +1 dBi typ. (2100 MHz/UMTS), +2 dBi typ. (2600 MHz)",
+    "vswr": "≤ 2 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Her yöne (omnidirectional)",
+    "connectors": "2x FAKRA D-coded female",
+    "cableLength": "2x 3m (sabit)"
+  },
+  "certifications": {
+    "rohsReach": "Var",
+    "vehicleTypes": "Karayolu araçları, UN ECE R118"
+  }
+}
