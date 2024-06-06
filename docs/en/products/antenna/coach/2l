@@ -28,11 +28,11 @@
   },
   "environmental": {
     "temperature": "-40 °C to 70 °C",
-    "iPLevel": "l  | IP69K – Dust"
+    "iPLevel": "IP69K, Dust-tight, protected against close-range high pressure, high temperature spray downs"
   },
   "certifications": {
     "rohsReach": "Yes",
-    "vehicleTypes": "| Highway vehicles, UN ECE R118"
+    "vehicleTypes": "Highway vehicles, UN ECE R118"
   },
   "other": {
     "orderCode": "Antenna-Coach-2L"
