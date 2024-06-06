@@ -52,6 +52,6 @@
     "vehicleTypes": "Highway vehicles, UN ECE R118"
   },
   "other": {
-    "orderCorder": "Antenna-Coach-4N4WG"
+    "orderCode": "Antenna-Coach-4N4WG"
   }
 }

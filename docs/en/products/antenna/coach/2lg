@@ -51,6 +51,6 @@
     "vehicleTypes": "Highway vehicles, UN ECE R118"
   },
   "other": {
-    "orderCorder": "Antenna-Coach-2LG"
+    "orderCode": "Antenna-Coach-2LG"
   }
 }

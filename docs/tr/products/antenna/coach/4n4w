@@ -36,6 +36,6 @@
     "vehicleTypes": "Karayolu araçları, UN ECE R10, UN ECE R118"
   },
   "other": {
-    "orderCorder": "Antenna-Coach-4N4W"
+    "orderCode": "Antenna-Coach-4N4W"
   }
 }

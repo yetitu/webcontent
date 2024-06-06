@@ -61,6 +61,6 @@
     "vehicleTypes": "Karayolu araçları, UN ECE R10, UN ECE R118"
   },
   "other": {
-    "orderCorder": "Antenna-Coach-2L2WG"
+    "orderCode": "Antenna-Coach-2L2WG"
   }
 }

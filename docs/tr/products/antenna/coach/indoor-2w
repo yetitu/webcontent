@@ -32,6 +32,6 @@
     "vehicleTypes": "Karayolu araçları, UN ECE R118"
   },
   "other": {
-    "orderCorder": "Antenna-Coach-Indoor-2W"
+    "orderCode": "Antenna-Coach-Indoor-2W"
   }
 }
