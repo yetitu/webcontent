@@ -1,0 +1,46 @@
+{
+  "title": "Antenna-Roof-2L2W",
+  "description": "Omnidirectional combo antenna with linear polarization for signal enhancement in 4G, 3G, 2G and WLAN networks.",
+  "heroText": "It is a versatile combo antenna with linear polarization that is suitable for use outdoors and allows the most effective use of mobile and WiFi networks.",
+  "image": "antenna-roof-2w.png",
+  "overview": [
+    "The Antenna-Roof-2L2W is an omnidirectional combo antenna for signal enhancement in mobile and WiFi networks. It can be used for weather stations, remote management and much more. The antenna combines two LTE antennas and two WiFi antennas in a single housing and thus supports MIMO LTE/UMTS/GSM and MIMO WiFi 2.4/5 GHz. LTE and WiFi are linear polarized.",
+    "The antenna is RoHS compliant and with protection level IP67 (waterproof) and supported temperature range from -40 °C to +80 °C it is suited for indoor and outdoor usage in harsh environments. The antenna can be mounted permanently with screws and four included 3m cables allow a flexible positioning."
+  ],
+  "cellular": {
+    "standard": "2x LTE/UMTS/GSM",
+    "lteBands": "1, 2, 3, 4, 5, 7, 8, 10, 12, 13, 14, 17, 18, 19, 20, 23, 25, 26, 27, 28, 29, 30, 65, 66, 67, 68, 69, 70, 85 - TDD : 33, 34, 35, 36, 37, 38, 39, 40, 41, 44, 53",
+    "umtsBands": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 19, 20, 25, 26 - TDD : 33, 34, 35, 36, 37, 38, 39, 40",
+    "gsmBands": "710, 750, 810 T-GSM, 850, 900 P, 900 E, 900 R, 1800 DCS, 1900 PCS",
+    "frequency": "704 - 960, 1710 - 2690",
+    "gain": "1.5 dBi@700-960MHz / 2.5 dBi@1710-2690MHz / 1 dBi@2300~2690 MHz",
+    "vswr": "≤ 1.8 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Omni-directional",
+    "connectors": "2x SMA Male"
+  },
+  "wifi": {
+    "standard": "2x Dual-band WLAN 2.4/5 Ghz",
+    "gain": "1 dBi (5m cable)",
+    "vswr": "≤ 1.55 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Omni-directional",
+    "connectors": "2x SMA male"
+  },
+  "mechanical": {
+    "dimensions": "Diameter (102), Height (44)",
+    "weight": "750",
+    "mounting": "Rooftop with screws, no ground plane needed",
+    "color": "Black"
+  },
+  "environmental": {
+    "temperature": "-40 °C to 80 °C",
+    "iPLevel": "IP67"
+  },
+  "certifications": {
+    "rohsReach": "RoHS, REACH"
+  },
+  "other": {
+    "orderCorder": "Antenna-Roof-2L2W"
+  }
+}

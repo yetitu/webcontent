@@ -1,0 +1,61 @@
+{
+  "title": "Antenna-Roof-2L2WG",
+  "description": "Omnidirectional combo antenna with linear polarization for signal improvement in 4G, 3G, 2G, GSM, WLAN networks as well as GPS connection.",
+  "heroText": "Omnidirectional combo antenna with linear polarization for signal enhancement in 4G, 3G, 2G and WLAN networks and right-hand circular polarization for the active GPS antenna.",
+  "image": "antenna-roof-2w.png",
+  "overview": [
+    "The Antenna-Roof-2L2WG is an omnidirectional combo antenna for signal enhancement in mobile and WiFi networks and GNSS. It can be used for weather stations, water supplies, fleet management applications and much more. The antenna combines two LTE antennas, two WiFi antennas and an active GPS antenna in a single housing and thus supports MIMO LTE/UMTS/GSM, MIMO WiFi 2.4/5 GHz and also GNSS (GPS & GLONASS). LTE and WiFi are linear and the active GNSS is right hand circular polarized.",
+    "The antenna is RoHS compliant and with protection level IP67 (waterproof) and supported temperature range from -40 °C to +80 °C it is suited for indoor and outdoor usage in harsh environments. The antenna can be mounted permanently with screws and five included 1m cables allow a flexible positioning."
+  ],
+  "cellular": {
+    "standard": "2x LTE/UMTS/GSM",
+    "lteBands": "1, 2, 3, 4, 5, 7, 8, 10, 12, 13, 14, 17, 18, 19, 20, 23, 25, 26, 27, 28, 29, 30, 65, 66, 67, 68, 69, 70, 85 - TDD : 33, 34, 35, 36, 37, 38, 39, 40, 41, 44, 53",
+    "umtsBands": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 19, 20, 25, 26 - TDD : 33, 34, 35, 36, 37, 38, 39, 40",
+    "gsmBands": "710, 750, 810 T-GSM, 850, 900 P, 900 E, 900 R, 1800 DCS, 1900 PCS",
+    "frequency": "704 - 960, 1710 - 2690",
+    "gain": "6.9 dBi@700-960MHz / 4.0 dBi@1710-2690MHz / 2.7 dBi@2300~2690 MHz",
+    "vswr": "≤ 2.2 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Omni-directional",
+    "connectors": "2x SMA Male"
+  },
+  "wifi": {
+    "standard": "2x Dual-band WLAN 2.4/5 Ghz",
+    "gain": "3,9 dBi (WLAN 2.4) / 3,3 dBi (WLAN 5)",
+    "vswr": "≤ 1.7 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Omni-directional",
+    "connectors": "2x SMA male"
+  },
+  "gnss": {
+    "standard": "1x GPS/Galileo/GLOSNASS/BeiDou",
+    "type": "Active",
+    "frequency": "1532 - 1618",
+    "gain": "27 dBi",
+    "vswr": "≤ 1.5 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Omni-directional",
+    "amplifier": {
+      "power": "3 - 5 V",
+      "current": "6.1 mA / 13 mA",
+      "gain": "25 dB typ."
+    },
+    "connector": "1x SMA male"
+  },
+  "mechanical": {
+    "dimensions": "Diameter (110), Height (40)",
+    "weight": "750",
+    "mounting": "Rooftop with screws, no ground plane needed",
+    "color": "Black"
+  },
+  "environmental": {
+    "temperature": "-40 °C to 80 °C",
+    "iPLevel": "IP67"
+  },
+  "certifications": {
+    "rohsReach": "RoHS, REACH"
+  },
+  "other": {
+    "orderCorder": "Antenna-Roof-2L2WG"
+  }
+}

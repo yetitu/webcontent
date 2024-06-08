@@ -1,0 +1,35 @@
+{
+  "title": "Antenna-Wall-L",
+  "description": "It is a vertical polarization antenna for 4G, 3G, 2G networks.",
+  "heroText": "It is an antenna with vertical polarization that is suitable for use outdoors and allows the most effective use of mobile networks.",
+  "image": "antenna-wall-l.png",
+  "overview": [
+    "Antenna-Wall-L is a cellular antenna with vertical polarization that supports LTE, UMTS, GSM as well as WLAN 2.4GHz and can be used for applications such as remote monitoring, telematics and much more. It is suitable for indoor and outdoor use with its IP54 protection level and supported temperature range from -40°C to +85°C.",
+    "The bracket and 5 m cable allow the antenna to be mounted on a wall or panel, allowing flexible positioning."
+  ],
+  "cellular": {
+    "standard": "1x LTE/UMTS/GSM",
+    "lteBands": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13, 18, 19, 20, 25, 26, 27, 69 - TDD Bands: 33, 34, 35, 36, 37, 38, 39, 41, 53",
+    "umtsBands": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 19, 20, 25, 26 - TDD Bands: 0, 1, 2, 3, 4, 5, 7",
+    "gsmBands": "850, 900, 1800, 1900",
+    "frequency": "790 - 960, 1710 - 2170, 2400 - 2690",
+    "gain": "1 dBi ± 0,5 dB, 3 dBi ± 0,5 dB (WiFi 2.4)",
+    "vswr": "≤ 2 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Omni-directional azimuth",
+    "connectors": "1x SMA Male"
+  },
+  "mechanical": {
+    "dimensions": "Diameter (148), Height (224)",
+    "weight": "150",
+    "mounting": "Bracket",
+    "color": "Black"
+  },
+  "environmental": {
+    "temperature": "-40 °C to 85 °C",
+    "iPLevel": "IP54"
+  },
+  "other": {
+    "orderCorder": "Antenna-Wall-L"
+  }
+}

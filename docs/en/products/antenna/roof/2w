@@ -1,0 +1,34 @@
+{
+  "title": "Antenna-Roof-2W",
+  "description": "Omnidirectional combo antenna with linear polarization for signal enhancement in WiFi networks.",
+  "heroText": "It is a versatile combo antenna with linear polarization that is suitable for use outdoors and allows the most effective use of WiFi networks.",
+  "image": "antenna-roof-2w.png",
+  "overview": [
+    "The Antenna-Roof-2W is an omnidirectional combo antenna for signal enhancement in WiFi networks. It can be used for creating a WiFi coverage inside a vehicle/facility or accessing an access point outside of the vehicle/facility. The antenna combines two WiFi antennas in a single housing and thus supports MIMO WiFi 2.4/5 GHz. WiFi is linear polarized.",
+    "The antenna is RoHS and REACH compliant and with protection level IP69K (waterproof) and supported temperature range from -40 °C to +85 °C it is suited for indoor and outdoor usage in harsh environments. The antenna can be mounted permanently with screws and four included 3m cables allow a flexible positioning."
+  ],
+  "wifi": {
+    "standard": "2x Dual-band WLAN 2.4/5 Ghz",
+    "gain": "3 dBi (WLAN 2.4) / 1 dBi (WLAN 5)",
+    "vswr": "≤ 2 typ.                        |",
+    "impedance": "50 Ohm",
+    "radiation": "Omni-directional",
+    "connectors": "2x SMA male"
+  },
+  "mechanical": {
+    "dimensions": "Diameter (76), Height (21)",
+    "weight": "160",
+    "mounting": "Rooftop with screws, no ground plane needed",
+    "color": "Black"
+  },
+  "environmental": {
+    "temperature": "-40 °C to 85 °C",
+    "iPLevel": "IP69K"
+  },
+  "certifications": {
+    "rohsReach": "RoHS, REACH"
+  },
+  "other": {
+    "orderCorder": "Antenna-Roof-2W"
+  }
+}

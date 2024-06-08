@@ -1,0 +1,78 @@
+{
+  "title": "Antenna-Roof Serisi",
+  "brand": "Reel",
+  "series": "Antenna-Roof",
+  "description": "Endüstriyel tesisler veya karayolu araçları için ideal, MIMO destekli, kurulumu kolay, kompakt tasarımlı antenlerdir.",
+  "heroText": "İç ve dış ortamlarda kullanıma elverişli",
+  "image": "antenna-roof.png",
+  "group": "antenna",
+  "usage": "Endüstriyel",
+  "general": [
+    {
+      "id": 1,
+      "title": "Outdoor",
+      "text": "--------"
+    },
+    {
+      "id": 2,
+      "title": "Indoor",
+      "text": "--------"
+    },
+    {
+      "id": 3,
+      "title": "Kombo",
+      "text": "-------"
+    }
+  ],
+  "models": [
+    {
+      "productCode": "Antenna-Roof-2L",
+      "cellular": "2x MIMO LTE/UMTS/GSM",
+      "wlan": "",
+      "gps": "",
+      "type": ""
+    },
+    {
+      "productCode": "Antenna-Roof-2L2W",
+      "cellular": "2x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "",
+      "type": ""
+    },
+    {
+      "productCode": "Antenna-Roof-2L2WG",
+      "cellular": "2x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "GNSS",
+      "type": ""
+    },
+    {
+      "productCode": "Antenna-Roof-2LG",
+      "cellular": "2x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "",
+      "gps": "GNSS",
+      "type": "ECE R118"
+    },
+    {
+      "productCode": "Antenna-Roof-2W",
+      "cellular": "",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "",
+      "type": "ECE R118"
+    },
+    {
+      "productCode": "Antenna-Roof-W",
+      "cellular": "",
+      "wlan": "1x MIMO 2.4/ 5 GHz",
+      "gps": "",
+      "type": ""
+    },
+    {
+      "productCode": "Antenna-Wall-L",
+      "cellular": "1x LTE/UMTS/GSM",
+      "wlan": "2.4 GHz",
+      "gps": "",
+      "type": ""
+    }
+  ]
+}

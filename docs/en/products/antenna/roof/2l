@@ -1,0 +1,34 @@
+{
+  "title": "Antenna-Roof-2L",
+  "description": "Omnidirectional combo antenna with linear polarization for signal enhancement in 4G, 3G, 2G networks.",
+  "heroText": "It is a versatile combo antenna with linear polarization that is suitable for use outdoors and allows the most effective use of mobile networks.",
+  "image": "antenna-roof-lg.png",
+  "overview": [
+    "The Antenna-Roof-2L is an omnidirectional antenna with linear polarization for signal enhancement 4G / 3G and 2G networks. It can be used in telematics, for weather stations, switch cabinets and much more.",
+    "Incorporating two separately fed ultra-wideband elements in a single housing, the antenna is equipped to provide client-side MIMO. The antenna can be mounted permanently with screws and two included 3m cables allow a flexible positioning."
+  ],
+  "cellular": {
+    "standard": "2x LTE/UMTS/GSM",
+    "lteBands": "1, 2, 3, 4, 5, 7, 8, 10, 12, 13, 14, 17, 18, 19, 20, 23, 25, 26, 27, 28, 29, 30, 65, 66, 67, 68, 69, 70, 85 - TDD : 33, 34, 35, 36, 37, 38, 39, 40, 41, 44, 53",
+    "umtsBands": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 19, 20, 25, 26 - TDD : 33, 34, 35, 36, 37, 38, 39, 40",
+    "gsmBands": "710, 750, 810 T-GSM, 850, 900 P, 900 E, 900 R, 1800 DCS, 1900 PCS",
+    "frequency": "704 - 960, 1710 - 2690",
+    "gain": "6.1 dBi@700-960MHz / 5.47 dBi@1710-2690MHz"
+  },
+  "mechanical": {
+    "dimensions": "Diameter (80), Height (42)",
+    "weight": "335",
+    "mounting": "Rooftop with screws, no ground plane needed",
+    "color": "Black"
+  },
+  "environmental": {
+    "temperature": "-40 °C to 80 °C",
+    "iPLevel": "IP67"
+  },
+  "certifications": {
+    "rohsReach": "RoHS, REACH"
+  },
+  "other": {
+    "orderCorder": "Antenna-Roof-2L"
+  }
+}

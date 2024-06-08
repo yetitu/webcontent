@@ -1,0 +1,35 @@
+{
+  "title": "Antenna-Roof-W",
+  "description": "WiFi ağlarında sinyal iyileştirme için doğrusal polarizasyona sahip çok yönlü kombo antendir.",
+  "heroText": "İç ve dış ortamda kullanılmaya elverişli, WiFi ağlarından en etkin şekilde yararlanmaya olanak tanıyan, doğrusal polarizasyona sahip çok yönlü kombo antendir.",
+  "image": "antenna-roof-2w.png",
+  "overview": [
+    "Antenna-Roof-W, WiFi ağında sinyal iyileştirmeye yönelik çok yönlü bir kombo antendir. Tesis içerisinde WiFi kapsama alanı oluşturmak veya tesis dışındaki bir erişim noktasına erişim sağlamak için kullanılabilir. WiFi doğrusal polarizedir.",
+    "Anten, RoHS ve REACH uyumludur ve IP69K koruma düzeyine (su geçirmez) sahiptir ve -40 °C ile +85 °C arası desteklenen sıcaklık aralığıyla, zorlu ortamlarda iç ve dış mekan kullanımına uygundur. Anten vidalarla kalıcı olarak monte edilebilir ve birlikte verilen dört adet 3 m'lik kablo esnek bir konumlandırmaya olanak tanır."
+  ],
+  "wifi": {
+    "standard": "1x Dual-band WLAN 2.4/5 Ghz",
+    "frequency": "2408 - 2480, 5150 - 5850",
+    "gain": "3 dBi (WLAN 2.4) / 1 dBi (WLAN 5)",
+    "vswr": "≤ 2 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Her Yöne (omnidirectional)",
+    "connectors": "2x SMA male"
+  },
+  "mechanical": {
+    "dimensions": "Çap (76), Yükseklik (21)",
+    "weight": "160",
+    "mounting": "Çatıya vidalanır, yer düzlemi gerektirmez",
+    "color": "Siyah"
+  },
+  "environmental": {
+    "temperature": "-40 °C ile 85 °C arası",
+    "iPLevel": "IP69K"
+  },
+  "certifications": {
+    "rohsReach": "RoHS, REACH"
+  },
+  "other": {
+    "orderCorder": "Antenna-Roof-W"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Antenna-Roof-2L2W",
+  "description": "4G, 3G, 2G, GSM, WiFi ağlarında sinyal iyileştirme için doğrusal polarizasyona sahip çok yönlü kombo antendir.",
+  "heroText": "İç ve dış ortamda kullanılmaya elverişli, mobil ağlardan en etkin şekilde yararlanmaya olanak tanıyan, doğrusal polarizasyona sahip çok yönlü kombo antendir.",
+  "image": "antenna-roof-2w.png",
+  "overview": [
+    "Antenna-Roof-2L2W, mobil ve WiFi ağlarında sinyal iyileştirmeye yönelik çok yönlü bir kombo antendir. Hava durumu istasyonları, uzaktan yönetim ve çok daha fazlası için kullanılabilir. Anten, iki LTE antenini ve iki WiFi antenini tek bir muhafazada birleştirir ve böylece MIMO LTE/UMTS/GSM ve MIMO WiFi 2,4/5 GHz'i destekler. LTE ve WiFi doğrusal polarizedir.",
+    "Anten RoHS uyumludur ve IP67 koruma seviyesi (su geçirmez) ile -40 °C ile +80 °C arası desteklenen sıcaklık aralığıyla zorlu ortamlarda iç ve dış mekan kullanımına uygundur. Anten vidalarla kalıcı olarak monte edilebilir ve birlikte verilen dört adet 3 m'lik kablo esnek bir konumlandırmaya olanak tanır."
+  ],
+  "cellular": {
+    "standard": "2x LTE/UMTS/GSM",
+    "lteBands": "1, 2, 3, 4, 5, 7, 8, 10, 12, 13, 14, 17, 18, 19, 20, 23, 25, 26, 27, 28, 29, 30, 65, 66, 67, 68, 69, 70, 85 - TDD : 33, 34, 35, 36, 37, 38, 39, 40, 41, 44, 53",
+    "umtsBands": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 19, 20, 25, 26 - TDD : 33, 34, 35, 36, 37, 38, 39, 40",
+    "gsmBands": "710, 750, 810 T-GSM, 850, 900 P, 900 E, 900 R, 1800 DCS, 1900 PCS",
+    "frequency": "704 - 960, 1710 - 2690",
+    "vswr": "≤ 1.8 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Her yöne (omnidirectional)",
+    "connectors": "2x SMA Male"
+  },
+  "wifi": {
+    "standard": "2x Dual-band WLAN 2.4/5 Ghz",
+    "frequency": "2400 - 2500, 5180 - 5835",
+    "gain": "4 dBi (WLAN 2.4) / 1 dBi (WLAN 5)",
+    "vswr": "≤ 1.8 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Her Yöne (omnidirectional)",
+    "connectors": "2x SMA male"
+  },
+  "mechanical": {
+    "dimensions": "Çap (102), Yükseklik (44)",
+    "weight": "750",
+    "mounting": "Çatıya vidalanır, yer düzlemi gerektirmez",
+    "color": "Siyah"
+  },
+  "environmental": {
+    "temperature": "-40 °C ile 80 °C arası",
+    "iPLevel": "IP67"
+  },
+  "certifications": {
+    "rohsReach": "RoHS, REACH"
+  },
+  "other": {
+    "orderCorder": "Antenna-Roof-2L2W"
+  }
+}
