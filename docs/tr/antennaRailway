@@ -1,0 +1,123 @@
+{
+  "title": "Antenna-Railway Serisi",
+  "brand": "Reel",
+  "series": "Antenna-Railway",
+  "description": "Demiryollarında toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir.",
+  "heroText": "Dayanıklı, kompakt, kombo, sertifikalı",
+  "image": "antenna-railway.png",
+  "group": "antenna",
+  "usage": "Demiryolu Araçları",
+  "general": [
+    {
+      "id": 1,
+      "title": "Demiryolları araçları için özel",
+      "text": "Demiryollarında toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir."
+    },
+    {
+      "id": 2,
+      "title": "Outdoor",
+      "text": "Açık hava montajına uygun modellerde, 5G/4G/3G/2G/GSM/GSM-R mobil ağ ve GNSS bağlantıları için araç dışında, aracının tavanına kurulan dış ortam antenlerin yüksekliği 60mm'dir."
+    },
+    {
+      "id": 3,
+      "title": "Indoor",
+      "text": "WiFi kablosuz ağ oluşturmak amacıyla araç içinde kurulan iç ortam antenleri çok az yer kaplar. Yükseklikliyi 23 mm, çapı ise 96 mm'dir."
+    },
+    {
+      "id": 4,
+      "title": "Kombo",
+      "text": "Farklı haberleşme sistemlerinin (5G/4G/3G/2G/GSM/GSM-R mobil ağ bağlantıları, 2.4/5 GHz WLAN için MIMO ve GNSS için GPS/Galileo/GLONASS/BeiDou) bir arada kullanılmasına olanak tanır."
+    },
+    {
+      "id": 6,
+      "title": "Uygunluk Sertifikaları",
+      "text": "Demiryolu aracı üreticileri, ürettikleri araçlarda güvenliği son derece önemserler. Tüm modeller EN 50155, EN 45545-2 sertifikasına sahiptir."
+    }
+  ],
+  "models": [
+    {
+      "productCode": "Antenna-Railway-2L",
+      "cellular": "2x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "",
+      "gps": "",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-2L2WG",
+      "cellular": "2x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "GNSS",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-2LG",
+      "cellular": "2x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "",
+      "gps": "GNSS",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-4L",
+      "cellular": "4x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "",
+      "gps": "",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-4L2WG",
+      "cellular": "4x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "GNSS",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-4LG",
+      "cellular": "4x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "",
+      "gps": "GNSS",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-4N",
+      "cellular": "4x MIMO 5G/LTE/UMTS/GSM/GSM-R",
+      "wlan": "",
+      "gps": "",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-4N2W",
+      "cellular": "4x MIMO 5G/LTE/UMTS/GSM/GSM-R",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-4N2WG",
+      "cellular": "4x MIMO 5G/LTE/UMTS/GSM/GSM-R",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "GNSS",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-4NG",
+      "cellular": "4x MIMO 5G/LTE/UMTS/GSM/GSM-R",
+      "wlan": "",
+      "gps": "GNSS",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-Indoor-01-2W",
+      "cellular": "",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-Indoor-01-2Wjq",
+      "cellular": "",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "",
+      "type": "EN50155, EN45545"
+    }
+  ]
+}

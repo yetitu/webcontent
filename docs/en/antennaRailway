@@ -1,0 +1,119 @@
+{
+  "title": "Antenna-Railway Series",
+  "brand": "Antonics",
+  "series": "Antenna-Railway",
+  "description": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation on railways to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle.",
+  "heroText": "Durable, compact, combo, certified",
+  "image": "antenna-railway.png",
+  "groupImage": "antenna-railway.jpg",
+  "group": "antenna",
+  "usage": "Railway Vehicles",
+  "general": [
+    {
+      "title": "Designed for railway vehicles",
+      "text": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation on railways to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle."
+    },
+    {
+      "title": "Outdoor",
+      "text": "In models suitable for outdoor installation, the height of the outdoor antennas installed on the roof of the vehicle outside the vehicle for 5G/4G/3G/2G/GSM/GSM-R mobile network and GNSS connections is 60mm."
+    },
+    {
+      "title": "Indoor",
+      "text": "Indoor antennas installed in the vehicle to create a WiFi wireless network take up very little space. Its height is 23 mm and its diameter is 96 mm."
+    },
+    {
+      "title": "Combo",
+      "text": "It allows different communication systems (5G/4G/3G/2G/GSM/GSM-R mobile network connections, MIMO for 2.4/5 GHz WLAN and GPS/Galileo/GLONASS/BeiDou for GNSS) to be used together."
+    },
+    {
+      "title": "Certificates of Conformity",
+      "text": "Railway vehicle manufacturers attach great importance to safety in the vehicles they produce. All models have EN 50155, EN 45545-2 certification."
+    }
+  ],
+  "models": [
+    {
+      "productCode": "Antenna-Railway-2L",
+      "cellular": "2x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "",
+      "gps": "",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-2L2WG",
+      "cellular": "2x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "GNSS",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-2LG",
+      "cellular": "2x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "",
+      "gps": "GNSS",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-4L",
+      "cellular": "4x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "",
+      "gps": "",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-4L2WG",
+      "cellular": "4x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "GNSS",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-4LG",
+      "cellular": "4x MIMO LTE/UMTS/GSM/GSM-R",
+      "wlan": "",
+      "gps": "GNSS",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-4N",
+      "cellular": "4x MIMO 5G/LTE/UMTS/GSM/GSM-R",
+      "wlan": "",
+      "gps": "",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-4N2W",
+      "cellular": "4x MIMO 5G/LTE/UMTS/GSM/GSM-R",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-4N2WG",
+      "cellular": "4x MIMO 5G/LTE/UMTS/GSM/GSM-R",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "GNSS",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-4NG",
+      "cellular": "4x MIMO 5G/LTE/UMTS/GSM/GSM-R",
+      "wlan": "",
+      "gps": "GNSS",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-Indoor-01-2W",
+      "cellular": "",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "",
+      "type": "EN50155, EN45545"
+    },
+    {
+      "productCode": "Antenna-Railway-Indoor-01-2Wjq",
+      "cellular": "",
+      "wlan": "2x MIMO 2.4/ 5 GHz",
+      "gps": "",
+      "type": "EN50155, EN45545"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Antenna-Railway-Indoor-01-2W",
+  "description": "It is the ideal omnidirectional combo antenna for signal improvement in WIFI networks.",
+  "heroText": "They are omni-directional antennas that are suitable for use in railway vehicles and allow the most effective use of the WLAN connection.",
+  "image": "antenna-railway-indoor-01-2w.png",
+  "overview": [
+    "Antenna-Railway-Indoor-01-2W is an indoor train antenna certified according to the railway standard EN 50155 and EN45545 for installation on trains and vehicles. The antenna supports MIMO WiFi 2.4 and 5 GHz and is suitable for passenger WiFi or data collection applications. It is vertically and cross polarized and can be used in the temperature range of -40°C to +80°C.",
+    "<h3 id=\"specs\" class=\"mt-5\">Hardware</h3>"
+  ],
+  "wifi": {
+    "standard": "2x Dual-band WLAN 2.4/5 Ghz",
+    "gain": "8.4 dBi (WLAN 2.4) / 9.1 dBi (WLAN 5)",
+    "vswr": "≤ 1.8 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Omni-directional"
+  },
+  "mechanical": {
+    "dimensions": "Diameter (96), Height (23)",
+    "weight": "120",
+    "mounting": "Rooftop with screws",
+    "color": "Black"
+  },
+  "environmental": {
+    "temperature": "-40 °C to 80 °C",
+    "iPLevel": "IP42"
+  },
+  "other": {
+    "orderCorder": "Antenna-Railway-Indoor-01-2W"
+  }
+}

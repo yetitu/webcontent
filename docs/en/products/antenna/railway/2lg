@@ -1,0 +1,50 @@
+{
+  "title": "Antenna-Railway-2LG",
+  "description": "It is a versatile combo antenna for signal enhancement and GNSS in 4G, 3G, 2G, GSM, GSM-R networks.",
+  "heroText": "Omni-directional antenna that is suitable for use on the roof of railway vehicles and allows the most effective use of mobile networks and GPS connection.",
+  "image": "railway-2l2wg.png",
+  "overview": [
+    "The Antenna-Railway-2LG is an omnidirectional multiband train antenna with certification according to railway standard EN 50155 for mounting on trains and vehicles. The antenna is designed for 2G, 3G, 4G and also GSM-R networks and also GNSS. With protection level IPX9k and supported temperature range from -60 °C to +80 °C, the antenna can be used on top of vehicles for train to ground communications and much more.",
+    "The antenna combines multiple antennas in a single housing and thus supports MIMO LTE/UMTS/GSM/GSM-R and GNSS (GPS & GLONASS) with amplifier. The antenna can be mounted permanently with six bolts and the bundle includes three 3m cables."
+  ],
+  "cellular": {
+    "standard": "2x LTE/UMTS/GSM/GSM-R",
+    "lteBands": "1, 2, 3, 4, 5, 7, 8, 10, 12, 13, 14, 17, 18, 19, 20, 23, 25, 26, 27, 28, 29, 30, 65, 66, 67, 68, 69, 70, 85 - TDD : 33, 34, 35, 36, 37, 38, 39, 40, 41, 44, 53",
+    "umtsBands": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 19, 20, 25, 26 - TDD : 33, 34, 35, 36, 37, 38, 39, 40",
+    "gsmBands": "710, 750, 810 T-GSM, 850, 900 P, 900 E, 900 R, 1800 DCS, 1900 PCS",
+    "frequency": "694 - 960, 1710 - 2690",
+    "gain": "7,5 dBi (LTE 700, GSM-R) / 8,1 dBi (GSM 1800, UMTS, LTE 2600)",
+    "vswr": "≤ 1.8 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Omnidirectional",
+    "connectors": "2x N female"
+  },
+  "gnss": {
+    "standard": "1x GPS/Galileo/GLOSNASS/BeiDou",
+    "type": "Active",
+    "frequency": "1560 - 1606",
+    "gain": "5.1 dBi",
+    "vswr": "≤ 1.8 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Omni-directional",
+    "amplifier": {
+      "power": "3.3 - 5 V",
+      "current": "8 mA typ. (3.3 V) / 15 mA typ. (5 V)",
+      "gain": "25 dB typ."
+    },
+    "connector": "0,3 m cable N-m angle to amplifier with N-f"
+  },
+  "mechanical": {
+    "dimensions": "Diameter (200), Height (60)",
+    "weight": "1500",
+    "mounting": "Rooftop with screws, no ground plane needed",
+    "color": "Black"
+  },
+  "environmental": {
+    "temperature": "-60 °C to 80 °C",
+    "iPLevel": "IPX9k, IP6X"
+  },
+  "other": {
+    "orderCorder": "Antenna-Railway-2LG"
+  }
+}

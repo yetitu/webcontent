@@ -1,0 +1,31 @@
+{
+  "title": "Antenna-Railway-Indoor-01-2Wjq",
+  "description": "WLAN ağlarında sinyal iyileştirme için ideal çok yönlü kombo antendir.",
+  "heroText": "Demiryolu araçlarının içinde kullanılmaya elverişli, WLAN bağlantısından en etkin şekilde yararlanmaya olanak tanıyan çok yönlü (omni-directional) antenlerdir. AP3400 serisi kablosuz ağ erişim noktası ile kullanılması önerilir.",
+  "image": "antenna-railway-indoor-01-2w.png",
+  "overview": [
+    "Antenna-Railway-Indoor-01-2WJq, trenlere ve araçlara montaj için EN 50155 ve EN45545 demiryolu standardına göre sertifikalandırılmış bir iç mekan tren antenidir. AP3400 serisi kablosuz ağ erişim noktası ile kullanılması önerilir. Anten, MIMO WiFi 2.4 ve 5 GHz'i destekler ve yolcu WiFi veya veri toplama uygulamaları için uygundur. Dikey ve çapraz polarize olup -40°C ila +80°C sıcaklık aralığında kullanılabilir.",
+    "<h3 id=\"specs\" class=\"mt-5\">Donanım</h3>"
+  ],
+  "wifi": {
+    "standard": "2x Dual-band WLAN 2.4/5 Ghz",
+    "frequency": "2400 - 2500, 5180 - 5835",
+    "gain": "8.4 dBi (WLAN 2.4) / 9.1 dBi (WLAN 5)",
+    "vswr": "≤ 1.8 typ.",
+    "impedance": "50 Ohm",
+    "radiation": "Her Yöne (omnidirectional)",
+    "connectors": "2x SMA female"
+  },
+  "mechanical": {
+    "dimensions": "Çap (96), Yükseklik (23)",
+    "weight": "120",
+    "mounting": "Araç tavanına içeriden vidalanır",
+    "color": "Siyah"
+  },
+  "environmental": {
+    "temperature": "-40 °C ile 80 °C arası"
+  },
+  "other": {
+    "orderCorder": "Antenna-Railway-Indoor-01-2Wjq"
+  }
+}
