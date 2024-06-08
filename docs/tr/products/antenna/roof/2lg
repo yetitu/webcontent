@@ -24,7 +24,7 @@
     "radiation": "Her Yöne (omnidirectional)",
     "amplifier": {
       "power": "3 - 5.5 V",
-      "current": "12mA                     |",
+      "current": "12mA",
       "gain": "25 dB typ."
     },
     "connector": "1x SMA male"

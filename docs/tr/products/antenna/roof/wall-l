@@ -15,7 +15,7 @@
     "frequency": "790 - 960, 1710 - 2170, 2400 - 2690",
     "vswr": "",
     "impedance": "",
-    "radiation": "directional) azimut |"
+    "radiation": "Omnidirectional azimut"
   },
   "mechanical": {
     "dimensions": "Çap (148), Yükseklik (224)",

@@ -10,7 +10,7 @@
   "wifi": {
     "standard": "2x Dual-band WLAN 2.4/5 Ghz",
     "gain": "3 dBi (WLAN 2.4) / 1 dBi (WLAN 5)",
-    "vswr": "≤ 2 typ.                        |",
+    "vswr": "≤ 2 typ.",
     "impedance": "50 Ohm",
     "radiation": "Omni-directional",
     "connectors": "2x SMA male"
