@@ -2,7 +2,7 @@
   {
     "brand": "NetModule",
     "series": "NB800",
-    "imageUrl": "/images/products/router/nb800/nb800.png",
+    "imageUrl": "/images/products/router/nb800/nb800_front.jpg",
     "desc": "NB800 serisi mobil yönlendiriciler -40 °C ile +70 °C arasında çalışır. Endüstriyel ortamlardaki kritik cihazlar için kablosuz 4G, WiFi, BLE ağ bağlantıları sağlar. 1 adet Ethernet, seri ve USB portu bulunmaktadır.",
     "usage": "IIoT",
     "url": "/nb800"
@@ -10,7 +10,7 @@
   {
     "brand": "NetModule",
     "series": "NB1600",
-    "imageUrl": "/images/products/router/nb1600/nb1600.png",
+    "imageUrl": "/images/products/router/nb1600/nb1600_front.jpg",
     "desc": "NB1600 serisi mobil yönlendiriciler -40 °C ile +55 veya +70 °C arasında çalışır. Endüstriyel ortamlardaki kritik cihazlar için kablosuz 4G, WiFi, BLE ağ bağlantıları sağlar 4 adet Ethernet, seri ve USB portu bulunmaktadır.",
     "usage": "IIoT",
     "url": "/nb1600"
@@ -18,7 +18,7 @@
   {
     "brand": "NetModule",
     "series": "NB1800",
-    "imageUrl": "/images/products/router/nb1800/nb1800.png",
+    "imageUrl": "/images/products/router/nb1800/nb1800_front.jpg",
     "desc": "NB1800 serisi mobil ağ yönlendiricileri -40 °C ile +70 °C arasında çalışır. Endüstriyel ortamlardaki kritik aygıtlar için kablosuz 5G, 4G, WiFi, BLE ağ bağlantıları sağlar. Gigabit Ethernet, SFP, seri ve USB portları bulunur.",
     "usage": "IIoT",
     "url": "/nb1800"
@@ -26,7 +26,7 @@
   {
     "brand": "NetModule",
     "series": "NB2800",
-    "imageUrl": "/images/products/router/nb2800/nb2800.png",
+    "imageUrl": "/images/products/router/nb2800/nb2800_front.jpg",
     "desc": "Karayollarında çalışan araçlara yönelik; Kablosuz bağlantılar için 5G, 4G, WiFi, GPS teknolojilerine, kablolu veri iletişimi içinse Ethernet, seri, CAN, USB bağlantı noktalarına sahip NB2800 serisi mobil yönlendiriciler, 2008'den günümüze, Telista güvencesiyle Türkiye'de.",
     "usage": "Karayolu Araçları",
     "url": "/nb2800"
@@ -34,7 +34,7 @@
   {
     "brand": "NetModule",
     "series": "NB3700",
-    "imageUrl": "/images/products/router/nb3700/nb3700.png",
+    "imageUrl": "/images/products/router/nb3700/nb3700_front.jpg",
     "desc": "Demiryollarında çalışan araçlar için kablosuz 4G, WiFi ve GPS bağlantıları sağlar. Ethernet, Sayısal Giriş/Çıkış ve USB portları bulunur. Zorlu fiziksel koşullar için idealdir. Demiryolları endüstrisinde aranan tüm yönergelere uygundur.",
     "usage": "Demiryolu Araçları",
     "url": "/nb3700"
@@ -42,7 +42,7 @@
   {
     "brand": "NetModule",
     "series": "NB3800",
-    "imageUrl": "/images/products/router/nb3800/nb3800.png",
+    "imageUrl": "/images/products/router/nb3800/nb3800_front.jpg",
     "desc": "Demiryollarında çalışan araçlar için kablosuz 5G, 4G, WiFi, BLE ve GPS bağlantıları sağlar. Ethernet, seri ve USB portları bulunur. Zorlu fiziksel koşullar için idealdir. Demiryolları endüstrisinde aranan tüm yönergelere uygundur.",
     "usage": "Demiryolu Araçları",
     "url": "/nb3800"
@@ -50,7 +50,7 @@
   {
     "brand": "NetModule",
     "series": "NG800",
-    "imageUrl": "/images/products/router/nb3800/nb3800.png",
+    "imageUrl": "/images/products/router/nb3800/nb3800_front.jpg",
     "desc": "Karayollarında çalışan araçlar için kablosuz 5G, 4G, WiFi, BLE ve GPS bağlantıları sağlar. Ethernet, Automotive-Ethernet, seri ve CAN portları bulunur. IP69K korumalıdır. Zorlu fiziksel koşullar için idealdir. Karayolları endüstrisinde aranan tüm yönergelere uygundur. Elektronik SİM (eUICC) destekler.",
     "usage": "Karayolu Araçları",
     "url": "/ng800"
