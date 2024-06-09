@@ -3,8 +3,57 @@
     "brand": "NetModule",
     "series": "NB800",
     "imageUrl": "/images/products/router/nb800/nb800.png",
-    "desc": "NB800 series mobile routers operate between -40 °C and +70 °C. Provides wireless 4G, WiFi, BLE network connections for critical devices in industrial environments. They have Ethernet, serial and USB ports.",
+    "desc": "NB800 series of mobile routers operate between -40 °C and +70 °C. Provide wireless 4G, WiFi, BLE network connections for critical devices in industrial environments. There are Ethernet, serial and USB ports.",
     "usage": "IIoT",
     "url": "/nb800"
+  },
+  {
+    "brand": "NetModule",
+    "series": "NB1600",
+    "imageUrl": "/images/products/router/nb1600/nb1600.png",
+    "desc": "NB1600 series of mobile routers operate between -40 °C and +70 °C. Provide wireless 4G, WiFi, BLE network connections for critical devices in industrial environments. There are 4 Ethernet, serial and USB ports.",
+    "usage": "IIoT",
+    "url": "/nb1600"
+  },
+  {
+    "brand": "NetModule",
+    "series": "NB1800",
+    "imageUrl": "/images/products/router/nb1800/nb1800.png",
+    "desc": "NB1800 series of mobile routers operate between -40 °C and +70 °C. Provide wireless 5G, 4G, WiFi, BLE network connections for critical devices in industrial environments. They have Gigabit Ethernet, SFP, serial and USB ports.",
+    "usage": "IIoT",
+    "url": "/nb1800"
+  },
+  {
+    "brand": "NetModule",
+    "series": "NB2800",
+    "imageUrl": "/images/products/router/nb2800/nb2800.png",
+    "desc": "Mobile routers for the vehicles operating on highways with 5G, 4G, WiFi, GPS technologies for wireless connections and Ethernet, serial, USB ports for wired data communications.",
+    "usage": "Highway Vehicles",
+    "url": "/nb2800"
+  },
+  {
+    "brand": "NetModule",
+    "series": "NB3700",
+    "imageUrl": "/images/products/router/nb3700/nb3700.png",
+    "desc": "NB3700 series of mobile routers provide wireless 4G, WiFi and GPS connections for the vehicles operating on railways. They have Ethernet, Digital I/O and USB ports. They are ideal for harsh physical conditions. They comply with all the directives sought in the railway industry.",
+    "usage": "Railway Vehicles",
+    "url": "/nb3700"
+  },
+  {
+    "brand": "NetModule",
+    "series": "NB3800",
+    "imageUrl": "/images/products/router/nb3800/nb3800.png",
+    "desc": "NB3800 series of mobile routers provide wireless 5G, 4G, WiFi, BLE and GPS connections for the vehicles operating on railways. They have Ethernet, serial and USB ports. They are ideal for harsh physical conditions. They comply with all the directives sought in the railway industry.",
+    "usage": "Railway Vehicles",
+    "url": "/nb3800"
+  },
+  {
+    "brand": "NetModule",
+    "series": "NG800",
+    "imageUrl": "/images/products/router/nb3800/nb3800.png",
+    "desc": "NG800 series of mobile routers provide wireless 5G, 4G, WiFi, BLE and GPS connections for vehicles operating on highways. They have Ethernet, Auto-Ethernet, serial and USB ports. Their compact design is ideal for harsh physical conditions. They comply with all directives sought in the automotive industry. They support electronic SIM (eUICC).",
+    "usage": "Highway Vehicles",
+    "url": "/ng800"
   }
 ]
+
