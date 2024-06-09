@@ -968,6 +968,40 @@
       "can": "",
       "itpt": false,
       "fms2ip": false
+    },
+    {
+      "productCode": "NB2810-2L2Wac-GIx",
+      "cellular": "2x LTE",
+      "sim": "4x Micro-SIM",
+      "wlan": "2x WLAN-ac",
+      "ethernet": "2x GE (M12)",
+      "gps": "GNSS",
+      "ptt": false,
+      "voice": false,
+      "emark": true,
+      "ssd": "",
+      "virt": false,
+      "ibis": false,
+      "can": "",
+      "itpt": true,
+      "fms2ip": false
+    },
+    {
+      "productCode": "NB2800-2Wac",
+      "cellular": "",
+      "sim": "",
+      "wlan": "2x WLAN-ac",
+      "ethernet": "2x GE",
+      "gps": "",
+      "ptt": false,
+      "voice": false,
+      "emark": true,
+      "ssd": "",
+      "virt": false,
+      "ibis": false,
+      "can": "",
+      "itpt": false,
+      "fms2ip": false
     }
   ]
 }
