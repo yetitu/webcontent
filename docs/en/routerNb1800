@@ -1,0 +1,575 @@
+{
+  "title": "NB1800 Series",
+  "brand": "NetModule",
+  "series": "NB1800",
+  "description": "NB1800 series of mobile routers operate between -40 °C and +70 °C. Provide wireless 5G, 4G, WiFi, BLE network connections for critical devices in industrial environments. They have Gigabit Ethernet, SFP, serial and USB ports.",
+  "heroText": "Connect to your remote assets",
+  "image": "nb1800.png",
+  "group": "router",
+  "usage": "IIoT",
+  "apps": [
+    {
+      "id": 1,
+      "title": "Condition Monitoring",
+      "lead": "Deploy a cutting-edge Condition Monitoring system for lightning-fast, secure mobile connectivity! Monitor your facility's systems from anywhere, effortlessly recording machine conditions and optimizing maintenance schedules to slash service costs. Revolutionize your operations with ease and efficiency!",
+      "text": "The data gathered from sensors through digital I/O, RS-232/485, CAN, WLAN, Ethernet, or Bluetooth interfaces and logged on the router can be transferred to the central office via HTTP, MQTT, SMS, or email. Programming capabilities within the SDK (Software Development Kit) or LXC (Linux container) streamline native data processing. Utilizing LXC technology eliminates the necessity for a standalone PC installation.",
+      "img": "condition-monitoring.png"
+    },
+    {
+      "id": 2,
+      "title": "Factory Automation",
+      "lead": "Achieve cost reduction, improved reliability, enhanced quality, and supply chain optimization through the implementation of factory automation. Whether utilizing cutting-edge monitoring systems or deploying driverless transport systems, mobile connectivity remains a fundamental prerequisite for efficient automation",
+      "text": "Our routers represent robust network devices seamlessly integrated into your operations. They guarantee high-speed data transmission, both wired and wireless, even in the most demanding environments. Our routers seamlessly incorporate multiple mobile network data modules, Ethernet and WiFi for robust network connectivity. Additionally, they serve as device servers, boasting isolated binary input and relay output connectors designed to interface with sensors and actuators.",
+      "img": "factory-automation.png"
+    },
+    {
+      "id": 3,
+      "title": "Remote Management",
+      "lead": "Remotely access, monitor and manage your remote IT systems using mobile network connections, wherever they are in the world.",
+      "text": "In installations situated in hard-to-access areas or encompassing systems like fire and hazard alarm systems, which mandate compliance with legal maintenance and fault information regulations, remote management emerges as the sole effective solution. NetModule routers serve as dependable conduits, facilitating seamless connectivity to remote systems for control, maintenance, or repair tasks.",
+      "img": "remote-management.png"
+    },
+    {
+      "id": 4,
+      "title": "Environmental Monitoring",
+      "lead": "In environmental monitoring projects, data sources frequently reside in remote or inaccessible locations. Employing mobile network routers enhances network integration in such projects, offering connectivity options including LTE/UMTS, Bluetooth, or WiFi Mesh for optimal performance and reliability.",
+      "text": "Sensors or actuators can be seamlessly linked directly to the router through a range of interfaces, enabling local pre-processing of their data. This capability not only reduces data volume but also enables prompt triggering of alarms in the event of an incident.",
+      "img": "environmental-monitoring.png"
+    },
+    {
+      "id": 5,
+      "title": "Smart Traffic",
+      "lead": "Equip traffic lights and intersections with cameras, sensors and mobile routers to analyze traffic flows in real time and meet Green Light Optimal Speed Advisory (GLOSA) and Time to Green requirements.",
+      "text": "Utilizing our compact mobile network routers enables swift and flexible online deployment, regardless of location. In addition to LTE connectivity, these routers boast Ethernet, Bluetooth, serial interfaces, and WiFi Mesh capabilities, facilitating real-time data collection and transmission from diverse sources. This capability allows for immediate response directly at the nearest accessible traffic junction.",
+      "img": "smart-traffic.png"
+    },
+    {
+      "id": 6,
+      "title": "Renewable Energy",
+      "lead": "Renewable energy sources play a significant role in safeguarding the climate, ensuring resource stability, and mitigating conflicts over raw materials. Given the remote nature of numerous wind farms, hydroelectric, or solar power plants, establishing a dependable data connection is imperative.",
+      "text": "NetModule's routers offer remote management capabilities, allowing for over-the-air administration. This includes the seamless execution of software updates and modem firmware updates without requiring physical access. Such functionality proves vital for the networking of wind farms and other remote sites, where system monitoring and recovery mechanisms are indispensable.",
+      "img": "renewable-energy.png"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "title": "Take advantage of advanced information technologies",
+      "lead": "Give your business a competitive advantage. Discover the technologies supported by NB1800 series of routers.",
+      "techItem": [
+        {
+          "id": 1,
+          "title": "5G",
+          "img": "5g.png",
+          "text": "The technology called new radio (5G-NR) provides wireless data communication in the frequency range of 410 MHz to 7.125 GHz (FR-1) or 24.25 GHz to 52.5 GHz (FR-2). GSM modules that support 5G-NR technology are used in the models which support 5th generation (5G) cellular connection capability. With 5G-NR, cellular network operators provide a high-speed data communication environment for rural areas at frequencies below 1 GHz and for high-density urban areas at frequencies between 26-28 GHz. Data download (DL) speed can be up to 5.5 Gbps and data upload (UL) speed can be up to 2.7Gbps."
+        },
+        {
+          "id": 2,
+          "title": "4G–LTE Advanced Pro",
+          "img": "4g-lte-advanced-pro.png",
+          "text": "4G–LTE Advanced Pro technology, also referred to as 4.5G, leverages both licensed (400 MHz to 3.8 GHz) and unlicensed (5GHz) spectrum to support up to 32 carriers of 20MHz each. Data download (DL) speed can be up to 600 Mbps and data upload (UL) speed can be up to 150Mbps. The models in the NB2800 series with LTE Advanced Pro capability are ideal for critical applications that require uninterrupted and very fast data flow. 3G - DC-HSPA+/UMTS technologies are also supported."
+        },
+        {
+          "id": 3,
+          "title": "4G-LTE",
+          "img": "4g-lte.png",
+          "text": "Cellular network operators supporting 4G-LTE technology in Türkiye provide services at frequencies of 800, 900, 1800, 2100 and 2600 MHz. Speeds of 150 Mbps for data download (DL) and 50 Mbps for data upload can be reached. Models in the NB2800 series with 4G-LTE capability also support previous versions (3G - DC-HSPA+/UMTS and 2G - GSM/GPRS/EDGE)."
+        },
+        {
+          "id": 4,
+          "title": "Multi-SIM",
+          "img": "multi-sim.png",
+          "text": "Network-connected devices in the vehicle, such as validators, on-board computers, and IP cameras, can use the router's mobile internet (WWAN) connections. This eliminates the need to use a separate SIM card for each device in the vehicle. The cost of using cellular networks decreases. There are 2 Micro-SIM card slots for each GSM module in the router, so 4 in total. SIM cards may belong to different cellular network operators. Automatic switching between SIM cards can be programmed according to the monthly usage quota or the signal strength where the vehicle is located."
+        },
+        {
+          "id": 5,
+          "title": "WiFi-5",
+          "img": "wifi5.png",
+          "text": "WiFi radios in the NB1800 series models that can create wireless local area networks (WLAN) support IEEE 802.11a/b/g/n/ac (Wi-Fi 5) technologies and operate at 2.5 GHz and 5 GHz frequencies. 2 antennas (2x2 MIMO) are used on each radio to receive/send signal more effectively. It can reach speeds of 300 Mbps on the 2.4 GHz frequency and 866 Mbps on the 5 GHz frequency. It can be operated as an Access Point, WiFi Client and Mesh Point. It can connect with 100 simultaneous WiFi clients in Access Point mode."
+        },
+        {
+          "id": 6,
+          "title": "GNSS (Global Navigation Satellite Systems)",
+          "img": "gnss.png",
+          "text": "High-precision onboard GNSS hardware is used to determine the vehicle's geographic location. A connection is automatically established with Beidou, Galileo, Glonass and GPS satellites and the location is determined."
+        },
+        {
+          "id": 7,
+          "title": "Gigabit Ethernet",
+          "img": "gigabit-ethernet.png",
+          "text": "Equipped with Ethernet hardware to establish a wired network connection, IP-based, it can establish a data communication connection at Gigabit (1024 Mbps) speed with other devices using Ring Topology. In models that support SFP, direct fiber optic cable connection can be made."
+        },
+        {
+          "id": 8,
+          "title": "RS232",
+          "img": "rs232.png",
+          "text": "It can establish a data communication connection with devices with serial communication capability via RS232 at a speed of 115200 Bit/s. All models have 1 serial port where the EIA-232 protocol can be used. Serial port; It allows the router to be managed with the help of a computer, used as a Serial/IP gateway, or to run TTY commands on the modem (GSM Module) in the router."
+        },
+        {
+          "id": 9,
+          "title": "Extended Storage",
+          "img": "ssd.png",
+          "text": "All models in the NB1800 series have an SD Card slot. Thanks to a microSD compatible SD Card with 600 kByte/s data read-write speed, critical information such as time-stamped location/speed records or security video recordings can be stored for a long time."
+        }
+      ]
+    }
+  ],
+  "specs": [
+    {
+      "id": 1,
+      "title": "Standard Hardware Features",
+      "text": "In all models; Cellular networks supporting UMTS of countries in the EMEA region can be accessed, and there is at least one Gigabit Ethernet, RS-232, USB port and SD-Card slot on the router. All models are CE compliant (RED). The features of the standard NRSW (NetModule Router Software) software, which provides the functionality expected from the router, are listed below. Check out all models with different capacities and capabilities."
+    },
+    {
+      "id": 2,
+      "title": "Standard Software Features",
+      "text": "NetModule Router Software 'NRSW', which is the hardware-software ('firmware') of NetModule routers, is the standard software that comes with the product. It is Linux based. It contains all the necessary drivers and basic software support for the router. Being Linux-based, it facilitates the management of wired or wireless network connections as well as a wide range of secure network functions. Necessary update packages are provided free of charge for the router to operate safely throughout its life cycle. It allows developers to develop their own applications.",
+      "keySwFeatures": [
+        {
+          "id": 1,
+          "title": "Advanced Routing Features",
+          "text": "Routing options include static route, multi-route, OSPF, BGP and more. Mobile IP allows migration from one network to another while maintaining a permanent IP address. Quality of Service (QoS) and various firewall options are also available. It supports VPN protocols such as NRSW, OpenVPN or IPSec for secure connections to remote locations."
+        },
+        {
+          "id": 2,
+          "title": "SDK",
+          "text": "Software Development Kit (SDK) that allows you to write your own scripts and functions for the router. It includes extensive functionality for accessing hardware interfaces to retrieve system status parameters, send email or SMS, or perform router configuration tasks."
+        },
+        {
+          "id": 3,
+          "title": "Optional LXC",
+          "text": "NRSW supports Linux Container (LXC). The container virtualizes central processor core resources. This provides isolation of processes and process groups in the central processor. With LXC you can launch a single application or the entire Linux operating system in a container. The container effectively separates the user and router applications for secure execution of both applications."
+        },
+        {
+          "id": 4,
+          "title": "Standard Features",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Fail-safe Update (FOTA) via USB, HTTP(S), (S)FTP, TFTP"
+            },
+            {
+              "id": 2,
+              "text": "Remote CLI & WebGUI"
+            },
+            {
+              "id": 3,
+              "text": "RADIUS authentication, Simple Certificate Enrollment Protocol (SCEP)"
+            },
+            {
+              "id": 4,
+              "text": "Hardware and software watchdog"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Link management",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Link prioritization and aggregation"
+            },
+            {
+              "id": 2,
+              "text": "Load Balancing"
+            },
+            {
+              "id": 3,
+              "text": "Multipath-TCP"
+            },
+            {
+              "id": 4,
+              "text": "IP-Passthrough"
+            },
+            {
+              "id": 5,
+              "text": "Link supervision"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Cellular networking",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Multi-SIM, e-SIM"
+            },
+            {
+              "id": 2,
+              "text": "Multi-APN"
+            },
+            {
+              "id": 3,
+              "text": "Signal strength supervision"
+            },
+            {
+              "id": 4,
+              "text": "GSM, CSFB calls\""
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "WLAN",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Client or access point mode"
+            },
+            {
+              "id": 2,
+              "text": "Multi client support with WEP, WPA-PSK, WPA-RADIUS, WPA-EAP-TLS"
+            },
+            {
+              "id": 3,
+              "text": "Multi/hidden SSID support with WPA-PSK,WPA-RADIUS, WPA-EAP-TLS"
+            },
+            {
+              "id": 4,
+              "text": "IEEE 802.11w, IEEE 802.11r"
+            },
+            {
+              "id": 5,
+              "text": "RADIUS accounting"
+            },
+            {
+              "id": 6,
+              "text": "CAPWAP"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "USB",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "USB sticks for mass storage, adapter for Ethernet or RS232/RS485 interfaces for serial-to-IP-server."
+            },
+            {
+              "id": 2,
+              "text": "Used for Autorun Provisioning Config, Software update"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "IP routing protocols",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Routing options as Destination, Policy, Multipath"
+            },
+            {
+              "id": 2,
+              "text": "Mobile-IP, OSPF, BGP, Multicast, TCP MSS Clamping, Bridging"
+            },
+            {
+              "id": 3,
+              "text": "Discovery protocols LLDP, CDP, SONMP, EDP, FDP, IRDP"
+            },
+            {
+              "id": 4,
+              "text": "STP, RSTP, VRRP, VLAN, PPPoE"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "text": "VPN protocols",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "OpenVPN, IPsec, PPTP, GRE, CSD Dial-In"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "text": "Quality of service ('QoS')",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Diffserv, SFQ, HTB, Priority-based Queuing"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "text": "Firewall",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Stateful firewall, connection tracking"
+            },
+            {
+              "id": 2,
+              "text": "NAT, NAPT, masquerading, bridge filtering"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "text": "Services",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "DHCP Client/Server, DNS Caching Server, Email, SMS Service"
+            },
+            {
+              "id": 2,
+              "text": "NTP Client/Server, SNTP Server, DynDNS, SSH Server, SNMP Agent"
+            },
+            {
+              "id": 3,
+              "text": "HTTP/HTTPS/FTP Server"
+            },
+            {
+              "id": 4,
+              "text": "Voice Gateway (SIP, Call Routing, Audio)"
+            },
+            {
+              "id": 5,
+              "text": "Coovachilli Hotspot"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "text": "Programmability",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Software Development Kit (SDK)"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "text": "Troubleshooting",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Logging, Ping, Traceroute, Tcpdump, Speed-test"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Licensed features",
+      "text": "In addition to the above features that come standard with NB2800 series routers, paid licenses that provide the following capabilities can be added to the router later, if desired, as long as the hardware supports it.",
+      "keySwFeatures": [
+        {
+          "id": 1,
+          "title": "GNSS",
+          "text": "Standalone GNSS server that provides data via a JSON/NMEA data stream Assisted and Dead Reckoning are supported (if the hardware allows it)."
+        },
+        {
+          "id": 2,
+          "title": "OpenVPN and DynDNS",
+          "text": "The NetModule router software supports OpenVPN for establishing encrypted connections via UDP or TCP. In the standard version, a maximum of four OpenVPN instances can be configured on a NetModule router, one of which can be a server instance. Extension subject to additional licensing",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "OpenVPN server instance with a maximum of 25 clients (instead of 10 without license)"
+            },
+            {
+              "id": 2,
+              "text": "DynDNS server"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Voice gateway",
+          "text": "With a voice license, NetModule routers can also act as a voice gateway for VoIP telephony (Voice over IP). Calls made over the mobile network can be connected to VoIP clients through the NetModule router and vice versa. An FXS, PTT, or audio interface can also be used for voice communication. P.S. The range of available features is dependent on the hardware deployed.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "2G/3G/4G/5G, POTS, VoIP, Audio, PTT voice calls"
+            },
+            {
+              "id": 2,
+              "text": "Up to four simultaneous voice channels (one modem per channel required)"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "LXC",
+          "text": "The virtualization license allows the installation and execution of customer applications parallel to the router application on the same hardware (edge computing). Using Linux Containers (LXC), several isolated Linux systems can be operated on the same host at the operating-system level. LXC creates a virtual environment with its own processes using the kernel of the host system. This allows them to be shielded from each other very effectively, ensuring the safe operation of both."
+        },
+        {
+          "id": 5,
+          "title": "FMStoIP",
+          "text": "The software stack picks up J1939 packets on the CAN interfaces and translates using a gateway function on the network level, where they can be made available to other systems, either locally or on the back-end system.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Message filter function and configuration"
+            },
+            {
+              "id": 2,
+              "text": "FMS Standard, FMStoIP, VEHICLEtoIP"
+            },
+            {
+              "id": 3,
+              "text": "ITxPT-compliant (selected models)"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "ITxPT compliant label",
+          "text": "The label declares the conformity of the product with the ITxPT specifications S01 v2.0.1 and S02 v2.0.1 for the following services",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Module inventory"
+            },
+            {
+              "id": 2,
+              "text": "Time"
+            },
+            {
+              "id": 3,
+              "text": "GNSS location (requires GNSS license)"
+            },
+            {
+              "id": 4,
+              "text": "FMStoIP (requires FSM2IP license)"
+            },
+            {
+              "id": 5,
+              "text": "VEHICLEtoIP (required FSM2IP license)"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Enhanced RF configuration",
+          "text": "Allows following WiFi settings to be configured",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Radio frequencies"
+            },
+            {
+              "id": 2,
+              "text": "Antenna amplification (increased gain)"
+            },
+            {
+              "id": 3,
+              "text": "Regulatory domain"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "models": [
+    {
+      "productCode": "NB1800-Lp-G",
+      "cellular": "1x LTE-A Pro",
+      "sim": "2x Micro-SIM",
+      "wlan": "",
+      "ethernet": "2x GE + 1x SFP",
+      "gps": "GNSS",
+      "serial": true,
+      "poe": false
+    },
+    {
+      "productCode": "NB1800-LpWac-G",
+      "cellular": "1x LTE-A Pro",
+      "sim": "2x Micro-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "2x GE + 1x SFP",
+      "gps": "GNSS",
+      "serial": true
+    },
+    {
+      "productCode": "NB1800-LWac-G",
+      "cellular": "1x LTE",
+      "sim": "2x Micro-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "2x GE + 1x SFP",
+      "gps": "GNSS",
+      "serial": true,
+      "poe": false
+    },
+    {
+      "productCode": "NB1800-LWac",
+      "cellular": "1x LTE",
+      "sim": "2x Micro-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "2x GE + 1x SFP",
+      "gps": "",
+      "serial": true,
+      "poe": false
+    },
+    {
+      "productCode": "NB1800-N-G",
+      "cellular": "1x 5G-NR",
+      "sim": "2x Micro-SIM",
+      "wlan": "",
+      "ethernet": "2x GE + 1x SFP",
+      "gps": "GNSS",
+      "serial": true,
+      "poe": false
+    },
+    {
+      "productCode": "NB1810-L4E-G",
+      "cellular": "1x LTE",
+      "sim": "2x Micro-SIM",
+      "wlan": "",
+      "ethernet": "4x GE (Switch) + 1x SFP/GE + 1x GE",
+      "gps": "GNSS",
+      "serial": true,
+      "poe": false
+    },
+    {
+      "productCode": "NB1810-LpWac4E-G",
+      "cellular": "1x LTE",
+      "sim": "2x Micro-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "4x GE (Switch) + 1x SFP/GE + 1x GE",
+      "gps": "GNSS",
+      "serial": true,
+      "poe": false
+    },
+    {
+      "productCode": "NB1810-LpWac4Ep-G",
+      "cellular": "1x LTE",
+      "sim": "2x Micro-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "4x GE (Switch) + 1x SFP/GE + 1x GE",
+      "gps": "GNSS",
+      "serial": true,
+      "poe": true
+    },
+    {
+      "productCode": "NB1810-NWac4Ep-G",
+      "cellular": "1x 5G-NR",
+      "sim": "2x Micro-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "4x GE (Switch) + 1x SFP/GE + 1x GE",
+      "gps": "GNSS",
+      "serial": true,
+      "poe": true
+    },
+    {
+      "productCode": "NB1800-NWac-G",
+      "cellular": "1x 5G-NR",
+      "sim": "2x Micro-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "2x GE + 1x SFP",
+      "gps": "GNSS",
+      "serial": true,
+      "poe": false
+    }
+  ]
+}
