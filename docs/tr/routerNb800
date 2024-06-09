@@ -1,0 +1,580 @@
+{
+  "title": "NB800 Serisi",
+  "brand": "NetModule",
+  "series": "NB800",
+  "description": "NB800 serisi mobil yönlendiriciler -40 °C ile +70 °C arasında çalışır. Endüstriyel ortamlardaki kritik cihazlar için kablosuz 4G, WiFi, BLE ağ bağlantıları sağlar. 1 adet Ethernet, seri ve USB portu bulunmaktadır.",
+  "heroText": "Uzağınızdaki varlıklarınıza bağlanın",
+  "image": "nb800.png",
+  "group": "router",
+  "usage": "Karayolu Araçları",
+  "apps": [
+    {
+      "id": 1,
+      "title": "Durum İzleme",
+      "lead": "Gerçek zamanlı ve güvenli çalışan bir Durum İzleme sistemi için mobil bağlantılı yönlendirici kurun! Tesisinizin sistemlerini dilediğiniz yerden izleyin, makine koşullarını kolayca kaydedin ve bakım programlarını optimize ederek hizmet maliyetlerini azaltın. İşletmenizin verimliliğini yükseltin!",
+      "text": "Dijital G/Ç, RS-232/485, CAN, WLAN, Ethernet veya Bluetooth arabirimleri aracılığıyla sensörlerden toplanan veriler yönlendiricide kaydedilir. Bu veriler, HTTP, MQTT, SMS veya e-posta aracılığıyla merkez ofise ya da  buluta aktarılabilir. SDK (Yazılım Geliştirme Kiti) veya LXC (Linux konteyneri) içindeki programlama yetenekleri, yerel veri işleme süreçlerini kolaylaştırır. LXC teknolojisinin kullanılması, bağımsız bir PC kurulumunun gerekli olmamasını sağlar.",
+      "img": "condition-monitoring.png"
+    },
+    {
+      "id": 2,
+      "title": "Fabrika Otomasyonu",
+      "lead": "Fabrika otomasyonunun uygulanmasıyla maliyet azalır, güvenilirliği artar, kalite artar ve tedarik zinciri optimize edilir. Mobil bağlantı, etkili bir otomasyon, izleme sistemleri veya sürücüsüz taşıma sistemleri için temel bir önkoşuldur.",
+      "text": "Yönlendiricilerimiz, operasyonlarınıza sorunsuz bir şekilde entegre edilebilen güçlü ağ cihazlarıdır. En zorlu ortamlarda bile hem kablolu hem de kablosuz olarak yüksek hızlı veri iletimini garanti eder. Yönlendiricilerimiz, güçlü ağ bağlantısı için birden fazla mobil ağ veri modülünü, Ethernet ve WiFi'yi sorunsuz bir şekilde birleştirir. Ek olarak, sensörler ve aktüatörlerle arayüz oluşturacak şekilde tasarlanmış izole giriş ve röle konnektörlerine sahip cihaz sunucuları olarak da hizmet verirler.",
+      "img": "factory-automation.png"
+    },
+    {
+      "id": 3,
+      "title": "Uzaktan Yönetim",
+      "lead": "Dünyanın neresinde olursa olsun, mobil ağ bağlantılarını kullanarak uzak BT sistemlerinize uzaktan erişin, izleyin ve yönetin.",
+      "text": "Yasal düzenlemelere uygun çalışmak zorunda olduğundan yangın/tehlike alarm gibi sistemleri bulunduran işletmeler için uzaktan yönetim tek etkili çözüm olarak ortaya çıkıyor. NetModule yönlendiricileri, kontrol, bakım veya onarım görevleri için uzak sistemlere kusursuz bağlantıyı kolaylaştıran güvenilir kanallar olarak görev yapar.",
+      "img": "remote-management.png"
+    },
+    {
+      "id": 4,
+      "title": "Çevresel İzleme",
+      "lead": "Çevresel izleme projelerinde veri kaynakları sıklıkla uzak veya erişilemeyen konumlarda bulunur. Mobil ağ yönlendiricilerinin kullanılması, bu tür projelerde ağ entegrasyonunu geliştirir ve optimum performans ve güvenilirlik için LTE/UMTS, Bluetooth veya WiFi Mesh gibi bağlantı seçenekleri sunar.",
+      "text": "Sensörler veya aktüatörler, çeşitli arayüzler aracılığıyla doğrudan yönlendiriciye sorunsuz bir şekilde bağlanarak verilerinin yerel olarak ön işlenmesine olanak sağlar. Bu özellik yalnızca veri hacmini azaltmakla kalmaz, aynı zamanda bir olay durumunda alarmların anında tetiklenmesini de sağlar.",
+      "img": "environmental-monitoring.png"
+    },
+    {
+      "id": 5,
+      "title": "Akıllı Trafik",
+      "lead": "Trafik akışlarını gerçek zamanlı olarak analiz etmek ve Yeşil Işık Optimum Hız Önerisi (GLOSA) ve Yeşile Dönüş Süresi gereksinimlerini karşılamak için trafik ışıklarını ve kavşakları kameralar, sensörler ve mobil yönlendiricilerle donatın.",
+      "text": "Kompakt mobil ağ yönlendiricilerimizin kullanılması, konumdan bağımsız olarak hızlı ve esnek çevrimiçi dağıtıma olanak sağlar. LTE bağlantısına ek olarak, bu yönlendiriciler Ethernet, Bluetooth, seri arayüzler ve WiFi Mesh özelliklerine sahip olup, çeşitli kaynaklardan gerçek zamanlı veri toplama ve iletimini kolaylaştırır. Bu yetenek, en yakın erişilebilir trafik kavşağında doğrudan müdahaleye olanak tanır.",
+      "img": "smart-traffic.png"
+    },
+    {
+      "id": 6,
+      "title": "Yenilenebilir Enerji",
+      "lead": "Yenilenebilir enerji kaynakları, iklimin korunmasında, kaynak istikrarının sağlanmasında ve hammaddelerle ilgili anlaşmazlıkların azaltılmasında önemli bir rol oynamaktadır. Çok sayıda rüzgar santralinin, hidroelektrik veya güneş enerjisi santralinin uzak doğası göz önüne alındığında, güvenilir bir veri bağlantısı kurmak zorunludur.",
+      "text": "NetModule'ün yönlendiricileri, kablosuz yönetime olanak tanıyan uzaktan yönetim özellikleri sunar. Buna, yazılım güncellemelerinin ve modem donanım yazılımı güncellemelerinin fiziksel erişim gerektirmeden kusursuz bir şekilde yürütülmesi de dahildir. Bu tür işlevsellik, sistem izleme ve kurtarma mekanizmalarının vazgeçilmez olduğu rüzgar santralleri ve diğer uzak sahaların ağ oluşturması için hayati öneme sahiptir.",
+      "img": "renewable-energy.png"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "title": "Yeni nesil bilgi teknolojilerinden siz de yararlanın",
+      "lead": "İşletmenize rekabet avantajı kazandırın. NB800 serisi yönlendiricilerin desteklediği teknolojileri keşfedin.",
+      "techItem": [
+        {
+          "id": 1,
+          "title": "4G-LTE",
+          "img": "4g-lte.png",
+          "text": "Türkiye'de 4G-LTE teknolojisini destekleyen hücresel şebeke operatörleri 800, 900, 1800, 2100 ve 2600 MHz frekanslarında hizmet vermektedir. Veri indirme (DL) için 150 Mbps ve veri yükleme için 50 Mbps hızlara ulaşılabilir. NB2800 serisindeki 4G-LTE özelliğine sahip modeller aynı zamanda önceki versiyonları da (3G - DC-HSPA+/UMTS ve 2G - GSM/GPRS/EDGE) desteklemektedir."
+        },
+        {
+          "id": 2,
+          "title": "WiFi-4",
+          "img": "wifi4.png",
+          "text": "NB800 serisi yönlendiricilerdeki 1 adet WiFi radyo, IEEE 802.11a/b/g/n (WiFi-4) standartlarını destekleyen kablosuz yerel alan ağı (WLAN) oluşturma yeteneğine sahiptir ve 2,5 GHz ve 5 GHz frekanslarında çalışır. Daha etkili sinyal iletimi ve alımı elde etmek için 2 anten (2x2 MIMO) kullanılır. Gelişmiş performans için 2,4 GHz frekansında 144 Mbps'ye ve 5 GHz frekansında 150 Mbps'ye kadar hızlara ulaşılabilir. Hem Erişim Noktası hem de WiFi İstemcisi olarak işlev görebilirler. Erişim Noktası modunda, aynı anda 10'a kadar WiFi istemcisiyle bağlantı kurabilirler."
+        },
+        {
+          "id": 3,
+          "title": "Bluetooth",
+          "img": "bluetooth.png",
+          "text": "NB800 serisi yönlendiricilerde Bluetooth 4.2, Bluetooth Low Energy standartları desteklenmektedir. Bluetooth, 2,4 GHz kablosuz bağlantı yoluyla veri göndermek ve almak için standartlaştırılmış bir protokoldür. Güvenli bir protokoldür ve elektronik cihazlar arasında kısa mesafeli, düşük güçlü, düşük maliyetli kablosuz iletimler için mükemmeldir."
+        },
+        {
+          "id": 4,
+          "title": "GNSS (Küresel Konum Belirleme Sistemi)",
+          "img": "gnss.png",
+          "text": "Aracın coğrafi konumunu belirlemek için yüksek hassasiyetli yerleşik GNSS donanımı kullanılır. Beidou, Galileo, Glonass ve GPS uyduları ile otomatik olarak bağlantı kurularak konum belirlenir. Belirlenen konum bilgisi anlık olarak araçtaki diğer cihazlara veya filo yönetim sistemine gönderilir."
+        },
+        {
+          "id": 5,
+          "title": "Ethernet",
+          "img": "ethernet.png",
+          "text": "Araç içerisinde kablolu ağ bağlantılarına olanak sağlayan Ethernet donanımıyla donatılan bu cihaz, diğer cihazlara tek Fast Ethernet bağlantısı ile 10/100 Mbps hızında IP tabanlı veri iletişim bağlantıları kurabilmektedir."
+        },
+        {
+          "id": 6,
+          "title": "RS232/RS485",
+          "img": "rs232.png",
+          "text": "Araçta kablolu ağ bağlantısı kurmak için kullanılan seri iletişim cihazları ile yazılımla etkinleştirilebilen RS232 veya RS485 protokolleri ile 115200 Bit/s hızında veri iletişim bağlantısı kurabilir."
+        },
+        {
+          "id": 7,
+          "title": "CAN-Bus",
+          "img": "can-bus.png",
+          "text": "CAN (Kontrolör Alanı Ağı) bağlantı noktasına sahip modeller, aracın CAN veriyoluna (CAN-Bus) aktif veya pasif olarak maksimum 1Mbit/s (varsayılan 125 Mbit/s) hızla bağlanır. Pasif bağlantıda sadece aracın CAN veriyolundaki veriler okunabilirken, Aktif bağlantıda (Tx/Rx etkin) verilerin değiştirilmesini sağlayan komutlar (örneğin araç iç aydınlatmasının açılması) gönderilebilir."
+        }
+      ]
+    }
+  ],
+  "specs": [
+    {
+      "id": 1,
+      "title": "Standart Donanım Özellikleri",
+      "text": "EMEA bölgesindeki ülkelerin 4G/3G/2G destekleyen hücresel ağlarına erişilebilir, yönlendirici üzerinde 1 adet Fast Ethernet bağlantı noktası bulunmaktadır. Tüm modeller CE uyumludur (RED). Yönlendiriciden beklenen işlevselliği sağlayan standart NRSW (NetModule Router Software) yazılımının özellikleri aşağıda sıralanmıştır. Farklı kapasite ve yeteneklere sahip tüm modellere göz atın."
+    },
+    {
+      "id": 2,
+      "title": "Standart Yazılım Özellikleri",
+      "text": "NetModule yönlendiricilerinin donanım-yazılımı ('firmware') olan NetModule Router Software 'NRSW', ürünle gelen standart yazılımdır. Linux tabanlıdır. Yönlendirici için gerekli tüm sürücüleri ve temel yazılım desteğini içerir. Linux tabanlı oluşu çok çeşitli ve güvenli ağ işlevlerinin yanı sıra kablolu veya kablosuz ağ bağlantıların yönetimini kolaylaştırır. Yönlendiricinin yaşam döngüsü boyunca güvenli olarak çalışabilmesi için gerekli güncelleme paketleri ücretsiz olarak sunulur. Geliştiricilerin kendi uygulamalarını geliştirmelerini sağlar.",
+      "keySwFeatures": [
+        {
+          "id": 1,
+          "title": "Gelişmiş Yönlendirme",
+          "text": "Yönlendirme seçenekleri arasında statik rota, çoklu rota, OSPF, BGP ve daha fazlası bulunur. Mobil IP, kalıcı bir IP adresini korurken bir ağdan diğerine geçişe izin verir. Hizmet Kalitesi (QoS) ve çeşitli güvenlik duvarı seçenekleri de mevcuttur. Uzak uçlarla güvenli bağlantılar oluşturmak için NRSW, OpenVPN veya IPSec gibi VPN protokolleri sunar."
+        },
+        {
+          "id": 2,
+          "title": "SDK",
+          "text": "Yönlendirici için kullanıcıların kendi komut dosyalarını ve işlevlerini oluşturmasına olanak tanıyan Yazılım Geliştirme Kiti (Software Development Kit, 'SDK') özelliğine sahiptir. SDK ile sistem durum parametrelerini e-posta veya kısa ileti (SMS) göndermek mümkündür. Hatta yönlendiricinin yapılandırma ayarlarını değiştirmek için donanım arayüzlerine erişilebilir."
+        },
+        {
+          "id": 3,
+          "title": "Seçimlik LXC",
+          "text": "NRSW, ek lisansların satın alınması durumunda Linux Kapsayıcısını (Linux Container, LXC) destekler. Kapsayıcı, merkezi işlemci çekirdek kaynaklarını sanallaştırarak ve birbirlerinden koruyarak; merkezi işlemcideki süreçlerin ve süreç gruplarının izole edilmesini sağlar. LXC ile bir kapsayıcıda tek bir uygulama veya tüm Linux işletim sistemini başlatılabilir. Kapsayıcı, her iki uygulamanın da güvenli bir şekilde yürütülmesi için kullanıcı ve yönlendirici uygulamalarını etkin bir şekilde ayırır."
+        },
+        {
+          "id": 4,
+          "title": "Genel Yönlendirici Özellikleri",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "USB, HTTP(S), (S)FTP veya TFTP protokolleri yardımıyla Havadan Donanım-Yazılımı Güncelleme (Firmware Over The Air, 'FOTA')"
+            },
+            {
+              "id": 2,
+              "text": "Komut satırı arabirimi ('CLI') ve grafik tabanlı web arayüzü"
+            },
+            {
+              "id": 3,
+              "text": "RADIUS kimlik doğrulaması, Basit Sertifika Kayıt Protokolü (Simple Certificate Enrollment Protocol, 'SCEP')"
+            },
+            {
+              "id": 4,
+              "text": "Donanım ve yazılım için ayrı gözlemciler ('watchdog')"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Ağ bağlantısı yönetimi",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Bağlantı önceliklendirme ve birleştirme"
+            },
+            {
+              "id": 2,
+              "text": "Yük dengeleme"
+            },
+            {
+              "id": 3,
+              "text": "Çok yollu TCP"
+            },
+            {
+              "id": 4,
+              "text": "IP geçidi"
+            },
+            {
+              "id": 5,
+              "text": "Bağlantı gözetimi"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Hücresel ağ bağlantısı",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Multi-SIM, e-SIM"
+            },
+            {
+              "id": 2,
+              "text": "Multi-APN"
+            },
+            {
+              "id": 3,
+              "text": "Sinyal seviyesi gözetimi"
+            },
+            {
+              "id": 4,
+              "text": "GSM, CSFB çağrıları"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "WLAN",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "İstemci veya erişim noktası modunda çalışma"
+            },
+            {
+              "id": 2,
+              "text": "İstemciler için WEP, WPA-PSK, WPA-RADIUS, WPA-EAP-TLS desteği"
+            },
+            {
+              "id": 3,
+              "text": "Erişim noktası modunda birden fazla veya gizlenebilir SSID"
+            },
+            {
+              "id": 4,
+              "text": "Erişim noktası modunda WPA-PSK, WPA-RADIUS, WPA-EAP-TLS desteği"
+            },
+            {
+              "id": 5,
+              "text": "IEEE 802.11w, IEEE 802.11r"
+            },
+            {
+              "id": 6,
+              "text": "CAPWAP"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "USB",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Veri depolama için USB bellek kullanımı, seri-IP-sunucu için Ethernet veya RS232/RS485 arabirimleri için adaptör"
+            },
+            {
+              "id": 2,
+              "text": "Yapılandırma ayarları ve donanım-yazılımı güncellemeleri için otomatik başlatma"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "IP yönlendirme protokolleri",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Varış yeri, Politika ve Çoklu yol yönlendirme seçenekleri"
+            },
+            {
+              "id": 2,
+              "text": "Mobile-IP, OSPF, BGP, Multicast, TCP MSS Clamping, Köprüleme"
+            },
+            {
+              "id": 3,
+              "text": "LLDP, CDP, SONMP, EDP, FDP ve IRDP desteği"
+            },
+            {
+              "id": 4,
+              "text": "STP, RSTP, VRRP, VLAN ve PPPoE desteği"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "VPN prokolleri",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "OpenVPN, IPsec, PPTP, GRE, CSD Dial-In"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "title": "Servis kalitesi ('QoS')",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Diffserv, SFQ, HTB, Öncelik bazlı kuyrukta bekletme"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "title": "Güvenlik duvarı",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Durum bilgisi duyarlı bağlantı izleme"
+            },
+            {
+              "id": 2,
+              "text": "NAT, NAPT, maskeleme, köprü filtreleme"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Servisler",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "DHCP İstemci/Sunucu, DNS Caching Sunucu, E-posta, kısa ileti ('SMS')"
+            },
+            {
+              "id": 2,
+              "text": "NTP İstemci/Sunucu, SNTP Sunucu, DynDNS, SSH Sunucu, SNMP Agent, HTTP/HTTPS/FTP Sunucu"
+            },
+            {
+              "id": 3,
+              "text": "Ses Geçidi (SIP, çağrı yönlendirme, audio)"
+            },
+            {
+              "id": 4,
+              "text": "Coovachilli Hotspot"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Programlama",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Yazılım Geliştirme Kiti (Software Development Kit, 'SDK')"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "title": "Problem Bulma/Çözme",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Günlük kayıtları ('Logging'), Ping, Traceroute, Tcpdump, Hız testi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lisanslı Yazılım Özellikleri",
+      "text": "NG800 serisi yönlendiriciler ile standart olarak verilen yukarıdaki özelliklerin yanı sıra dilenirse, elbette donanımın desteklediği sürece, aşağıdaki yetenekleri kazandıran ücretli lisanslar yönlendiriciye sonradan eklenebilir.",
+      "keySwFeatures": [
+        {
+          "id": 1,
+          "title": "GNSS",
+          "text": "JSON/NMEA akışı ile veri sağlayan bağımsız GNSS sunucu lisansıdır. Donanım izin veriyorsa; 'Assisted' ve 'Dead Reckoning' teknolojileri de desteklenir."
+        },
+        {
+          "id": 2,
+          "title": "OpenVPN ve DynDNS",
+          "text": "NRSW, UDP veya TCP protokolleri yardımıyla şifreli bağlantılar kurmak için OpenVPN'i destekler. Standart sürümde, bir NetModule yönlendirici üzerinde en fazla dört adet OpenVPN sunucu ayarı yapılandırılabilir. Eşzamanlı OpenVPN istemci sayısı 10'dur.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Eşzamanlı en fazla 25 adet OpenVPN istemci bağlantısı"
+            },
+            {
+              "id": 2,
+              "text": "DynDNS sunucu"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Ses geçidi",
+          "text": "Bu lisans ile NetModule yönlendiricileri, VoIP telefonu (IP üzerinden Ses) için bir ses ağ geçidi görevi de görebilir. Mobil ağ üzerinden gelen aramalar, NetModule yönlendiricisi aracılığıyla VoIP istemcilerine bağlanabilir. VoIP istemcilerinden başlatılan giden aramalar da mobil ağ üzerinden yapılır. Sesli iletişimi, doğrudan varsa cihaz üzerindeki FXS veya Bas-Konuş bağlantı noktalarının ses arabiriminden de sağlanabilir. (Not\":\"\" Kullanılabilir özellikler, kullanılan donanıma bağlıdır.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "2G/3G/4G/5G, POTS, VoIP, Audio, Bas-Konuş sesli çağrıları"
+            },
+            {
+              "id": 2,
+              "text": "Dört adede kadar eşzamanlı ses kanalı (kanal başına bir adet modem gereklidir)"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "LXC",
+          "text": "LXC sanallaştırma lisansı, aynı donanım (yönlendirici) üzerinde yönlendirici uygulamasına paralel olarak müşteri uygulamalarının kurulmasına ve yürütülmesine izin verir. Linux Kapsayıcıları (LXC, Linux Container) kullanılarak, birkaç yalıtılmış Linux sistemi, işletim sistemi düzeyinde aynı ana bilgisayar üzerinde çalıştırılabilir. LXC, ana bilgisayar sisteminin (yönlendiricinin) çekirdeğini kullanarak kendi süreçleriyle sanal bir ortam oluşturur. Yönlendirici işlevlerinin ve sanallaştırılmış bilgisayarın güvenli biçimde, birbirlerinin etkilemeleri önlenir."
+        },
+        {
+          "id": 5,
+          "title": "FMStoIP",
+          "text": "Bu yazılım lisansı, CAN arabirimlerindeki J1939 paketlerini alır, dönüştürür ve yerel olarak araç içindeki veya uzaktaki diğer sistemlere gönderir.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "İleti süzme ve yapılandırma"
+            },
+            {
+              "id": 2,
+              "text": "FMS standartında, FMStoIP, VEHICLEtoIP"
+            },
+            {
+              "id": 3,
+              "text": "ITxPT-Uygunluk (destekleyen modeldeki cihazlarda)"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "ITxPT-Uygunluk Etiketi",
+          "text": "Etiket, aşağıdaki hizmetler için ürünün ITxPT spesifikasyonları S01 v2.0.1 ve S02 v2.0.1 ile uygunluğunun beyanıdır.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Modül envanteri"
+            },
+            {
+              "id": 2,
+              "text": "Zaman"
+            },
+            {
+              "id": 3,
+              "text": "GNSS konumu (GNSS lisansı da gerektirir)"
+            },
+            {
+              "id": 4,
+              "text": "FMStoIP (FSMtoIP Lisansı da gerektirir)"
+            },
+            {
+              "id": 5,
+              "text": "VEHICLEtoIP (FSMtoIP lisansı da gerektirir)"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Gelişmiş RF yapılandırma",
+          "text": "Aşağıdaki gelişmiş WLAN yapılandırma ayarlarının değiştirilebilmesine izin verir.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Frekans"
+            },
+            {
+              "id": 2,
+              "text": "Anten kazancı"
+            },
+            {
+              "id": 3,
+              "text": "Düzenleyici otorite ayarları"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "models": [
+    {
+      "productCode": "NB800-LjWWtScSu-SGViSe",
+      "cellular": "1x Multimode (4G/3G/2G)",
+      "sim": "1x Micro-SIM",
+      "wlan": "1x WiFi4 + BLE",
+      "ethernet": "1x FE",
+      "gps": "GNSS",
+      "serial": true,
+      "dio": "2x Digital I/O",
+      "emark": false,
+      "can": "",
+      "vpn": "OpenVPN Server",
+      "lxc": true,
+      "esim": true
+    },
+    {
+      "productCode": "NB800-LScSu-G",
+      "cellular": "1x Multimode (4G/3G/2G)",
+      "sim": "1x Micro-SIM",
+      "wlan": "",
+      "ethernet": "1x FE",
+      "gps": "GNSS",
+      "serial": true,
+      "dio": "2x Digital I/O",
+      "emark": false,
+      "can": "",
+      "vpn": "",
+      "lxc": false,
+      "esim": false
+    },
+    {
+      "productCode": "NB800-LSu-G",
+      "cellular": "1x Multimode (4G/3G/2G)",
+      "sim": "1x Micro-SIM",
+      "wlan": "",
+      "ethernet": "1x FE",
+      "gps": "GNSS",
+      "serial": false,
+      "dio": "",
+      "emark": false,
+      "can": "",
+      "vpn": "",
+      "lxc": false,
+      "esim": false
+    },
+    {
+      "productCode": "NB800-LWWtSu-G",
+      "cellular": "1x Multimode (4G/3G/2G)",
+      "sim": "1x Micro-SIM",
+      "wlan": "1x WiFi4 + BLE",
+      "ethernet": "1x FE",
+      "gps": "GNSS",
+      "serial": false,
+      "dio": "",
+      "emark": false,
+      "can": "",
+      "vpn": "",
+      "lxc": false,
+      "esim": false
+    },
+    {
+      "productCode": "NB800-LWWtSu2Cm-G",
+      "cellular": "1x Multimode (4G/3G/2G)",
+      "sim": "1x Micro-SIM",
+      "wlan": "1x WiFi4 + BLE",
+      "ethernet": "1x FE",
+      "gps": "GNSS",
+      "serial": false,
+      "dio": "",
+      "emark": false,
+      "can": "2x CAN-p",
+      "vpn": "",
+      "lxc": false,
+      "esim": false
+    },
+    {
+      "productCode": "NB800-LWWtSu2Cm-GE",
+      "cellular": "1x Multimode (4G/3G/2G)",
+      "sim": "1x Micro-SIM",
+      "wlan": "1x WiFi4 + BLE",
+      "ethernet": "1x FE",
+      "gps": "GNSS",
+      "serial": false,
+      "dio": "",
+      "emark": true,
+      "can": "2x CAN-p",
+      "vpn": "",
+      "lxc": false,
+      "esim": false
+    },
+    {
+      "productCode": "NB800-LWWtSu2Cn-G",
+      "cellular": "1x Multimode (4G/3G/2G)",
+      "sim": "1x Micro-SIM",
+      "wlan": "1x WiFi4 + BLE",
+      "ethernet": "1x FE",
+      "gps": "GNSS",
+      "serial": false,
+      "dio": "",
+      "emark": true,
+      "can": "2x CAN-a",
+      "vpn": "",
+      "lxc": false,
+      "esim": false
+    },
+    {
+      "productCode": "NB800-NB800-USu",
+      "cellular": "1x Multimode (3G/2G)",
+      "sim": "1x Micro-SIM",
+      "wlan": "",
+      "ethernet": "1x FE",
+      "gps": "",
+      "serial": false,
+      "dio": "",
+      "emark": false,
+      "can": "",
+      "vpn": "",
+      "lxc": false,
+      "esim": false
+    }
+  ]
+}
