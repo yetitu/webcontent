@@ -50,7 +50,7 @@
   {
     "brand": "NetModule",
     "series": "NG800",
-    "imageUrl": "/images/products/router/nb3800/nb3800_front.jpg",
+    "imageUrl": "/images/products/router/ng800/ng800_front.jpg",
     "desc": "Karayollarında çalışan araçlar için kablosuz 5G, 4G, WiFi, BLE ve GPS bağlantıları sağlar. Ethernet, Automotive-Ethernet, seri ve CAN portları bulunur. IP69K korumalıdır. Zorlu fiziksel koşullar için idealdir. Karayolları endüstrisinde aranan tüm yönergelere uygundur. Elektronik SİM (eUICC) destekler.",
     "usage": "Karayolu Araçları",
     "url": "/ng800"
