@@ -1,0 +1,10 @@
+[
+  {
+    "brand": "NetModule",
+    "series": "NB800",
+    "imageUrl": "/images/products/router/nb800/nb800.png",
+    "desc": "NB800 series mobile routers operate between -40 °C and +70 °C. Provides wireless 4G, WiFi, BLE network connections for critical devices in industrial environments. They have Ethernet, serial and USB ports.",
+    "usage": "IIoT",
+    "url": "/nb800"
+  }
+]

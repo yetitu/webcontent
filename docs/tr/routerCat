@@ -1,0 +1,10 @@
+[
+  {
+    "brand": "NetModule",
+    "series": "NB800",
+    "imageUrl": "/images/products/router/nb800/nb800.png",
+    "desc": "NB800 serisi mobil yönlendiriciler -40 °C ile +70 °C arasında çalışır. Endüstriyel ortamlardaki kritik cihazlar için kablosuz 4G, WiFi, BLE ağ bağlantıları sağlar. 1 adet Ethernet, seri ve USB portu bulunmaktadır.",
+    "usage": "IIoT",
+    "url": "/nb800"
+  }
+]
