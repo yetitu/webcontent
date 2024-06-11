@@ -1,0 +1,68 @@
+{
+  "title": "NB800-LSu-G",
+  "description": "It is a compact and cost-effective mobile router for robust Internet connection in an industrial environment.",
+  "heroText": "Mobile router for Condition Monitoring, Automation and Remote Management applications.",
+  "front_image": "nb800_front_small.png",
+  "overview": [
+    "NB800-LSu-G is the cost-effective solution for a robust Internet connection in an industrial environment. The small form factor and reduced features make it ideal for simple connectivity tasks. Its features include an LTE module for wireless Internet connection, GNSS for positioning and an Ethernet port.",
+    "The high-quality metal housing, which is suitable for DIN rail mounting, in combination with the supported temperature range of -40 °C to 70 °C, offers the ruggedness required for use in industrial environments. The NB800 withstands mechanical and thermal stress. This, and its features, make the NB800 suitable for applications such as Condition Monitoring, Remote Management, Environmental Monitoring and Point of Sales.",
+    "The software is based on well proven components including an embedded Linux operating system and a powerful communication protocol suite as well as VPN technologies as OpenVPN. Customer specific software extensions may be implemented via a sophisticated SDK."
+  ],
+  "heroImage": "nb800_hero.png",
+  "keyFeatures": [
+    "- A cellular network connection is established with a Multimode GSM module on the device that supports 4G- LTE, 3G- DC-HSPA+/UMTS and 2G- GSM/GPRS/EDGE networks.",
+    "- It is resistant to the harsh physical conditions with its IP40 level protected design. It operates between -40°C and +70°C.",
+    "- Advanced GPS receiver makes it easy to determine the vehicle's geographic location information with high accuracy. It can be fixed with up to three satellites for high accuracy in position determination.",
+    "- The device is equipped with single Fast Ethernet (10/100 Mbps) port (RJ45).",
+    "- It has certificates of conformity with CE (2014/53/EU, RED), 2011/65/EU (RoHS) directives."
+  ],
+  "cellular": {
+    "standard": "1x GSM module, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+    "dataTransferRate": "(Max) 150 Mbps (DL), 50Mbps (UL)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x SMA Female",
+    "sim": "1x Micro SIM - 3FF"
+  },
+  "ethernet": {
+    "fastEthernet": "1x 1000BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100 Mbps",
+    "cableConnectors": "1x RJ45"
+  },
+  "positioning": {
+    "standards": "1x receiver, BeiDou, Galileo, GLONASS, GPS/QZSS",
+    "sensitivity": "Max -160dBm",
+    "antennaType": "Active or Passive",
+    "cep": "Max 2.5m (Circular Error Probability,open sky, horizantal)",
+    "antennaConnector": "1x SMA female",
+    "services": "Independent, A-GPS, JSON, NMEA streams"
+  },
+  "usb": {
+    "standard": "1x USB 2.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "system": {
+    "core": "1x 1 GHz single-core, 512 MB RAM, 8 GB Flash, HW Rev. BO2",
+    "moduleSlots": "1x Shield"
+  },
+  "licenses": {
+    "gnss": "GNSS location service, Server with JSON-, NMEA stream"
+  },
+  "power": {
+    "inputVoltage": "Nominal (12, 24 VDC), Absolute (2 VDC to 24 VDC (&#177; 20) )",
+    "connector": "1x Terminal block header 3.5 mm",
+    "consumption": "5 W (average), 10 W (max)"
+  },
+  "other": {
+    "mounting": "Bracket",
+    "dimensions": "Width 85/111, Height 32, Depth 110",
+    "weight": "250",
+    "temperature": "-40&#176;C - +70&#176;C",
+    "iPLevel": "IP40",
+    "mtbf": "340.000h/38.8years, acc. to SN29500 @ 40°C",
+    "orderCode": "NB800-LSu-G"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED)",
+    "rohs": "2011/65/EU"
+  }
+}
