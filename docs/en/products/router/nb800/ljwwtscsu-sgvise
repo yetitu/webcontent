@@ -78,7 +78,7 @@
     "eUicc": "Remote eUICC SIM profile update with static profile management."
   },
   "power": {
-    "inputVoltage": "Nominal (12, 24 VDC), Absolute (2 VDC to 24 VDC (&#177; 20) )",
+    "inputVoltage": "Nominal (12, 24 VDC), Absolute (2 VDC to 24 VDC (±20%) )",
     "connector": "1x Terminal block header 3.5 mm",
     "consumption": "5 W (average), 10 W (max)"
   },
@@ -86,7 +86,7 @@
     "mounting": "Bracket",
     "dimensions": "Width 85/111, Height 32, Depth 110",
     "weight": "220",
-    "temperature": "-40&#176;C - +70&#176;C",
+    "temperature": "-40°C - +70°C",
     "iPLevel": "IP40",
     "mtbf": "340.000h/38.8years, acc. to SN29500 @ 40°C",
     "orderCode": "NB800-LjWWtScSu-SGViSe"
