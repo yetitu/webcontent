@@ -1,0 +1,80 @@
+{
+  "title": "NB800-LjWWtScSu-SGViSe",
+  "description": "Endüstriyel ortamda sağlam İnternet bağlantısı için kompakt ve uygun maliyetli bir mobil yönlendiricidir.",
+  "heroText": "Durum İzleme, Otomasyon ve Uzaktan Yönetim uygulamaları için ekonomik mobil yönlendirici",
+  "front_image": "nb800_front_small.png",
+  "overview": [
+    "NB800-LjWWtScSu-SGViSe, endüstriyel ortamda güçlü bir İnternet bağlantısı için uygun maliyetli bir çözümdür. Küçük form faktörü ve azaltılmış özellikleri, onu basit bağlantı görevleri için ideal kılar. Özellikleri arasında kablosuz İnternet bağlantısı için bir LTE modülü, Bluetooth LE'li küçük bir WiFi erişim noktası, seri arayüz, dijital I/O'lar ve bir Ethernet bağlantı noktası bulunur.",
+    "DIN rayı montajına uygun yüksek kaliteli metal muhafaza, -40 °C ile 70 °C arası desteklenen sıcaklık aralığıyla birlikte endüstriyel ortamlarda kullanım için gereken sağlamlığı sunar. NB800 mekanik ve termal strese dayanıklıdır. Bu ve özellikleri, NB800'ü Durum İzleme, Uzaktan Yönetim, Çevresel İzleme, Akıllı Bina ve Satış Noktası gibi uygulamalar için uygun hale getirir.",
+    "Yazılım, yerleşik bir Linux işletim sistemi ve güçlü bir iletişim protokolü paketinin yanı sıra OpenVPN gibi VPN teknolojilerini içeren kanıtlanmış bileşenlere dayanmaktadır. Müşteriye özel yazılım uzantıları, gelişmiş bir SDK aracılığıyla uygulanabilir."
+  ],
+  "heroImage": "nb800_hero.png",
+  "keyFeatures": [
+    "4G- LTE, 3G- DC-HSPA+/UMTS ve 2G- GSM/GPRS/EDGE şebekelerini destekleyen Multimode GSM modülü ile hücresel ağ bağlantısı kurulur.",
+    "IP40 seviyesinde korumalı tasarımı ile zorlu fiziksel koşullara dayanıklıdır. -40°C ile +70°C arasında çalışır.",
+    "Gelişmiş GPS alıcısı, aracın coğrafi konum bilgisinin yüksek doğrulukla belirlenmesini kolaylaştırır. Konum belirlemede yüksek doğruluk için üç uyduya kadar sabitlenebilir.",
+    "Cihaz tek Hızlı Ethernet (10/100 Mbps) portu (RJ45) ile donatılmıştır.",
+    "CE (2014/53/EU, RED), 2011/65/EU (RoHS) direktiflerine uygunluk belgelerine sahiptir."
+  ],
+  "cellular": {
+    "standard": "1 adet GSM modül, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+    "dataTransferRate": "(En fazla) 150 Mbps (DL), 50Mbps (UL)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x SMA Female",
+    "sim": "1x Micro SIM - 3FF"
+  },
+  "wifi": {
+    "standard": "1x radyo, 2.4/5GHz, IEEE 802.11a/b/g/n (Wi-Fi4) + BT 4.2 combo",
+    "dataTransferRate": "144 Mbps 2.4 GHz 2x2 MIMO, 150 Mbps 5 GHz SISO",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x SMA Female",
+    "operatingModes": "Erişim Noktası (En fazla 10 istemci) or İstemci"
+  },
+  "ethernet": {
+    "fastEthernet": "1 adet 1000BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100 Mbps",
+    "cableConnectors": "1x RJ45"
+  },
+  "usb": {
+    "standard": "1x USB 2.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "inputOutput": {
+    "type": "2x Digital IO (1x DI, 1x DO)",
+    "diSignals": "+,-",
+    "diLevels": "Low 0-3 VDC, High 9-32 VDC",
+    "doSignals": "Röle çıkışları NO, NC, COM (normally open, normally closed)",
+    "doLevels": "0 - 32 VDC/1A",
+    "isolation": "1.500 VDC",
+    "connector": "1x Terminal block header 3.5 mm"
+  },
+  "system": {
+    "core": "1x 600 MHz single-core, 512 MB RAM, 4 GB Flash, HW Rev. A",
+    "moduleSlots": "1x Shield"
+  },
+  "licenses": {
+    "gnss": "GNSS konum servisleri, JSON ve NMEA akış sunucu",
+    "openServer": "OpenVPN istemcilerinin sayısını 10'dan 25'e çıkarır ve DynDNS sunucusunu etkinleştirir",
+    "sOpenServer": "OpenVPN istemcilerinin sayısını 10'dan 25'e çıkarır ve DynDNS sunucusunu etkinleştirir",
+    "lxc": "Yönlendirici işlevlerinden izole edilmiş, müşteriye özel uygulamaları entegre etmek için Linux Container (LXC) ortamı",
+    "eUicc": "Statik profil yönetimi ile uzaktan eUICC SIM profili güncellemesi"
+  },
+  "power": {
+    "inputVoltage": "Nominal (12, 24 VDC), Mutlak (2 VDC - 24 VDC (± % 20) )",
+    "connector": "1x Terminal block header 3.5 mm",
+    "consumption": "5 W (ortalama), 10 W (en fazla)"
+  },
+  "other": {
+    "mounting": "Raf",
+    "dimensions": "Genişlik 85/111, Yükseklik 32, Derinlik 110",
+    "weight": "220",
+    "temperature": "-40°C ile +70°C arası",
+    "iPLevel": "IP40",
+    "mtbf": "40°C sıcaklıkta SN29500'e göre 340.000saat/38.8 yıl",
+    "orderCode": "NB800-LjWWtScSu-SGViSe"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED)",
+    "rohs": "2011/65/EU"
+  }
+}

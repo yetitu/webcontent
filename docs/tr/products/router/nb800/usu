@@ -1,0 +1,56 @@
+{
+  "title": "NB800-USu",
+  "description": "Endüstriyel ortamda sağlam İnternet bağlantısı için kompakt ve uygun maliyetli bir mobil yönlendiricidir.",
+  "heroText": "Durum İzleme, Otomasyon ve Uzaktan Yönetim uygulamaları için ekonomik mobil yönlendirici",
+  "front_image": "nb800_front_small.png",
+  "overview": [
+    "NB800-USu, endüstriyel ortamda güçlü bir İnternet bağlantısı için uygun maliyetli bir çözümdür. Küçük form faktörü ve azaltılmış özellikleri, onu basit bağlantı görevleri için ideal kılar. Özellikleri arasında kablosuz İnternet bağlantısı için bir UMTS modülü ve bir Ethernet bağlantı noktası bulunur.",
+    "DIN rayı montajına uygun yüksek kaliteli metal muhafaza, -40 °C ile 70 °C arası desteklenen sıcaklık aralığıyla birlikte endüstriyel ortamlarda kullanım için gereken sağlamlığı sunar. NB800 mekanik ve termal strese dayanıklıdır. Bu ve özellikleri NB800'ü Durum İzleme, Uzaktan Yönetim, Çevresel İzleme ve Satış Noktası gibi uygulamalar için uygun hale getirir.",
+    "Yazılım, yerleşik bir Linux işletim sistemi ve güçlü bir iletişim protokolü paketinin yanı sıra OpenVPN gibi VPN teknolojilerini içeren kanıtlanmış bileşenlere dayanmaktadır. Müşteriye özel yazılım uzantıları, gelişmiş bir SDK aracılığıyla uygulanabilir."
+  ],
+  "heroImage": "nb800_hero.png",
+  "keyFeatures": [
+    "3G- DC-HSPA+/UMTS ve 2G- GSM/GPRS/EDGE şebekelerini destekleyen Multimode GSM modülü ile hücresel ağ bağlantısı kurulur.",
+    "IP40 seviyesinde korumalı tasarımı ile zorlu fiziksel koşullara dayanıklıdır. -40°C ile +70°C arasında çalışır.",
+    "Cihaz tek Hızlı Ethernet (10/100 Mbps) portu (RJ45) ile donatılmıştır.",
+    "CE (2014/53/EU, RED), 2011/65/EU (RoHS) direktiflerine uygunluk belgelerine sahiptir."
+  ],
+  "cellular": {
+    "standard": "1 adet GSM modül, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+    "dataTransferRate": "(En fazla) 21.6 Mbps (DL), 5.76 Mbps (UL)",
+    "antennaType": "SISO",
+    "antennaConnectors": "1x SMA Female",
+    "sim": "1x Micro SIM - 3FF"
+  },
+  "ethernet": {
+    "fastEthernet": "1 adet 1000BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100 Mbps",
+    "cableConnectors": "1x RJ45"
+  },
+  "usb": {
+    "standard": "1x USB 2.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "system": {
+    "core": "1x 600 Mhz single-core, 256 MB RAM, 8 GB Flash, HW Rev. A",
+    "moduleSlots": "1x Shield"
+  },
+  "power": {
+    "inputVoltage": "Nominal (12, 24 VDC), Mutlak (2 VDC - 24 VDC (± % 20) )",
+    "connector": "1x Terminal block header 3.5 mm",
+    "consumption": "5 W (ortalama), 10 W (en fazla)"
+  },
+  "other": {
+    "mounting": "Raf",
+    "dimensions": "Genişlik 85/111, Yükseklik 32, Derinlik 110",
+    "weight": "220",
+    "temperature": "-40°C ile +70°C arası",
+    "iPLevel": "IP40",
+    "mtbf": "40°C sıcaklıkta SN29500'e göre 340.000saat/38.8 yıl",
+    "orderCode": "NB800-USu"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED)",
+    "rohs": "2011/65/EU"
+  }
+}
