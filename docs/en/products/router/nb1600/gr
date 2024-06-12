@@ -1,0 +1,74 @@
+{
+  "title": "NB1601-Gr",
+  "description": "Modular mobile router with 4-port Ethernet switch",
+  "heroText": "Economical mobile router for Condition Monitoring, Automation and Remote Management applications",
+  "front_image": "nb1600_front.png",
+  "overview": [
+    "NB1601-Gr is a suitable, low-cost solution for Fleet Management, in-vehicle ticket sales and telematics applications that do not require high-speed Internet connection in railway vehicles. Its small form factor and reduced features make it ideal for simple connection tasks. Among its features; It includes a GSM-R supported GSM module, serial interface, digital I/Os and four Ethernet ports for mobile Internet connection.",
+    "The high-quality metal housing for DIN rail mounting offers the required ruggedness for use in industrial environments with a supported temperature range of -40 °C to 55 °C.",
+    "The software is based on proven components, including a built-in Linux operating system and a powerful communications protocol suite, as well as VPN technologies such as OpenVPN. Customer-specific software extensions can be implemented via an advanced SDK."
+  ],
+  "keyFeatures": [
+    "A cellular network connection is established with a GSM module that supports the GSM-R network.",
+    "With its IP40 level protected design, it is resistant to harsh physical conditions. It operates between -40°C and +55°C.",
+    "The device is equipped with four Fast Ethernet (10/100 Mbps) ports (RJ45).",
+    "It has certificates of compliance with CE (2014/53/EU, RED), 2011/65/EU (RoHS), UKCA 2017/1206 (RER) and UL/IEC/EN 62368-1 directives."
+  ],
+  "cellular": {
+    "standard": "1x GSM module, GSM-R",
+    "dataTransferRate": "(Max) 85.6 kbps (DL), 42.8 kbps (UL)",
+    "antennaType": "SISO",
+    "antennaConnectors": "1x SMA Female",
+    "sim": "2x Micro SIM - 3FF"
+  },
+  "ethernet": {
+    "fastEthernet": "4x 100BASE-T, Auto MDIX |",
+    "dataTransferRate": "10/100 Mbps",
+    "cableConnectors": "4x RJ45"
+  },
+  "usb": {
+    "standard": "1x USB 2.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232, EIA-232",
+      "signals": "TX, RX",
+      "signalLevels": "High > 5 VDC, Low < -5 VDC",
+      "dataTransferRate": "Max. 115200 Bit/s"
+    },
+    "connector": "1x SMA Female"
+  },
+  "input-output": {
+    "type": "2x Digital IO (1x DI, 1x DO)",
+    "diSignals": "+,-",
+    "diLevels": "Low 0-3 VDC, High 9-32 VDC",
+    "doSignals": "Relay outputs with NO, NC, COM (normally open, normally closed)",
+    "doLevels": "0 - 32 VDC/1A",
+    "isolation": "1.500 VDC",
+    "connector": "1x Terminal block header 3.5 mm"
+  },
+  "system": {
+    "core": "1x 1 GHz single-core, 512 MB RAM, 4 GB Flash, HW Rev. BO2",
+    "moduleSlots": "1x Shield"
+  },
+  "power": {
+    "inputVoltage": "Nominal (12, 24 VDC), Absolute (12 VDC to 24 VDC (&#177; 20) )",
+    "connector": "1x Terminal block header 3.5 mm",
+    "consumption": "5 W (average), 7 W (max)"
+  },
+  "other": {
+    "mounting": "DIN-Rail",
+    "dimensions": "Width 45, Height 124/134, Depth 110/121",
+    "weight": "450",
+    "temperature": "-40&#176;C - +55&#176;C",
+    "iPLevel": "IP40",
+    "mtbf": "300.000h/34.2years, acc. to SN29500 @ 40°C",
+    "orderCode": "NB1601-Gr"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED)",
+    "rohs": "2011/65/EU",
+    "rer": "UKCA 2017/1206, UL/IEC/EN 62368-1"
+  }
+}
