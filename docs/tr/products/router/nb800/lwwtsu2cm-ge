@@ -47,6 +47,18 @@
     "standard": "1x USB 2.0 Host",
     "connectorType": "1x Type A"
   },
+  "serial": {
+    "can": {
+      "protocols": "2x CAN, Controller Area Network V2.0B (ISO 11898)",
+      "signals": "CANH, CANL",
+      "signalLevels": "High > 2.75 V, Low < 2.0 V",
+      "dataTransferRate": "Up to 1 Mbps",
+      "isolation": "1500VDC",
+      "termination": "Yok",
+      "busAccess": "Pasif - sadece okuma"
+    },
+    "connector": "1x Terminal block header 3.5 mm"
+  },
   "system": {
     "core": "1x 1 GHz single-core, 512 MB RAM, 8 GB Flash, HW Rev. BO2",
     "moduleSlots": "1x Shield"

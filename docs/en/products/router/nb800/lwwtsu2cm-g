@@ -47,7 +47,6 @@
     "standard": "1x USB 2.0 Host",
     "connectorType": "1x Type A"
   },
-
   "serial": {
     "can": {
       "protocols": "2x CAN, Controller Area Network V2.0B (ISO 11898)",
@@ -58,22 +57,8 @@
       "termination": "No termination",
       "busAccess": "Passive - read access only"
     },
-    "rs232": {
-      "protocols": "1x RS232/485 combo (software switchable), EIA-232",
-      "signals": "TX, RX ",
-      "signalLevels": "High > 5 VDC, Low < -5 VDC",
-      "dataTransferRate": "Max. 115200 Bit/s "
-    },
-    "rs485": {
-      "protocols": "EIA-485",
-      "signals": "A, B",
-      "signalLevels": "Differential output voltage, loaded 1.5 VDC – 3.6 VDC",
-      "dataTransferRate": "Max. 115200 Bit/s",
-      "termination": "120 Ω for RS-485 configurable by software "
-    },
     "connector": "1x Terminal block header 3.5 mm"
   },
-
   "system": {
     "core": "1x 1 GHz single-core, 512 MB RAM, 8 GB Flash, HW Rev. BO2",
     "moduleSlots": "1x Shield"

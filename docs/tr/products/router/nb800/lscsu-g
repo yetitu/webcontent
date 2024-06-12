@@ -40,6 +40,17 @@
     "standard": "1x USB 2.0 Host",
     "connectorType": "1x Type A"
   },
+
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232/485 combo (yazılımla etkinleştirilir), EIA-232",
+      "signals": "TX, RX ",
+      "signalLevels": "High > 5 VDC, Low < -5 VDC",
+      "dataTransferRate": "En fazla 115200 Bit/s "
+    },
+    "connector": "1x Terminal block header 3.5 mm"
+  },
+
   "inputOutput": {
     "type": "2x Digital IO (1x DI, 1x DO)",
     "diSignals": "+,-",
