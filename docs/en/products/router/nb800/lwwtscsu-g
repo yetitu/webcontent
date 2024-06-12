@@ -64,7 +64,7 @@
     },
     "connector": "1x Terminal block header 3.5 mm"
   },
-  "input-output": {
+  "inputOutput": {
     "type": "2x Digital IO (1x DI, 1x DO)",
     "diSignals": "+,-",
     "diLevels": "Low 0-3 VDC, High 9-32 VDC",

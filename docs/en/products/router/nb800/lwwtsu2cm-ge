@@ -10,11 +10,11 @@
   ],
   "heroImage": "nb800_hero.png",
   "keyFeatures": [
-    "- A cellular network connection is established with a Multimode GSM module on the device that supports 4G- LTE, 3G- DC-HSPA+/UMTS and 2G- GSM/GPRS/EDGE networks.",
-    "- It is resistant to the harsh physical conditions with its IP40 level protected design. It operates between -40°C and +70°C.",
-    "- Advanced GPS receiver makes it easy to determine the vehicle's geographic location information with high accuracy. It can be fixed with up to three satellites for high accuracy in position determination.",
-    "- The device is equipped with single Fast Ethernet (10/100 Mbps) port (RJ45).",
-    "- It has certificates of conformity with CE (2014/53/EU, RED), 2011/65/EU (RoHS), UNECE-R10, UNECE-R118 directives."
+    "A cellular network connection is established with a Multimode GSM module on the device that supports 4G- LTE, 3G- DC-HSPA+/UMTS and 2G- GSM/GPRS/EDGE networks.",
+    "It is resistant to the harsh physical conditions with its IP40 level protected design. It operates between -40°C and +70°C.",
+    "Advanced GPS receiver makes it easy to determine the vehicle's geographic location information with high accuracy. It can be fixed with up to three satellites for high accuracy in position determination.",
+    "The device is equipped with single Fast Ethernet (10/100 Mbps) port (RJ45).",
+    "It has certificates of conformity with CE (2014/53/EU, RED), 2011/65/EU (RoHS), UNECE-R10, UNECE-R118 directives."
   ],
   "cellular": {
     "standard": "1x GSM module, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
@@ -64,11 +64,7 @@
     "moduleSlots": "1x Shield"
   },
   "licenses": {
-    "gnss": "GNSS location service, Server with JSON-, NMEA stream",
-    "openServer": "|",
-    "sOpenServer": "age | Nominal (12, 24 VDC), Mutlak (2 VDC to 24 VDC (&#",
-    "lxc": "| 1x Terminal block header 3.5 mm",
-    "eUicc": "n   | 5 W (average), 10 W (max)"
+    "gnss": "GNSS location service, Server with JSON-, NMEA stream"
   },
   "power": {
     "inputVoltage": "Nominal (12, 24 VDC), Mutlak (2 VDC to 24 VDC (&#177; 20) )",
