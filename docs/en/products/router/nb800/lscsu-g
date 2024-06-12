@@ -57,8 +57,7 @@
     "doSignals": "Relay outputs with NO, NC, COM (normally open, normally closed)",
     "doLevels": "0 - 32 VDC/1A",
     "isolation": "1.500 VDC",
-    "module": "1x Terminal block header 3.5 mm",
-    "connector": "|"
+    "connector": "1x Terminal block header 3.5 mm"
   },
   "system": {
     "core": "1x 1 GHz single-core, 512 MB RAM, 8 GB Flash, HW Rev. BO2",

@@ -63,7 +63,6 @@
     "doSignals": "Relay outputs with NO, NC, COM (normally open, normally closed)",
     "doLevels": "0 - 32 VDC/1A",
     "isolation": "1.500 VDC",
-    "module": "COM-I/O shield",
     "connector": "1x Terminal block header 3.5 mm"
   },
   "system": {
