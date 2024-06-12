@@ -40,13 +40,19 @@
     "standard": "1x USB 2.0 Host",
     "connectorType": "1x Type A"
   },
-
   "serial": {
     "rs232": {
       "protocols": "1x RS232/485 combo (software switchable), EIA-232",
       "signals": "TX, RX ",
       "signalLevels": "High > 5 VDC, Low < -5 VDC",
       "dataTransferRate": "Max. 115200 Bit/s "
+    },
+    "rs485": {
+      "protocols": "EIA-485",
+      "signals": "A, B",
+      "signalLevels": "Differential output voltage, loaded 1.5 VDC – 3.6 VDC",
+      "dataTransferRate": "Max. 115200 Bit/s",
+      "termination": "120 Ω for RS-485 configurable by software "
     },
     "connector": "1x Terminal block header 3.5 mm"
   },
