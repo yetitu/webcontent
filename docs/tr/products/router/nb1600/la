@@ -1,28 +1,28 @@
 {
   "title": "NB1601-La",
-  "description": "Modular mobile router with 4-port Ethernet switch",
-  "heroText": "Economical mobile router for Condition Monitoring, Automation and Remote Management applications",
+  "description": "4 bağlantı noktalı Ethernet anahtarına sahip modüler mobil yönlendirici.",
+  "heroText": "Durum İzleme, Otomasyon ve Uzaktan Yönetim uygulamaları için ekonomik mobil yönlendirici",
   "front_image": "nb1600_front.png",
   "overview": [
-    "NB1601-La is a low-cost solution for Condition Monitoring, Automation and Remote Management. Its small form factor and reduced features make it ideal for simple connection tasks. Among its features; It includes a 4G LTE 450 supported GSM module, serial interface, digital I/Os and four Ethernet ports for high-speed mobile Internet connection.",
-    "The high-quality metal housing for DIN rail mounting offers the required ruggedness for use in industrial environments with a supported temperature range of -40 °C to 70 °C.",
-    "The software is based on proven components, including a built-in Linux operating system and a powerful communications protocol suite, as well as VPN technologies such as OpenVPN. Customer-specific software extensions can be implemented via an advanced SDK."
+    "NB1601-La, Durum İzleme, Otomasyon ve Uzaktan Yönetim düşük maliyetli bir çözümdür. Küçük form faktörü ve azaltılmış özellikleri, onu basit bağlantı görevleri için ideal kılar. Özellikleri arasında; yüksek hızlı mobil İnternet bağlantısı için 4G LTE 450 destekli GSM modülü, seri arayüz, dijital I/O'lar, dört adet Ethernet portu yer alır.",
+    "DIN rayı montajına uygun yüksek kaliteli metal muhafaza, -40 °C ile 70 °C arası desteklenen sıcaklık aralığıyla birlikte endüstriyel ortamlarda kullanım için gereken sağlamlığı sunar.",
+    "Yazılım, yerleşik bir Linux işletim sistemi ve güçlü bir iletişim protokolü paketinin yanı sıra OpenVPN gibi VPN teknolojilerini içeren kanıtlanmış bileşenlere dayanmaktadır. Müşteriye özel yazılım uzantıları, gelişmiş bir SDK aracılığıyla uygulanabilir."
   ],
   "keyFeatures": [
-    "A cellular network connection is established with a GSM module that supports LTE 450.",
-    "It is resistant to harsh physical conditions with its IP40 level protected design. It operates between -40°C and +70°C.",
-    "The device is equipped with four Fast Ethernet (10/100 Mbps) ports (RJ45).",
-    "It has certificates of compliance with CE (2014/53/EU, RED), 2011/65/EU (RoHS), UKCA 2017/1206 (RER) and UL/IEC/EN 62368-1 directives."
+    "LTE 450 destekleyen bir adet GSM modülü ile hücresel ağ bağlantısı kurulur.",
+    "IP40 seviyesinde korumalı tasarımı ile zorlu fiziksel koşullara dayanıklıdır. -40°C ile +70°C arasında çalışır.",
+    "Cihaz dört adet Fast Ethernet (10/100 Mbps) portu (RJ45) ile donatılmıştır.",
+    "CE (2014/53/EU, RED), 2011/65/EU (RoHS), UKCA 2017/1206 (RER) ve UL/IEC/EN 62368-1 direktiflerine uygunluk belgelerine sahiptir."
   ],
   "cellular": {
-    "standard": "1x GSM module, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
-    "dataTransferRate": "(Max) 100 Mbps (DL), 50Mbps (UL)",
+    "standard": "1 adet GSM modül, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+    "dataTransferRate": "(En fazla) 100 Mbps (DL), 50Mbps (UL)",
     "antennaType": "2x2 MIMO",
     "antennaConnectors": "2x SMA Female",
-    "sim": "1x Micro SIM - 3FF"
+    "sim": "2x Micro SIM - 3FF"
   },
   "ethernet": {
-    "fastEthernet": "4x 100BASE-T, Auto MDIX |",
+    "fastEthernet": "4 adet 100BASE-T, Auto MDIX ",
     "dataTransferRate": "10/100 Mbps",
     "cableConnectors": "4x RJ45"
   },
@@ -32,18 +32,18 @@
   },
   "serial": {
     "rs232": {
-      "protocols": "1x RS232, EIA-232",
+      "protocols": "1 adet RS232, EIA-232",
       "signals": "TX, RX",
       "signalLevels": "High > 5 VDC, Low < -5 VDC",
-      "dataTransferRate": "Max. 115200 Bit/s"
+      "dataTransferRate": "En fazla 115200 Bit/s"
     },
     "connector": "2x SMA Female"
   },
-  "input-output": {
+  "inputOutput": {
     "type": "2x Digital IO (1x DI, 1x DO)",
     "diSignals": "+,-",
     "diLevels": "Low 0-3 VDC, High 9-32 VDC",
-    "doSignals": "Relay outputs with NO, NC, COM (normally open, normally closed)",
+    "doSignals": "Röle çıkışları NO, NC, COM (normally open, normally closed)",
     "doLevels": "0 - 32 VDC/1A",
     "isolation": "1.500 VDC",
     "connector": "1x Terminal block header 3.5 mm"
@@ -53,22 +53,22 @@
     "moduleSlots": "1x Shield"
   },
   "power": {
-    "inputVoltage": "Nominal (12, 24 VDC), Absolute (12 VDC to 24 VDC (± 20%) )",
+    "inputVoltage": "Nominal (12, 24 VDC), Mutlak (12 VDC - 24 VDC (± %20) )",
     "connector": "1x Terminal block header 3.5 mm",
-    "consumption": "5 W (average), 7.5 W (max)"
+    "consumption": "5 W (ortalama), 7.5 W (en fazla)"
   },
   "other": {
     "mounting": "DIN-Rail",
-    "dimensions": "Width 45, Height 124/134, Depth 110/121",
+    "dimensions": "Genişlik 45, Yükseklik 124/134, Derinlik 110/121",
     "weight": "450",
-    "temperature": "-40°C - +70°C",
+    "temperature": "-40°C ile +70°C arası",
     "iPLevel": "IP40",
-    "mtbf": "300.000h/34.2years, acc. to SN29500 @ 40°C",
+    "mtbf": "40°C sıcaklıkta SN29500'e göre 300.000saat/34.2 yıl",
     "orderCode": "NB1601-La"
   },
   "certifications": {
     "ce": "2014/53/EU (RED)",
     "rohs": "2011/65/EU",
-    "rer": "UKCA 2017/1206, UL/IEC/EN 62368-1",
+    "rer": "UKCA 2017/1206, UL/IEC/EN 62368-1"
   }
 }
