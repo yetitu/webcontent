@@ -46,7 +46,7 @@
     },
     "connector": "2x SMA Female"
   },
-  "input-output": {
+  "inputOutput": {
     "type": "4x Digital IO (2x DI, 2x DO)",
     "diSignals": "+,-",
     "diLevels": "Low 0-3 VDC, High 9-32 VDC",
