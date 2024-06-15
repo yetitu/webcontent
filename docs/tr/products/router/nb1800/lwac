@@ -1,0 +1,79 @@
+{
+  "title": "NB1800-LWac",
+  "description": "Endüstriyel ortamda kullanım için Gigabit Ethernet ve SFP bağlantı noktalarına ayrıca WiFi radyoya sahip yüksek performanslı ve modüler mobil yönlendirici.",
+  "heroText": "Durum İzleme, Otomasyon ve Uzaktan Yönetim uygulamaları için Gigabit Ethernet ve SFP bağlantı noktasına sahip yüksek performanslı ve modüler mobil yönlendirici",
+  "front_image": "nb1800_front.png",
+  "overview": [
+    "NB1800-LWac, endüstriyel ortamda hızlı İnternet erişimi sağlar. Güvenilir bir ağ bağlantısı için cihaz 4G-LTE destekli GSM modülüne sahiptir. Ayrıca bir adet WiFi-5 destekleyen radyosu, iki adet Gigabit Ethernet ve bir adet SFP bağlantı noktası (Fiber optik bağlantı için) yanı sıra bir adet USB bağlantı noktası ve RS-232/485 modlarından çalıştırılabilen bir adet seri arayüzü bulunur.",
+    "DIN rayı montajına uygun yüksek kaliteli metal muhafaza, -40 °C ile +70 °C arası desteklenen sıcaklık aralığıyla birlikte endüstriyel ortamlarda kullanım için gereken sağlamlığı sunar.",
+    "Yazılım, yerleşik bir Linux işletim sistemi ve güçlü bir iletişim protokolü paketinin yanı sıra OpenVPN gibi VPN teknolojilerini içeren kanıtlanmış bileşenlere dayanmaktadır. Müşteriye özel yazılım uzantıları, gelişmiş bir SDK aracılığıyla uygulanabilir."
+  ],
+  "keyFeatures": [
+    "Cihazda 4G LTE destekleyen bir adet GSM modülü bulunur. 2 adet SIM kart yuvasının bulunması farklı hücresel ağlara bağlanma olanağı getirir. Bu da hem mobil internet maliyetlerinin kontrol edilmesine hem de kesintisiz internet bağlantısı kurulabilmesine yardımcı olur.",
+    "WLAN-ac destekleyan bir adet radyo, kablosuz yerel alan ağı (WLAN, WiFi) oluşturmaya ve mevcut diğer WiFi erişim noktalarına istemci olarak bağlanmaya olanak tanır. Farklı frekanslarda (2.4 GHz ve 5GHz) çalıştırılabilir.",
+    "IP40 seviyesinde korumalı tasarımı ile zorlu fiziksel koşullara dayanıklıdır. -40°C ile +70°C arasında çalışır.",
+    "Cihaz iki adet Gigabit Ethernet (10/100/1000 Mbps, 2xRJ45) ve bir adet SFP portu ile donatılmıştır."
+  ],
+  "cellular": {
+    "standard": "1x GSM modül, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+    "dataTransferRate": "(En fazla) 150 Mbps (DL), 50Mbps (UL)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x SMA Female",
+    "sim": "2x Micro SIM - 3FF"
+  },
+  "wifi": {
+    "standard": "1 adet dahili radyo, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
+    "dataTransferRate": "(En fazla) 300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2 adet SMA Female",
+    "operatingModes": "Access Point (Eşzamanlı 100 kullanıcı) veya Client"
+  },
+  "ethernet": {
+    "gigabitEthernet": "2 adet 1000BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100/1000 Mbps",
+    "cableConnectors": "2x RJ45",
+    "sfp": "1 adet SFP kafes (mini GBIC)"
+  },
+  "usb": {
+    "standard": "1x USB 2.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1 adet RS232, EIA-232",
+      "signals": "TX, RX",
+      "signalLevels": "High > 5 VDC, Low < -5 VDC",
+      "dataTransferRate": "En fazla 115200 Bit/s"
+    },
+    "rs485": {
+      "protocols": "EIA-485",
+      "signals": "A, B",
+      "signalLevels": "Difransiyel çıkış voltaı, yüklü 1.5 VDC – 3.6 VDC",
+      "dataTransferRate": "En fazla 115200 Bit/s",
+      "termination": "120 Ω for RS-485 yazılımla yapılandırılır"
+    },
+    "connector": "2x SMA Female"
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1024 MB RAM, 4 GB Flash",
+    "moduleSlots": "2x Extension (USB) + 2 x miniPCIe (PCIe + USB)"
+  },
+  "power": {
+    "inputVoltage": "Nominal (12, 24, 48 VDC), Mutlak (12 VDC - 48 VDC (± %25) )",
+    "connector": "1x Terminal block header 3.5 mm",
+    "consumption": "11 W (ortalama), 20 W (en fazla)"
+  },
+  "other": {
+    "mounting": "DIN-Rail",
+    "dimensions": "Genişlik 61, Yükseklik 128/140, Derinlik 121",
+    "weight": "800",
+    "temperature": "40°C ile +70°C arası",
+    "iPLevel": "IP40",
+    "mtbf": "40°C sıcaklıkta SN29500'e göre 240.000saat/27.4 yıl",
+    "orderCode": "NB1800-LWac"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED)",
+    "rohs": "2011/65/EU"
+  }
+}

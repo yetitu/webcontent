@@ -1,0 +1,83 @@
+{
+  "title": "NB1800-Lp-G",
+  "description": "High-performance and modular mobile router with Gigabit Ethernet and SFP port for use in an industrial environment.",
+  "heroText": "High-performance and modular mobile router with Gigabit Ethernet and SFP port for Condition Monitoring, Automation and Remote Management applications",
+  "front_image": "nb1800_front.png",
+  "overview": [
+    "NB1800-Lp-G provides fast Internet access in an industrial environment. For a reliable network connection, the device has a GSM module with 4G-LTE-A Pro support. It also has two Gigabit Ethernet and one SFP port (for Fiber optic connection), as well as a USB port and a serial interface that can be operated in RS-232/485 modes.",
+    "The high-quality metal housing for DIN rail mounting offers the required ruggedness for use in industrial environments with a supported temperature range of -40 °C to +70 °C.",
+    "The software is based on proven components, including a built-in Linux operating system and a powerful communications protocol suite, as well as VPN technologies such as OpenVPN. Customer-specific software extensions can be implemented via an advanced SDK."
+  ],
+  "keyFeatures": [
+    "LTE-A Pro represents a more advanced and capable iteration of LTE, delivering significantly faster speeds, lower latency and improved network efficiency. In an environment where LTE is still widely used, LTE-A Pro serves as an important step in meeting growing demands for faster and more reliable wireless connectivity.",
+    "With its IP40 level protected design, it is resistant to harsh physical conditions. It operates between -40°C and +70°C.",
+    "Advanced GPS receiver makes it easy to determine the vehicle's geographic location information with high accuracy. Up to three satellites can be fixed for high accuracy in positioning.",
+    "The device is equipped with two Gigabit Ethernet (10/100/1000 Mbps, 2xRJ45) and one SFP port."
+  ],
+  "cellular": {
+    "standard": "1x GSM module, LTE-A Pro, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+    "dataTransferRate": "(Max) 600 Mbps (DL), 150Mbps (UL)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x SMA Female",
+    "sim": "2x Micro SIM - 3FF"
+  },
+  "ethernet": {
+    "gigabitEthernet": "2x 1000BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100/1000 Mbps",
+    "cableConnectors": "2x RJ45",
+    "sfp": "1x SFP cage (mini GBIC)"
+  },
+  "positioning": {
+    "standards": "1x receiver, BeiDou, Galileo, GLONASS, GPS/QZSS",
+    "sensitivity": "Max -158dBm",
+    "antennaType": "Active or Passive",
+    "cep": "<2m (CEP50, open sky, horizantal)",
+    "antennaConnector": "1x SMA female",
+    "services": "Independent"
+  },
+  "usb": {
+    "standard": "1x USB 2.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232, EIA-232",
+      "signals": "TX, RX",
+      "signalLevels": "High > 5 VDC, Low < -5 VDC",
+      "dataTransferRate": "Max. 115200 Bit/s"
+    },
+    "rs485": {
+      "protocols": "EIA-485",
+      "signals": "A, B",
+      "signalLevels": "Differential output voltage, loaded 1.5 VDC – 3.6 VDC",
+      "dataTransferRate": "Max. 115200 Bit/s",
+      "termination": "120 Ω for RS-485 configurable by software"
+    },
+    "connector": "2x SMA Female"
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1024 MB RAM, 4 GB Flash",
+    "moduleSlots": "2x Extension (USB) + 2 x miniPCIe (PCIe + USB)"
+  },
+  "licenses": {
+    "gnss": "GNSS location services, JSON and NMEA stream server"
+  },
+  "power": {
+    "inputVoltage": "Nominal (12, 24, 48 VDC), Absolute (12 VDC to 24 VDC (± 25%) )",
+    "connector": "1x Terminal block header 3.5 mm",
+    "consumption": "11 W (average), 20 W (max)"
+  },
+  "other": {
+    "mounting": "DIN-Rail",
+    "dimensions": "Width 61, Height 128/140, Depth 121",
+    "weight": "800",
+    "temperature": "-40°C - +70°C",
+    "iPLevel": "IP40",
+    "mtbf": "240.000h/27.4years, acc. to SN29500 @ 40°C",
+    "orderCode": "NB1800-Lp-G"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED)",
+    "rohs": "2011/65/EU"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "NB1800-N-G",
+  "description": "High-performance and modular mobile router with 5G-NR support, Gigabit Ethernet and SFP port for use in an industrial environment.",
+  "heroText": "High-performance and modular mobile router with 5G-NR, Gigabit Ethernet and SFP port, ideal for Condition Monitoring, Automation and Remote Management applications",
+  "front_image": "nb1800_front.png",
+  "overview": [
+    "NB1800-N-G provides fast Internet access in an industrial environment. For a reliable network connection, the device has a GSM module with 5G-NR support. It also has two Gigabit Ethernet and one SFP port (for Fiber optic connection), as well as a USB port and a serial interface that can be operated in RS-232/485 modes.",
+    "The high-quality metal housing for DIN rail mounting offers the required ruggedness for use in industrial environments with a supported temperature range of -40 °C to +70 °C.",
+    "The software is based on proven components, including a built-in Linux operating system and a powerful communications protocol suite, as well as VPN technologies such as OpenVPN. Customer-specific software extensions can be implemented via an advanced SDK."
+  ],
+  "keyFeatures": [
+    "With 5G-NR, it provides access to high speeds at frequencies below 1 GHz in rural areas and at frequencies between 26-28 GHz in high-density urban areas. Data download (DL) speed can be up to 5.5 Gbps, and data upload (UL) speed can be up to 2.7 Gbps.",
+    "With its IP40 level protected design, it is resistant to harsh physical conditions. It operates between -40°C and +70°C.",
+    "Advanced GPS receiver makes it easy to determine the vehicle's geographic location information with high accuracy. Up to three satellites can be fixed for high accuracy in positioning.",
+    "The device is equipped with two Gigabit Ethernet (10/100/1000 Mbps, 2xRJ45) and one SFP port."
+  ],
+  "cellular": {
+    "standard": "1x GSM module, 5G-NR, LTE-A Pro, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+    "dataTransferRate": "(Max.) 5.5Gbps Mbps (DL), 2.7Gbps (UL)",
+    "antennaType": "4",
+    "antennaConnectors": "23dBm (Power Class 3)",
+    "sim": "4x4 MIMO (in 5G-NR)"
+  },
+  "ethernet": {
+    "gigabitEthernet": "2x 1000BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100/1000 Mbps",
+    "cableConnectors": "2x RJ45",
+    "sfp": "1x SFP cage (mini GBIC)"
+  },
+  "positioning": {
+    "standards": "1x receiver, BeiDou, Galileo, GLONASS, GPS/QZSS",
+    "sensitivity": "Max -158dBm",
+    "antennaType": "Active or Passive",
+    "cep": "<2m (CEP50, open sky, horizantal)",
+    "antennaConnector": "1x SMA female",
+    "services": "Independent"
+  },
+  "usb": {
+    "standard": "1x USB 2.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232, EIA-232",
+      "signals": "TX, RX",
+      "signalLevels": "High > 5 VDC, Low < -5 VDC",
+      "dataTransferRate": "Max. 115200 Bit/s"
+    },
+    "rs485": {
+      "protocols": "EIA-485",
+      "signals": "A, B",
+      "signalLevels": "Differential output voltage, loaded 1.5 VDC – 3.6 VDC",
+      "dataTransferRate": "Max. 115200 Bit/s",
+      "termination": "120 Ω for RS-485 configurable by software"
+    },
+    "connector": "4x SMA Female"
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1024 MB RAM, 4 GB Flash",
+    "moduleSlots": "2x Extension (USB) + 2 x miniPCIe (PCIe + USB)"
+  },
+  "licenses": {
+    "gnss": "GNSS location services, JSON and NMEA stream server"
+  },
+  "power": {
+    "inputVoltage": "4x4 MIMO (in 5G-NR)",
+    "connector": "4x SMA Female",
+    "consumption": "2x Micro SIM - 3FF"
+  },
+  "other": {
+    "mounting": "DIN-Rail",
+    "dimensions": "Width 61, Height 128/140, Depth 121",
+    "weight": "800",
+    "temperature": "-40°C - +70°C",
+    "iPLevel": "IP40",
+    "mtbf": "240.000h/27.4years, acc. to SN29500 @ 40°C",
+    "orderCode": "NB1800-N-G"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED)",
+    "rohs": "2011/65/EU"
+  }
+}

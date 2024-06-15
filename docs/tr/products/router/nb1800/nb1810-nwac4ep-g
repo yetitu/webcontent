@@ -1,0 +1,94 @@
+{
+  "title": "NB1810-NWac4Ep-G",
+  "description": "Endüstriyel ortamda kullanım için Gigabit Ethernet ve SFP bağlantı noktalarına ayrıca WiFi radyoya sahip yüksek performanslı ve modüler mobil yönlendirici.",
+  "heroText": "Durum İzleme, Otomasyon ve Uzaktan Yönetim uygulamaları için Gigabit Ethernet ve SFP bağlantı noktasına sahip yüksek performanslı ve modüler mobil yönlendirici",
+  "front_image": "nb1800_front.png",
+  "overview": [
+    "NB1810-NWac4Ep-G, endüstriyel ortamda hızlı İnternet erişimi sağlar. Güvenilir bir ağ bağlantısı için cihaz 4G- LTE-A Pro destekli bir adet GSM modülüne sahiptir. Ayrıca bir adet WiFi-5 destekleyen radyosu, dört bağlantı noktalı, PoE+ destekli Gigabit Ethernet switch ve bir adet ayarlanabilir SFP/GbE bağlantı noktası yanı sıra bir adet USB bağlantı noktası ve RS-232/485 modlarından çalıştırılabilen bir adet seri arayüzü bulunur.",
+    "DIN rayı montajına uygun yüksek kaliteli metal muhafaza, -40 °C ile +65 °C arası desteklenen sıcaklık aralığıyla birlikte endüstriyel ortamlarda kullanım için gereken sağlamlığı sunar.",
+    "Yazılım, yerleşik bir Linux işletim sistemi ve güçlü bir iletişim protokolü paketinin yanı sıra OpenVPN gibi VPN teknolojilerini içeren kanıtlanmış bileşenlere dayanmaktadır. Müşteriye özel yazılım uzantıları, gelişmiş bir SDK aracılığıyla uygulanabilir."
+  ],
+  "keyFeatures": [
+    "5G-NR ile kırsal alanlarda 1 GHz'in altındaki frekanslarda, yüksek yoğunluklu kentsel alanlarda ise 26-28 GHz arasındaki frekanslarda yüksek hızlara erişim sağlar. Veri indirme (DL) hızı 5,5 Gbps'ye, veri yükleme (UL) hızı ise 2,7 Gbps'ye kadar çıkabilir.",
+    "IP40 seviyesinde korumalı tasarımı ile zorlu fiziksel koşullara dayanıklıdır.",
+    "Gelişmiş GPS alıcısı, aracın coğrafi konum bilgisinin yüksek doğrulukla belirlenmesini kolaylaştırır. Konum belirlemede yüksek doğruluk için üç uyduya kadar sabitlenebilir.",
+    "Cihazda 4 adet PoE+ destekli Gigabit Ethernet (10/100/1000 Mbps, 4xRJ45) switch, bir adet ayarlanabilir SFP/GbE ve bir adet GbE portu ile donatılmıştır."
+  ],
+  "cellular": {
+    "standard": "1 adet GSM modül, 5G-NR, 4G-LTE-A Pro",
+    "dataTransferRate": "(Max.) 5.5 Gbps (DL), 2.7Gbps (UL)",
+    "antennaType": "4",
+    "antennaConnectors": "23dBm (Power Class 3)",
+    "sim": "4x4 MIMO (in 5G-NR)"
+  },
+  "wifi": {
+    "standard": "1 adet dahili radyo, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
+    "dataTransferRate": "(En fazla) 300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2 adet SMA Female",
+    "operatingModes": "Access Point (Eşzamanlı 100 kullanıcı) veya Client"
+  },
+  "ethernet": {
+    "gigabitEthernet": "1 adet 1000BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100/1000 Mbps",
+    "cableConnectors": "2x RJ45",
+    "sfp": "1 adet 1000BASE-T, Auto MDIX"
+  },
+  "positioning": {
+    "standards": "1 adet alıcı, BeiDou, Galileo, GLONASS, GPS/QZSS",
+    "sensitivity": "En fazla -158dBm",
+    "antennaType": "Aktif veya Pasif",
+    "cep": "<2m (CEP50, Açık havada, Yatay konumda)",
+    "antennaConnector": "1x SMA female",
+    "services": "Bağımsız"
+  },
+  "usb": {
+    "standard": "1x USB 2.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "",
+      "signals": "",
+      "signalLevels": "",
+      "dataTransferRate": ""
+    },
+    "rs485": {
+      "protocols": "| Desteklenen Protokoller | EIA-485                                                 |",
+      "signals": "| Sinyaller               | A, B                                                    |",
+      "signalLevels": "| Sinyal seviyesi         | Difransiyel çıkış voltaı, yüklü 1.5 VDC – 3.6 VDC       |",
+      "dataTransferRate": "| Veri Transfer Hızı      | En fazla 115200 Bit/s                                   |",
+      "termination": "| Terminasyon             | 120 Ω for RS-485 yazılımla yapılandırılır               |"
+    },
+    "connector": "4x SMA Female"
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1024 MB RAM, 4 GB Flash",
+    "moduleSlots": "2x Extension (USB) + 2 x miniPCIe (PCIe + USB)"
+  },
+  "licenses": {
+    "gnss": "GNSS konum servisleri, JSON ve NMEA akış sunucu",
+    "openServer": "|",
+    "sOpenServer": "jı | Nominal (48 VDC), Mutlak (48 VDC (&#177; 10)",
+    "lxc": "| 1x Terminal block header 3.5 mm",
+    "eUicc": "| 82 W (ortalama), 90 W (en fazla)"
+  },
+  "power": {
+    "inputVoltage": "4x4 MIMO (in 5G-NR)",
+    "connector": "4x SMA Female",
+    "consumption": "2x Micro SIM - 3FF"
+  },
+  "other": {
+    "mounting": "DIN-Rail",
+    "dimensions": "Genişlik 95, Yükseklik 128/140, Derinlik 121",
+    "weight": "1100",
+    "temperature": "40°C ile +50°C arası",
+    "iPLevel": "IP40",
+    "mtbf": "40°C sıcaklıkta SN29500'e göre 220.000saat/20.5 yıl",
+    "orderCode": "NB1810-NWac4Ep-G                                        |"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED)",
+    "rohs": "2011/65/EU"
+  }
+}
