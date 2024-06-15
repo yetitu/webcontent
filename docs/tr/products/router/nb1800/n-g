@@ -47,11 +47,11 @@
       "dataTransferRate": ""
     },
     "rs485": {
-      "protocols": "| Desteklenen Protokoller | EIA-485                                                 |",
-      "signals": "| Sinyaller               | A, B                                                    |",
-      "signalLevels": "| Sinyal seviyesi         | Difransiyel çıkış voltaı, yüklü 1.5 VDC – 3.6 VDC       |",
-      "dataTransferRate": "| Veri Transfer Hızı      | En fazla 115200 Bit/s                                   |",
-      "termination": "| Terminasyon             | 120 Ω for RS-485 yazılımla yapılandırılır               |"
+      "protocols": "EIA-485",
+      "signals": "A, B",
+      "signalLevels": "Difransiyel çıkış voltaı, yüklü 1.5 VDC – 3.6 VDC",
+      "dataTransferRate": "En fazla 115200 Bit/s",
+      "termination": "120 Ω for RS-485 yazılımla yapılandırılır"
     },
     "connector": "4x SMA Female"
   },

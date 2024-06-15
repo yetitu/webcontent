@@ -54,11 +54,11 @@
       "dataTransferRate": ""
     },
     "rs485": {
-      "protocols": "| Desteklenen Protokoller | EIA-485                                                 |",
-      "signals": "| Sinyaller               | A, B                                                    |",
-      "signalLevels": "| Sinyal seviyesi         | Difransiyel çıkış voltaı, yüklü 1.5 VDC – 3.6 VDC       |",
-      "dataTransferRate": "| Veri Transfer Hızı      | En fazla 115200 Bit/s                                   |",
-      "termination": "| Terminasyon             | 120 Ω for RS-485 yazılımla yapılandırılır               |"
+      "protocols": "EIA-485",
+      "signals": "A, B",
+      "signalLevels": "Difransiyel çıkış voltaı, yüklü 1.5 VDC – 3.6 VDC",
+      "dataTransferRate": "En fazla 115200 Bit/s",
+      "termination": "120 Ω for RS-485 yazılımla yapılandırılır"
     },
     "connector": "4x SMA Female"
   },
@@ -81,7 +81,7 @@
     "temperature": "40°C ile +50°C arası",
     "iPLevel": "IP40",
     "mtbf": "40°C sıcaklıkta SN29500'e göre 220.000saat/20.5 yıl",
-    "orderCode": "NB1810-NWac4Ep-G                                        |"
+    "orderCode": "NB1810-NWac4Ep-G"
   },
   "certifications": {
     "ce": "2014/53/EU (RED)",
