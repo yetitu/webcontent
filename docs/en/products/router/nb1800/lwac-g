@@ -67,11 +67,7 @@
     "moduleSlots": "2x Extension (USB) + 2 x miniPCIe (PCIe + USB)"
   },
   "licenses": {
-    "gnss": "GNSS location service, Server with JSON-, NMEA stream",
-    "openServer": "|",
-    "sOpenServer": "age | Nominal (12, 24, 48 VDC), Absolute (12 VDC - 48 V",
-    "lxc": "| 1x Terminal block header 3.5 mm",
-    "eUicc": "n   | 11 W (average), 20 W (max.)"
+    "gnss": "GNSS location service, Server with JSON-, NMEA stream"
   },
   "power": {
     "inputVoltage": "Nominal (12, 24, 48 VDC), Absolute (12 VDC - 48 VDC (± 25%) )",

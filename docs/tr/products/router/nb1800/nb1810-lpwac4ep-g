@@ -67,11 +67,7 @@
     "moduleSlots": "2x Extension (USB) + 2 x miniPCIe (PCIe + USB)"
   },
   "licenses": {
-    "gnss": "GNSS konum servisleri, JSON ve NMEA akış sunucu",
-    "openServer": "|",
-    "sOpenServer": "jı | Nominal (48 VDC), Mutlak (48 VDC (&#177; 10)",
-    "lxc": "| 1x Terminal block header 3.5 mm",
-    "eUicc": "| 82 W (ortalama), 90 W (en fazla)"
+    "gnss": "GNSS konum servisleri, JSON ve NMEA akış sunucu"
   },
   "power": {
     "inputVoltage": "4x4 MIMO (in 5G-NR)",
