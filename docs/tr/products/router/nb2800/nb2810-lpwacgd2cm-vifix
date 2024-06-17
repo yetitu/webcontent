@@ -1,0 +1,104 @@
+{
+  "title": "NB2810-LpWacGd2Cm-ViFIx",
+  "description": "Karayollarında çalışan araçlarda kablosuz internet erişimi sağlayan, yüksek performanslı ve modüler mobil yönlendirici.",
+  "heroText": "Yolcularına konforlu bir seyahat deneyimi sunarken yeni nesil filo yönetimi ile operasyonel verimliliğini artırmak isteyen toplu taşıma operatörleri ve araç üreticileri için idealdir.",
+  "front_image": "nb2800_front.jpg",
+  "overview": [
+    "NB2810-LpWacGd2Cm-ViFIx yalnızca araç içi kablosuz İnternet erişimi sağlamakla kalmaz, aynı zamanda filo yönetimi için ITxPT gereksinimlerini de karşılar. LTE-A Pro destekli 1x GSM modülü, en yeni IEEE 802.11ac (Wi-Fi 5) standardına sahip WiFi birx erişim noktası, konumlandırma için GNSS-DR ve M12 konnektörlü 2 Gigabit Ethernet bağlantı noktası ve 2 CAN arayüzü ile donatılmıştır.",
+    "Entegre ateşleme algılaması sayesinde NB2810, araç kapatıldıktan sonra bile açık kalabilir. Bu sayede tüm görevlerin güvenli bir şekilde tamamlanmasını sağlar.",
+    "Yönlendirici, UNECE-R10 (E-Mark), UNECE-R118 düzenlemelerini ve ITxPT'ye göre M12 ve FAKRA konektörlerini destekler. Bunlar çok sayıda özelliği ve yüksek performansıyla birleştiğinde, onu Yolcu WiFi, Telematik, Filo Yönetimi veya CCTV gibi uygulamalar için ideal iletişim ağ geçidi haline getirir.",
+    "Yazılım, yerleşik bir Linux işletim sistemi ve güçlü bir iletişim protokolü paketi dahil olmak üzere kanıtlanmış bileşenlere dayanmaktadır. Müşteriye özel yazılım uzantıları, gelişmiş bir SDK aracılığıyla uygulanabilir."
+  ],
+  "keyFeatures": [
+    "LTE-A Pro, LTE'nin daha gelişmiş ve yetenekli bir sürümünü temsil eder. Önemli ölçüde daha yüksek hızlar, daha düşük gecikme süresi ve geliştirilmiş ağ verimliliği sunar. LTE hala geniş çapta kullanılsa da, LTE-A Pro, daha hızlı ve daha güvenilir kablosuz bağlantı taleplerini karşılamak için önemli bir adım olarak hizmet verir.",
+    "WLAN-ac'yi destekleyen radyo, araç içinde kablosuz yerel ağ (WLAN, WiFi) oluşturmaya yarar. 2.5 Ghz veya 5 Ghz frekanslarında çalıştırılabilir.",
+    "4 pinli CAN (Kontrolör Alanı Ağı) bağlantı noktası, aracın CAN veriyoluna (CAN-Bus) aktif veya pasif olarak maksimum 1Mbit/s (varsayılan 125 Mbit/s) hızla bağlanır.",
+    "ITxPT uyumluluğu sayesinde araç üreticileri FMStoIP, VEHICLEtoIP gibi yeni nesil yenilikçi uygulamaları kolaylıkla geliştirebilir.",
+    "Dead Reckoning işlevine sahip sistemlerde, uydu bağlantısının olmadığı tüneller ve otopark yapıları gibi kapalı ortamlarda, konumsal bilgi, mantıksal çıkarım algoritmaları kullanılarak üretilir.",
+    "Yolcu ve yük taşımacılığı için üretilen araçların karşılaşacağı zorlu fiziki şartlara dayanıklıdır. IP40 düzeyinde korumalı tasarıma sahiptir. -25°C ile +70°C arasında çalışır.",
+    "Gelişmiş GPS alıcısı, aracın coğrafi konum bilgisinin yüksek doğrulukla belirlenmesini kolaylaştırır. Konum belirlemede yüksek doğruluk için sabitlenmesi gereken minimum uydu sayısı programlanabilmektedir.",
+    "Araç içinde yerel alan ağı (LAN) oluşturmak için iki adet Gigabit Ethernet bağlantı noktası mevcuttur.",
+    "Entegre ateşleme algılaması sayesinde yönlendirici, araç kapatıldıktan sonra belirttiğiniz süre kadar açık kalabilir. Böylece cihaz güvenli bir şekilde görevlerini tamamlar.",
+    "CE (2014/53/EU, RED), UN ECE R10, UN ECE R118 ve ITxPT direktiflerine uygunluk belgelerine sahiptir."
+  ],
+  "cellular": {
+    "4g": {
+      "standard": "1x GSM modül, LTE-A Pro, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+      "dataTransferRate": "(En fazla) 600 Mbps (DL), 150Mbps (UL)",
+      "antennaType": "2x2 MIMO",
+      "antennaConnectors": "2x FAKRA D-coded male",
+      "sim": "4x Micro SIM - 3FF"
+    }
+  },
+  "wifi": {
+    "standard": "1x dahili radyo, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
+    "dataTransferRate": "(En fazla) 300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x FAKRA I-coded male",
+    "operatingModes": "Access Point (Eşzamanlı 100 kullanıcı) veya Client"
+  },
+  "ethernet": {
+    "standard": "2x Gigabit Ethernet, 1000BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100/1000 Mbps",
+    "cableConnectors": "2x M12 X-coded female"
+  },
+  "positioning": {
+    "standards": "1x alıcı, BeiDou, Galileo, GLONASS, GPS, gpsOne Gen 9",
+    "sensitivity": "En fazla -160dBm",
+    "antennaType": "Aktif veya Pasif",
+    "cep": "<2m (CEP, Açık havada, Yatay konumda)",
+    "antennaConnector": "1x FAKRA C-coded male"
+  },
+  "usb": {
+    "standard": "1x USB 3.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232, EIA-232",
+      "signals": "TX, RX",
+      "signalLevels": "High > 5 VDC, low < -5 VDC",
+      "dataTransferRate": "En fazla 115200 Bit/s"
+    },
+    "can": {
+      "protocols": "2xCAN,Controller Area Network V2.0B(ISO 11898)",
+      "signals": "CANH, CANL",
+      "signalLevels": "High > 2.75 V, Low <2.0 V",
+      "dataTransferRate": "8000 Frame/s a kadar",
+      "isolation": "1500VDC",
+      "termination": "Yok",
+      "busAccess": "Pasif - Sadece okuma"
+    },
+    "connector": "1x Terminal Block header 5mm"
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1 GB RAM, 4 GB Flash",
+    "moduleSlots": "2x miniPCIe (PCIe + USB) ve 2x miniPCIe (USB)",
+    "extendedStorage": "1 TB SSD"
+  },
+  "licenses": {
+    "gnss": "GNSS konum servisleri, JSON ve NMEA akış sunucu",
+    "itpt": "Envanter, Zaman, FMS2IP, VehicleToIp ve Konumu etkinleştirir",
+    "lxc": "Yönlendirici işlevlerinden izole edilmiş, müşteriye özel uygulamaları entegre etmek için Linux Container (LXC) ortamı",
+    "fms2ip": "CAN mesajlarının FMS Standardına göre IP datagramlarına otomatik çevirisi"
+  },
+  "power": {
+    "inputVoltage": "12, 24 ve 48 VDC",
+    "ignitionSense": "Ignition Sense (IS), Var",
+    "connector": "1x Terminal Block header 5mm",
+    "consumption": "En fazla 20W"
+  },
+  "other": {
+    "mounting": "Raf",
+    "dimensions": "Genişlik 164/190, Yükseklik 58, Derinlik 139.5",
+    "weight": "800",
+    "temperature": "-25°C ile +70°C arası",
+    "iPLevel": "IP40",
+    "mtbf": "40°C sıcaklıkta SN29500'e göre 170.000saat/19.4 yıl",
+    "orderCode": "NB2810-LpWacGd2Cm-ViFIx"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED) - CE",
+    "vehicleTypes": "UN ECE R10 ve UN ECE R118"
+  }
+}

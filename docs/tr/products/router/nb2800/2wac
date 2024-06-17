@@ -1,0 +1,66 @@
+{
+  "title": "NB2800-2Wac",
+  "description": "Karayollarında çalışan araçlarda kablosuz internet erişimi sağlayan, yüksek performanslı ve modüler mobil yönlendiricidir.",
+  "heroText": "Yolcularına konforlu bir seyahat deneyimi sunarken yeni nesil filo yönetimi ile operasyonel verimliliğini artırmak isteyen toplu taşıma operatörleri ve araç üreticileri için idealdir.",
+  "front_image": "nb2800_front.jpg",
+  "overview": [
+    "NB2800-2Wac karayollarında yolcu ve yük taşımak amacıyla kullanılan araçlar için üretilmiştir. IEEE 802.11ac (Wi-Fi 5) standardına sahip iki WiFi erişim noktası ve iki Gigabit Ethernet bağlantı noktasıyla donatılmıştır. ",
+    "UNECE-R10 (E-Mark) ve UNECE-R118 düzenlemelerine uygundur. ",
+    "Sayısız özelliği ve yüksek performansıyla; 'Yolcular için WiFi', 'Yolcu Bilgi-Eğlence Sistemi', 'Filo Yönetimi' veya 'Güvenlik Kameraları' gibi uygulamalar için ideal yönlendiricidir. ",
+    "Kullanım amacına uygun olarak geliştirilen gömülü Linux işletim sistemi, gelişmiş iletişim protokollerini de içeren kendini kanıtlamış yazılım bileşenlerine sahiptir. Ücretsiz Yazılım Geliştirme Kiti (SDK) kullanılarak özel uygulamalar geliştirilebilir."
+  ],
+  "keyFeatures": [
+    "WLAN-ac'yi destekleyen iki adet telsiz, araç içinde aynı anda kablosuz yerel alan ağı (WLAN, WiFi) oluşturulmasına ve araç dışındaki WiFi erişim noktalarına istemci olarak bağlanmaya olanak sağlar. Radyolar farklı frekanslarda (2,4GHz ve 5GHz) çalıştırılabilir. Araçta farklı veya aynı frekanslarda farklı SSID'lere sahip iki WLAN oluşturulabilir.",
+    "Yolcu ve yük taşımacılığı için üretilen araçların karşılaşacağı zorlu fiziki şartlara dayanıklıdır. IP40 düzeyinde korumalı tasarıma sahiptir. -25°C ile +70°C arasında çalışır.",
+    "Cihaz, araç içinde bir yerel alan ağı (LAN) oluşturmak için iki adet Gigabit Ethernet bağlantı noktasıyla donatılmıştır. Araçta bulunan RJ45 portu Ethernet arayüzlü diğer cihazların (araç bilgisayarı, validatör gibi) internet erişimi için kullanılabilir.",
+    "Entegre ateşleme algılama sayesinde yönlendirici, araç kapatıldıktan sonra belirttiğiniz süre kadar açık kalabilir. Böylece cihaz güvenli bir şekilde görevlerini tamamlar."
+  ],
+  "wifi": {
+    "standard": "1x dahili radyo, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
+    "dataTransferRate": "(En fazla) 300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "4x SMA female",
+    "operatingModes": "Access Point (Eşzamanlı 100 kullanıcı) veya Client"
+  },
+  "ethernet": {
+    "standard": "2x Gigabit Ethernet, 1000BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100/1000 Mbps",
+    "cableConnectors": "2x RJ-45"
+  },
+  "usb": {
+    "standard": "1x USB 3.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232, EIA-232",
+      "signals": "TX, RX",
+      "signalLevels": "High > 5 VDC, low < -5 VDC",
+      "dataTransferRate": "En fazla 115200 Bit/s"
+    },
+    "connector": "1x Terminal Block header 5mm"
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1 GB RAM, 4 GB Flash",
+    "moduleSlots": "2x miniPCIe (PCIe + USB) ve 2x miniPCIe (USB)"
+  },
+  "power": {
+    "inputVoltage": "12, 24 ve 48 VDC",
+    "ignitionSense": "Ignition Sense (IS), Var",
+    "connector": "1x Terminal Block header 5mm",
+    "consumption": "En fazla 20W"
+  },
+  "other": {
+    "mounting": "Raf",
+    "dimensions": "Genişlik 164/190, Yükseklik 58, Derinlik 139.5",
+    "weight": "800",
+    "temperature": "-25°C ile +70°C arası",
+    "iPLevel": "IP40",
+    "mtbf": "40°C sıcaklıkta SN29500'e göre 230.000saat/26.3 yıl",
+    "orderCode": "NB2800-2Wac"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED) - CE",
+    "vehicleTypes": "UN ECE R10 and UN ECE R118"
+  }
+}

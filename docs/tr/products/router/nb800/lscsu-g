@@ -51,7 +51,7 @@
     "rs485": {
       "protocols": "EIA-485",
       "signals": "A, B",
-      "signalLevels": "Difransiyel çıkış voltaı, yüklü 1.5 VDC – 3.6 VDC ",
+      "signalLevels": "Difransiyel çıkış voltajı, yüklü 1.5 VDC – 3.6 VDC ",
       "dataTransferRate": "En fazla 115200 Bit/s",
       "termination": "RS-485 için 120 Ω, yazılımla yapılandırılır"
     },

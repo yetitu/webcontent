@@ -1,0 +1,101 @@
+{
+  "title": "NB2800-LWac2Cm-GFIx",
+  "description": "Karayollarında çalışan araçlarda kablosuz internet erişimi sağlayan, yüksek performanslı ve modüler mobil yönlendiricidir.",
+  "heroText": "Bir yandan yolcularına konforlu seyahat deneyimi yaşatırken bir yandan da yeni nesil filo yönetimi ile operasyonel verimliliğini artırmak isteyen taşımacılık sektöründe yer alan işletmeciler ve araç üreticileri için idealdir.",
+  "front_image": "nb2800_front.jpg",
+  "overview": [
+    "NB2800-LWac2Cm-GFIx karayollarında yolcu ve yük taşımak için kullanılan motorlu araçlar için üretilmektedir. Genellikle, aracın internete kesintisiz bağlanabilmesi ve araç içinde kablosuz internet erişimi olanağı sağlamak için kullanılır.",
+    "4G-LTE destekli birx GSM modülü, IEEE 802.11ac (Wi-Fi 5) standardına sahip birx WiFi erişim noktası, konumlandırma için bir ve 2 Gigabit Ethernet bağlantı noktasıyla donatılmıştır. ITxPT filo yönetimi gereksinimleri sağlanmıştır. 2x CAN arayüzü içerir.",
+    "UNECE-R10 (E-Mark) ve UNECE-R118 düzenlemelerine uygundur. Çok sayıda özelliği ve yüksek performansıyla; 'Yolcular için WiFi', 'Yolcu Bilgi-Eğlence Sistemi', 'Filo Yönetimi' veya 'Güvenlik Kameraları' gibi uygulamalar için ideal cihazdır.",
+    "Kullanım amacına göre geliştirilmiş gömülü Linux işletim sistemi, gelişmiş iletişim protokolleri dahil olmak üzere kalitesi kanıtlanmış yazılım bileşenlerine sahiptir. Ücretsiz olarak verilen Yazılım Geliştirme Seti (SDK) aracılığıyla ihtiyaca özel uygulama geliştirilebilir."
+  ],
+  "keyFeatures": [
+    "Cihazda 4G LTE'yi destekleyen GSM modülü, bir hücresel ağ bağlantısı kurabilir. Bir SIM kart yuvasına sahip olmak, bir hücresel ağa bağlanma fırsatı sunar. Bu, mobil internet maliyetlerini kontrol etmeye ve internet bağlantısı kurmaya yardımcı olur.",
+    "WLAN-ac'yi destekleyen radyo, aynı anda araç içinde kablosuz yerel ağ (WLAN, WiFi) oluşturmayı veya araç dışındaki WiFi erişim noktalarına istemci olarak bağlanmayı sağlar.",
+    "4 pinli CAN (Kontrolör Alanı Ağı) bağlantı noktası, aracın CAN veriyoluna (CAN-Bus) aktif veya pasif olarak maksimum 1Mbit/s (varsayılan 125 Mbit/s) hızla bağlanır.",
+    "ITxPT uyumluluğu sayesinde araç üreticileri FMStoIP, VEHICLEtoIP gibi yeni nesil yenilikçi uygulamaları kolaylıkla geliştirebilir.",
+    "Yolcu ve yük taşımacılığı için üretilen araçların karşılaşılacağı zorlu fiziksel koşullara dayanıklıdır. IP40 düzeyinde korumalı tasarıma sahiptir. -25°C ile +70°C sıcaklıkları arasında çalışır.",
+    "Gelişmiş GPS alıcısı, aracın coğrafi konum bilgisinin yüksek doğrulukla belirlenmesi kolaylaştırır. Konum belirlemede yüksek doğruluk için sabitlenmesi gereken asgari uydu sayısı programlanabilir.",
+    "Cihaz, iki adet Gigabit Ethernet bağlantı noktasıyla donatılmıştır. Bu sayede araç içinde kablolu yerel alan ağı (LAN) oluşturur. Araçtaki RJ45 port olan Ethernet arayüzlü diğer aygıtların (araç bilgisayarı, validatör gibi) internet erişimi için kullanılabilir.",
+    "Entegre ateşleme algılaması sayesinde, araç kapatıldıktan sonra belirlediğiniz süre kadar açık kalabilir. Böylece, cihaza üstlendiği görevleri güvenli bir şekilde tamamlar.",
+    "CE (2014/53/EU, RED), UN ECE R10, UN ECE R118 yönergelerine uygunluk sertifikalarına sahiptir."
+  ],
+  "cellular": {
+    "4g":{
+    "standard": "1x GSM modül, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+    "dataTransferRate": "(En fazla) 150 Mbps (DL), 50Mbps (UL)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x FAKRA D-coded male",
+    "sim": "4x Micro SIM - 3FF"}
+  },
+  "wifi": {
+    "standard": "1x dahili radyo, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
+    "dataTransferRate": "(En fazla) 300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x FAKRA I-coded male",
+    "operatingModes": "Access Point (Eşzamanlı 100 kullanıcı) veya Client"
+  },
+  "ethernet": {
+    "standard": "2x Gigabit Ethernet, 1000BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100/1000 Mbps",
+    "cableConnectors": "2x RJ-45"
+  },
+  "positioning": {
+    "standards": "1x alıcı, BeiDou, Galileo, GLONASS, GPS, gpsOne Gen 9",
+    "sensitivity": "En fazla -160dBm",
+    "antennaType": "Aktif veya Pasif",
+    "cep": "<2m (CEP, Açık havada, Yatay konumda)",
+    "antennaConnector": "1x FAKRA C-coded male"
+  },
+  "usb": {
+    "standard": "1x USB 3.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232, EIA-232",
+      "signals": "TX, RX",
+      "signalLevels": "High > 5 VDC, low < -5 VDC",
+      "dataTransferRate": "En fazla 115200 Bit/s"
+    },
+    "can": {
+      "protocols": "2xCAN,Controller Area Network V2.0B(ISO 11898)",
+      "signals": "CANH, CANL",
+      "signalLevels": "High > 2.75 V, Low <2.0 V",
+      "dataTransferRate": "8000 Frame/s a kadar",
+      "isolation": "1500VDC",
+      "termination": "Yok",
+      "busAccess": "Pasif - Sadece okuma"
+    },
+    "connector": "1x Terminal Block header 5mm"
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1 GB RAM, 4 GB Flash",
+    "moduleSlots": "2x miniPCIe (PCIe + USB) ve 2x miniPCIe (USB)"
+  },
+  "licenses": {
+    "gnss": "GNSS konum servisleri, JSON ve NMEA akış sunucu",
+    "itpt": "Envanter, Zaman, FMS2IP, VehicleToIp ve Konumu etkinleştirir",
+    "lxc": "Yönlendirici işlevlerinden izole edilmiş, müşteriye özel uygulamaları entegre etmek için Linux Container (LXC) ortamı",
+    "fms2ip": "CAN mesajlarının FMS Standardına göre IP datagramlarına otomatik çevirisi"
+  },
+  "power": {
+    "inputVoltage": "12, 24 ve 48 VDC",
+    "ignitionSense": "Ignition Sense (IS), Var",
+    "connector": "1x Terminal Block header 5mm",
+    "consumption": "En fazla 20W"
+  },
+  "other": {
+    "mounting": "Raf",
+    "dimensions": "Genişlik 164/190, Yükseklik 58, Derinlik 139.5",
+    "weight": "800",
+    "temperature": "-25°C ile +70°C arası",
+    "iPLevel": "IP40",
+    "mtbf": "40°C sıcaklıkta SN29500'e göre 230.000saat/26.3 yıl",
+    "orderCode": "NB2800-LWac2Cm-GFIx"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED) - CE",
+    "vehicleTypes": "UN ECE R10 ve UN ECE R118"
+  }
+}
