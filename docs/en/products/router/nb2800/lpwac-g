@@ -1,0 +1,88 @@
+{
+  "title": "NB2800-LpWac-G",
+  "description": "It is a high-performance and modular mobile router that provides wireless internet access in vehicles operating on highways.",
+  "heroText": "It is ideal for public transport operators and vehicle manufacturers who want to increase operational efficiency with new generation fleet management while providing their passengers with a comfortable travel experience.",
+  "front_image": "nb2800_front.jpg",
+  "overview": [
+    "NB2800-LpWac-G is produced for vehicles used to carry passengers and cargo on highways. It is used to enable the vehicle to be connected to the internet seamlessly and to provide wireless internet access within the vehicle.",
+    "It is equipped with a GSM module with LTE-A Pro support, one WiFi access point with IEEE 802.11ac (Wi-Fi 5) standard, GNSS for positioning and two Gigabit Ethernet ports.",
+    "Complies with UNECE-R10 (E-Mark) and UNECE-R118 regulations. With its numerous features and high performance; It is the ideal router for applications such as WiFi for Passengers, Passenger Infotainment System, Fleet Management or Security Cameras.",
+    "The embedded Linux operating system, developed according to its intended use, has proven software components, including advanced communication protocols. Custom applications can be developed using the free Software Development Kit (SDK)."
+  ],
+  "keyFeatures": [
+    "LTE-A Pro represents a more advanced and capable iteration of LTE, delivering significantly higher speeds, lower latency, and improved network efficiency. While LTE is still widely used, LTE-A Pro serves as a crucial step forward in meeting the increasing demands for faster and more reliable wireless connectivity.",
+    "Single radio that supports WLAN-ac allows creating a wireless local area network (WLAN, WiFi) inside the vehicle at the same time or connecting as clients to WiFi access points outside the vehicle.",
+    "It is resistant to the harsh physical conditions that vehicles produced for passenger and freight transportation will encounter. It has an IP40 level protected design. It operates between -25°C and +70°C.",
+    "The advanced GPS receiver makes it easy to determine the vehicle's geographic location information with high accuracy. The minimum number of satellites that need to be fixed for high accuracy in position determination can be programmed.",
+    "The device is equipped with two Gigabit Ethernet ports for creating a local area network (LAN) within the vehicle. The RJ45 port in the vehicle can be used for internet access of other devices with Ethernet interface (such as vehicle computer, validator).",
+    "Thanks to the integrated ignition detection, the router can remain powered on for the time you specify after the vehicle is turned off. Thus, the device safely completes its tasks.",
+    "It has certificates of conformity with CE (2014/53/EU, RED), UN ECE R10, UN ECE R118 directives."
+  ],
+  "cellular": {
+    "4g": {
+      "standard": "1x GSM module, LTE-A Pro, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+      "dataTransferRate": "(Max.) 600 Mbps (DL), 150Mbps (UL)",
+      "antennaType": "2x2 MIMO"
+    },
+    "antennaConnectors": "2x FAKRA D-coded male",
+    "sim": "4x Micro SIM - 3FF"
+  },
+  "wifi": {
+    "standard": "1x Radio, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
+    "dataTransferRate": "(Max.) 300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x FAKRA I-coded male",
+    "operatingModes": "Access Point (100 WiFi clients concurrent) or WiFi Client"
+  },
+  "ethernet": {
+    "standard": "2x Gigabit Ethernet, 1000BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100/1000 Mbps",
+    "cableConnectors": "2x RJ-45"
+  },
+  "positioning": {
+    "standards": "1x receiver, BeiDou, Galileo, GLONASS, GPS, gpsOne Gen 9",
+    "sensitivity": "(Max.) -160dBm",
+    "antennaType": "Active or Passive",
+    "cep": "<2m (Circular Error Probability,open sky, horizantal)",
+    "antennaConnector": "1x FAKRA C-coded male"
+  },
+  "usb": {
+    "standard": "1x USB 3.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232, EIA-232",
+      "signals": "TX, RX",
+      "signalLevels": "High > 5 VDC, Low < -5 VDC",
+      "dataTransferRate": "(Max.) 115200 Bit/s",
+      "connectorType": "1x Terminal Block header 5mm"
+    }
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1 GB RAM, 4 GB Flash",
+    "moduleSlots": "2x miniPCIe (PCIe + USB) and 2x miniPCIe (USB)"
+  },
+  "licenses": {
+    "gnss": "GNSS location service, Server with JSON-, NMEA stream"
+  },
+  "power": {
+    "inputVoltage": "12, 24 and 48 VDC",
+    "ignitionSense": "Yes",
+    "connector": "1x Terminal Block header 5mm",
+    "consumption": "(Max.) 20W"
+  },
+  "other": {
+    "mounting": "Bracket",
+    "dimensions": "Width 164/190, Height 58, Depth 139.5",
+    "weight": "800",
+    "temperature": "-25°C to +70°C",
+    "iPLevel": "IP40",
+    "mtbf": "230.000h/26.3years, acc. to SN29500 @ 40°C",
+    "orderCode": "NB2800-LpWac-G"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED) - CE",
+    "vehicleTypes": "UN ECE R10 ve UN ECE R118"
+  }
+}

@@ -24,10 +24,10 @@
     "4g": {
       "standard": "2x GSM modül, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
       "dataTransferRate": "(En fazla) 150 Mbps (DL), 50Mbps (UL)",
-      "antennaType": "2x2 MIMO",
-      "antennaConnectors": "4x FAKRA D-coded male",
-      "sim": "4x Micro SIM - 3FF"
-    }
+      "antennaType": "2x2 MIMO"
+    },
+    "antennaConnectors": "4x FAKRA D-coded male",
+    "sim": "4x Micro SIM - 3FF"
   },
   "wifi": {
     "standard": "1x dahili radyo, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
@@ -56,10 +56,10 @@
     "rs232": {
       "protocols": "1x RS232, EIA-232",
       "signals": "TX, RX",
-      "signalLevels": "High > 5 VDC, low < -5 VDC",
-      "dataTransferRate": "En fazla 115200 Bit/s"
-    },
-    "connector": "1x Terminal Block header 5mm"
+      "signalLevels": "High > 5 VDC, Low < -5 VDC",
+      "dataTransferRate": "En fazla 115200 Bit/s",
+      "connectorType": "1x Terminal Block header 5mm"
+    }
   },
   "voiceGw": {
     "protocols": "Push-to-talk (voice + digital I/O)",
@@ -71,7 +71,7 @@
   },
   "licenses": {
     "gnss": "GNSS konum servisleri, JSON ve NMEA akış sunucu",
-    "voiceGateway": "Sorunsuz çağrı yönlendirme için çok yönlü ses ağ geçidi"
+    "voiceGw": "Sorunsuz çağrı yönlendirme için çok yönlü ses ağ geçidi"
   },
   "power": {
     "inputVoltage": "12, 24 ve 48 VDC",

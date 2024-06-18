@@ -1,0 +1,100 @@
+{
+  "title": "NB2800-LWac2Cm-GFIx",
+  "description": "It is a high-performance and modular mobile router that provides wireless internet access in vehicles operating on highways.",
+  "heroText": "It is ideal for public transport operators and vehicle manufacturers who want to increase operational efficiency with new generation fleet management while providing their passengers with a comfortable travel experience.",
+  "front_image": "nb2800_front.jpg",
+  "overview": [
+    "NB2800-LWac2Cm-GFIx not only provides in-vehicle wireless Internet access but also meet ITxPT requirements for fleet management. The router is equipped with a LTE Module, WiFi access points with the latest IEEE 802.11ac (Wi-Fi 5) standard, GNSS for positioning and 2 Gigabit Ethernet ports with M12 connectors, 2 CAN interfaces.",
+    "Thanks to the integrated ignition detection, the NB2800 can remain switched on even after the vehicle has been switched off. This allows the safe completion of all tasks.",
+    "The router meets the UNECE-R10 (E-Mark), UNECE-R118 regulations and the FAKRA connectors according to ITxPT. This, combined with its numerous features and high performance, makes it the ideal communication gateway for applications such as Passenger WiFi, Telematics, Fleet Management or CCTV.",
+    "The software is based on well proven components including an embedded Linux operating system and a powerful communication protocol suite. Customer specific software extensions may be implemented via a sophisticated SDK."
+  ],
+  "keyFeatures": [
+    "A GSM module supporting 4G LTE in the device can establish a cellular network connection. Having 4 SIM card slots provides the opportunity to connect to different cellular networks. This helps control mobile internet costs and establish internet connection.",
+    "Single radio that supports WLAN-ac allows creating a wireless local area network (WLAN, WiFi) inside the vehicle at the same time or connecting as clients to WiFi access points outside the vehicle.",
+    "With ITxPT compatibility, vehicle manufacturers can easily develop new generation innovative applications such as FMStoIP, VEHICLEtoIP.",
+    "4-pin CAN (Controller Area Network) port connects to the vehicle's CAN bus (CAN-Bus) actively or passively, at a maximum speed of 1Mbit/s (default 125 Mbit/s).",
+    "It is resistant to the harsh physical conditions that vehicles produced for passenger and freight transportation will encounter. It has an IP40 level protected design. It operates between -25°C and +70°C.",
+    "The advanced GPS receiver makes it easy to determine the vehicle's geographic location information with high accuracy. The minimum number of satellites that need to be fixed for high accuracy in position determination can be programmed.",
+    "The device is equipped with two Gigabit Ethernet ports for creating a local area network (LAN) within the vehicle. The RJ45 port in the vehicle can be used for internet access of other devices with Ethernet interface (such as vehicle computer, validator)."
+  ],
+  "cellular": {
+    "4g": {
+      "standard": "1x GSM module, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+      "dataTransferRate": "(Max.) 150 Mbps (DL), 50Mbps (UL)",
+      "antennaType": "2x2 MIMO"
+    },
+    "antennaConnectors": "2x FAKRA D-coded male",
+    "sim": "4x Micro SIM - 3FF"
+  },
+  "wifi": {
+    "standard": "1x Radio, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
+    "dataTransferRate": "(Max.) 300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x FAKRA I-coded male",
+    "operatingModes": "Access Point (100 WiFi clients concurrent) or WiFi Client"
+  },
+  "ethernet": {
+    "standard": "2x Gigabit Ethernet, 1000BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100/1000 Mbps",
+    "cableConnectors": "2x RJ-45"
+  },
+  "positioning": {
+    "standards": "1x receiver, BeiDou, Galileo, GLONASS, GPS, gpsOne Gen 9",
+    "sensitivity": "(Max.) -160dBm",
+    "antennaType": "Active or Passive",
+    "cep": "<2m (Circular Error Probability,open sky, horizantal)",
+    "antennaConnector": "1x FAKRA C-coded male"
+  },
+  "usb": {
+    "standard": "1x USB 3.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232, EIA-232",
+      "signals": "TX, RX",
+      "signalLevels": "High > 5 VDC, Low < -5 VDC",
+      "dataTransferRate": "(Max.) 115200 Bit/s",
+      "connectorType":"1x Terminal Block header 5mm"
+    },
+    "can": {
+      "protocols": "2xCAN,Controller Area Network V2.0B(ISO 11898)",
+      "signals": "CANH,CANL",
+      "signalLevels": "High > 2.75 V, Low <2.0 V",
+      "dataTransferRate": "Up to 8000 Frame/s",
+      "isolation": "1500VDC",
+      "termination": "No internal bus termination",
+      "busAccess": "Passive - read access only",
+      "connectorType":"1x RJ45"
+    }
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1 GB RAM, 4 GB Flash",
+    "moduleSlots": "2x miniPCIe (PCIe + USB) and 2x miniPCIe (USB)"
+  },
+  "licenses": {
+    "gnss": "GNSS location service, Server with JSON-, NMEA stream",
+    "itpt": "Enables Inventory, Time, FMS2IP, VehicleToIp and Location",
+    "fms2ip": "Automatic translation of CAN messages into IP datagrams according to FMS Standard."
+  },
+  "power": {
+    "inputVoltage": "12, 24 and 48 VDC",
+    "ignitionSense": "Yes",
+    "connector": "1x Terminal Block header 5mm",
+    "consumption": "(Max.) 20W"
+  },
+  "other": {
+    "mounting": "Bracet",
+    "dimensions": "Width 164/190, Height 58, Depth 139.5",
+    "weight": "800",
+    "temperature": "-25°C to +70°C",
+    "iPLevel": "IP40",
+    "mtbf": "230.000h/26.3years, acc. to SN29500 @ 40°C",
+    "orderCode": "NB2800-LWac2Cm-GFIx"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED) - CE",
+    "vehicleTypes": "UN ECE R10 and UN ECE R118"
+  }
+}

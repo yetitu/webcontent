@@ -23,10 +23,10 @@
     "4g": {
       "standard": "2x GSM modül, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
       "dataTransferRate": "(En fazla) 150 Mbps (DL), 50Mbps (UL)",
-      "antennaType": "2x2 MIMO",
-      "antennaConnectors": "4x FAKRA D-coded male",
-      "sim": "4x Micro SIM - 3FF"
-    }
+      "antennaType": "2x2 MIMO"
+    },
+    "antennaConnectors": "4x FAKRA D-coded male",
+    "sim": "4x Micro SIM - 3FF"
   },
   "wifi": {
     "standard": "1x dahili radyo, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
@@ -62,7 +62,8 @@
       "protocols": "1x IBIS Slave, VDV 300(Slave)",
       "signals": "WBED, WBME, WBSD, WBMS",
       "signalLevels": " High > 5 VDC, low < -5 VDC ",
-      "dataTransferRate": "En fazla 1200 Bit/s"
+      "dataTransferRate": "En fazla 1200 Bit/s",
+      "isolation": "1500VDC"
     },
     "connector": "1x Terminal Block header 5mm"
   },

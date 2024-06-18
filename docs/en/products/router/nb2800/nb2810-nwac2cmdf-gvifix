@@ -1,0 +1,107 @@
+{
+  "title": "NB2810-NWac2CmDf-GViFIx",
+  "description": "It is a high-performance and modular mobile router that provides wireless internet access in vehicles operating on highways.",
+  "heroText": "It is ideal for public transport operators and vehicle manufacturers who want to increase operational efficiency with new generation fleet management while providing their passengers with a comfortable travel experience.",
+  "front_image": "nb2800_front.jpg",
+  "overview": [
+    "NB2810-NWac2CmDf-GViFIx not only provides in-vehicle wireless Internet access but also meet ITxPT requirements for fleet management. The router is equipped with a 5G-NR Module, WiFi access points with the latest IEEE 802.11ac (Wi-Fi 5) standard, GNSS for positioning and 2 Gigabit Ethernet ports with M12 connectors, 2 CAN interfaces and 1 TB internal storage capacity.",
+    "Thanks to the integrated ignition detection, the NB2810 can remain switched on even after the vehicle has been switched off. This allows the safe completion of all tasks.",
+    "The router meets the UNECE-R10 (E-Mark), UNECE-R118 regulations and the M12 and FAKRA connectors according to ITxPT. This, combined with its numerous features and high performance, makes it the ideal communication gateway for applications such as Passenger WiFi, Telematics, Fleet Management or CCTV.",
+    "The software is based on well proven components including an embedded Linux operating system and a powerful communication protocol suite. Customer specific software extensions may be implemented via a sophisticated SDK."
+  ],
+  "keyFeatures": [
+    "With 5G-NR, high-speed operation is possible in rural areas at frequencies lower than 1 GHz, and in high-density urban areas at frequencies between 26-28 GHz. Data download (DL) speed can be up to 5.5 Gbps and data upload (UL) speed can be up to 2.7Gbps.",
+    "4-pin CAN (Controller Area Network) port connects to the vehicle's CAN bus (CAN-Bus) actively or passively, at a maximum speed of 1Mbit/s (default 125 Mbit/s).",
+    "With ITxPT compatibility, vehicle manufacturers can easily develop new generation innovative applications such as FMStoIP, VEHICLEtoIP.",
+    "With 1 TB SSD (Solid State Disk) disk capacity, critical information such as time-stamped location/speed records or security video recordings can be stored for a long time. Since there are no moving parts in SSD disks, data is stored safely even in vibrating environments that vehicles are exposed to.",
+    "It is resistant to the harsh physical conditions that vehicles produced for passenger and freight transportation will encounter. It has an IP40 level protected design. It operates between -25°C and +70°C.",
+    "The advanced GPS receiver makes it easy to determine the vehicle's geographic location information with high accuracy. The minimum number of satellites that need to be fixed for high accuracy in position determination can be programmed.",
+    "The device is equipped with two Gigabit Ethernet ports for creating a local area network (LAN) within the vehicle.",
+    "Thanks to the integrated ignition detection, the router can remain powered on for the time you specify after the vehicle is turned off. Thus, the device safely completes its tasks.",
+    "It has certificates of conformity with CE (2014/53/EU, RED), UN ECE R10, UN ECE R118 and ITxPT directives."
+  ],
+  "cellular": {
+    "5g": {
+      "standard": "5G - NR, 4G-LTE-A Pro, 3G - DC-HSPA+/UMTS",
+      "dataTransferRate": "(Max.) 5.5 Gbps (DL), 2.7 Gbps (UL)",
+      "antennaPorts": "4",
+      "powerClass": "23dBm (Power Class 3)",
+      "antennaType": "4x4 MIMO (in 5G-NR)"
+    },
+    "antennaConnectors": "4x FAKRA D-coded male",
+    "sim": "4x Micro SIM - 3FF"
+  },
+  "wifi": {
+    "standard": "1x Radio, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
+    "dataTransferRate": "(Max.) 300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x FAKRA I-coded male",
+    "operatingModes": "Access Point (100 WiFi clients concurrent) or WiFi Client"
+  },
+  "ethernet": {
+    "standard": "2x Gigabit Ethernet, 1000BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100/1000 Mbps",
+    "cableConnectors": "2x M12 X-coded female"
+  },
+  "positioning": {
+    "standards": "1x receiver, BeiDou, Galileo, GLONASS, GPS, gpsOne Gen 9",
+    "sensitivity": "(Max.) -161dBm",
+    "antennaType": "Active or Passive",
+    "cep": "<2m (Circular Error Probability,open sky, horizantal)",
+    "antennaConnector": "1x FAKRA C-coded male"
+  },
+  "usb": {
+    "standard": "1x USB 3.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232, EIA-232",
+      "signals": "TX, RX",
+      "signalLevels": "High > 5 VDC, Low < -5 VDC",
+      "dataTransferRate": "(Max.) 115200 Bit/s, Up to 8000 Frames/s",
+      "connectorType": "1x Terminal Block header 5mm"
+    },
+    "can": {
+      "protocols": "2x CAN, Controller Area Network V2.0B (ISO 11898)",
+      "signals": "CANH, CANL",
+      "signalLevels": "High > 2.75 V, Low < 2.0 V",
+      "dataTransferRate": "Up to 8000 Frame/s",
+      "isolation": "1500VDC",
+      "termination": "No termination",
+      "busAccess": "Passive - read access only, Active - read and write access on request",
+      "connectorType": "1x M12 A-coded female "
+    }
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1 GB RAM, 4 GB Flash",
+    "moduleSlots": "2x miniPCIe (PCIe + USB) and 2x miniPCIe (USB)",
+    "extendedStorage": "1 TB SSD"
+  },
+  "licenses": {
+    "gnss": "GNSS location service, Server with JSON-, NMEA stream",
+    "itpt": "Enables Inventory, Time, FMS2IP, VehicleToIp and Location",
+    "lxc": "Linux Container (LXC) environment to integrate customer specific applications, isolated from the router functionalities",
+    "fms2ip": "Automatic translation of CAN messages into IP datagrams according to FMS Standard."
+  },
+  "power": {
+    "inputVoltage": "12, 24 ve 48 VDC",
+    "ignitionSense": "Yes",
+    "connector": "1x Terminal Block header 5mm",
+    "consumption": "(Max.) 20W"
+  },
+  "other": {
+    "mounting": "Bracet",
+    "dimensions": "Width 164/190, Height 58, Depth 139.5",
+    "weight": "800",
+    "temperature": "-25°C to +70°C",
+    "iPLevel": "IP40",
+    "mtbf": "170.000h/19.4 years, acc. to SN29500 @ 40°C",
+    "orderCode": "NB2810-NWac2CmDf-GViFIx"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED) - CE",
+    "vehicleTypes": "Hardware complience requires adapter cables",
+    "itpt": "UN ECE R10 and UN ECE R118"
+  }
+}

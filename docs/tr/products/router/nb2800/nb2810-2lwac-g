@@ -19,12 +19,13 @@
     "CE (2014/53/EU, RED), UN ECE R10, UN ECE R118 yönergelerine uygunluk sertifikalarına sahiptir."
   ],
   "cellular": {
-    "4g":{
-    "standard": "2x GSM modül, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
-    "dataTransferRate": "(En fazla) 150 Mbps (DL), 50Mbps (UL)",
-    "antennaType": "2x2 MIMO",
+    "4g": {
+      "standard": "2x GSM modül, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+      "dataTransferRate": "(En fazla) 150 Mbps (DL), 50Mbps (UL)",
+      "antennaType": "2x2 MIMO"
+    },
     "antennaConnectors": "4x FAKRA D-coded male",
-    "sim": "4x Micro SIM - 3FF"}
+    "sim": "4x Micro SIM - 3FF"
   },
   "wifi": {
     "standard": "1x dahili radyo, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
@@ -53,10 +54,10 @@
     "rs232": {
       "protocols": "1x RS232, EIA-232",
       "signals": "TX, RX",
-      "signalLevels": "High > 5 VDC, low < -5 VDC",
-      "dataTransferRate": "En fazla 115200 Bit/s"
-    },
-    "connector": "1x Terminal Block header 5mm"
+      "signalLevels": "High > 5 VDC, Low < -5 VDC",
+      "dataTransferRate": "En fazla 115200 Bit/s",
+      "connectorType": "1x Terminal Block header 5mm"
+    }
   },
   "system": {
     "core": "1x 1.3 GHz dual-core, 1 GB RAM, 4 GB Flash",

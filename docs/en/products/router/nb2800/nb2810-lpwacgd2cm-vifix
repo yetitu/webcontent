@@ -1,0 +1,106 @@
+{
+  "title": "NB2810-LpWacGd2Cm-ViFIx",
+  "description": "It is a high-performance and modular mobile router that provides wireless internet access in vehicles operating on highways.",
+  "heroText": "It is ideal for public transport operators and vehicle manufacturers who want to increase operational efficiency with new generation fleet management while providing their passengers with a comfortable travel experience.",
+  "front_image": "nb2800_front.jpg",
+  "overview": [
+    "NB2810-2LWac2CmDf-GViFIx not only provides in-vehicle wireless Internet access but also meet ITxPT requirements for fleet management. The router is equipped with a LTE-A Pro Module ,a WiFi access point with the latest IEEE 802.11ac (Wi-Fi 5) standard, GNSS-DR for positioning and 2 Gigabit Ethernet ports with M12 connectors, 2 CAN interfaces.",
+    "Thanks to the integrated ignition detection, the NB2800 can remain switched on even after the vehicle has been switched off. This allows the safe completion of all tasks.",
+    "The router meets the UNECE-R10 (E-Mark), UNECE-R118 regulations and the FAKRA connectors according to ITxPT. This, combined with its numerous features and high performance, makes it the ideal communication gateway for applications such as Passenger WiFi, Telematics, Fleet Management or CCTV.",
+    "The software is based on well proven components including an embedded Linux operating system and a powerful communication protocol suite. Customer specific software extensions may be implemented via a sophisticated SDK."
+  ],
+  "keyFeatures": [
+    "LTE-A Pro represents a more advanced and capable iteration of LTE, delivering significantly higher speeds, lower latency, and improved network efficiency. While LTE is still widely used, LTE-A Pro serves as a crucial step forward in meeting the increasing demands for faster and more reliable wireless connectivity.",
+    "Single radio that supports WLAN-ac allows creating a wireless local area network (WLAN, WiFi) inside the vehicle at the same time or connecting as clients to WiFi access points outside the vehicle.",
+    "In systems equipped with Dead Reckoning functionality, positional information is generated using logical inference algorithms within enclosed environments like tunnels and parking structures, where satellite connectivity is unavailable.",
+    "4-pin CAN (Controller Area Network) port connects to the vehicle's CAN bus (CAN-Bus) actively or passively, at a maximum speed of 1Mbit/s (default 125 Mbit/s).",
+    "All models of the NB2800 series router are equipped with a dual-core CPU clocked at 1.3 GHz and 1 GB of RAM memory. NSRW software, which gives all the capabilities of the router, runs on this computer with Linux operating system. A virtual computer isolated from NSRW is created with the help of LXC (Linux Container) technology. Thus, special software applications can be developed using the advanced SDK and preferred programming language that provides access to the functions of the router.",
+    "With ITxPT compatibility, vehicle manufacturers can easily develop new generation innovative applications such as FMStoIP, VEHICLEtoIP.",
+    "It is resistant to the harsh physical conditions that vehicles produced for passenger and freight transportation will encounter. It has an IP40 level protected design. It operates between -25°C and +70°C.",
+    "The advanced GPS receiver makes it easy to determine the vehicle's geographic location information with high accuracy. The minimum number of satellites that need to be fixed for high accuracy in position determination can be programmed.",
+    "The device is equipped with two Gigabit Ethernet ports for creating a local area network (LAN) within the vehicle. The RJ45 port in the vehicle can be used for internet access of other devices with Ethernet interface (such as vehicle computer, validator).",
+    "Thanks to the integrated ignition detection, the router can remain powered on for the time you specify after the vehicle is turned off. Thus, the device safely completes its tasks.",
+    "It has certificates of conformity with CE (2014/53/EU, RED), UN ECE R10, UN ECE R118 directives."
+  ],
+  "cellular": {
+    "4g": {
+      "standard": "1x GSM module, LTE-A Pro, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+      "dataTransferRate": "(Max.) 600 Mbps (DL), 150Mbps (UL)",
+      "antennaType": "2x2 MIMO"
+    },
+    "antennaConnectors": "2x FAKRA D-coded male",
+    "sim": "4x Micro SIM - 3FF"
+  },
+  "wifi": {
+    "standard": "1x Radio, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
+    "dataTransferRate": "(Max.) 300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x FAKRA I-coded male",
+    "operatingModes": "Access Point (100 WiFi clients concurrent) or WiFi Client"
+  },
+  "ethernet": {
+    "standard": "2x Gigabit Ethernet, 1000BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100/1000 Mbps",
+    "cableConnectors": "2x M12 X-coded female"
+  },
+  "positioning": {
+    "standards": "1x receiver, BeiDou, Galileo, GLONASS, GPS, gpsOne Gen 9",
+    "sensitivity": "(Max.) -160dBm",
+    "antennaType": "Active or Passive",
+    "cep": "<2m (Circular Error Probability,open sky, horizantal)",
+    "antennaConnector": "1x FAKRA C-coded male"
+  },
+  "usb": {
+    "standard": "1x USB 3.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232, EIA-232",
+      "signals": "TX, RX",
+      "signalLevels": "High > 5 VDC, Low < -5 VDC",
+      "dataTransferRate": "(Max.) 115200 Bit/s",
+      "connectorType": "1x Terminal Block header 3.5 mm"
+    },
+    "can": {
+      "protocols": "2xCAN,Controller Area Network V2.0B(ISO 11898)",
+      "signals": "CANH,CANL",
+      "signalLevels": "High > 2.75 V, Low <2.0 V",
+      "dataTransferRate": "Up to 8000 Frame/s",
+      "isolation": "1500VDC",
+      "termination": "No internal bus termination",
+      "busAccess": "Passive - read access only",
+      "connectorType": "1x M12 A-coded female"
+    }
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1 GB RAM, 4 GB Flash",
+    "moduleSlots": "2x miniPCIe (PCIe + USB) and 2x miniPCIe (USB)",
+    "extendedStorage": "1 TB SSD"
+  },
+  "licenses": {
+    "gnss": "GNSS location service, Server with JSON-, NMEA stream",
+    "itpt": "Enables Inventory, Time, FMS2IP, VehicleToIp and Location",
+    "lxc": "Linux Container (LXC) environment to integrate customer specific applications, isolated from the router functionalities",
+    "fms2ip": "Automatic translation of CAN messages into IP datagrams according to FMS Standard.               "
+  },
+  "power": {
+    "inputVoltage": "12, 24 ve 48 VDC",
+    "ignitionSense": "Yes",
+    "connector": "1x Terminal Block header 5mm",
+    "consumption": "(Max.) 20W"
+  },
+  "other": {
+    "mounting": "Bracket",
+    "dimensions": "Width 164/190, Height 58, Depth 139.5",
+    "weight": "800",
+    "temperature": "-25°C to +70°C",
+    "iPLevel": "IP40",
+    "mtbf": "170.000h/19.4years, acc. to SN29500 @ 40°C",
+    "orderCode": "NB2810-LpWacGd2Cm-GViFIx"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED) - CE",
+    "vehicleTypes": "UN ECE R10 ve UN ECE R118"
+  }
+}

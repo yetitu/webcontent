@@ -22,18 +22,18 @@
   ],
   "cellular": {
     "5g": {
-      "standard": "1x GSM modül, 5G-NR, 4G-LTE-A Pro",
+      "standard": "5G - NR, 4G-LTE-A Pro, 3G - DC-HSPA+/UMTS",
       "dataTransferRate": "(Max.) 5.5 Gbps (DL), 2.7Gbps (UL)",
       "antennaPorts": "4",
       "powerClass": "23dBm (Power Class 3)",
       "antennaType": "4x4 MIMO (in 5G-NR)"
     },
-    "antennaConnectors": "8x FAKRA D-coded male",
+    "antennaConnectors": "4x FAKRA D-coded male",
     "sim": "4x Micro SIM - 3FF"
   },
   "wifi": {
-    "standard": "2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi 5)",
-    "dataTransferRate": "300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+    "standard": "1x Radio, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
+    "dataTransferRate": "(Max.) 300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
     "antennaType": "2x2 MIMO",
     "antennaConnectors": "2x FAKRA I-coded male",
     "operatingModes": "Access Point (Eşzamanlı 100 kullanıcı) veya Client"
@@ -60,7 +60,7 @@
       "signals": "TX, RX",
       "signalLevels": "High > 5 VDC, low < -5 VDC",
       "dataTransferRate": "En fazla 115200 Bit/s",
-      "connector": "1x Terminal Block header 5mm"
+      "connectorType": "1x Terminal Block header 5mm"
     },
     "can": {
       "protocols": "2xCAN,Controller Area Network V2.0B(ISO 11898)",
@@ -70,7 +70,7 @@
       "isolation": "1500VDC",
       "termination": "Yok",
       "busAccess": "Pasif - Sadece okuma",
-      "connector": "1x M12 A-coded female"
+      "connectorType": "1x M12 A-coded female"
     }
   },
   "system": {
