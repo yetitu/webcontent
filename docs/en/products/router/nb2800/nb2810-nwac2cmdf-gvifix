@@ -101,7 +101,7 @@
   },
   "certifications": {
     "ce": "2014/53/EU (RED) - CE",
-    "vehicleTypes": "Hardware complience requires adapter cables",
-    "itpt": "UN ECE R10 and UN ECE R118"
+    "itpt": "Hardware complience requires adapter cables",
+    "vehicleTypes": "UN ECE R10 and UN ECE R118"
   }
 }
