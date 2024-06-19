@@ -45,7 +45,8 @@
     "sensitivity": "72-channel u-blox M8 engine,3 concurrent GNSS channels,Integrated motion sensors",
     "antennaType": "(Max.) -160dBm",
     "cep": "Active or Passive",
-    "antennaConnector": "<2m (Circular Error Probability,open sky, horizantal)"
+    "antennaConnector": "<2m (Circular Error Probability,open sky, horizantal)",
+    "services": "Standalone, assisted GPS, 3D Dead Reckoning, Data server with JSON, NMEA data stream"
   },
   "usb": {
     "standard": "1x USB 3.0 Host",

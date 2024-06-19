@@ -46,7 +46,8 @@
     "sensitivity": "En fazla -160dBm",
     "antennaType": "Aktif veya Pasif",
     "cep": "<2m (CEP, Açık havada, Yatay konumda)",
-    "antennaConnector": "1x FAKRA C-coded male"
+    "antennaConnector": "1x FAKRA C-coded male",
+    "services": "Bağımsız ve destekli GPS, 3D Dead Reckoning, JSON, NMEA veri akışına sahip veri sunucusu"
   },
   "usb": {
     "standard": "1x USB 3.0 Host",
