@@ -22,8 +22,9 @@
   "cellular": {
     "4g": {
       "standard": "4x GSM modül, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
-      "dataTransferRate": "(En fazla) 5.5 Gbps (DL), 2.7 Gbps (UL)",
-      "antennaType": "4x4 MIMO"
+      "dataTransferRate": "(En fazla) 150 Mpbs (DL), 50 Mbps (UL)",
+      "antennaType": "2x2 MIMO",
+      "voiceSupport":"CSFB, VoLTE(seçimlik lisans ile)"
     },
     "antennaConnectors": "8x FAKRA D-coded male",
     "sim": "4x Micro SIM - 3FF"
