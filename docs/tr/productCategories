@@ -22,14 +22,14 @@
 	},
 	{
 		"name": "LAN Anahtarı",
-		"imageUrl": "https://placehold.co/600x400/000000/yellow",
+		"imageUrl": "/images/categories/switch.png",
 		"desc": "Araç içi kablosuz ağ erişim noktalarını, yolcu bilgilendirme ekranlarını (PIS) ve güvenlik kameralarını M12 Ethernet bağlantı noktalarıyla, Gigabit yerel ağ omurgasına kolayca bağlayın. ITxPT uyumlu ve birlikte çalışabilirlik onaylı, internet özellikli bir IP omurgası oluşturun.",
 		"slug": "anahtar",
 		"url": "/switch"
 	},
 	{
 		"name": "Yazılım",
-		"imageUrl": "https://placehold.co/600x400/000000/orange",
+		"imageUrl": "/images/categories/software.png",
 		"desc": "Terminal cihazından şirket ağına kadar, her noktada, tutarlı ve güvenli iletişimi sağlayan, tüm cihazlarda standart bir işletim ve yapılandırma konseptine uygun geliştirilen yazılım ürünlerine göz atın.",
 		"slug": "yazilim",
 		"url": "/software"

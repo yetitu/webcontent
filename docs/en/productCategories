@@ -1,35 +1,35 @@
 [
 	{
 		"name": "Routers",
-		"imageUrl": "https://placehold.co/600x400/000000/blue",
+		"imageUrl": "/images/categories/nb-family.png",
 		"desc": "Explore NetModule mobile network routers! Using modular and industry-standard solutions tailored to your project's needs, connect your assets seamlessly, securely, and quickly through wired or wireless networks. Choose NetModule for secure and uninterrupted connectivity!",
 		"slug": "routers",
 		"url": "/router"
 	},
 	{
 		"name": "Antennas",
-		"imageUrl": "https://placehold.co/600x400/000000/pink",
+		"imageUrl": "/images/categories/antennas.png",
 		"desc": "Explore the antennas that you can use with NetModule mobile network routers, which can create an effective wireless network in all kinds of applications, whether in an industrial environment such as a factory or in a vehicle such as train. Make effective use of wireless networks with our antennas.",
 		"slug": "antennas",
 		"url": "/antenna"
 	},
 	{
 		"name": "WiFi Access Point",
-		"imageUrl": "https://placehold.co/600x400/000000/green",
+		"imageUrl": "/images/categories/ap.png",
 		"desc": "For WLAN on trains and trams, choose NetModule AP3400 access point, which supports the WiFi-6. Provide uninterrupted LTE and 5G connectivity throughout the train for your passengers and staff.",
 		"slug": "accesspoint",
 		"url": "/ap"
 	},
 	{
 		"name": "LAN Switch",
-		"imageUrl": "https://placehold.co/600x400/000000/yellow",
+		"imageUrl": "/images/categories/switch.png",
 		"desc": "Easily connect in-vehicle wireless network access points, PIS  and security cameras with M12 Ethernet ports to the Gigabit local network backbone. Build an internet-enabled IP backbone – ITxPT compliant and interoperability approved.",
 		"slug": "switch",
 		"url": "/switch"
 	},
 	{
 		"name": "Software",
-		"imageUrl": "https://placehold.co/600x400/000000/orange",
+		"imageUrl": "/images/categories/software.png",
 		"desc": "Take a look at the software products developed in accordance with a standard operating and configuration concept on all devices, ensuring consistent and secure communication at every point, from the terminal device to the company network.",
 		"slug": "software",
 		"url": "/software"
