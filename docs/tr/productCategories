@@ -8,7 +8,7 @@
 	},
 	{
 		"name": "Antenler",
-		"imageUrl": "https://placehold.co/600x400/000000/pink",
+		"imageUrl": "/images/categories/antennas.png",
 		"desc": "İster fabrika gibi endüstriyel bir ortamda, ister tren gibi bir araçta, her türlü uygulamada etkili bir kablosuz ağ oluşturabilen NetModule mobil ağ yönlendiricileri ile kullanabileceğiniz antenleri keşfedin. Antenlerimizle kablosuz ağlardan etkili şekilde yararlanın.",
 		"slug": "antenler",
 		"url": "/antenna"
