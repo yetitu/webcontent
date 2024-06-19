@@ -21,10 +21,10 @@
     "4g": {
       "standard": "1x GSM module, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
       "dataTransferRate": "(Max.) 150 Mbps (DL), 50Mbps (UL)",
-      "antennaType": "2x2 MIMO",
-      "antennaConnectors": "2x FAKRA D-coded male",
-      "sim": "4x Micro SIM - 3FF"
-    }
+      "antennaType": "2x2 MIMO"
+    },
+    "antennaConnectors": "2x FAKRA D-coded male",
+    "sim": "4x Micro SIM - 3FF"
   },
   "wifi": {
     "standard": "2x Radio, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",

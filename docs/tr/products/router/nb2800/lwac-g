@@ -19,12 +19,13 @@
     "Entegre ateşleme algılaması sayesinde, araç kapatıldıktan sonra belirlediğiniz süre kadar açık kalabilir. Böylece, cihaza üstlendiği görevleri güvenli bir şekilde tamamlar."
   ],
   "cellular": {
-    "4g":{
-    "standard": "1x GSM modül, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
-    "dataTransferRate": "(En fazla) 150 Mbps (DL), 50Mbps (UL)",
-    "antennaType": "2x2 MIMO",
+    "4g": {
+      "standard": "1x GSM modül, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+      "dataTransferRate": "(En fazla) 150 Mbps (DL), 50Mbps (UL)",
+      "antennaType": "2x2 MIMO"
+    },
     "antennaConnectors": "2x FAKRA D-coded male",
-    "sim": "4x Micro SIM - 3FF"}
+    "sim": "4x Micro SIM - 3FF"
   },
   "wifi": {
     "standard": "1x dahili radyo, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",

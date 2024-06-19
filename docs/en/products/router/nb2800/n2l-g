@@ -28,7 +28,7 @@
     },
     "4g": {
       "standard": "2x GSM modules, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
-	  "voiceSupport": "CSFB (Standard), VoLTE (with optional Software License)",
+      "voiceSupport": "CSFB (Standard), VoLTE (with optional Software License)",
       "dataTransferRate": "(Max.) 150 Mbps (DL), 50Mbps (UL)",
       "antennaType": "2x2 MIMO"
     },

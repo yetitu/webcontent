@@ -24,10 +24,10 @@
       "dataTransferRate": "(Max.) 5.5Gbps Mbps (DL), 2.7Gbps (UL)",
       "antennaPorts": "4",
       "powerClass": "23dBm (Power Class 3)",
-      "antennaType": "4x4 MIMO (in 5G-NR)",
-      "antennaConnectors": "4x FAKRA D-coded male",
-      "sim": "4x Micro SIM - 3FF"
-    }
+      "antennaType": "4x4 MIMO (in 5G-NR)"
+    },
+    "antennaConnectors": "4x FAKRA D-coded male",
+    "sim": "4x Micro SIM - 3FF"
   },
   "ethernet": {
     "standard": "2x Gigabit Ethernet, 1000BASE-T, Auto MDIX",
