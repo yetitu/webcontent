@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Yönlendiriciler",
-		"imageUrl": "https://placehold.co/600x400/000000/blue",
+		"imageUrl": "/images/categories/nb-family.png",
 		"desc": "NetModule mobil ağ yönlendiricileriyle tanışın! Projenizin ihtiyaçlarına uygun, modüler ve endüstri standartlarına uygun çözümler kullanarak varlıklarınızı kablolu veya kablosuz ağlarla kesintisiz, güvenli ve hızlı bir şekilde bağlayın. Güvenli ve kesintisiz bağlantı için NetModule'u seçin!",
 		"slug": "yonlendiriciler",
 		"url": "/router"
