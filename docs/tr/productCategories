@@ -15,7 +15,7 @@
 	},
 	{
 		"name": "WiFi Erişim Noktası",
-		"imageUrl": "https://placehold.co/600x400/000000/green",
+		"imageUrl": "/images/categories/ap.png",
 		"desc": "Tren ve tramvaylarda WLAN için WiFi-6'yı destekleyen NetModule AP3400 erişim noktasını seçin. Yolcularınız ve personeliniz için tren boyunca kesintisiz LTE ve 5G bağlantısı sağlayın.",
 		"slug": "erisim-noktasi",
 		"url": "/ap"
