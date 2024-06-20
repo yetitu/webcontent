@@ -1,0 +1,66 @@
+{
+  "title": "NB3701-2Wac",
+  "description": "Demiryollarında çalışan araçlarda kablosuz internet erişimi sağlayan yüksek performanslı ve modüler mobil yönlendirilerdir.",
+  "heroText": "Yolcularına konforlu bir seyahat deneyimi sunarken yeni nesil filo yönetimi ile operasyonel verimliliğini artırmak isteyen kamu demiryolları işletmecileri ve araç üreticileri için idealdir.",
+  "front_image": "nb2800_front.jpg",
+  "overview": [
+    "NB3701-2Wac demiryollarında yolcu ve yük taşımacılığı için üretilmiştir. Araçların internete sorunsuz bir şekilde bağlanmasını sağlamak için kullanılır. IEEE 802.11ac (Wi-Fi 5) standardına sahip çift WiFi erişim noktası ve beş adet M12 konnektörlü hızlı Ethernet bağlantı noktası ile donatılmıştır.",
+    "2014/53/AB (RED), 2011/65/AB (RoHS), EN50155 ve EN 45545 düzenlemelerine uyumludur.",
+    "Birçok özelliği ve yüksek performansıyla; 'Filo Yönetimi' veya 'Güvenlik Kameraları' gibi uygulamalar için ideal bir yönlendiricidir.",
+    "Özel olarak kullanım amacına göre geliştirilmiş gömülü Linux işletim sistemine sahiptir, üstünlüğünü kanıtlanmış yazılım bileşenleri ve gelişmiş iletişim protokollerini içerir. Ücretsiz Yazılım Geliştirme Kiti (SDK) kullanılarak özel uygulamalar geliştirilebilir."
+  ],
+  "keyFeatures": [
+    "WLAN-ac destekleyan iki adet radyo, aynı anda araç içinde kablosuz yerel alan ağı (WLAN, WiFi) oluşturmaya ve araç dışındaki WiFi erişim noktalarına istemci olarak bağlanmaya olanak tanır. Radyolar farklı frekanslarda (2.4 GHz ve 5GHz) çalıştırılabilir. Araç içinde farklı veya aynı frekanslarda 2 farklı SSID'li WLAN oluşturulabilir.",
+    "Yolcu ve yük taşımacılığı için üretilen araçların karşılaşacağı zorlu fiziksel koşullara dayanıklıdır. IP40 seviyesinde korumalı bir tasarıma sahiptir. -40°C ila +70°C arasında çalışır.",
+    "Cihaz, araç içinde bir yerel ağ (LAN) oluşturmak için beş adet Fast Ethernet bağlantı noktasıyla donatılmıştır. Yönlendiricideki M12 bağlantı noktaları, diğer Ethernet arabirimli cihazların internete erişimi için kullanılabilir (örneğin araç bilgisayarı, validatör gibi).",
+    "CE (2014/53/AB, RED), 2011/65/AB (RoHS) EN50155 ve EN45545 direktiflerine uygunluk sertifikalarına sahiptir."
+  ],
+  "wifi": {
+    "standard": "1x Radio, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
+    "dataTransferRate": "(En fazla) 300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x FAKRA D-coded male",
+    "operatingModes": "Access Point (Eşzamanlı 100 kullanıcı) veya Client"
+  },
+  "ethernet": {
+    "standard": "5x Fast Ethernet, 100BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100 Mbps",
+    "connectors": "5x M12 D-coded female"
+  },
+  "usb": {
+    "standard": "1x USB 2.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "inputOutput": {
+    "type": "4x Digital IO (2x DI, 2x DO)",
+    "diSignals": "+,-",
+    "diLevels": "Low 0-5 VDC, High  7.2-40 VDC",
+    "doSignals": "Relay outputs with NO, NC, COM (normally open, normally closed)",
+    "doLevels": "0 - 60 VDC/1A, azami: 60 W",
+    "isolation": "1.500 VDC",
+    "connector": " 1x M12 A-coded female"
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1 GB RAM, 4 GB Flash",
+    "moduleSlots": "2x miniPCIe (PCIe + USB)"
+  },
+  "power": {
+    "inputVoltage": "24 to 48 VDC",
+    "connector": "1x M12 A-coded female",
+    "consumption": "(Max.) 15W"
+  },
+  "other": {
+    "mounting": "Raf",
+    "dimensions": "Genişlik 164/190, Yükseklik 58, Derinlik 139.5",
+    "weight": "1100",
+    "temperature": "-40°C - +70°C",
+    "iPLevel": "IP40",
+    "mtbf": "40°C sıcaklıkta SN29500'e göre 210.000saat/24 yıl",
+    "orderCode": "NB3701-2Wac"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED)",
+    "rohs": "2011/65/EU",
+    "vehicleTypes": "Demiryolları EN50155 class OT4/ST0, EN 45545"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "title": "NB3701-L-G",
+  "description": "Demiryollarında çalışan araçlarda kablosuz internet erişimi sağlayan yüksek performanslı ve modüler mobil yönlendirilerdir.",
+  "heroText": "Yolcularına konforlu bir seyahat deneyimi sunarken yeni nesil filo yönetimi ile operasyonel verimliliğini artırmak isteyen kamu demiryolları işletmecileri ve araç üreticileri için idealdir.",
+  "front_image": "nb2800_front.jpg",
+  "overview": [
+    "NB3701-L-G, demiryollarında yolcu ve yük taşımacılığı için üretilmiştir. Araçların internete sorunsuz bir şekilde bağlanmasını sağlamak için kullanılır. Tek GSM modülüne sahiptir ve 4G-LTE, konumlandırma için GNSS ve beş adet M12 konnektörlü hızlı Ethernet bağlantı noktası ile donatılmıştır.",
+    "2014/53/AB (RED), 2011/65/AB (RoHS), EN50155 ve EN 45545 düzenlemelerine uyumludur.",
+    "Birçok özelliği ve yüksek performansıyla; 'Filo Yönetimi' veya 'Güvenlik Kameraları' gibi uygulamalar için ideal bir yönlendiricidir.",
+    "Özel olarak kullanım amacına göre geliştirilmiş gömülü Linux işletim sistemine sahiptir, üstünlüğünü kanıtlanmış yazılım bileşenleri ve gelişmiş iletişim protokollerini içerir. Ücretsiz Yazılım Geliştirme Kiti (SDK) kullanılarak özel uygulamalar geliştirilebilir."
+  ],
+  "keyFeatures": [
+    "Cihazda 4G LTE'yi destekleyen bir adet GSM modülü bulunur, tek hücresel ağ bağlantısı kurabilir. 2 adet SIM kart yuvasına sahiptir, farklı hücresel ağlara bağlanma fırsatı sunar. Mobil internet maliyetlerini kontrol etmeye ve internet bağlantısı kurmaya yardımcı olur.",
+    "Yolcu ve yük taşımacılığı için üretilen araçların karşılaşacağı zorlu fiziksel koşullara dayanıklıdır. IP40 seviyesinde korumalı bir tasarıma sahiptir. -40°C ila +70°C arasında çalışır.",
+    "Gelişmiş GPS alıcısı, aracın coğrafi konum bilgilerini yüksek doğrulukla belirlemeyi kolaylaştırır. Yüksek doğrulukta konum belirleme için sabitlenmesi gereken minimum uydu sayısı programlanabilir.",
+    "Cihaz, araç içinde bir yerel ağ (LAN) oluşturmak için beş adet Fast Ethernet bağlantı noktasıyla donatılmıştır. Yönlendiricideki M12 bağlantı noktaları, diğer Ethernet arabirimli cihazların internete erişimi için kullanılabilir (örneğin araç bilgisayarı, validatör gibi).",
+    "CE (2014/53/AB, RED), 2011/65/AB (RoHS) EN50155 ve EN45545 direktiflerine uygunluk sertifikalarına sahiptir."
+  ],
+  "cellular": {
+    "standard": "1x GSM modül, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+    "dataTransferRate": "(Max) 150 Mbps (DL), 50Mbps (UL)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x TNC female",
+    "sim": "2x Mini SIM - 2FF"
+  },
+  "ethernet": {
+    "standard": "5x Fast Ethernet, 100BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100 Mbps",
+    "connectors": "5x M12 D-coded female"
+  },
+  "positioning": {
+    "standards": "1x receiver, BeiDou, Galileo, GLONASS, GPS/QZSS",
+    "antennaType": "Active or Passive",
+    "cep": "<2m (Circular Error Probability, open sky, horizantal)",
+    "antennaConnector": "1x TNC female"
+  },
+  "usb": {
+    "standard": "1x USB 2.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "inputOutput": {
+    "type": "4x Digital IO (2x DI, 2x DO)",
+    "diSignals": "+,-",
+    "diLevels": "Low 0-5 VDC, High  7.2-40 VDC",
+    "doSignals": "Relay outputs with NO, NC, COM (normally open, normally closed)",
+    "doLevels": "0 - 60 VDC/1A, azami: 60 W",
+    "isolation": "1.500 VDC",
+    "connector": " 1x M12 A-coded female"
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1 GB RAM, 4 GB Flash",
+    "moduleSlots": "2x miniPCIe (PCIe + USB)"
+  },
+  "licenses": {
+    "gnss": "GNSS konum servisleri, JSON ve NMEA akış sunucu"
+  },
+  "power": {
+    "inputVoltage": "24, 48 VDC",
+    "connector": "1x M12 A-coded female",
+    "consumption": "(Max.) 15W"
+  },
+  "other": {
+    "mounting": "Raf",
+    "dimensions": "Genişlik 164/190, Yükseklik 58, Derinlik 139.5",
+    "weight": "1100",
+    "temperature": "-40°C ile +70°C arası",
+    "iPLevel": "IP40",
+    "mtbf": "40°C sıcaklıkta SN29500'e göre 210.000saat/24 yıl",
+    "orderCode": "NB3701-L-G"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED)",
+    "rohs": "2011/65/EU",
+    "vehicleTypes": "Demiryolları EN50155 class OT4/ST0, EN 45545"
+  }
+}

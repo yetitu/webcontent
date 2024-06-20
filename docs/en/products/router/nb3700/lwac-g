@@ -1,0 +1,83 @@
+{
+  "title": "NB3701-LWac-G",
+  "description": "It is a high-performance and modular mobile router that provides wireless internet access in vehicles operating on railways.",
+  "heroText": "It is ideal for public railways  operators and vehicle manufacturers who want to increase operational efficiency with new generation fleet management while providing their passengers with a comfortable travel experience.",
+  "front_image": "nb2800_front.jpg",
+  "overview": [
+    "NB3701-LWac-G is produced for vehicles used to carry passengers and cargo on railways. It is used to enable the vehicle to be connected to the internet seamlessly. It is equipped with single GSM module with 4G-LTE, single WiFi access point with IEEE 802.11ac (Wi-Fi 5) standard and GNSS for positioning and five Fast Ethernet ports with M12 connectors.",
+    "Complies with 2014/53/EU (RED), 2011/65/EU (RoHS) EN50155 and EN 45545 regulations.",
+    "With its numerous features and high performance; It is the ideal router for applications such as 'Fleet Management' or 'Security Cameras'.",
+    "The embedded Linux operating system, developed according to its intended use, has proven software components, including advanced communication protocols. Custom applications can be developed using the free Software Development Kit (SDK)."
+  ],
+  "keyFeatures": [
+    "A GSM module supporting 4G LTE in the device can establish a cellular network connection. Having 2 Mini-SIM card slots provides the opportunity to connect to different cellular networks. This helps control mobile internet costs and establish internet connection.",
+    "It is resistant to the harsh physical conditions that vehicles produced for passenger and freight transportation will encounter. It has an IP40 level protected design. It operates between -40°C and +70°C.",
+    "The advanced GPS receiver makes it easy to determine the vehicle's geographic location information with high accuracy. The minimum number of satellites that need to be fixed for high accuracy in position determination can be programmed.",
+    "The device is equipped with five Fast Ethernet ports for creating a local area network (LAN) within the vehicle. The M12 ports in the router can be used for internet access of other devices with Ethernet interface (such as vehicle computer, validator).",
+    "It has certificates of conformity with CE (2014/53/EU, RED), 2011/65/EU (RoHS) EN50155 and EN 45545 directives."
+  ],
+  "cellular": {
+    "standard": "1x GSM module, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+    "dataTransferRate": "(Max) 150 Mbps (DL), 50Mbps (UL)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x TNC female",
+    "sim": "2x Mini SIM - 2FF"
+  },
+  "wifi": {
+    "standard": "1x Radio, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
+    "dataTransferRate": "(Max.) 300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x FAKRA D-coded male",
+    "operatingModes": "Access Point (100 WiFi clients concurrent) or WiFi Client"
+  },
+  "ethernet": {
+    "standard": "5x Fast Ethernet, 100BASE-T, Auto MDIX",
+    "dataTransferRate": "10/100 Mbps",
+    "connectors": "5x M12 D-coded female"
+  },
+  "positioning": {
+    "standards": "1x receiver, BeiDou, Galileo, GLONASS, GPS/QZSS",
+    "antennaType": "Active or Passive",
+    "cep": "<2m (Circular Error Probability, open sky, horizantal)",
+    "antennaConnector": "1x TNC female"
+  },
+  "usb": {
+    "standard": "1x USB 2.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "inputOutput": {
+    "type": "4x Digital IO (2x DI, 2x DO)",
+    "diSignals": "+,-",
+    "diLevels": "Low 0-5 VDC, High  7.2-40 VDC",
+    "doSignals": "Relay outputs with NO, NC, COM (normally open, normally closed)",
+    "doLevels": "0 - 60 VDC/1A, maximum switching capacity: 60 W ",
+    "isolation": "1.500 VDC",
+    "connector": " 1x M12 A-coded female"
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1 GB RAM, 4 GB Flash",
+    "moduleSlots": "2x miniPCIe (PCIe + USB)"
+  },
+  "licenses": {
+    "gnss": "GNSS location services, JSON and NMEA stream server"
+  },
+  "power": {
+    "inputVoltage": "24 to 48 VDC",
+    "connector": "1x M12 A-coded female",
+    "consumption": "(Max.) 15W"
+  },
+  "other": {
+    "mounting": "Bracet",
+    "dimensions": "Width 164/190, Height 58, Depth 139.5",
+    "weight": "1100",
+    "temperature": "-40°C to +70°C",
+    "iPLevel": "IP40",
+    "mtbf": "210.000h/24years, acc. to SN29500 @ 40°C",
+    "orderCode": "NB3701-LWac-G"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED)",
+    "rohs": "2011/65/EU",
+    "vehicleTypes": "Railway EN50155 class OT4/ST0, EN 45545"
+  }
+}
