@@ -1,0 +1,407 @@
+{
+  "title": "NB3700 Serisi",
+  "brand": "NetModule",
+  "series": "NB3700",
+  "description": "NB3700 series of mobile routers provide wireless 4G, WiFi and GPS connections for the vehicles operating on railways. They have Ethernet, Digital I/O and USB ports. They are ideal for harsh physical conditions. They comply with all the directives sought in the railway industry.",
+  "heroText": "Digitize your fleet",
+  "image": "nb3700_front.png",
+  "groupImage": "nb3700_front.jpg",
+  "group": "router",
+  "usage": "Railway Vehicles",
+  "apps": [
+    {
+      "id": 1,
+      "title": "Passenger Information System",
+      "lead": "Inform your passengers on high-definition screens installed at stops, hubs, stations, waiting rooms or vehicles. Increase your revenue with commercials while they having a pleasant time with entertaining videos.",
+      "text": "Show your passengers estimated arrival times to upcoming stops, geo-location of the vehicle on the route, real-time road, weather and traffic information, timelines of other public transport systems at destination stops. Let them watch funny videos, breaking news about and your services. Earn revenue from ads that may change based on the vehicle's route, date, time or geographic location.",
+      "url": "transport/pis",
+      "img": "passenger-info.png"
+    },
+    {
+      "id": 2,
+      "title": "Offline Video & Music in the Vehicle",
+      "lead": "Let your passengers access your content archive saved on your vehicle computer with their own mobile devices. Let them watch movies, listen to music, read books, newspapers or magazines.",
+      "text": "Using their smartphones, tablets or laptops, your passengers can access travel information, digital copies of newspapers/magazines/books, select movies, series, music channels and more, without the need for internet access. With their own mobile devices and headphones, they should not worry about hygiene.",
+      "url": "transport/media",
+      "img": "offline-archive.png"
+    },
+    {
+      "id": 3,
+      "title": "WiFi for Passengers",
+      "url": "transport/wifi",
+      "lead": "Let your passengers connect to internet using 'WiFi for passengers' service in your vehicle.",
+      "text": "For a unique customer experience keep your passengers connected to their digital world. Let your passengers, who keep their smart mobile devices (smartphone, tablet, laptop) with them, connect to the internet during their travels.",
+      "img": "passenger-wifi.png",
+      "featured": "yes"
+    },
+    {
+      "id": 4,
+      "title": "CCTV Cameras In Vehicle",
+      "lead": "Install security cameras in the vehicle for the safety of people and cargo in the vehicle.",
+      "text": "Prevent unwanted situations such as theft, vandalism or assault with the help of video surveillance in the vehicle for a safe travel experience. Monitor, record and archive what's happening in and around your vehicles from anywhere and anytime.",
+      "img": "cctv.png",
+      "url": "transport/cctv"
+    },
+    {
+      "id": 5,
+      "title": "Telematics for Public Transportation",
+      "lead": "Don't just keep track of locations of your vehicles, switch to a fleet management system",
+      "text": "Ensure that all data collected on all vehicles in your fleet is automatically transferred to the fleet management system. Extend the life of your vehicles and increase the operational continuity of your fleet by preventing delays and not skipping vehicle maintenance periods.",
+      "img": "telematics.png"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "title": "Take advantage of advanced information technologies",
+      "lead": "Give your business a competitive advantage. Discover the technologies supported by NB3700 series of routers.",
+      "techItem": [
+        {
+          "id": 1,
+          "title": "4G-LTE",
+          "img": "4g-lte.png",
+          "text": "Cellular network operators supporting 4G-LTE technology in Türkiye provide services at frequencies of 800, 900, 1800, 2100 and 2600 MHz. Speeds of 150 Mbps for data download (DL) and 50 Mbps for data upload can be reached. Models in the NB2800 series with 4G-LTE capability also support previous versions (3G - DC-HSPA+/UMTS and 2G - GSM/GPRS/EDGE)."
+        },
+        {
+          "id": 2,
+          "title": "Multi-SIM",
+          "img": "multi-sim.png",
+          "text": "Network-connected devices in the vehicle, such as validators, on-board computers, and IP cameras, can use the router's mobile internet (WWAN) connections. This eliminates the need to use a separate SIM card for each device in the vehicle. The cost of using cellular networks decreases. There are 2 Mini-SIM card slots in the router. SIM cards may belong to different cellular network operators. Automatic switching between SIM cards can be programmed according to the monthly usage quota or the signal strength where the vehicle is located."
+        },
+        {
+          "id": 3,
+          "title": "WiFi-5",
+          "img": "wifi5.png",
+          "text": "Two WiFi radios in the NB2800 series models that can create wireless local area networks (WLAN) support IEEE 802.11a/b/g/n/ac (Wi-Fi 5) technologies and operate at 2.5 GHz and 5 GHz frequencies. 2 antennas (2x2 MIMO) are used on each radio to receive/send signal more effectively. It can reach speeds of 300 Mbps on the 2.4 GHz frequency and 866 Mbps on the 5 GHz frequency. It can be operated as an Access Point, WiFi Client and Mesh Point. It can connect with 100 simultaneous WiFi clients in Access Point mode. It creates a wireless local area network (WLAN) in the vehicle so that WiFi-equipped devices such as validators, on-board computers, IP cameras or portable devices such as passengers' smartphones and laptops can access the internet."
+        },
+        {
+          "id": 4,
+          "title": "GNSS (Global Navigation Satellite Systems)",
+          "img": "gnss.png",
+          "text": "High-precision onboard GNSS hardware is used to determine the vehicle's geographic location. A connection is automatically established with Beidou, Galileo, Glonass and GPS satellites and the location is determined. The determined location information is instantly sent to other devices in the vehicle or to the fleet management system. In models with Dead Reckoning capability, location data is created with the help of logical inference algorithms in closed areas such as tunnels and parking garages where satellite connection cannot be established."
+        },
+        {
+          "id": 5,
+          "title": "Fast Ethernet",
+          "img": "fast-ethernet.png",
+          "text": "It is capable of establishing a data connection at Fast Ethernet (10/100 Mbps) speed with other devices equipped with Ethernet (IP-based) functionality, enabling the establishment of a wired network connection within the vehicle."
+        },
+        {
+          "id": 6,
+          "title": "Digital I/O",
+          "img": "digital.png",
+          "text": "There are 4 digital input and output ports that can be used in industrial automation projects. Industrial automation projects that are triggered when messages received from WWAN, WLAN or LAN networks, values received from input ports or programmed conditions occur (such as, but not limited to, the processor temperature exceeding the threshold value) can be realized."
+        }
+      ]
+    }
+  ],
+  "specs": [
+    {
+      "id": 1,
+      "title": "Standard Hardware Features",
+      "text": "Thanks to intelligent routing and connection management software, it can access the networks of up to four cellular network operators, either from all of them simultaneously or sequentially to provide redundancy. In all models; Cellular networks supporting UMTS of countries in the EMEA region can be accessed. The router has 5 Fast Ethernet, 4 Digital I/O ports, 1 USB port and a satellite receiver providing GNSS services. All models are Complies with 2014/53/EU (RED), 2011/65/EU (RoHS) EN50155 and EN 45545 directives. In all models in the NB3700 series; IT infrastructure consisting of a 1.3 GHz dual-core central processor, 1 GB RAM memory and embedded Linux operating system was used. The features of the standard NRSW (NetModule Router Software) software, which provides the functionality expected from the router, are listed below. Check out all models with different capacities and capabilities."
+    },
+    {
+      "id": 2,
+      "title": "Standard Software Features",
+      "text": "NetModule Router Software 'NRSW', which is the hardware-software ('firmware') of NetModule routers, is the standard software that comes with the product. It is Linux based. It contains all the necessary drivers and basic software support for the router. Being Linux-based, it facilitates the management of wired or wireless network connections as well as a wide range of secure network functions. Necessary update packages are provided free of charge for the router to operate safely throughout its life cycle. It allows developers to develop their own applications.",
+      "keySwFeatures": [
+        {
+          "id": 1,
+          "title": "Advanced Routing Features",
+          "text": "Routing options include static route, multi-route, OSPF, BGP and more. Mobile IP allows migration from one network to another while maintaining a permanent IP address. Quality of Service (QoS) and various firewall options are also available. It supports VPN protocols such as NRSW, OpenVPN or IPSec for secure connections to remote locations."
+        },
+        {
+          "id": 2,
+          "title": "SDK",
+          "text": "Software Development Kit (SDK) that allows you to write your own scripts and functions for the router. It includes extensive functionality for accessing hardware interfaces to retrieve system status parameters, send email or SMS, or perform router configuration tasks."
+        },
+        {
+          "id": 3,
+          "title": "Standard Features",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Fail-safe Update (FOTA) via USB, HTTP(S), (S)FTP, TFTP"
+            },
+            {
+              "id": 2,
+              "text": "Remote CLI & WebGUI"
+            },
+            {
+              "id": 3,
+              "text": "RADIUS authentication, Simple Certificate Enrollment Protocol (SCEP)"
+            },
+            {
+              "id": 4,
+              "text": "Hardware and software watchdog"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Link management",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Link prioritization and aggregation"
+            },
+            {
+              "id": 2,
+              "text": "Load Balancing"
+            },
+            {
+              "id": 3,
+              "text": "Multipath-TCP"
+            },
+            {
+              "id": 4,
+              "text": "IP-Passthrough"
+            },
+            {
+              "id": 5,
+              "text": "Link supervision"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Cellular networking",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Multi-SIM"
+            },
+            {
+              "id": 2,
+              "text": "Multi-APN"
+            },
+            {
+              "id": 3,
+              "text": "Signal strength supervision"
+            },
+            {
+              "id": 4,
+              "text": "GSM, CSFB calls\""
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "WLAN",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Client or access point mode"
+            },
+            {
+              "id": 2,
+              "text": "Multi client support with WEP, WPA-PSK, WPA-RADIUS, WPA-EAP-TLS"
+            },
+            {
+              "id": 3,
+              "text": "Multi/hidden SSID support with WPA-PSK,WPA-RADIUS, WPA-EAP-TLS"
+            },
+            {
+              "id": 4,
+              "text": "IEEE 802.11w, IEEE 802.11r"
+            },
+            {
+              "id": 5,
+              "text": "RADIUS accounting"
+            },
+            {
+              "id": 6,
+              "text": "CAPWAP"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "USB",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "USB sticks for mass storage, adapter for Ethernet or RS232/RS485 interfaces for serial-to-IP-server."
+            },
+            {
+              "id": 2,
+              "text": "Used for Autorun Provisioning Config, Software update"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "IP routing protocols",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Routing options as Destination, Policy, Multipath"
+            },
+            {
+              "id": 2,
+              "text": "Mobile-IP, OSPF, BGP, Multicast, TCP MSS Clamping, Bridging"
+            },
+            {
+              "id": 3,
+              "text": "Discovery protocols LLDP, CDP, SONMP, EDP, FDP, IRDP"
+            },
+            {
+              "id": 4,
+              "text": "STP, RSTP, VRRP, VLAN, PPPoE"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "text": "VPN protocols",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "OpenVPN, IPsec, PPTP, GRE, CSD Dial-In"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "text": "Quality of service ('QoS')",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Diffserv, SFQ, HTB, Priority-based Queuing"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "text": "Firewall",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Stateful firewall, connection tracking"
+            },
+            {
+              "id": 2,
+              "text": "NAT, NAPT, masquerading, bridge filtering"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "text": "Services",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "DHCP Client/Server, DNS Caching Server, Email, SMS Service"
+            },
+            {
+              "id": 2,
+              "text": "NTP Client/Server, SNTP Server, DynDNS, SSH Server, SNMP Agent"
+            },
+            {
+              "id": 3,
+              "text": "HTTP/HTTPS/FTP Server"
+            },
+            {
+              "id": 4,
+              "text": "Voice Gateway (SIP, Call Routing, Audio)"
+            },
+            {
+              "id": 5,
+              "text": "Coovachilli Hotspot"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "text": "Programmability",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Software Development Kit (SDK)"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "text": "Toubleshooting",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Logging, Ping, Traceroute, Tcpdump, Speed-test"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Licensed features",
+      "text": "In addition to the above features that come standard with NB2800 series routers, paid licenses that provide the following capabilities can be added to the router later, if desired, as long as the hardware supports it.",
+      "keySwFeatures": [
+        {
+          "id": 1,
+          "title": "GNSS",
+          "text": "Standalone GNSS server that provides data via a JSON/NMEA data stream Assisted and Dead Reckoning are supported (if the hardware allows it)."
+        },
+        {
+          "id": 2,
+          "title": "OpenVPN and DynDNS",
+          "text": "The NetModule router software supports OpenVPN for establishing encrypted connections via UDP or TCP. In the standard version, a maximum of four OpenVPN instances can be configured on a NetModule router, one of which can be a server instance. Extension subject to additional licensing",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "OpenVPN server instance with a maximum of 25 clients (instead of 10 without license)"
+            },
+            {
+              "id": 2,
+              "text": "DynDNS server"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "models": [
+    {
+      "productCode": "NB3701-2Wac",
+      "cellular": "",
+      "sim": "",
+      "wlan": "",
+      "ethernet": "5x FE (M12)",
+      "gps": "",
+      "power": "",
+      "emark": true
+    },
+    {
+      "productCode": "NB3701-L-G",
+      "cellular": "1x LTE",
+      "sim": "2x Mini-SIM",
+      "wlan": "",
+      "ethernet": "5x FE (M12)",
+      "gps": "GNSS",
+      "power": "",
+      "emark": true
+    },
+    {
+      "productCode": "NB3701-LWac-G",
+      "cellular": "1x LTE",
+      "sim": "2x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x FE (M12)",
+      "gps": "GNSS",
+      "power": "",
+      "emark": true
+    },
+    {
+      "productCode": "NB3701-LWacPb-G",
+      "cellular": "1x LTE",
+      "sim": "2x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x FE (M12)",
+      "gps": "GNSS",
+      "power": "110V",
+      "emark": true
+    }
+  ]
+}

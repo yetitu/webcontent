@@ -1,0 +1,492 @@
+{
+  "title": "NB3700 Serisi",
+  "brand": "NetModule",
+  "series": "NB3700",
+  "description": "Demiryollarında çalışan araçlar için kablosuz 4G, WiFi ve GPS bağlantıları sağlar. Ethernet, Sayısal Giriş/Çıkış ve USB portları bulunur. Zorlu fiziksel koşullar için idealdir. Demiryolları endüstrisinde aranan tüm yönergelere uygundur.",
+  "heroText": "Filonuzu dijitalleştirin",
+  "image": "nb3700_front.png",
+  "group": "router",
+  "usage": "Demiryolu Araçları",
+  "apps": [
+    {
+      "id": 1,
+      "title": "Yolcu Bilgilendirme Sistemi",
+      "lead": "Araçtaki yüksek çözünürlüklü ekranlardan yolcularınızı bilgilendirin, eğlenceli videolar ile hoş zaman geçirmelerini sağlayın. Oynatacağınız reklam videoları ile gelirinizi artırın.",
+      "text": "Araçtaki ekranlardan yolcularınıza yaklaşılmakta olan duraklara tahmini varış sürelerini, aracın rotadaki konumunu, gerçek zamanlı yol, hava ve trafik durumu bilgilerini, varılacak duraklardaki diğer toplu taşıma sistemlerinin zaman çizelgelerini gösterin. Gündeme dair önemli haberleri ve hizmetlerinizi anlatan videolar izletin. Aracın rotasına, tarihe, saate veya coğrafi konuma bağlı olarak değişebilen reklamlardan gelir elde edinin. Yolcularınıza seyahatleri sırasında hoş zaman geçirmelerini sağlayacak ilgi çekici kısa videolar izletin.",
+      "url": "transport/pis",
+      "img": "passenger-info.png"
+    },
+    {
+      "id": 2,
+      "title": "Çevrimdışı Video ve Müzik",
+      "lead": "Yolcularınız kendi cihazları ile elektronik içerik havuzuna erişsin. Film izlesinler, müzik dinlesinler, kitap, gazete veya dergi okusunlar.",
+      "text": "Yolcularınız kendi akıllı telefon, tablet veya dizüstü bilgisayarlarını kullanarak, internet erişimi gerekmeksizin, seyahat bilgilerine, gazetelerin/dergilerin/kitapların dijital kopyalarına, seçecekleri filmlere, dizilere, müzik kanallarına ve daha fazlasına erişsin. Kendi mobil cihazlarını ve kulaklıklarını kullanacaklarından hijyeni dert etmesinler.",
+      "url": "transport/media",
+      "img": "offline-archive.png"
+    },
+    {
+      "id": 3,
+      "title": "Yolcular için WiFi",
+      "url": "transport/wifi",
+      "lead": "Araçta WiFi hizmeti ile yolcularınız internete bağlanabilsin.",
+      "text": "Benzersiz müşteri deneyimi için yolcularınızı kendi dijital dünyalarına bağlı tutun. Akıllı mobil cihazlarını (akıllı telefon, tablet, dizüstü bilgisayar) yanlarından ayırmayan yolcularınıza seyahatleri süresince, dilerseniz ücretli veya ücretsiz, internete bağlanabilme olanağı sunun.",
+      "img": "passenger-wifi.png",
+      "featured": "yes"
+    },
+    {
+      "id": 4,
+      "title": "Araçta Güvenlik Kameraları",
+      "lead": "Yolcularınızın güvenliği için araca IP tabanlı kameralar yerleştirin.",
+      "text": "Güvenli yolculuk deneyimi için araçta video gözetimi yardımı ile hırsızlık, vandalizm veya saldırı gibi istenmeyen durumları önleyin. Araçlarınızın içinde ve çevresinde neler olduğunu her yerden ve her zaman izleyin, kayıt edin ve arşivleyin.",
+      "url": "transport/cctv",
+      "img": "cctv.png"
+    },
+    {
+      "id": 5,
+      "title": "Toplu Ulaşım İçin Telematik",
+      "lead": "Araçlarınızın takip etmekle kalmayın, filo yönetimi sistemine geçin.",
+      "text": "Filonuzdaki tüm araçlarda toplanan tüm verileri filo yönetimi sistemine otomatik olarak aktarılmasını sağlayın. Gecikmeleri önleyerek ve araçların bakım zamanlarını atlamayarak araçların ömrünü uzatın, filonuzun operasyonel sürekliliğini artırın.",
+      "img": "telematics.png"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "title": "Yeni nesil bilgi teknolojilerinden siz de yararlanın",
+      "lead": "İşinize rekabet avantajı kazandırın. NB3700 serisi yönlendiricilerin desteklediği teknolojileri keşfedin.",
+      "techItem": [
+        {
+          "id": 1,
+          "title": "4G-LTE",
+          "img": "4g-lte.png",
+          "text": "Türkiye'deki 4G-LTE teknolojisini destekleyen hücresel ağ işletmecileri 800, 900, 1800, 2100 ve 2600 MHz frekanslarında hizmet vermektedir. Veri indirmede (DL) 150 Mbps ve veri yüklemede 50 Mbps hızlarına çıkılabilmektedir. NB2800 serisinde yer alan ve 4G-LTE yeteneği barındıran modelleri aynı zamanda önceki sürümleri (3G - DC-HSPA+/UMTS ve 2G - GSM/GPRS/EDGE) destekler."
+        },
+        {
+          "id": 2,
+          "title": "Multi-SIM",
+          "img": "multi-sim.png",
+          "text": "Araçta bulunan validatörler, araç içi bilgisayarlar ve IP kameralar gibi ağa bağlı cihazlar, yönlendiricinin mobil internet (WWAN) bağlantılarını kullanabilir. Bu, araçtaki her cihaz için ayrı bir SIM kart kullanma ihtiyacını ortadan kaldırır. Hücresel ağları kullanmanın maliyeti düşer. Yönlendiricide 2 Mini-SIM kart yuvası bulunmaktadır. SIM kartlar farklı hücresel ağ operatörlerine ait olabilir. SIM kartları arasında otomatik geçiş, aylık kullanım kotasına veya aracın bulunduğu yerdeki sinyal gücüne göre programlanabilir."
+        },
+        {
+          "id": 3,
+          "title": "WiFi-5",
+          "img": "wifi5.png",
+          "text": "NB2800 serisinden, kablosuz yerel alan ağları (WLAN) oluşturabilen modellerindeki WiFi radyoları, IEEE 802.11a/b/g/n/ac (Wi-Fi 5) teknolojilerini destekler, 2.5 GHz ve 5 GHz frekanslarında çalışır. Daha etkili sinyal almak/göndermek için her radyoda 2 anten (2x2 MIMO) kullanılır. 2.4 GHz frekansında 300 Mbps ve 5 GHz frekansında ise 866 Mbps hızlarına çıkabilmektedir. Erişim Noktası (Access Point), WiFi İstemci (Client) ve Örgü Noktası (Mesh Point) olarak çalıştırılabilir. Erişim Noktası modunda eşzamanlı 100 WiFi istemcisi ile bağlantı kurabilir. Araçtaki kablosuz ağ bağlantısı kurmaya yarayan, WiFi donanımı bulunan, validatör, araç bilgisayarları, IP kamera gibi aygıtların veya yolcuların akıllı telefon, dizüstü bilgisayar gibi taşınabilir aygıtlarının, internete erişebilmesi için araç içinde kablosuz yerel alan ağı (WLAN) oluşturur."
+        },
+        {
+          "id": 4,
+          "title": "GNSS (Küresel Konum Belirleme Sistemi)",
+          "img": "gnss.png",
+          "text": "Aracın coğrafi konumunu belirlemek için yüksek hassasiyetli bütünleşik GNSS donanımı kullanılır. Beidou, Galileo, Glonass ve GPS uydularıyla otomatik olarak bağlantı kurulur ve konum belirlenir. Belirlenen konum bilgileri araç içindeki diğer aygıtlara veya filo yönetimi sistemine anlık olarak gönderilir. Dead Reckoning yeteneği bulunan modellerinde konum verileri, uydu bağlantısının kurulamadığı tünel, kapalı otopark gibi kapalı alanlarda mantıklı çıkarım algoritmaları yardımıyla oluşturulur."
+        },
+        {
+          "id": 5,
+          "title": "Fast Ethernet",
+          "img": "fast-ethernet.png",
+          "text": "Aracın içinde kablolu bir ağ bağlantısı kurmayı mümkün kılar. Ethernet (IP tabanlı) özelliklerle donatılmış diğer cihazlarla Fast Ethernet (10/100 Mbps) hızında veri bağlantısı kurabilme yeteneğine sahiptir."
+        },
+        {
+          "id": 6,
+          "title": "Digital I/O",
+          "img": "digital.png",
+          "text": "Endüstriyel otomasyon projelerinde kullanılabilecek 4 dijital giriş ve çıkış bağlantı noktası bulunmaktadır. WWAN, WLAN veya LAN ağlarından alınan mesajlar, giriş bağlantı noktalarından alınan değerler veya programlanmış koşullar (ancak bunlarla sınırlı olmamak üzere, işlemci sıcaklığının belirlenen eşik değerini aşması gibi) meydana geldiğinde tetiklenen endüstriyel otomasyon projeleri gerçekleştirilebilir."
+        }
+      ]
+    }
+  ],
+  "specs": [
+    {
+      "id": 1,
+      "title": "Standart Donanım Özellikleri",
+      "text": "Akıllı yönlendirme ve bağlantı yönetimi yazılımı sayesinde, aynı anda hepsinden veya yedeklilik sağlamak amacıyla sırasıyla, en fazla dört hücresel ağ operatörünün ağına erişebilir. Tüm modellerde; EMEA bölgesindeki ülkelerin UMTS destekleyen hücresel ağlarına erişilebilir, yönlendirici üzerinde 2 adet Gigabit Ethernet, 1 adet RS-232, 1 adet USB bağlantı noktası ve GNSS servisleri sağlayan uydu alıcısı bulunmaktadır. Anten girişlerinde otomotiv endüstrisinin zorlu mekanik ve çevresel gereksinimlerini karşılamak üzere geliştirilmiş FAKRA (Fachkreis Automobil, Automobile Expert Group) tipi konnektörler kullanılmıştır. Tüm modeller CE uyumludur (RED) ve otomotiv tip onayına sahiptir (UNECE R10, UNECE R118). NB2800 serisindeki tüm modellerde; 1.3 GHz hızında, çift çekirdekli merkezi işlemci, 1 GB RAM bellek, 12VDC-48VDC girişli, ateşleme sensörlü güç ünitesi ve gömülü Linux işletim sisteminden oluşan BT alt yapısı kullanılmıştır. Yönlendiriciden beklenen işlevselliği sağlayan standart NRSW (NetModule Router Software) yazılımının özellikleri aşağıda sıralanmıştır. Farklı kapasite ve yeteneklere sahip tüm modellere göz atın."
+    },
+    {
+      "id": 2,
+      "title": "Standart Yazılım Özellikleri",
+      "text": "NetModule yönlendiricilerinin donanım-yazılımı ('firmware') olan NetModule Router Software 'NRSW', ürünle gelen standart yazılımdır. Linux tabanlıdır. Yönlendirici için gerekli tüm sürücüleri ve temel yazılım desteğini içerir. Linux tabanlı oluşu çok çeşitli ve güvenli ağ işlevlerinin yanı sıra kablolu veya kablosuz ağ bağlantıların yönetimini kolaylaştırır. Yönlendiricinin yaşam döngüsü boyunca güvenli olarak çalışabilmesi için gerekli güncelleme paketleri ücretsiz olarak sunulur. Geliştiricilerin kendi uygulamalarını geliştirmelerini sağlar.",
+      "keySwFeatures": [
+        {
+          "id": 1,
+          "title": "Gelişmiş Yönlendirme",
+          "text": "Yönlendirme seçenekleri arasında statik rota, çoklu rota, OSPF, BGP ve daha fazlası bulunur. Mobil IP, kalıcı bir IP adresini korurken bir ağdan diğerine geçişe izin verir. Hizmet Kalitesi (QoS) ve çeşitli güvenlik duvarı seçenekleri de mevcuttur. Uzak uçlarla güvenli bağlantılar oluşturmak için NRSW, OpenVPN veya IPSec gibi VPN protokolleri sunar."
+        },
+        {
+          "id": 2,
+          "title": "SDK",
+          "text": "Yönlendirici için kullanıcıların kendi komut dosyalarını ve işlevlerini oluşturmasına olanak tanıyan Yazılım Geliştirme Kiti (Software Development Kit, 'SDK') özelliğine sahiptir. SDK ile sistem durum parametrelerini e-posta veya kısa ileti (SMS) göndermek mümkündür. Hatta yönlendiricinin yapılandırma ayarlarını değiştirmek için donanım arayüzlerine erişilebilir."
+        },
+        {
+          "id": 3,
+          "title": "Seçimlik LXC",
+          "text": "NRSW, ek lisansların satın alınması durumunda Linux Kapsayıcısını (Linux Container, LXC) destekler. Kapsayıcı, merkezi işlemci çekirdek kaynaklarını sanallaştırarak ve birbirlerinden koruyarak; merkezi işlemcideki süreçlerin ve süreç gruplarının izole edilmesini sağlar. LXC ile bir kapsayıcıda tek bir uygulama veya tüm Linux işletim sistemini başlatılabilir. Kapsayıcı, her iki uygulamanın da güvenli bir şekilde yürütülmesi için kullanıcı ve yönlendirici uygulamalarını etkin bir şekilde ayırır."
+        },
+        {
+          "id": 4,
+          "title": "Genel Yönlendirici Özellikleri",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "USB, HTTP(S), (S)FTP veya TFTP protokolleri yardımıyla Havadan Donanım-Yazılımı Güncelleme (Firmware Over The Air, 'FOTA')"
+            },
+            {
+              "id": 2,
+              "text": "Komut satırı arabirimi ('CLI') ve grafik tabanlı web arayüzü"
+            },
+            {
+              "id": 3,
+              "text": "RADIUS kimlik doğrulaması, Basit Sertifika Kayıt Protokolü (Simple Certificate Enrollment Protocol, 'SCEP')"
+            },
+            {
+              "id": 4,
+              "text": "Donanım ve yazılım için ayrı gözlemciler ('watchdog')"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Ağ bağlantısı yönetimi",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Bağlantı önceliklendirme ve birleştirme"
+            },
+            {
+              "id": 2,
+              "text": "Yük dengeleme"
+            },
+            {
+              "id": 3,
+              "text": "Çok yollu TCP"
+            },
+            {
+              "id": 4,
+              "text": "IP geçidi"
+            },
+            {
+              "id": 5,
+              "text": "Bağlantı gözetimi"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Hücresel ağ bağlantısı",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Multi-SIM, e-SIM"
+            },
+            {
+              "id": 2,
+              "text": "Multi-APN"
+            },
+            {
+              "id": 3,
+              "text": "Sinyal seviyesi gözetimi"
+            },
+            {
+              "id": 4,
+              "text": "GSM, CSFB çağrıları"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "WLAN",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "İstemci veya erişim noktası modunda çalışma"
+            },
+            {
+              "id": 2,
+              "text": "İstemciler için WEP, WPA-PSK, WPA-RADIUS, WPA-EAP-TLS desteği"
+            },
+            {
+              "id": 3,
+              "text": "Erişim noktası modunda birden fazla veya gizlenebilir SSID"
+            },
+            {
+              "id": 4,
+              "text": "Erişim noktası modunda WPA-PSK, WPA-RADIUS, WPA-EAP-TLS desteği"
+            },
+            {
+              "id": 5,
+              "text": "IEEE 802.11w, IEEE 802.11r"
+            },
+            {
+              "id": 6,
+              "text": "CAPWAP"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "USB",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Veri depolama için USB bellek kullanımı, seri-IP-sunucu için Ethernet veya RS232/RS485 arabirimleri için adaptör"
+            },
+            {
+              "id": 2,
+              "text": "Yapılandırma ayarları ve donanım-yazılımı güncellemeleri için otomatik başlatma"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "IP yönlendirme protokolleri",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Varış yeri, Politika ve Çoklu yol yönlendirme seçenekleri"
+            },
+            {
+              "id": 2,
+              "text": "Mobile-IP, OSPF, BGP, Multicast, TCP MSS Clamping, Köprüleme"
+            },
+            {
+              "id": 3,
+              "text": "LLDP, CDP, SONMP, EDP, FDP ve IRDP desteği"
+            },
+            {
+              "id": 4,
+              "text": "STP, RSTP, VRRP, VLAN ve PPPoE desteği"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "VPN prokolleri",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "OpenVPN, IPsec, PPTP, GRE, CSD Dial-In"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "title": "Servis kalitesi ('QoS')",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Diffserv, SFQ, HTB, Öncelik bazlı kuyrukta bekletme"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "title": "Güvenlik duvarı",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Durum bilgisi duyarlı bağlantı izleme"
+            },
+            {
+              "id": 2,
+              "text": "NAT, NAPT, maskeleme, köprü filtreleme"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Servisler",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "DHCP İstemci/Sunucu, DNS Caching Sunucu, E-posta, kısa ileti ('SMS')"
+            },
+            {
+              "id": 2,
+              "text": "NTP İstemci/Sunucu, SNTP Sunucu, DynDNS, SSH Sunucu, SNMP Agent, HTTP/HTTPS/FTP Sunucu"
+            },
+            {
+              "id": 3,
+              "text": "Ses Geçidi (SIP, çağrı yönlendirme, audio)"
+            },
+            {
+              "id": 4,
+              "text": "Coovachilli Hotspot"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Programlama",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Yazılım Geliştirme Kiti (Software Development Kit, 'SDK')"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "title": "Problem Bulma/Çözme",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Günlük kayıtları ('Logging'), Ping, Traceroute, Tcpdump, Hız testi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lisanslı Yazılım Özellikleri",
+      "text": "NB2800 serisi yönlendiriciler ile standart olarak verilen yukarıdaki özelliklerin yanı sıra dilenirse, elbette donanımın desteklediği sürece, aşağıdaki yetenekleri kazandıran ücretli lisanslar yönlendiriciye sonradan eklenebilir.",
+      "keySwFeatures": [
+        {
+          "id": 1,
+          "title": "GNSS",
+          "text": "JSON/NMEA akışı ile veri sağlayan bağımsız GNSS sunucu lisansıdır. Donanım izin veriyorsa; 'Assisted' ve 'Dead Reckoning' teknolojileri de desteklenir."
+        },
+        {
+          "id": 2,
+          "title": "OpenVPN ve DynDNS",
+          "text": "NRSW, UDP veya TCP protokolleri yardımıyla şifreli bağlantılar kurmak için OpenVPN'i destekler. Standart sürümde, bir NetModule yönlendirici üzerinde en fazla dört adet OpenVPN sunucu ayarı yapılandırılabilir. Eşzamanlı OpenVPN istemci sayısı 10'dur.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Eşzamanlı en fazla 25 adet OpenVPN istemci bağlantısı"
+            },
+            {
+              "id": 2,
+              "text": "DynDNS sunucu"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Ses geçidi",
+          "text": "Bu lisans ile NetModule yönlendiricileri, VoIP telefonu (IP üzerinden Ses) için bir ses ağ geçidi görevi de görebilir. Mobil ağ üzerinden gelen aramalar, NetModule yönlendiricisi aracılığıyla VoIP istemcilerine bağlanabilir. VoIP istemcilerinden başlatılan giden aramalar da mobil ağ üzerinden yapılır. Sesli iletişimi, doğrudan varsa cihaz üzerindeki FXS veya Bas-Konuş bağlantı noktalarının ses arabiriminden de sağlanabilir. (Not\":\"\" Kullanılabilir özellikler, kullanılan donanıma bağlıdır.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "2G/3G/4G/5G, POTS, VoIP, Audio, Bas-Konuş sesli çağrıları"
+            },
+            {
+              "id": 2,
+              "text": "Dört adede kadar eşzamanlı ses kanalı (kanal başına bir adet modem gereklidir)"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "LXC",
+          "text": "LXC sanallaştırma lisansı, aynı donanım (yönlendirici) üzerinde yönlendirici uygulamasına paralel olarak müşteri uygulamalarının kurulmasına ve yürütülmesine izin verir. Linux Kapsayıcıları (LXC, Linux Container) kullanılarak, birkaç yalıtılmış Linux sistemi, işletim sistemi düzeyinde aynı ana bilgisayar üzerinde çalıştırılabilir. LXC, ana bilgisayar sisteminin (yönlendiricinin) çekirdeğini kullanarak kendi süreçleriyle sanal bir ortam oluşturur. Yönlendirici işlevlerinin ve sanallaştırılmış bilgisayarın güvenli biçimde, birbirlerinin etkilemeleri önlenir."
+        },
+        {
+          "id": 5,
+          "title": "FMStoIP",
+          "text": "Bu yazılım lisansı, CAN arabirimlerindeki J1939 paketlerini alır, dönüştürür ve yerel olarak araç içindeki veya uzaktaki diğer sistemlere gönderir.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "İleti süzme ve yapılandırma"
+            },
+            {
+              "id": 2,
+              "text": "FMS standartında, FMStoIP, VEHICLEtoIP"
+            },
+            {
+              "id": 3,
+              "text": "ITxPT-Uygunluk (destekleyen modeldeki cihazlarda)"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "ITxPT-Uygunluk Etiketi",
+          "text": "Etiket, aşağıdaki hizmetler için ürünün ITxPT spesifikasyonları S01 v2.0.1 ve S02 v2.0.1 ile uygunluğunun beyanıdır.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Modül envanteri"
+            },
+            {
+              "id": 2,
+              "text": "Zaman"
+            },
+            {
+              "id": 3,
+              "text": "GNSS konumu (GNSS lisansı da gerektirir)"
+            },
+            {
+              "id": 4,
+              "text": "FMStoIP (FSMtoIP Lisansı da gerektirir)"
+            },
+            {
+              "id": 5,
+              "text": "VEHICLEtoIP (FSMtoIP lisansı da gerektirir)"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Gelişmiş RF yapılandırma",
+          "text": "Aşağıdaki gelişmiş WLAN yapılandırma ayarlarının değiştirilebilmesine izin verir.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Frekans"
+            },
+            {
+              "id": 2,
+              "text": "Anten kazancı"
+            },
+            {
+              "id": 3,
+              "text": "Düzenleyici otorite ayarları"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "models": [
+    {
+      "productCode": "NB3701-2Wac",
+      "cellular": "",
+      "sim": "",
+      "wlan": "",
+      "ethernet": "5x FE (M12)",
+      "gps": "",
+      "power": "",
+      "emark": true
+    },
+    {
+      "productCode": "NB3701-L-G",
+      "cellular": "1x LTE",
+      "sim": "2x Mini-SIM",
+      "wlan": "",
+      "ethernet": "5x FE (M12)",
+      "gps": "GNSS",
+      "power": "",
+      "emark": true
+    },
+    {
+      "productCode": "NB3701-LWac-G",
+      "cellular": "1x LTE",
+      "sim": "2x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x FE (M12)",
+      "gps": "GNSS",
+      "power": "",
+      "emark": true
+    },
+    {
+      "productCode": "NB3701-LWacPb-G",
+      "cellular": "1x LTE",
+      "sim": "2x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x FE (M12)",
+      "gps": "GNSS",
+      "power": "110V",
+      "emark": true
+    }
+  ]
+}
