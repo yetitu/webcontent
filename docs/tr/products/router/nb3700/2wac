@@ -10,7 +10,7 @@
     "Özel olarak kullanım amacına göre geliştirilmiş gömülü Linux işletim sistemine sahiptir, üstünlüğünü kanıtlanmış yazılım bileşenleri ve gelişmiş iletişim protokollerini içerir. Ücretsiz Yazılım Geliştirme Kiti (SDK) kullanılarak özel uygulamalar geliştirilebilir."
   ],
   "keyFeatures": [
-    "WLAN-ac destekleyan iki adet radyo, aynı anda araç içinde kablosuz yerel alan ağı (WLAN, WiFi) oluşturmaya ve araç dışındaki WiFi erişim noktalarına istemci olarak bağlanmaya olanak tanır. Radyolar farklı frekanslarda (2.4 GHz ve 5GHz) çalıştırılabilir. Araç içinde farklı veya aynı frekanslarda 2 farklı SSID'li WLAN oluşturulabilir.",
+    "WLAN-ac destekleyen iki adet radyo, aynı anda araç içinde kablosuz yerel alan ağı (WLAN, WiFi) oluşturmaya ve araç dışındaki WiFi erişim noktalarına istemci olarak bağlanmaya olanak tanır. Radyolar farklı frekanslarda (2.4 GHz ve 5GHz) çalıştırılabilir. Araç içinde farklı veya aynı frekanslarda 2 farklı SSID'li WLAN oluşturulabilir.",
     "Yolcu ve yük taşımacılığı için üretilen araçların karşılaşacağı zorlu fiziksel koşullara dayanıklıdır. IP40 seviyesinde korumalı bir tasarıma sahiptir. -40°C ila +70°C arasında çalışır.",
     "Cihaz, araç içinde bir yerel ağ (LAN) oluşturmak için beş adet Fast Ethernet bağlantı noktasıyla donatılmıştır. Yönlendiricideki M12 bağlantı noktaları, diğer Ethernet arabirimli cihazların internete erişimi için kullanılabilir (örneğin araç bilgisayarı, validatör gibi).",
     "CE (2014/53/AB, RED), 2011/65/AB (RoHS) EN50155 ve EN45545 direktiflerine uygunluk sertifikalarına sahiptir."
