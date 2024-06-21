@@ -4,8 +4,7 @@
   "series": "NB3800",
   "description": "NB3800 series of mobile routers provide wireless 5G, 4G, WiFi, BLE and GPS connections for the vehicles operating on railways. They have Ethernet, serial and USB ports. They are ideal for harsh physical conditions. They comply with all the directives sought in the railway industry.",
   "heroText": "Digitize your fleet",
-  "image": "nb3800_front_small.png",
-  "groupImage": "nb3800_front.jpg",
+  "image": "nb3800_front.png",
   "group": "router",
   "usage": "Railway Vehicles",
   "apps": [

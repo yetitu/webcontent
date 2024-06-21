@@ -4,8 +4,7 @@
   "series": "NB3800",
   "description": "Demiryollarında çalışan araçlar için kablosuz 5G, 4G, WiFi, BLE ve GPS bağlantıları sağlar. Ethernet, seri ve USB portları bulunur. Zorlu fiziksel koşullar için idealdir. Demiryolları endüstrisinde aranan tüm yönergelere uygundur.",
   "heroText": "Filonuzu dijitalleştirin",
-  "image": "nb3800_front_small.png",
-  "groupImage": "nb3800_front.jpg",
+  "image": "nb3800_front.png",
   "group": "router",
   "usage": "Demiryolu Araçları",
   "apps": [

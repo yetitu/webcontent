@@ -5,7 +5,6 @@
   "description": "NB3700 series of mobile routers provide wireless 4G, WiFi and GPS connections for the vehicles operating on railways. They have Ethernet, Digital I/O and USB ports. They are ideal for harsh physical conditions. They comply with all the directives sought in the railway industry.",
   "heroText": "Digitize your fleet",
   "image": "nb3700_front.png",
-  "groupImage": "nb3700_front.jpg",
   "group": "router",
   "usage": "Railway Vehicles",
   "apps": [
