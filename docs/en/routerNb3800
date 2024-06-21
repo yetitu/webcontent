@@ -1,0 +1,811 @@
+{
+  "title": "NB3800 Serisi",
+  "brand": "NetModule",
+  "series": "NB3800",
+  "description": "NB3800 series of mobile routers provide wireless 5G, 4G, WiFi, BLE and GPS connections for the vehicles operating on railways. They have Ethernet, serial and USB ports. They are ideal for harsh physical conditions. They comply with all the directives sought in the railway industry.",
+  "heroText": "Digitize your fleet",
+  "image": "nb3800_front_small.png",
+  "groupImage": "nb3800_front.jpg",
+  "group": "router",
+  "usage": "Railway Vehicles",
+  "apps": [
+    {
+      "id": 1,
+      "title": "Passenger Information System",
+      "lead": "Inform your passengers on high-definition screens installed at stops, hubs, stations, waiting rooms or vehicles. Increase your revenue with commercials while they having a pleasant time with entertaining videos.",
+      "text": "Show your passengers estimated arrival times to upcoming stops, geo-location of the vehicle on the route, real-time road, weather and traffic information, timelines of other public transport systems at destination stops. Let them watch funny videos, breaking news about and your services. Earn revenue from ads that may change based on the vehicle's route, date, time or geographic location.",
+      "url": "transport/pis",
+      "img": "passenger-info.png"
+    },
+    {
+      "id": 2,
+      "title": "Offline Video & Music in the Vehicle",
+      "lead": "Let your passengers access your content archive saved on your vehicle computer with their own mobile devices. Let them watch movies, listen to music, read books, newspapers or magazines.",
+      "text": "Using their smartphones, tablets or laptops, your passengers can access travel information, digital copies of newspapers/magazines/books, select movies, series, music channels and more, without the need for internet access. With their own mobile devices and headphones, they should not worry about hygiene.",
+      "url": "transport/media",
+      "img": "offline-archive.png"
+    },
+    {
+      "id": 3,
+      "title": "WiFi for Passengers",
+      "url": "transport/wifi",
+      "lead": "Let your passengers connect to internet using 'WiFi for passengers' service in your vehicle.",
+      "text": "For a unique customer experience keep your passengers connected to their digital world. Let your passengers, who keep their smart mobile devices (smartphone, tablet, laptop) with them, connect to the internet during their travels.",
+      "img": "passenger-wifi.png",
+      "featured": "yes"
+    },
+    {
+      "id": 4,
+      "title": "CCTV Cameras In Vehicle",
+      "lead": "Install security cameras in the vehicle for the safety of people and cargo in the vehicle.",
+      "text": "Prevent unwanted situations such as theft, vandalism or assault with the help of video surveillance in the vehicle for a safe travel experience. Monitor, record and archive what's happening in and around your vehicles from anywhere and anytime.",
+      "img": "cctv.png",
+      "url": "transport/cctv"
+    },
+    {
+      "id": 5,
+      "title": "Emergeny Calls",
+      "lead": "Enable single click voice communication with first responders in case of emergency.",
+      "text": "Allow people in the vehicle to communicate with outside without compromising driving safety. You can quickly contact the relevant center with one click in an unexpected situation that may be encountered during the cruise. Passengers can request assistance from the push-to-talk station installed in the vehicle. Let the personnel answering the call identify the vehicle from which the call was made and its geo-location.",
+      "img": "ptt.png",
+      "url": "transport/ptt"
+    },
+    {
+      "id": 6,
+      "title": "Telematics for Public Transportation",
+      "lead": "Don't just keep track of locations of your vehicles, switch to a fleet management system",
+      "text": "Ensure that all data collected on all vehicles in your fleet is automatically transferred to the fleet management system. Extend the life of your vehicles and increase the operational continuity of your fleet by preventing delays and not skipping vehicle maintenance periods.",
+      "img": "telematics.png"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "title": "Take advantage of advanced information technologies",
+      "lead": "Give your business a competitive advantage. Discover the technologies supported by NB3800 series of routers.",
+      "techItem": [
+        {
+          "id": 1,
+          "title": "5G",
+          "img": "5g.png",
+          "text": "The technology called new radio (5G-NR) provides wireless data communication in the frequency range of 410 MHz to 7.125 GHz (FR-1) or 24.25 GHz to 52.5 GHz (FR-2). GSM modules that support 5G-NR technology are used in the models which support 5th generation (5G) cellular connection capability. With 5G-NR, cellular network operators provide a high-speed data communication environment for rural areas at frequencies below 1 GHz and for high-density urban areas at frequencies between 26-28 GHz. Data download (DL) speed can be up to 5.5 Gbps and data upload (UL) speed can be up to 2.7Gbps."
+        },
+        {
+          "id": 2,
+          "title": "4G–LTE Advanced Pro",
+          "img": "4g-lte-advanced-pro.png",
+          "text": "4G–LTE Advanced Pro technology, also referred to as 4.5G, leverages both licensed (400 MHz to 3.8 GHz) and unlicensed (5GHz) spectrum to support up to 32 carriers of 20MHz each. Data download (DL) speed can be up to 600 Mbps and data upload (UL) speed can be up to 150Mbps. The models in the NB3800 series with LTE Advanced Pro capability are ideal for critical applications that require uninterrupted and very fast data flow. 3G - DC-HSPA+/UMTS technologies are also supported."
+        },
+        {
+          "id": 3,
+          "title": "4G-LTE",
+          "img": "4g-lte.png",
+          "text": "Cellular network operators supporting 4G-LTE technology in Türkiye provide services at frequencies of 800, 900, 1800, 2100 and 2600 MHz. Speeds of 150 Mbps for data download (DL) and 50 Mbps for data upload can be reached. Models in the NB3800 series with 4G-LTE capability also support previous versions (3G - DC-HSPA+/UMTS and 2G - GSM/GPRS/EDGE)."
+        },
+        {
+          "id": 4,
+          "title": "Multi-SIM",
+          "img": "multi-sim.png",
+          "text": "Network-connected devices in the vehicle, such as validators, on-board computers, and IP cameras, can use the router's mobile internet (WWAN) connections. This eliminates the need to use a separate SIM card for each device in the vehicle. The cost of using cellular networks decreases. There are 2 Mini-SIM card slots for each GSM module in the router, so 4 in total. SIM cards may belong to different cellular network operators. Automatic switching between SIM cards can be programmed according to the monthly usage quota or the signal strength where the vehicle is located."
+        },
+        {
+          "id": 5,
+          "title": "WiFi-5",
+          "img": "wifi5.png",
+          "text": "Two WiFi radios in the NB3800 series models that can create wireless local area networks (WLAN) support IEEE 802.11a/b/g/n/ac (Wi-Fi 5) technologies and operate at 2.5 GHz and 5 GHz frequencies. 2 antennas (2x2 MIMO) are used on each radio to receive/send signal more effectively. It can reach speeds of 300 Mbps on the 2.4 GHz frequency and 866 Mbps on the 5 GHz frequency. It can be operated as an Access Point, WiFi Client and Mesh Point. It can connect with 100 simultaneous WiFi clients in Access Point mode. It creates a wireless local area network (WLAN) in the vehicle so that WiFi-equipped devices such as validators, on-board computers, IP cameras or portable devices such as passengers' smartphones and laptops can access the internet."
+        },
+        {
+          "id": 6,
+          "title": "GNSS (Global Navigation Satellite Systems)",
+          "img": "gnss.png",
+          "text": "High-precision onboard GNSS hardware is used to determine the vehicle's geographic location. A connection is automatically established with Beidou, Galileo, Glonass and GPS satellites and the location is determined. The determined location information is instantly sent to other devices in the vehicle or to the fleet management system."
+        },
+        {
+          "id": 7,
+          "title": "Ethernet",
+          "img": "ethernet.png",
+          "text": "It has Ethernet hardware to establish wired network connections with other devices in the vehicle, and can establish a data communication connection at Gigabit (1024 Mbps) and Fast Ethernet (10/100 Mbps) speeds. M12 type coonectors are used in Ethernet ports."
+        },
+        {
+          "id": 8,
+          "title": "Digital I/O",
+          "img": "digital.png",
+          "text": "There are 2 digital input and output ports that can be used in industrial automation projects. Industrial automation projects that are triggered when messages received from WWAN, WLAN or LAN networks, values received from input ports or programmed conditions occur (such as, but not limited to, the processor temperature exceeding the threshold value) can be realized."
+        },
+        {
+          "id": 9,
+          "title": "CAN-Bus",
+          "img": "can-bus.png",
+          "text": "Models with a 4-pin CAN (Controller Area Network) port connect to the vehicle's CAN bus (CAN-Bus) actively or passively, at a maximum speed of 1Mbit/s (default 125 Mbit/s). In the Passive connection, the data on the vehicle's CAN bus can only be read, while in the Active connection (Tx/Rx enabled) commands that enable the data to be changed (for example, turn on the vehicle interior lighting) can be sent."
+        },
+        {
+          "id": 10,
+          "title": "Extendend Storage",
+          "img": "ssd.png",
+          "text": "In models from the NB3800 series with 1 TB SSD (Solid State Disk) disk capacity, critical information such as time-stamped location/speed records or security video recordings can be stored for a long time. SSD uses entirely memory chips, replacing the mechanical metal platters driven by a motor in traditional hard drives. Since there are no moving parts in SSD disks, data is stored safely even in vibrating environments that vehicles are exposed to."
+        },
+        {
+          "id": 11,
+          "title": "LXC",
+          "img": "lxc.png",
+          "text": "All models of the NB3800 series router are equipped with a dual-core CPU clocked at 1.3 GHz and 1 GB of RAM memory. NSRW software, which gives all the capabilities of the router, runs on this computer with Linux operating system. A virtual computer isolated from NSRW is created with the help of LXC (Linux Container) technology. Thus, special software applications can be developed using the advanced SDK and preferred programming language that provides access to the functions of the router."
+        },
+        {
+          "id": 12,
+          "title": "Voice Communications",
+          "img": "voice.png",
+          "text": "Voice communication is provided with people or institutions outside the vehicle via mobile network (VoLTE or VoIP). Model routers that provide voice communication are equipped with the necessary hardware for microphone and speaker connection and software plug-ins that provide VoIP gateway functionality. In case of an unexpected situation encountered during the cruise, a quick voice call is made to the relevant center."
+        },
+        {
+          "id": 13,
+          "title": "ITxPT",
+          "img": "itpt.png",
+          "text": "ITxPT is an organization that develops recommendations and guidelines for public transport authorities and operators to support interoperability and integration of IT architecture. By using ITxPT compatible equipment, vehicle manufacturers can easily develop new generation innovative applications such as FMStoIP, VEHICLEtoIP."
+        },
+        {
+          "id": 14,
+          "title": "FMStoIP",
+          "img": "fms2ip.png",
+          "text": "NB3800 series routers that support FMStoIP receive J1939 packets on CAN interfaces, convert them and send them over IP locally to other compatible systems in the vehicle or remotely."
+        },
+        {
+          "id": 15,
+          "title": "IBIS",
+          "img": "ibis.png",
+          "text": "IBIS (Integrated Board Information System) is responsible for the control of passenger information systems (Electronic information boards, automatic stop announcements, ticket stamping machines, etc.). Additionally, the impact of traffic signals (traffic lights and signals) and barriers (bus) on the routes is controlled through the IBIS transport bus. Information such as the vehicle's location from the central control station is updated via the IBIS transport bus. Thus, information about possible deviations from the timetable is shared with passengers in real time."
+        }
+      ]
+    }
+  ],
+  "specs": [
+    {
+      "id": 1,
+      "title": "Standard Hardware Features",
+      "text": "Thanks to intelligent routing and connection management software, it can access the networks of up to four cellular network operators, either from all of them simultaneously or sequentially to provide redundancy. In all models; Cellular networks supporting UMTS of countries in the EMEA region can be accessed, the router has 2 Gigabit and 3 Fast Ethernet, 1 USB port and a satellite receiver providing GNSS services. TNC type connectors are used at antenna inputs. Complies with regulations 2014/53/EU (RED), 2011/65/EU(RoHS), EN 50155 class OT4/ST0 and EN 45545. In all models in the NB3800 series; An IT infrastructure consisting of a 1.3 GHz dual-core central processor, 1 GB RAM memory and embedded Linux operating system was used. The features of the standard NRSW (NetModule Router Software) software, which provides the functionality expected from the router, are listed below. Check out all models with different capacities and capabilities."
+    },
+    {
+      "id": 2,
+      "title": "Standard Software Features",
+      "text": "NetModule Router Software 'NRSW', which is the hardware-software ('firmware') of NetModule routers, is the standard software that comes with the product. It is Linux based. It contains all the necessary drivers and basic software support for the router. Being Linux-based, it facilitates the management of wired or wireless network connections as well as a wide range of secure network functions. Necessary update packages are provided free of charge for the router to operate safely throughout its life cycle. It allows developers to develop their own applications.",
+      "keySwFeatures": [
+        {
+          "id": 1,
+          "title": "Advanced Routing Features",
+          "text": "Routing options include static route, multi-route, OSPF, BGP and more. Mobile IP allows migration from one network to another while maintaining a permanent IP address. Quality of Service (QoS) and various firewall options are also available. It supports VPN protocols such as NRSW, OpenVPN or IPSec for secure connections to remote locations."
+        },
+        {
+          "id": 2,
+          "title": "SDK",
+          "text": "Software Development Kit (SDK) that allows you to write your own scripts and functions for the router. It includes extensive functionality for accessing hardware interfaces to retrieve system status parameters, send email or SMS, or perform router configuration tasks."
+        },
+        {
+          "id": 3,
+          "title": "Optional LXC",
+          "text": "NRSW supports Linux Container (LXC). The container virtualizes central processor core resources. This provides isolation of processes and process groups in the central processor. With LXC you can launch a single application or the entire Linux operating system in a container. The container effectively separates the user and router applications for secure execution of both applications."
+        },
+        {
+          "id": 4,
+          "title": "Standard Features",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Fail-safe Update (FOTA) via USB, HTTP(S), (S)FTP, TFTP"
+            },
+            {
+              "id": 2,
+              "text": "Remote CLI & WebGUI"
+            },
+            {
+              "id": 3,
+              "text": "RADIUS authentication, Simple Certificate Enrollment Protocol (SCEP)"
+            },
+            {
+              "id": 4,
+              "text": "Hardware and software watchdog"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Link management",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Link prioritization and aggregation"
+            },
+            {
+              "id": 2,
+              "text": "Load Balancing"
+            },
+            {
+              "id": 3,
+              "text": "Multipath-TCP"
+            },
+            {
+              "id": 4,
+              "text": "IP-Passthrough"
+            },
+            {
+              "id": 5,
+              "text": "Link supervision"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Cellular networking",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Multi-SIM, e-SIM"
+            },
+            {
+              "id": 2,
+              "text": "Multi-APN"
+            },
+            {
+              "id": 3,
+              "text": "Signal strength supervision"
+            },
+            {
+              "id": 4,
+              "text": "GSM, CSFB calls\""
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "WLAN",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Client or access point mode"
+            },
+            {
+              "id": 2,
+              "text": "Multi client support with WEP, WPA-PSK, WPA-RADIUS, WPA-EAP-TLS"
+            },
+            {
+              "id": 3,
+              "text": "Multi/hidden SSID support with WPA-PSK,WPA-RADIUS, WPA-EAP-TLS"
+            },
+            {
+              "id": 4,
+              "text": "IEEE 802.11w, IEEE 802.11r"
+            },
+            {
+              "id": 5,
+              "text": "RADIUS accounting"
+            },
+            {
+              "id": 6,
+              "text": "CAPWAP"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "USB",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "USB sticks for mass storage, adapter for Ethernet or RS232/RS485 interfaces for serial-to-IP-server."
+            },
+            {
+              "id": 2,
+              "text": "Used for Autorun Provisioning Config, Software update"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "IP routing protocols",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Routing options as Destination, Policy, Multipath"
+            },
+            {
+              "id": 2,
+              "text": "Mobile-IP, OSPF, BGP, Multicast, TCP MSS Clamping, Bridging"
+            },
+            {
+              "id": 3,
+              "text": "Discovery protocols LLDP, CDP, SONMP, EDP, FDP, IRDP"
+            },
+            {
+              "id": 4,
+              "text": "STP, RSTP, VRRP, VLAN, PPPoE"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "text": "VPN protocols",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "OpenVPN, IPsec, PPTP, GRE, CSD Dial-In"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "text": "Quality of service ('QoS')",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Diffserv, SFQ, HTB, Priority-based Queuing"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "text": "Firewall",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Stateful firewall, connection tracking"
+            },
+            {
+              "id": 2,
+              "text": "NAT, NAPT, masquerading, bridge filtering"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "text": "Services",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "DHCP Client/Server, DNS Caching Server, Email, SMS Service"
+            },
+            {
+              "id": 2,
+              "text": "NTP Client/Server, SNTP Server, DynDNS, SSH Server, SNMP Agent"
+            },
+            {
+              "id": 3,
+              "text": "HTTP/HTTPS/FTP Server"
+            },
+            {
+              "id": 4,
+              "text": "Voice Gateway (SIP, Call Routing, Audio)"
+            },
+            {
+              "id": 5,
+              "text": "Coovachilli Hotspot"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "text": "Programmability",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Software Development Kit (SDK)"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "text": "Troubleshooting",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Logging, Ping, Traceroute, Tcpdump, Speed-test"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Licensed features",
+      "text": "In addition to the above features that come standard with NB3800 series routers, paid licenses that provide the following capabilities can be added to the router later, if desired, as long as the hardware supports it.",
+      "keySwFeatures": [
+        {
+          "id": 1,
+          "title": "GNSS",
+          "text": "Standalone GNSS server that provides data via a JSON/NMEA data stream Assisted and Dead Reckoning are supported (if the hardware allows it)."
+        },
+        {
+          "id": 2,
+          "title": "OpenVPN and DynDNS",
+          "text": "The NetModule router software supports OpenVPN for establishing encrypted connections via UDP or TCP. In the standard version, a maximum of four OpenVPN instances can be configured on a NetModule router, one of which can be a server instance. Extension subject to additional licensing",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "OpenVPN server instance with a maximum of 25 clients (instead of 10 without license)"
+            },
+            {
+              "id": 2,
+              "text": "DynDNS server"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Voice gateway",
+          "text": "With a voice license, NetModule routers can also act as a voice gateway for VoIP telephony (Voice over IP). Calls made over the mobile network can be connected to VoIP clients through the NetModule router and vice versa. An FXS, PTT, or audio interface can also be used for voice communication. P.S. The range of available features is dependent on the hardware deployed.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "2G/3G/4G/5G, POTS, VoIP, Audio, PTT voice calls"
+            },
+            {
+              "id": 2,
+              "text": "Up to four simultaneous voice channels (one modem per channel required)"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "LXC",
+          "text": "The virtualization license allows the installation and execution of customer applications parallel to the router application on the same hardware (edge computing). Using Linux Containers (LXC), several isolated Linux systems can be operated on the same host at the operating-system level. LXC creates a virtual environment with its own processes using the kernel of the host system. This allows them to be shielded from each other very effectively, ensuring the safe operation of both."
+        },
+        {
+          "id": 5,
+          "title": "FMStoIP",
+          "text": "The software stack picks up J1939 packets on the CAN interfaces and translates using a gateway function on the network level, where they can be made available to other systems, either locally or on the back-end system.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Message filter function and configuration"
+            },
+            {
+              "id": 2,
+              "text": "FMS Standard, FMStoIP, VEHICLEtoIP"
+            },
+            {
+              "id": 3,
+              "text": "ITxPT-compliant (selected models)"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "ITxPT compliant label",
+          "text": "The label declares the conformity of the product with the ITxPT specifications S01 v2.0.1 and S02 v2.0.1 for the following services",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Module inventory"
+            },
+            {
+              "id": 2,
+              "text": "Time"
+            },
+            {
+              "id": 3,
+              "text": "GNSS location (requires GNSS license)"
+            },
+            {
+              "id": 4,
+              "text": "FMStoIP (requires FSM2IP license)"
+            },
+            {
+              "id": 5,
+              "text": "VEHICLEtoIP (required FSM2IP license)"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Enhanced RF configuration",
+          "text": "Allows following WiFi settings to be configured",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Radio frequencies"
+            },
+            {
+              "id": 2,
+              "text": "Antenna amplification (increased gain)"
+            },
+            {
+              "id": 3,
+              "text": "Regulatory domain"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "models": [
+    {
+      "productCode": "NB3800-2L2Wac-G",
+      "cellular": "2x LTE",
+      "sim": "4x Mini-SIM",
+      "wlan": "2x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-2L2WacPb-G",
+      "cellular": "2x LTE",
+      "sim": "4x Mini-SIM",
+      "wlan": "2x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "110V",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-2Lp-G",
+      "cellular": "2x LTE",
+      "sim": "4x Mini-SIM",
+      "wlan": "",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-2Lp2Wac-G",
+      "cellular": "2x LTE-A Pro",
+      "sim": "4x Mini-SIM",
+      "wlan": "2x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-2Lp2WacPb-G",
+      "cellular": "2x LTE-A Pro",
+      "sim": "4x Mini-SIM",
+      "wlan": "2x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "110V",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-2L2WacDf-GVi",
+      "cellular": "2x LTE",
+      "sim": "4x Mini-SIM",
+      "wlan": "2x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "110V",
+      "ssd": "1 TB SSD",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": true
+    },
+    {
+      "productCode": "NB3800-2NWac-G",
+      "cellular": "2x 5G",
+      "sim": "4x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-2NWacDf-GVi",
+      "cellular": "2x 5G",
+      "sim": "4x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "1 TB SSD",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-3LpDf-GVi",
+      "cellular": "3x LTE-A Pro",
+      "sim": "4x Mini-SIM",
+      "wlan": "",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-3LWac-G",
+      "cellular": "3x LTE",
+      "sim": "4x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-LGrWac-G",
+      "cellular": "1x LTE + 1x GSM-R",
+      "sim": "4x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-LpWac-G",
+      "cellular": "1x LTE-A Pro",
+      "sim": "4x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-LWac-G",
+      "cellular": "1x LTE",
+      "sim": "4x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-LWacA-GV",
+      "cellular": "1x LTE",
+      "sim": "4x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "Audio",
+      "voice": true,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-LWaAm-GV",
+      "cellular": "1x LTE",
+      "sim": "4x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "Audio-mono",
+      "voice": true,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-N2L-G",
+      "cellular": "1x 5G + 2x LTE",
+      "sim": "4x Mini-SIM",
+      "wlan": "",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-N2LWacDf-G",
+      "cellular": "1x 5G + 2x LTE",
+      "sim": "4x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "1 TB SSD",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-N2Wac-G",
+      "cellular": "1x 5G",
+      "sim": "4x Mini-SIM",
+      "wlan": "2x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "1 TB SSD",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-NLWac-G",
+      "cellular": "1x 5G + 1x LTE",
+      "sim": "4x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-NWac-G",
+      "cellular": "1x 5G",
+      "sim": "4x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x ETH",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-NWac2D-G",
+      "cellular": "1x 5G",
+      "sim": "4x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x ETH",
+      "dio": "2x DIO",
+      "power": "",
+      "ssd": "",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false
+    },
+    {
+      "productCode": "NB3800-NWac2D2CmDb-GIx",
+      "cellular": "1x 5G-NR, LTE-A Pro, UMTS",
+      "sim": "4x Mini-SIM",
+      "wlan": "1x WLAN-ac",
+      "ethernet": "5x ETH",
+      "dio": "",
+      "power": "",
+      "ssd": "64 GB SSD",
+      "gps": "GNSS",
+      "audio": "",
+      "voice": false,
+      "virt": false,
+      "can": "1x CAN-P",
+      "ibis": false,
+      "fms": false,
+      "itpt": true
+    }
+  ]
+}
