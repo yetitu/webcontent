@@ -1,0 +1,101 @@
+{
+  "title": "NB3800-LGrWac-G",
+  "description": "It is a high-performance and modular mobile router that provides wireless internet access in vehicles operating on railways.",
+  "heroText": "It is ideal for operators and vehicle manufacturers in the railway transportation sector who want to provide their passengers with a comfortable travel experience while also increasing their operational efficiency with new generation fleet management.",
+  "front_image": "nb3800_front.jpg",
+  "overview": [
+    "NB3800-LGrWac-G is produced for vehicles used to carry passengers and freight on railways. It is generally used to enable the vehicle to connect to the internet without interruption and to provide wireless internet access within the vehicle. It is equipped with 1 GSM module with 4G-LTE support, one GSM module with with GSM-R, one WiFi access point with IEEE 802.11ac (Wi-Fi 5) standard, GNSS for positioning, 2 Gigabit and 3 Fast Ethernet ports.",
+    "Complies with regulations 2014/53/EU (RED), 2011/65/EU(RoHS), EN 50155 class OT4/ST0 and EN 45545.",
+    "With its numerous features and high performance; It is the ideal device for applications such as 'WiFi for Passengers', 'Passenger Infotainment System', 'Fleet Management' or 'Security Cameras'. ",
+    "The embedded Linux operating system, developed according to its intended use, has proven software components, including advanced communication protocols. Custom applications can be developed using the free Software Development Kit (SDK)."
+  ],
+  "keyFeatures": [
+    "A GSM module supporting 4G LTE in the device can establish a cellular network connection. Having a SIM card slot provides the opportunity to connect to a cellular network. This helps control mobile internet costs and establish internet connection.",
+    "It is resistant to the harsh physical conditions that vehicles produced for passenger and freight transportation on railways will encounter. It has an IP40 level protected design. It operates between -40°C and +70°C.",
+    "Single radio that supports WLAN-ac allows creating a wireless local area network (WLAN, WiFi) inside the vehicle at the same time or connecting as clients to WiFi access points outside the vehicle.",
+    "Advanced GPS receiver makes it easy to determine the vehicle's geographic location information with high accuracy. The minimum number of satellites that need to be fixed for high accuracy in position determination can be programmed.",
+    "The device is equipped with two Gigabit Ethernet and 3 Fast Ethernet ports. In this way, it creates a wired local area network (LAN) within the vehicle. It can be used for internet access of other devices with Ethernet interface in the vehicle (such as vehicle computer, validator).",
+    "Complies with regulations 2014/53/EU (RED), 2011/65/EU(RoHS), EN 50155 class OT4/ST0 and EN 45545."
+  ],
+  "cellular": {
+    "4g": {
+      "standard": "1x GSM modules, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+      "dataTransferRate": "(Max.) 150 Mbps (DL), 50Mbps (UL)",
+      "antennaType": "2x2 MIMO"
+    },
+    "gsm-r": {
+      "standard": "1x GSM modules, GSM-R (876-880 / 921-925), B8 (900), B3 (1800)",
+      "dataTransferRate": " 85.6 kbps / 42.8 kbps",
+      "antennaType": "SISO",
+      "voiceSupport": "GSM (HR/FR/EFR/AMR)"
+    },
+    "antennaConnectors": "4x TNC female",
+    "sim": "4x Mini SIM - 2FF"
+  },
+  "wifi": {
+    "standard": "1x Radio, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi5)",
+    "dataTransferRate": "(Max.) 300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x TNC female",
+    "operatingModes": "Access Point (100 WiFi clients concurrent) or WiFi Client"
+  },
+  "ethernet": {
+    "gigabitEthernet": {
+      "standard": "2x Gigabit Ethernet, 1000BASE-T, Auto MDIX",
+      "dataTransferRate": "10/100/1000 Mbps",
+      "cableConnectors": "2x M12 X-Coded female"
+    },
+    "fastEthernet": {
+      "standard": "3x Fast Ethernet, 100BASE-T, Auto MDIX",
+      "dataTransferRate": "10/100 Mbps",
+      "cableConnectors": "3x M12 D-Coded female"
+    }
+  },
+  "positioning": {
+    "standards": "1x receiver, BeiDou, Galileo, GLONASS, GPS, gpsOne Gen 9",
+    "sensitivity": "(Max.) -160dBm",
+    "antennaType": "Active or Passive",
+    "cep": "<2m (Circular Error Probability,open sky, horizantal)",
+    "antennaConnector": "1x TNC female"
+  },
+  "usb": {
+    "standard": "1x USB 2.0 Host",
+    "connectorType": "1x Type A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232, EIA-232",
+      "signals": "TX, RX",
+      "signalLevels": "High > 5 VDC, Low < -5 VDC",
+      "dataTransferRate": "Max. 115200 Bit/s ",
+      "connectorType": "1x M12 A-coded female"
+    }
+  },
+  "system": {
+    "core": "1x 1.3 GHz dual-core, 1 GB RAM, 4 GB Flash",
+    "moduleSlots": "2x miniPCIe (PCIe + USB) and 2x miniPCIe (USB)"
+  },
+  "licenses": {
+    "gnss": "GNSS location service, Server with JSON-, NMEA stream"
+  },
+  "power": {
+    "inputVoltage": "Nominal: 24, 48 VDC, Absolute: 24-48 VDC (±30%)",
+    "isolation": "Galvanic, 1500VDC",
+    "connector": "1x M12 A-coded male",
+    "standard": "EN 50155 class S2/C1",
+    "consumption": "(Max.) 25W"
+  },
+  "other": {
+    "dimensions": "Width 167/190, Height 121.1, Depth 106.5",
+    "weight": "1800",
+    "temperature": "-40°C to +70°C",
+    "iPLevel": "IP40",
+    "mtbf": "150.000h/17.1 years, according to SN29500 at 40°C",
+    "orderCode": "NB3800-LGrWac-G"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED) - CE",
+    "rohs": "2011/65/EU",
+    "vehicleTypes": "Railway EN50155 class OT4/ST0, EN 45545"
+  }
+}
