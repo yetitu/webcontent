@@ -1,0 +1,97 @@
+{
+  "title": "NG800-LjWWtGd2Br2CnHc",
+  "description": "It is a high-performance and modular mobile router that provides wireless internet access in vehicles operating on highways.",
+  "heroText": "Modular automotive gateways for telematics applications are in Türkiye with Telista assurance",
+  "front_image": "ng800_front.jpg",
+  "overview": [
+    "With the ongoing digitalization in everyday life, the demand for multifunctional connectivity in vehicles of all kinds is also growing rapidly. The multifunctional automotive gateway NG800 in an IP55 housing is suitable for use in harsh environments and provides the necessary robust communication between on-board vehicle equipment and cloud applications. The modular concept of software, electronics and mechanical components allows optimization for specific target applications.",
+    "For wireless communication, the NG800 integrates an LTE modem, an eUICC-capable SIM chip, WiFi 802.11a/b/g/n (Wi-Fi 4), GNSS with dead reckoning, IMU and Bluetooth Low Energy. Via a Molex CMC 48-pin connector, wired interfaces such as CAN, Fast Ethernet, Automotive Ethernet or RS-232 can be connected.",
+    "With its IP55 compliance thanks to a thermoplastic cover and an aluminum base plate, NG800 is designed for use in harsh environments and outside the vehicle.",
+    "The software is based on proven components like an embedded Linux and a powerful communication protocol suite as well as VPN technologies like OpenVPN. Customer-specific software extensions can be implemented via a sophisticated SDK.",
+    "The NG800 is also the winner of the Red Dot Award 2019: Form and function enter into a convincing symbiosis with the IoT gateway. Thus NG800 also sets aesthetic accents in a technical environment."
+  ],
+  "heroImage": "ng800_hero.png",
+  "keyFeatures": [
+    "A cellular network connection is established with a Multimode GSM module on the device that supports 4G- LTE, 3G- DC-HSPA+/UMTS and 2G- GSM/GPRS/EDGE networks. It has 1 eSIM chip.",
+    "It is resistant to the harsh physical conditions that vehicles produced for passenger and freight transportation will encounter. It has an IP55 level protected design. It operates between -40°C and +75°C. It is resistant to vibration and impacts.",
+    "A radio that supports WiFi-4 allows creating a wireless local area network (WLAN, WiFi) inside the vehicle and connecting as a client to WiFi access points outside the vehicle. It can be operated at 2.4GHz and 5GHz frequencies.",
+    "Advanced GPS receiver makes it easy to determine the vehicle's geographic location information with high accuracy. It can be fixed with up to three satellites for high accuracy in position determination. Location where satellite connection is not possible, for example in closed areas; It is determined with the support of Dead Reckoning algorithms.",
+    "The device is equipped with one Fast Ethernet and two Automotive Ethernet ports. In this way, it creates a wired local area network (LAN) within the vehicle.",
+    "Thanks to the integrated ignition detection, the vehicle can remain on for the time you specify after it is turned off. Thus, the device safely completes its tasks.",
+    "It can make two passive connections with the vehicle's CAN bus.",
+    "It has certificates of conformity with CE (2014/53/EU, RED), UN ECE R10, UN ECE R118 directives."
+  ],
+  "cellular": {
+    "standard": "1x GSM module, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+    "dataTransferRate": "(Max) 150 Mbps (DL), 50Mbps (UL)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x FAKRA D-coded male",
+    "sim": "1x eUICC supported eSIM"
+  },
+  "wifi": {
+    "standard": "1x radio, 2.4/5GHz, IEEE 802.11a/b/g/n (Wi-Fi4) + BT 4.2 combo",
+    "dataTransferRate": "144 Mbps 2.4 GHz 2x2 MIMO, 150 Mbps 5 GHz SISO",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x FAKRA I-coded male",
+    "operatingModes": "Access Point (Max 10 clients) or Client"
+  },
+  "ethernet": {
+    "fastEthernet": "1x 1000BASE-T, Auto MDIX",
+    "automotiveEthernet": "2x BroadR,100BASE-T1 (BroadR-Reach)",
+    "dataTransferRate": "10/100 Mbps",
+    "cableConnectors": "1x CMC-48 Header"
+  },
+  "positioning": {
+    "standards": "1x receiver, BeiDou, Galileo, GLONASS, GPS/QZSS",
+    "sensitivity": "Max -160dBm",
+    "antennaType": "Active or Passive",
+    "cep": "Max 2.5m (Circular Error Probability,open sky, horizantal)",
+    "antennaConnector": "1x FAKRA C-coded male",
+    "services": "Independent, A-GPS, 3D Dead Reckoning, JSON, NMEA streams"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232/485 combo (software switchable), EIA-232",
+      "signals": "TX, RX ",
+      "signalLevels": "High > 5 VDC, Low < -5 VDC",
+      "dataTransferRate": "Max. 115200 Bit/s "
+    },
+    "can": {
+      "protocols": "2x CAN, Controller Area Network V2.0B (ISO 11898)",
+      "signals": "CANH, CANL",
+      "signalLevels": "High > 2.75 V, Low < 2.0 V",
+      "dataTransferRate": "Up to 1 Mbps",
+      "busAccess": "Passive - read access only"
+    },
+    "connector": "1x CMC-48 header"
+  },
+  "system": {
+    "core": "1x 1 GHz single-core, 512 MB RAM, 8 GB Flash",
+    "moduleSlots": "SPI, I2C, GPIO, SIM, USB, RMII interfaces on request"
+  },
+  "licenses": {
+    "gnss": "GNSS location service, Server with JSON-, NMEA stream",
+    "eUICC": "Remote eUICC SIM profile update with static profile management."
+  },
+  "power": {
+    "inputVoltage": "Nominal (12, 24 VDC), Absolute (9-36 VDC)",
+    "ignitionSense": "Yes",
+    "connector": "1x CMC-48 header",
+    "consumption": " 7 W (average), 10 W (max), power down state < 2 mA @ 24 VDC"
+  },
+  "other": {
+    "mounting": "Bracket",
+    "dimensions": "Width 200, Height 40, Depth 120",
+    "weight": "520",
+    "temperature": "-40°C - +75°C",
+    "iPLevel": "IP55",
+    "vibration": "ISO 16750-3 (road vehicles), IEC 60068-2-64 (24 h)",
+    "shock": "ISO 16750-3 (road vehicles), IEC 60068-2-27 (60 shocks)",
+    "mtbf": "296.000h/33.8years, acc. to SN29500 @ 40°C",
+    "orderCode": "NG800-LjWWtGd2Br2CnHc"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED) - CE",
+    "vehicleTypes": "UN ECE R10 and UN ECE R118"
+  }
+}
