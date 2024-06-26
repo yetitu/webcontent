@@ -1,0 +1,511 @@
+{
+  "title": "NG800 Series",
+  "brand": "NetModule",
+  "series": "NG800",
+  "description": "NG800 series of mobile routers provide wireless 5G, 4G, WiFi, BLE and GPS connections for vehicles operating on highways. They have Ethernet, Auto-Ethernet, serial and USB ports. Their compact design is ideal for harsh physical conditions. They comply with all directives sought in the automotive industry. They support electronic SIM (eUICC).",
+  "heroText": "Rugged gateway for automobile",
+  "image": "ng800_front_small.png",
+  "groupImage": "ng800_front.jpg",
+  "group": "router",
+  "usage": "Highway Vehicles",
+  "apps": [
+    {
+      "id": 1,
+      "title": "Passenger Information System",
+      "lead": "Inform your passengers through the high-resolution screens in the vehicle and ensure they have a pleasant time with entertaining videos. Increase your revenue by playing advertising videos.",
+      "text": "Display estimated arrival times to approaching stops, the vehicle's location on the route, real-time information on road, weather, and traffic conditions to your passengers through the screens in the vehicle. Show the time schedules of other public transportation systems at the upcoming stops. Play videos featuring important news and showcasing your services. Generate revenue from advertisements that can vary based on the vehicle's route, date, time, or geographical location. Entertain your passengers with engaging short videos to ensure they have a pleasant time during their travels.",
+      "url": "transport/pis",
+      "img": "passenger-info.png"
+    },
+    {
+      "id": 2,
+      "title": "Offline Video & Music in the Vehicle",
+      "lead": "Allow your passengers to access your electronic content archive with their own mobile devices",
+      "text": "Enable your passengers to access travel information, digital copies of newspapers/magazines/books, selected movies, series, music channels, and more without the need for internet access using their own smartphones, tablets, or laptops. They can use their own mobile devices and headphones, so they don't have to worry about hygiene.",
+      "url": "transport/media",
+      "img": "offline-archive.png"
+    },
+    {
+      "id": 3,
+      "title": "WiFi for Passengers",
+      "url": "transport/wifi",
+      "lead": "Let your passengers connect to Internet",
+      "text": "For an unforgettable customer experience, keep your passengers seamlessly connected to their digital lives! With our onboard WiFi service, travelers can stay online throughout their journey, whether for work or play. Never miss a beat with the option to connect to the internet, available at your fingertips. Enhance their ride with the convenience of staying connected, making every moment on the road more enjoyable. Upgrade your service today and delight your passengers with uninterrupted connectivity!",
+      "img": "passenger-wifi.png",
+      "featured": "yes"
+    },
+    {
+      "id": 4,
+      "title": "In-Vehicle Security Cameras",
+      "lead": "Install IP-based cameras in your vehicle for the safety of your passengers.",
+      "text": "Ensure your passengers' safety by equipping your vehicle with IP-based cameras. With state-of-the-art surveillance technology, keep a watchful eye on every journey. Upgrade your fleet today for peace of mind and unmatched safety! For a secure travel experience, prevent unwanted situations such as theft, vandalism, or attacks with video surveillance assistance in the vehicle. Monitor, record, and archive what's happening inside and around your vehicles from anywhere, at any time. Stay ahead of potential risks and ensure the safety of your passengers with continuous monitoring.",
+      "img": "cctv.png",
+      "url": "transport/cctv"
+    },
+    {
+      "id": 5,
+      "title": "Emergency Calls",
+      "lead": "Enable voice communication with relevant authorities in emergency situations",
+      "text": "Keep communication seamless while ensuring driving safety - allow individuals inside the vehicle to communicate with those outside with ease. In case of unexpected situations during the journey, connect swiftly to the relevant center with just one touch. Passengers can request assistance using the push-to-talk station inside the vehicle. The responding personnel can identify the calling vehicle and its location. Stay connected, stay safe, effortlessly.",
+      "img": "ptt.png",
+      "url": "transport/ptt"
+    },
+    {
+      "id": 6,
+      "title": "Telematics for Public Transport",
+      "lead": "Don't just track your vehicles, transition to fleet management system",
+      "text": "Enhance efficiency, safety, and passenger experience with our cutting-edge telematics technology. Monitor and optimize fleet performance in real-time, ensuring timely arrivals and smoother operations. From route optimization to predictive maintenance, our telematics solutions empower you to stay ahead in the transportation industry. Upgrade your fleet today and redefine the future of public transportation!",
+      "img": "telematics.png"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "title": "Take advantage of information technologies",
+      "lead": "Give your business a competitive advantage. Discover the technologies supported by NG800 series routers.",
+      "techItem": [
+        {
+          "id": 1,
+          "title": "4G-LTE",
+          "img": "4g-lte.png",
+          "text": "Cellular network operators supporting 4G-LTE technology in Türkiye operate in the 800, 900, 1800, 2100, and 2600 MHz frequency bands. Data download speeds (DL) can reach up to 150 Mbps, while data upload speeds can reach up to 50 Mbps. Models featuring 4G-LTE capability in the NG800 series also support previous versions (3G - DC-HSPA+/UMTS and 2G - GSM/GPRS/EDGE)."
+        },
+        {
+          "id": 2,
+          "title": "eSIM",
+          "img": "esim.png",
+          "text": "In the NG800 series devices, the SIM chip is soldered onto the motherboard for permanent attachment. It is programmed via SMS. The active network operator initiates the transfer and activation of subscriptions through SMS. This process is standardized under SGP.02 as an industrial eUICC (embedded Universal Integrated Circuit Card; also known as embedded SIM). While facilitating device connectivity, eUICC also enables the possibility to change mobile subscriptions. Additionally, an eUICC can contain multiple profiles, meaning subscriptions, which helps to mitigate roaming costs. The loading and management of eUICC for machine communication are controlled by the mobile operator. To load another profile, a connection between the customer management systems of both network operators is necessary. This process is not standardized. In the NG800 series, an eUICC solution compliant with GSMA Standard SGP.22 is utilized. This solution is also known as Consumer eSIM. Unlike smartphones, there is no need to scan a QR code. LPA can be invoked through a command line interface."
+        },
+        {
+          "id": 3,
+          "title": "WiFi-4",
+          "img": "wifi4.png",
+          "text": "In the routers of the NG800 series, WiFi radio is capable of creating wireless local area network (WLAN) support IEEE 802.11a/b/g/n (WiFi-4) standards and operate in the 2.5 GHz and 5 GHz frequencies. To achieve more effective signal transmission and reception, 2 antennas (2x2 MIMO) are employed. Speeds of up to 144 Mbps in the 2.4 GHz frequency and 150 Mbps in the 5 GHz frequency can be attained for enhanced performance. They can function both as an Access Point and WiFi Client. In Access Point mode, they can establish connections with up to 10 WiFi clients simultaneously."
+        },
+        {
+          "id": 4,
+          "title": "GNSS + DR",
+          "img": "gnss-dr.png",
+          "text": "The vehicle utilizes high-precision integrated GNSS hardware to determine its geographical location accurately. It automatically establishes connections with Beidou, Galileo, Glonass, and GPS satellites to pinpoint its location. The determined location information is promptly transmitted to other devices within the vehicle or to the fleet management system in real-time. In models equipped with Dead Reckoning capability, location data is generated in enclosed spaces such as tunnels or indoor parking lots where satellite connections cannot be established, using logical inference algorithms."
+        },
+        {
+          "id": 5,
+          "title": "Ethernet",
+          "img": "ethernet.png",
+          "text": "Equipped with Ethernet hardware enabling wired network connections within the vehicle, it can establish IP-based data communication links at a speed of 10/100 Mbps with one Fast Ethernet connection to other devices. Additionally, it features two Automotive Ethernet connection points."
+        },
+        {
+          "id": 6,
+          "title": "RS232",
+          "img": "rs232.png",
+          "text": "Devices equipped with serial communication capabilities to establish wired network connections in the vehicle can communicate data via RS232 at a speed of 115200 bits per second. All models feature one serial connection point where the EIA-232 protocol can be utilized. The serial connection point allows for management of the router with the assistance of a computer, utilization as a Serial/IP network gateway, or execution of TTY commands on the router's modem (GSM Module)."
+        },
+        {
+          "id": 7,
+          "title": "CAN-Bus",
+          "img": "can-bus.png",
+          "text": "Models equipped with a 4-pin Controller Area Network (CAN) connection point establish a connection to the vehicle's CAN data bus (CAN-Bus) at a maximum speed of 1 Mbps (default 125 Mbps), either actively or passively. In passive connection mode, data on the vehicle's CAN data bus can only be read, whereas in active connection mode (Tx/Rx enabled), commands enabling data alteration (such as activating interior lighting) can be sent."
+        },
+        {
+          "id": 8,
+          "title": "LXC",
+          "img": "lxc.png",
+          "text": "All models of the NG800 series router are equipped with a single-core CPU running at 1 GHz and 512 MB of RAM memory. The NSRW software, running on this computer with a Linux operating system, provides the router with all its capabilities. Using LXC (Linux Container) technology, a virtual machine isolated from NSRW is created. This enables the development of custom software applications using an advanced SDK that provides access to router-specific functions and the preferred programming language."
+        },
+        {
+          "id": 9,
+          "title": "Voice Communications",
+          "img": "voice.png",
+          "text": "The use of a dedicated button in the vehicle or a SIP-enabled phone allows for the establishment of voice communication over the mobile network (VoLTE or VoIP) with individuals or organizations outside the vehicle through PTT (Push-To-Talk). The model routers providing voice communication are equipped with the necessary hardware for microphone and speaker connections and supplemented with software add-ons that enable VoIP gateway functionality. In the event of an unexpected situation encountered during the journey, quick voice calls can be made with the relevant center."
+        },
+        {
+          "id": 10,
+          "title": "ITxPT",
+          "img": "itpt.png",
+          "text": "ITxPT is an organization that develops recommendations and guidelines to support interoperability and the integration of IT architectures for public transport authorities and operators. Vehicle manufacturers can easily develop next-generation innovative applications such as FMStoIP and VEHICLEtoIP by using ITxPT-compliant equipment."
+        },
+        {
+          "id": 11,
+          "title": "FMStoIP",
+          "img": "fms2ip.png",
+          "text": "NG800 series routers supporting FMStoIP receive, convert, and locally or remotely transmit J1939 packets from CAN interfaces to compatible systems inside or outside the vehicle via IP."
+        }
+      ]
+    }
+  ],
+  "specs": [
+    {
+      "id": 1,
+      "title": "Standard Hardware Features",
+      "text": "Thanks to its intelligent routing and connection management software, the NG800 series routers can access the networks of up to four cellular network operators simultaneously or sequentially for redundancy purposes. In all models, cellular networks supporting UMTS in the EMEA region can be accessed, with the router featuring two Gigabit Ethernet ports, one RS-232 port, one USB port, and a satellite receiver providing GNSS services. FAKRA (Fachkreis Automobil, Automobile Expert Group) type connectors have been used in antenna inputs to meet the rigorous mechanical and environmental requirements of the automotive industry. All models are CE compliant (RED) and have automotive type approval (UNECE R10, UNECE R118). All models in the NG800 series feature a dual-core central processor running at 1.3 GHz, 1 GB of RAM, a power unit with ignition sensor and input voltage ranging from 12VDC to 48VDC, and an embedded Linux operating system forming the basis of the BT infrastructure. The features of the standard NRSW (NetModule Router Software) software, which provides the expected functionality from the router, are listed below. Explore models with different capacities and capabilities."
+    },
+    {
+      "id": 2,
+      "title": "Standard Software Features",
+      "text": "The NetModule Router Software (NRSW), which serves as the hardware-firmware of NetModule routers, is the standard software that comes with the product. It is Linux-based and includes all necessary drivers and fundamental software support for the router. Its Linux-based nature facilitates the management of both wired and wireless network connections, in addition to providing a wide range of secure network functions. Update packages necessary for the secure operation of the router throughout its lifecycle are provided free of charge. It enables developers to develop their own applications.",
+      "keySwFeatures": [
+        {
+          "id": 1,
+          "title": "Advanced Routing Features",
+          "text": "Routing options include static route, multi-route, OSPF, BGP and more. Mobile IP allows migration from one network to another while maintaining a permanent IP address. Quality of Service (QoS) and various firewall options are also available. It supports VPN protocols such as NRSW, OpenVPN or IPSec for secure connections to remote locations."
+        },
+        {
+          "id": 2,
+          "title": "SDK",
+          "text": "Software Development Kit (SDK) that allows you to write your own scripts and functions for the router. It includes extensive functionality for accessing hardware interfaces to retrieve system status parameters, send email or SMS, or perform router configuration tasks."
+        },
+        {
+          "id": 3,
+          "title": "Optional LXC",
+          "text": "NRSW supports Linux Container (LXC). The container virtualizes central processor core resources. This provides isolation of processes and process groups in the central processor. With LXC you can launch a single application or the entire Linux operating system in a container. The container effectively separates the user and router applications for secure execution of both applications."
+        },
+        {
+          "id": 4,
+          "title": "Standard Features",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Fail-safe Update (FOTA) via USB, HTTP(S), (S)FTP, TFTP"
+            },
+            {
+              "id": 2,
+              "text": "Remote CLI & WebGUI"
+            },
+            {
+              "id": 3,
+              "text": "RADIUS authentication, Simple Certificate Enrollment Protocol (SCEP)"
+            },
+            {
+              "id": 4,
+              "text": "Hardware and software watchdog"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Link management",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Link prioritization and aggregation"
+            },
+            {
+              "id": 2,
+              "text": "Load Balancing"
+            },
+            {
+              "id": 3,
+              "text": "Multipath-TCP"
+            },
+            {
+              "id": 4,
+              "text": "IP-Passthrough"
+            },
+            {
+              "id": 5,
+              "text": "Link supervision"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Cellular networking",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Multi-SIM, e-SIM"
+            },
+            {
+              "id": 2,
+              "text": "Multi-APN"
+            },
+            {
+              "id": 3,
+              "text": "Signal strength supervision"
+            },
+            {
+              "id": 4,
+              "text": "GSM, CSFB calls\""
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "WLAN",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Client or access point mode"
+            },
+            {
+              "id": 2,
+              "text": "Multi client support with WEP, WPA-PSK, WPA-RADIUS, WPA-EAP-TLS"
+            },
+            {
+              "id": 3,
+              "text": "Multi/hidden SSID support with WPA-PSK,WPA-RADIUS, WPA-EAP-TLS"
+            },
+            {
+              "id": 4,
+              "text": "IEEE 802.11w, IEEE 802.11r"
+            },
+            {
+              "id": 5,
+              "text": "RADIUS accounting"
+            },
+            {
+              "id": 6,
+              "text": "CAPWAP"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "USB",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "USB sticks for mass storage, adapter for Ethernet or RS232/RS485 interfaces for serial-to-IP-server."
+            },
+            {
+              "id": 2,
+              "text": "Used for Autorun Provisioning Config, Software update"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "IP routing protocols",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Routing options as Destination, Policy, Multipath"
+            },
+            {
+              "id": 2,
+              "text": "Mobile-IP, OSPF, BGP, Multicast, TCP MSS Clamping, Bridging"
+            },
+            {
+              "id": 3,
+              "text": "Discovery protocols LLDP, CDP, SONMP, EDP, FDP, IRDP"
+            },
+            {
+              "id": 4,
+              "text": "STP, RSTP, VRRP, VLAN, PPPoE"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "text": "VPN protocols",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "OpenVPN, IPsec, PPTP, GRE, CSD Dial-In"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "text": "Quality of service ('QoS')",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Diffserv, SFQ, HTB, Priority-based Queuing"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "text": "Firewall",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Stateful firewall, connection tracking"
+            },
+            {
+              "id": 2,
+              "text": "NAT, NAPT, masquerading, bridge filtering"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "text": "Services",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "DHCP Client/Server, DNS Caching Server, Email, SMS Service"
+            },
+            {
+              "id": 2,
+              "text": "NTP Client/Server, SNTP Server, DynDNS, SSH Server, SNMP Agent"
+            },
+            {
+              "id": 3,
+              "text": "HTTP/HTTPS/FTP Server"
+            },
+            {
+              "id": 4,
+              "text": "Voice Gateway (SIP, Call Routing, Audio)"
+            },
+            {
+              "id": 5,
+              "text": "Coovachilli Hotspot"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "text": "Programmability",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Software Development Kit (SDK)"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "text": "Troubleshooting",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Logging, Ping, Traceroute, Tcpdump, Speed-test"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Licensed features",
+      "text": "In addition to the above features that come standard with NB2800 series routers, paid licenses that provide the following capabilities can be added to the router later, if desired, as long as the hardware supports it.",
+      "keySwFeatures": [
+        {
+          "id": 1,
+          "title": "GNSS",
+          "text": "Standalone GNSS server that provides data via a JSON/NMEA data stream Assisted and Dead Reckoning are supported (if the hardware allows it)."
+        },
+        {
+          "id": 2,
+          "title": "OpenVPN and DynDNS",
+          "text": "The NetModule router software supports OpenVPN for establishing encrypted connections via UDP or TCP. In the standard version, a maximum of four OpenVPN instances can be configured on a NetModule router, one of which can be a server instance. Extension subject to additional licensing",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "OpenVPN server instance with a maximum of 25 clients (instead of 10 without license)"
+            },
+            {
+              "id": 2,
+              "text": "DynDNS server"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Voice gateway",
+          "text": "With a voice license, NetModule routers can also act as a voice gateway for VoIP telephony (Voice over IP). Calls made over the mobile network can be connected to VoIP clients through the NetModule router and vice versa. An FXS, PTT, or audio interface can also be used for voice communication. P.S. The range of available features is dependent on the hardware deployed.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "2G/3G/4G/5G, POTS, VoIP, Audio, PTT voice calls"
+            },
+            {
+              "id": 2,
+              "text": "Up to four simultaneous voice channels (one modem per channel required)"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "LXC",
+          "text": "The virtualization license allows the installation and execution of customer applications parallel to the router application on the same hardware (edge computing). Using Linux Containers (LXC), several isolated Linux systems can be operated on the same host at the operating-system level. LXC creates a virtual environment with its own processes using the kernel of the host system. This allows them to be shielded from each other very effectively, ensuring the safe operation of both."
+        },
+        {
+          "id": 5,
+          "title": "FMStoIP",
+          "text": "The software stack picks up J1939 packets on the CAN interfaces and translates using a gateway function on the network level, where they can be made available to other systems, either locally or on the back-end system.",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Message filter function and configuration"
+            },
+            {
+              "id": 2,
+              "text": "FMS Standard, FMStoIP, VEHICLEtoIP"
+            },
+            {
+              "id": 3,
+              "text": "ITxPT-compliant (selected models)"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "ITxPT compliant label",
+          "text": "The label declares the conformity of the product with the ITxPT specifications S01 v2.0.1 and S02 v2.0.1 for the following services",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Module inventory"
+            },
+            {
+              "id": 2,
+              "text": "Time"
+            },
+            {
+              "id": 3,
+              "text": "GNSS location (requires GNSS license)"
+            },
+            {
+              "id": 4,
+              "text": "FMStoIP (requires FSM2IP license)"
+            },
+            {
+              "id": 5,
+              "text": "VEHICLEtoIP (required FSM2IP license)"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Enhanced RF configuration",
+          "text": "Allows following WiFi settings to be configured",
+          "bullets": [
+            {
+              "id": 1,
+              "text": "Radio frequencies"
+            },
+            {
+              "id": 2,
+              "text": "Antenna amplification (increased gain)"
+            },
+            {
+              "id": 3,
+              "text": "Regulatory domain"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "models": [
+    {
+      "productCode": "NG800-LjWWtGd2Br2CnHc",
+      "cellular": "1x Multimode (4G/3G/2G)",
+      "sim": "1x eSIM",
+      "wlan": "1x WiFi-4 + BLE",
+      "ethernet": "1x FE + 2x Automotive Ethernet",
+      "gps": "GNSS-DR",
+      "voice": false,
+      "emark": false,
+      "virt": false,
+      "can": "2x CAN-p",
+      "esim": "eUICC",
+      "ip": "IP55",
+      "itpt": false,
+      "fms2ip": false
+    }
+  ]
+}
