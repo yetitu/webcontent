@@ -1,0 +1,97 @@
+{
+  "title": "NG800-LjWWtGd2Br2CnHc",
+  "description": "Otoyollarda çalışan araçlarda kablosuz internet erişimi sağlayan yüksek performanslı ve modüler bir mobil yönlendiricidir.",
+  "heroText": "Telematik uygulamaları için modüler otomotiv geçitleri Türkiye’de Telista güvencesiyle",
+  "front_image": "ng800_front.jpg",
+  "overview": [
+    "Günlük yaşamda dijitalleşmenin devam etmesiyle birlikte, her türlü araçta çok fonksiyonlu bağlantı talebi de hızla artmaktadır. IP55 muhafazasındaki çok fonksiyonlu otomotiv geçidi NG800, zorlu ortamlarda kullanım için uygundur ve araç içi ekipman ile bulut uygulamaları arasında gerekli sağlam iletişimi sağlar. Yazılım, elektronik ve mekanik bileşenlerin modüler konsepti, belirli hedef uygulamalar için optimizasyon sağlar.",
+    "Kablosuz iletişim için NG800, bir LTE modemi, eUICC destekli bir SIM çipi, WiFi 802.11a/b/g/n (Wi-Fi 4), ölü hesaplamalı GNSS, IMU ve Bluetooth Düşük Enerji’yi entegre eder. Molex CMC 48-pin konektör üzerinden, CAN, Hızlı Ethernet, Otomotiv Ethernet veya RS-232 gibi kablolu arabirimler bağlanabilir.",
+    "Termoplastik kapak ve alüminyum taban plakası sayesinde IP55 uyumluluğuna sahip olan NG800, zorlu ortamlarda ve araç dışında kullanım için tasarlanmıştır.",
+    "Yazılım, gömülü Linux ve güçlü bir iletişim protokolü paketi ile VPN teknolojileri (OpenVPN gibi) gibi kanıtlanmış bileşenlere dayanmaktadır. Müşteriye özel yazılım uzantıları gelişmiş bir SDK aracılığıyla uygulanabilir.",
+    "NG800, 2019 Red Dot Ödülü’nün de sahibidir: Form ve işlev, IoT geçidi ile etkileyici bir simbiyoz oluşturur. Böylece NG800, teknik bir ortamda da estetik vurgular yapar."
+  ],
+  "heroImage": "ng800_hero.png",
+  "keyFeatures": [
+    "Cihaz üzerinde 4G-LTE, 3G-DC-HSPA+/UMTS ve 2G-GSM/GPRS/EDGE ağlarını destekleyen Multimode GSM modülü ile hücresel ağ bağlantısı kurulmaktadır. 1 eSIM çipi vardır.",
+    "Yolcu ve yük taşımacılığı için üretilen araçların karşılaşacağı zorlu fiziksel koşullara dayanıklıdır. IP55 seviyesinde korumalı bir tasarıma sahiptir. -40°C ile +75°C arasında çalışır. Titreşim ve darbelere dayanıklıdır.",
+    "WiFi-4 destekli bir radyo, araç içinde kablosuz yerel alan ağı (WLAN, WiFi) oluşturmaya ve araç dışındaki WiFi erişim noktalarına istemci olarak bağlanmaya olanak tanır. 2.4GHz ve 5GHz frekanslarında çalışabilir.",
+    "Gelişmiş GPS alıcısı, aracın coğrafi konum bilgilerini yüksek doğrulukla belirlemeyi kolaylaştırır. Konum belirlemede yüksek doğruluk için üç uyduya kadar sabitlenebilir. Kapalı alanlarda uydu bağlantısının mümkün olmadığı yerlerde; Ölü Hesaplama algoritmalarının desteğiyle belirlenir.",
+    "Cihaz, bir Hızlı Ethernet ve iki Otomotiv Ethernet portu ile donatılmıştır. Bu sayede araç içinde kablolu bir yerel alan ağı (LAN) oluşturur.",
+    "Entegre ateşleme tespiti sayesinde, araç kapandıktan sonra belirttiğiniz süre boyunca açık kalabilir. Böylece cihaz görevlerini güvenli bir şekilde tamamlar.",
+    "Aracın CAN bus'ı ile iki pasif bağlantı kurabilir.",
+    "CE (2014/53/EU, RED), UN ECE R10, UN ECE R118 direktiflerine uygunluk sertifikalarına sahiptir."
+  ],
+  "cellular": {
+    "standard": "1x GSM modülü, 4G-LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+    "dataTransferRate": "(Maks) 150 Mbps (DL), 50Mbps (UL)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x FAKRA D-kodlu erkek",
+    "sim": "1x eUICC destekli eSIM"
+  },
+  "wifi": {
+    "standard": "1x radyo, 2.4/5GHz, IEEE 802.11a/b/g/n (Wi-Fi4) + BT 4.2 kombo",
+    "dataTransferRate": "144 Mbps 2.4 GHz 2x2 MIMO, 150 Mbps 5 GHz SISO",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x FAKRA I-kodlu erkek",
+    "operatingModes": "Erişim Noktası (Maks 10 istemci) veya İstemci"
+  },
+  "ethernet": {
+    "fastEthernet": "1x 1000BASE-T, Auto MDIX",
+    "automotiveEthernet": "2x BroadR,100BASE-T1 (BroadR-Reach)",
+    "dataTransferRate": "10/100 Mbps",
+    "cableConnectors": "1x CMC-48 Header"
+  },
+  "positioning": {
+    "standards": "1x alıcı, BeiDou, Galileo, GLONASS, GPS/QZSS",
+    "sensitivity": "Maks -160dBm",
+    "antennaType": "Aktif veya Pasif",
+    "cep": "Maks 2.5m (Dairesel Hata Olasılığı, açık gökyüzü, yatay)",
+    "antennaConnector": "1x FAKRA C-kodlu erkek",
+    "services": "Bağımsız, A-GPS, 3D Ölü Hesaplama, JSON, NMEA akışları"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232/485 kombo (yazılımla değiştirilebilir), EIA-232",
+      "signals": "TX, RX ",
+      "signalLevels": "Yüksek > 5 VDC, Düşük < -5 VDC",
+      "dataTransferRate": "Maks. 115200 Bit/s "
+    },
+    "can": {
+      "protocols": "2x CAN, Kontrol Alan Ağı V2.0B (ISO 11898)",
+      "signals": "CANH, CANL",
+      "signalLevels": "Yüksek > 2.75 V, Düşük < 2.0 V",
+      "dataTransferRate": "1 Mbps'e kadar",
+      "busAccess": "Pasif - sadece okuma erişimi"
+    },
+    "connector": "1x CMC-48 header"
+  },
+  "system": {
+    "core": "1x 1 GHz tek çekirdek, 512 MB RAM, 8 GB Flash",
+    "moduleSlots": "SPI, I2C, GPIO, SIM, USB, RMII arabirimleri isteğe bağlı"
+  },
+  "licenses": {
+    "gnss": "GNSS konum hizmeti, JSON-, NMEA akışlı sunucu",
+    "eUICC": "Statik profil yönetimi ile uzaktan eUICC SIM profil güncellemesi."
+  },
+  "power": {
+    "inputVoltage": "Nominal (12, 24 VDC), Mutlak (9-36 VDC)",
+    "ignitionSense": "Evet",
+    "connector": "1x CMC-48 header",
+    "consumption": " 7 W (ortalama), 10 W (maks), kapalı durumdayken < 2 mA @ 24 VDC"
+  },
+  "other": {
+    "mounting": "Konsol",
+    "dimensions": "Genişlik 200, Yükseklik 40, Derinlik 120",
+    "weight": "520",
+    "temperature": "-40°C - +75°C",
+    "iPLevel": "IP55",
+    "vibration": "ISO 16750-3 (kara taşıtları), IEC 60068-2-64 (24 h)",
+    "shock": "ISO 16750-3 (kara taşıtları), IEC 60068-2-27 (60 şok)",
+    "mtbf": "296.000h/33.8yıl, SN29500 @ 40°C'ye göre",
+    "orderCode": "NG800-LjWWtGd2Br2CnHc"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED) - CE",
+    "vehicleTypes": "UN ECE R10 ve UN ECE R118"
+  }
+}
