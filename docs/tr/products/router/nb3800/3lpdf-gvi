@@ -1,0 +1,91 @@
+{
+  "title": "NB3800-3LpDf-GVi",
+  "description": "Demiryollarında çalışan araçlarda kablosuz internet erişimi sağlayan yüksek performanslı ve modüler bir mobil yönlendiricidir.",
+  "heroText": "Yolcularına konforlu bir seyahat deneyimi sunmak isteyen ve yeni nesil filo yönetimi ile operasyonel verimliliklerini artırmayı hedefleyen demiryolu ulaşım sektöründeki işletmeci ve araç üreticileri için idealdir.",
+  "front_image": "nb3800_front.jpg",
+  "overview": [
+    "NB3800-3LpDf-GVi, demiryollarında yolcu ve yük taşıyan araçlar için üretilmiştir. Genellikle aracın kesintisiz internete bağlanmasını sağlar. LTE-A Pro destekli 3 GSM modülü, 1 TB SSD, konumlandırma için GNSS, 2 Gigabit ve 3 Hızlı Ethernet portu ile donatılmıştır.",
+    "2014/53/AB (RED), 2011/65/AB (RoHS), EN 50155 sınıfı OT4/ST0 ve EN 45545 düzenlemelerine uygundur.",
+    "Sayısız özelliği ve yüksek performansı ile; 'Yolcu WiFi', 'Yolcu Bilgilendirme Sistemi', 'Filo Yönetimi' veya 'Güvenlik Kameraları' gibi uygulamalar için ideal cihazdır.",
+    "Gömülü Linux işletim sistemi, amacına uygun olarak geliştirilmiş ve gelişmiş iletişim protokollerini içeren kanıtlanmış yazılım bileşenlerine sahiptir. Ücretsiz Yazılım Geliştirme Kiti (SDK) kullanılarak özel uygulamalar geliştirilebilir."
+  ],
+  "keyFeatures": [
+    "LTE-A Pro, önemli ölçüde daha yüksek hızlar, daha düşük gecikme ve geliştirilmiş ağ verimliliği sunan, LTE'nin daha gelişmiş ve yetenekli bir sürümünü temsil eder. LTE hala yaygın olarak kullanılırken, LTE-A Pro, daha hızlı ve daha güvenilir kablosuz bağlantı taleplerini karşılamak için önemli bir adımdır. Üç LTE-A Pro'ya sahip olmak, daha hızlı ve kesintisiz bir internet bağlantısı için yedek sağlar.",
+    "1 TB SSD (Katı Hal Diski) disk kapasitesi ile zaman damgalı konum/hız kayıtları veya güvenlik video kayıtları gibi kritik bilgiler uzun süre saklanabilir. SSD disklerde hareketli parça olmadığı için, araçların maruz kaldığı titreşimli ortamlarda bile veriler güvenle saklanır.",
+    "NB3800 serisi yönlendiricilerin tüm modelleri 1.3 GHz hızında çalışan çift çekirdekli CPU ve 1 GB RAM bellek ile donatılmıştır. Yönlendiricinin tüm yeteneklerini sağlayan NSRW yazılımı, Linux işletim sistemi ile bu bilgisayarda çalışır. LXC (Linux Container) teknolojisi yardımıyla NSRW'den izole edilmiş sanal bir bilgisayar oluşturulur. Böylece gelişmiş SDK ve yönlendiricinin işlevlerine erişim sağlayan tercih edilen programlama dili kullanılarak özel yazılım uygulamaları geliştirilebilir.",
+    "Yolcu ve yük taşıma amaçlı üretilen araçların karşılaşacağı zorlu fiziksel koşullara dayanıklıdır. IP40 seviyesinde korumalı bir tasarıma sahiptir. -25°C ile +70°C arasında çalışır.",
+    "Gelişmiş GPS alıcısı, aracın coğrafi konum bilgilerini yüksek doğrulukla belirlemeyi kolaylaştırır. Konum belirlemede yüksek doğruluk için sabitlenmesi gereken minimum uydu sayısı programlanabilir.",
+    "Cihaz, iki Gigabit Ethernet ve 3 Hızlı Ethernet portu ile donatılmıştır. Bu sayede araç içinde kablolu yerel alan ağı (LAN) oluşturur. Araç içindeki Ethernet arayüzüne sahip diğer cihazların (örneğin araç bilgisayarı, validatör) internet erişimi için kullanılabilir.",
+    "2014/53/AB (RED), 2011/65/AB (RoHS), EN 50155 sınıfı OT4/ST0 ve EN 45545 düzenlemelerine uygundur."
+  ],
+  "cellular": {
+    "4g": {
+      "standard": "3x GSM modülleri, LTE-A Pro, 3G-DC-HSPA+/UMTS",
+      "dataTransferRate": "(Maks.) 600 Mbps (DL), 150 Mbps (UL)",
+      "antennaType": "2x2 MIMO"
+    },
+    "antennaConnectors": "6x TNC dişi",
+    "sim": "4x Mini SIM - 2FF"
+  },
+  "ethernet": {
+    "gigabitEthernet": {
+      "standard": "2x Gigabit Ethernet, 1000BASE-T, Auto MDIX",
+      "dataTransferRate": "10/100/1000 Mbps",
+      "cableConnectors": "2x M12 X-Kodlu dişi"
+    },
+    "fastEthernet": {
+      "standard": "3x Fast Ethernet, 100BASE-T, Auto MDIX",
+      "dataTransferRate": "10/100 Mbps",
+      "cableConnectors": "3x M12 D-Kodlu dişi"
+    }
+  },
+  "positioning": {
+    "standards": "1x alıcı, BeiDou, Galileo, GLONASS, GPS, gpsOne Gen 9",
+    "sensitivity": "(Maks.) -160dBm",
+    "antennaType": "Aktif veya Pasif",
+    "cep": "<2m (Dairesel Hata Olasılığı, açık gökyüzü, yatay)",
+    "antennaConnector": "1x TNC dişi"
+  },
+  "usb": {
+    "standard": "1x USB 3.0 Host",
+    "connectorType": "1x Tip A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232, EIA-232",
+      "signals": "TX, RX",
+      "signalLevels": "Yüksek > 5 VDC, Düşük < -5 VDC",
+      "dataTransferRate": "Maks. 115200 Bit/s",
+      "connectorType": "1x M12 A-kodlu dişi"
+    }
+  },
+  "system": {
+    "core": "1x 1.3 GHz çift çekirdek, 1 GB RAM, 4 GB Flash",
+    "moduleSlots": "2x miniPCIe (PCIe + USB) ve 2x miniPCIe (USB)",
+    "extendedStorage": "1 TB SSD"
+  },
+  "licenses": {
+    "gnss": "GNSS konum hizmeti, JSON- ve NMEA akışlı sunucu",
+    "lxc": "Yönlendirici işlevlerinden izole edilmiş, müşteri özel uygulamaları entegre etmek için Linux Container (LXC) ortamı"
+  },
+  "power": {
+    "inputVoltage": "Nominal: 24, 48 VDC, Mutlak: 24-48 VDC (±%30)",
+    "isolation": "Galvanik, 1500VDC",
+    "connector": "1x M12 A-kodlu erkek",
+    "standard": "EN 50155 sınıfı S2/C1",
+    "consumption": "(Maks.) 25W"
+  },
+  "other": {
+    "dimensions": "Genişlik 167/190, Yükseklik 121.1, Derinlik 106.5",
+    "weight": "2000",
+    "temperature": "-25°C ile +55°C",
+    "iPLevel": "IP40",
+    "mtbf": "164.200h/18.7 yıl, SN29500'e göre 40°C'de",
+    "orderCode": "NB3800-3LpDf-GVi"
+  },
+  "certifications": {
+    "ce": "2014/53/AB (RED) - CE",
+    "rohs": "2011/65/AB",
+    "vehicleTypes": "Demiryolu EN50155 sınıfı OT4/ST0, EN 45545"
+  }
+}

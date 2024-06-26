@@ -1,0 +1,102 @@
+{
+  "title": "NB3800-N2LWacDf-G",
+  "description": "Yüksek performanslı ve modüler bir mobil yönlendiricidir, demiryollarında çalışan araçlarda kablosuz internet erişimi sağlar.",
+  "heroText": "Yolcularına rahat bir seyahat deneyimi sunarken yeni nesil filo yönetimi ile operasyonel verimliliklerini artırmak isteyen demiryolu taşımacılığı sektöründeki işletmeciler ve araç üreticileri için idealdir.",
+  "front_image": "nb3800_front.jpg",
+  "overview": [
+    "NB3800-N2LWacDf-G, demiryollarında yolcu ve yük taşıyan araçlar için üretilmiştir. Araçların kesintisiz internete bağlanmasını sağlamak ve araç içerisinde kablosuz internet erişimi sunmak amacıyla kullanılır. 5G destekli bir GSM modülü, 4G-LTE destekli iki GSM modülü, konumlandırma için GNSS, IEEE 802.11ac (Wi-Fi 5) standardına sahip bir WiFi erişim noktası, 2 Gigabit ve 3 Fast Ethernet portları ile donatılmıştır.",
+    "2014/53/EU (RED), 2011/65/EU (RoHS), EN 50155 sınıf OT4/ST0 ve EN 45545 düzenlemelerine uygundur.",
+    "Birçok özelliği ve yüksek performansı ile; 'Yolcu WiFi', 'Yolcu Bilgilendirme Sistemi', 'Filo Yönetimi' veya 'Güvenlik Kameraları' gibi uygulamalar için ideal bir cihazdır.",
+    "Amacına uygun olarak geliştirilmiş gömülü Linux işletim sistemi, gelişmiş iletişim protokollerini içeren kanıtlanmış yazılım bileşenlerine sahiptir. Ücretsiz Yazılım Geliştirme Kiti (SDK) kullanılarak özel uygulamalar geliştirilebilir."
+  ],
+  "keyFeatures": [
+    "5G-NR ile, kırsal alanlarda 1 GHz'den düşük frekanslarda ve yoğun kentsel alanlarda 26-28 GHz frekans aralığında yüksek hızlı çalışma mümkündür. Veri indirme (DL) hızı 5.5 Gbps'ye kadar ve veri yükleme (UL) hızı 2.7 Gbps'ye kadar çıkabilir.",
+    "Cihazdaki 4G LTE destekli iki GSM modülü, aynı anda iki hücresel ağ bağlantısı kurabilir. 4 SIM kart yuvasına sahip olması, farklı hücresel ağlara bağlanma imkanı sunar. Bu, mobil internet maliyetlerini kontrol etmeye ve kesintisiz internet bağlantısı kurmaya yardımcı olur.",
+    "WLAN-ac destekli tek bir radyo, aynı anda araç içinde bir kablosuz yerel alan ağı (WLAN, WiFi) oluşturmayı veya aracın dışındaki WiFi erişim noktalarına istemci olarak bağlanmayı sağlar.",
+    "Demiryollarında yolcu ve yük taşıyan araçların karşılaşacağı zorlu fiziksel koşullara dayanıklıdır. IP40 seviyesinde korumalı tasarıma sahiptir. -25°C ile +55°C arasında çalışır.",
+    "Gelişmiş GPS alıcısı, aracın coğrafi konum bilgilerini yüksek doğrulukla belirlemeyi kolaylaştırır. Konum belirlemede yüksek doğruluk için sabitlenmesi gereken minimum uydu sayısı programlanabilir.",
+    "Cihaz, iki Gigabit Ethernet ve 3 Fast Ethernet portuyla donatılmıştır. Bu şekilde, araç içerisinde kablolu yerel alan ağı (LAN) oluşturur. Araçtaki Ethernet arayüzüne sahip diğer cihazların (araç bilgisayarı, doğrulayıcı gibi) internet erişimi için kullanılabilir.",
+    "2014/53/EU (RED), 2011/65/EU (RoHS), EN 50155 sınıf OT4/ST0 ve EN 45545 düzenlemelerine uygundur."
+  ],
+  "cellular": {
+    "5g": {
+      "standard": "1x GSM modülü, 5G-NR, LTE-A Pro, 3G-DC-HSPA+/UMTS",
+      "dataTransferRate": "(Maks.) 5.5 Gbps (DL), 2.7 Gbps (UL)",
+      "antennaType": "4x4 MIMO"
+    },
+    "4g": {
+      "standard": "2x GSM modülü, 4G LTE, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
+      "dataTransferRate": "(Maks.) 150 Mbps (DL), 50 Mbps (UL)",
+      "antennaType": "4x4 MIMO"
+    },
+    "antennaConnectors": "8x TNC dişi",
+    "sim": "4x Mini SIM - 2FF"
+  },
+  "wifi": {
+    "standard": "1x Radyo, 2.4/5GHz, IEEE 802.11a/b/g/n/ac (Wi-Fi 5)",
+    "dataTransferRate": "(Maks.) 300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+    "antennaType": "2x2 MIMO",
+    "antennaConnectors": "2x TNC dişi",
+    "operatingModes": "Erişim Noktası (aynı anda 100 WiFi istemcisi) veya WiFi İstemcisi"
+  },
+  "ethernet": {
+    "gigabitEthernet": {
+      "standard": "2x Gigabit Ethernet, 1000BASE-T, Auto MDIX",
+      "dataTransferRate": "10/100/1000 Mbps",
+      "cableConnectors": "2x M12 X-Coded dişi"
+    },
+    "fastEthernet": {
+      "standard": "3x Fast Ethernet, 100BASE-T, Auto MDIX",
+      "dataTransferRate": "10/100 Mbps",
+      "cableConnectors": "3x M12 D-Coded dişi"
+    }
+  },
+  "positioning": {
+    "standards": "1x alıcı, BeiDou, Galileo, GLONASS, GPS, gpsOne Gen 9",
+    "sensitivity": "(Maks.) -160dBm",
+    "antennaType": "Aktif veya Pasif",
+    "cep": "<2m (Dairesel Hata Olasılığı, açık gökyüzü, yatay)",
+    "antennaConnector": "1x TNC dişi"
+  },
+  "usb": {
+    "standard": "1x USB 2.0",
+    "connectorType": "1x Tip A"
+  },
+  "serial": {
+    "rs232": {
+      "protocols": "1x RS232, EIA-232",
+      "signals": "TX, RX",
+      "signalLevels": "Yüksek > 5 VDC, Düşük < -5 VDC",
+      "dataTransferRate": "Maks. 115200 Bit/s",
+      "connectorType": "1x M12 A-kodlu dişi"
+    }
+  },
+  "system": {
+    "core": "1x 1.3 GHz çift çekirdekli, 1 GB RAM, 4 GB Flash",
+    "moduleSlots": "2x miniPCIe (PCIe + USB) ve 2x miniPCIe (USB)",
+    "extendedStorage": "1 TB SSD"
+  },
+  "licenses": {
+    "gnss": "GNSS konum hizmeti, JSON-, NMEA akışı ile Sunucu"
+  },
+  "power": {
+    "inputVoltage": "Nominal: 24, 48 VDC, Mutlak: 24-48 VDC (±%30)",
+    "isolation": "Galvanik, 1500VDC",
+    "connector": "1x M12 A-kodlu erkek",
+    "standard": "EN 50155 sınıf S2/C1",
+    "consumption": "(Maks.) 25W"
+  },
+  "other": {
+    "dimensions": "Genişlik 167/190, Yükseklik 121.1, Derinlik 106.5",
+    "weight": "2000",
+    "temperature": "-25°C ila +55°C",
+    "iPLevel": "IP40",
+    "mtbf": "150.000 saat/17.1 yıl, SN29500'e göre 40°C'de",
+    "orderCode": "NB3800-N2LWacDf-G"
+  },
+  "certifications": {
+    "ce": "2014/53/EU (RED) - CE",
+    "rohs": "2011/65/EU",
+    "vehicleTypes": "Demiryolu EN50155 sınıf OT4/ST0, EN 45545"
+  }
+}
