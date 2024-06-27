@@ -1,476 +1,478 @@
 {
-  "cctv": {
-    "title": "Araçta Güvenlik Kameraları",
-    "description": "Yolcularınızın güvenliği için araca IP tabanlı kameralar yerleştirin. Yolcuların ve eşyalarının güvenli bir şekilde taşınmasını sağlayın.",
-    "summary": "Güvenli yolculuk deneyimi için araçta video gözetimi yardımı ile hırsızlık, vandalizm veya saldırı gibi istenmeyen durumları önleyin. Araçlarınızın içinde ve çevresinde neler olduğunu her yerden ve her zaman izleyin, kayıt edin ve arşivleyin. Yolculara ait eşyaların ve kargonun güvenli taşınmasını sağlayın. Kazaları veya istenmeyen olayları inceleyin. Sürücü performansını değerlendirin.",
-    "heroText": "Yolcularınızın güvenliği için araca IP tabanlı kameralar yerleştirin. Yolcuların ve eşyalarının güvenli bir şekilde taşınmasını sağlayın.",
-    "image": "cctv.png",
-    "groupImage": "cctv.png",
-    "group": "transport",
-    "keyProducts": "Router",
-    "benefits": [
-      {
-        "id": 1,
-        "title": "İstenmeyen olumsuz olayların önüne geçin",
-        "text": "Araç içindeki kameralardan görüntü alındığını görenler, vandalizm, hırsızlık, saldırı gibi istenmeyen olumsuz davranışlarda bulunmaktan çekinecektir. Aldığınız önlemlere rağmen yaşanacak şikayet konusu olaylarda, kayıt edilmiş veya canlı görüntülere dayalı doğru, hızlı ve etkili bir tepki verin."
-      },
-      {
-        "id": 2,
-        "title": "Aldatılmayın",
-        "text": "Yönlendiricide oluşturulan geniş depolama alanında arşivlenen görüntü kayıtlarınızı yönetin. Bunları periyodik olarak buluttaki veya kendi veri merkezinizdeki depolama alanlarınıza arşivleyin. İşletmenizi sigorta dolandırıcılığından, yanlış iddialardan ve çelişkili raporlardan koruyun."
-      },
-      {
-        "id": 3,
-        "title": "Sürüş güvenliğini denetleyin",
-        "text": "Araç içindeki herkesin can güvenliğini riske atacak, sürüş esnasında mobil telefon kullanmak, uykulu sürüş gibi uygunsuz sürücü davranışlarının önüne geçin."
-      }
-    ],
-    "functionality": [
-      {
-        "id": 1,
-        "title": "Araçtaki kameralara uzaktan erişin",
-        "text": "Araçtaki kameraların canlı/arşiv görüntülerine uzaktan erişmek için yüksek hızlı, güvenli ve kesintsiz kablosuz ağ bağlantıların kurulması amacıyla karayolu araçlarında NB2800, demiryolu araçlarında ise NB3700 serisi mobil ağ yönlendiricilerini tercih edin.",
-        "img": "remote-cctv.png"
-      },
-      {
-        "id": 3,
-        "title": "Araçta yüksek kapasiteli kayıt depolama alanı",
-        "text": "Araçtaki kameralarca kaydedilen video görüntüleri, NetModule yönlendiricideki 1 TB kapasiteli katı hal sabit diskinde (Solid-State-Disk, 'SSD') kopyalansın. Depolanan görüntü kayıtları, araçtaki 5G/4G/3G destekli mobil ağ bağlantısı veya aracın vardığı duraktaki WiFi bağlantısı üzerinden, işletme merkezindeki veya buluttaki arşivleme sistemine otomatik olarak aktarılsın.",
-        "img": "ssd.png"
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "title": "Karayolu ulaşım araçları için NB2800",
-        "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini ve araçtaki kameraların kayıtlarını periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Tüm yönlendiriciler CE uyumludur (RED) ve otomotiv tip onayına sahiptir (UNECE R10, UNECE R118). Bazı modeller ITxPT standartlarını destekler.",
-        "link": "/products/router/nb2800/",
-        "img": "/images/products/router/nb2800/nb2800.png"
-      },
-      {
-        "id": 2,
-        "title": "Karayolu ulaşım araçları için Antenna-Coach",
-        "text": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Otomotiv endüstrisindeki üreticilerin ve ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
-        "link": "/products/antenna/coach/",
-        "img": "/images/products/antenna/coach/antenna-coach.png"
-      },
-      {
-        "id": 3,
-        "title": "Demiryolu ulaşım araçları için NB3700",
-        "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini ve araçtaki kameraların kayıtlarını  periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Tüm yönlendiriciler CE uyumludur (RED) ve demiryolu tip onayına sahiptir (EN 50155, EN 45545).",
-        "link": "/products/router/nb3700/",
-        "img": "/images/products/router/nb3700/nb3700.png"
-      },
-      {
-        "id": 4,
-        "title": "Demiryolu ulaşım araçları için Antenna-Railway",
-        "text": "Demiryollarında çalışan lokomotif, tren, tramvay, vagon benzeri yolcu veya yük taşıma için uygun araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Demiryolu araçları üreticilerinin veya ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
-        "link": "/products/antenna/railway/",
-        "img": "/images/products/antenna/railway/antenna-railway.png"
-      },
-      {
-        "id": 5,
-        "title": "Merkezi Ağ Yönetimi Yazılımı",
-        "text": "Filonuzdaki araçlarda bulunan mobil ağ yönlendirilerin uzaktan izlenebilmesi, yapılandırılabilmesi için Connectivity Suite yazılımını kullanın. Connectivity Suite, NetModule yönlendirici cihazlarının merkezi bir konumdan güvenli bir şekilde yapılandırılmasını ve yönetilmesini sağlar. Connectivity Suite, işletmenize özel ağ altyapınızı oluşturmak ve tüm NetModule cihazlarını tek bir noktadan yönetmek için geliştirilen kullanımı oldukça basit uzaktan yönetim sistemidir.",
-        "link": "/products/software/cs/",
-        "img": "/images/products/software/cs/cs_gray_bg.png"
-      }
-    ]
-  },
-  "media": {
-    "title": "Çevrimdışı Video ve Müzik",
-    "description": "Yolcularınız kendi cihazları ile araçtaki elektronik içerik havuzuna, internet bağlantısı gerekmeksizin, erişsin. Film izlesinler, müzik dinlesinler, kitap, gazete veya dergi okusunlar.",
-    "summary": "Yolcularınız kendi akıllı telefon, tablet veya dizüstü bilgisayarlarını kullanarak, internet erişimi gerekmeksizin, seyahat bilgilerine, gazetelerin/dergilerin/kitapların dijital kopyalarına, seçecekleri filmlere, dizilere, müzik kanallarına ve daha fazlasına erişsin. Kendi mobil cihazlarını ve kulaklıklarını kullanacaklarından hijyeni dert etmesinler.",
-    "heroText": "Yolcularınız kendi cihazları ile araçtaki elektronik içerik havuzuna, internet bağlantısı gerekmeksizin, erişsin. Film izlesinler, müzik dinlesinler, kitap, gazete veya dergi okusunlar.",
-    "image": "offline-archive.png",
-    "groupImage": "offline-archive.png",
-    "group": "transport",
-    "keyProducts": "Router",
-    "benefits": [
-      {
-        "id": 1,
-        "title": "Yolcularınızı can sıkıntısından kurtarın",
-        "text": "Yolcukları süresince izledikleri eğlenceli içerik sayesinde hoş bir deneyim yaşayan yolcularınız markanıza sadık kalacaktır. \"Yolcularınız kendi akıllı cihazlarını (akıllı telefonlar, tabletler, dizüstü bilgisayarlar) kullanarak, en yeni filmlere, dizilere ve müziklere erişsinler. Araçlarınızda hoş zaman geçirsinler."
-      },
-      {
-        "id": 2,
-        "title": "Ek gelir olanağı",
-        "text": "Yolcularınız seçtikleri, telif hakkı gerektirmeyen içeriğe ücret ödemeden ulaşsın. Dilerseniz ücretsiz olarak yayınlanacak içeriği oynatmaya başlamadan önce oynatılacak reklamlardan gelir elde edin. Telif hakkı ödenecek içerik için ise -dilerseniz- yolcularınız ücret ödeyebilirler."
-      }
-    ],
-    "functionality": [
-      {
-        "id": 1,
-        "title": "Araç içinde etkin WiFi kapsama alanı oluşturun",
-        "text": "Güncel sefer bilgilerini araç içindeki LCD ekranlardan gösterin. Yolcular Android ve iOS destekli akıllı telefonlarından araçtaki WiFi ağına bağlanıp, dilediği bilgiye gerçek zamanlı erişelebilsin. Aracın kalkış ve varış saatlerini, araçtaki doluluk oranını, dijital harita üzerinden anlık konumu, yaklaşılan durağa varış süresini ve benzeri dinamik bilgileri yayınlayın. Araçtaki dijital ekranlarınızın ağ bağlantısı için WiFi kullanın, araç içinde Ethernet kablosu masrafından kurtulun. Araç içinde etkin WiFi kapsamı oluşturmak için WiFi Erişim Noktası olarak yapılandırılabilen karayolu araçları için NB2800 ve demiryolu araçları için NB3700 serisi mobil ağ yönlendiricileri tercih edin.",
-        "img": "perfect-wifi.png"
-      },
-      {
-        "id": 2,
-        "title": "Araç dışındaki sistemler ile hızlı kablosuz bağlantılar kurun",
-        "text": "Merkezi içerik yönetimi sistemine bağlanarak oynatılacak geniş yer kaplayan zengin içeriğin (video, ses vb.) araçtaki içerik sunucusuna indirilmesi, veri sağlayıcı (trafik, sefer, zaman çizelgesi vb.) sunuculardan güncel verilerin alınması, araçtaki telematik verilerinin ilgili merkezi veri tabanlarına aktarılması, uydu bağlantıları kurarak konumun belirlenebilmesi gibi işlemler için yüksek hızlı, güvenli, kesintsiz mobil ağ bağlantıların kurulması amacıyla karayolu araçlarında NB2800 ve demiryolu araçlarında NB3700 serisi mobil ağ yönlendiricileri tercih edin.",
-        "img": "multi-wireless.png"
-      },
-      {
-        "id": 3,
-        "title": "Araçtaki bilgisayar sayısını azaltın",
-        "text": "Yolcuların izleyecekleri içeriğin saklandığı, saklanan içeriğin araç içi kablolu veya kablosuz ağ üzerinden yayınlandığı sunucu için dedike bir bilgisayar kullanmanıza gerek yok. İçerik sunucusunun yazılımını, karayolu araçlarında NB2800 ve demiryolu araçlarında ise NB3700 serisi mobil ağ yönlendiricilerdeki seçimlik sunulan dahili 1 TB veri saklama kapasitesine ve Linux tabanlı işletim sistemine sahip sanal bilgisayara kurun. Araçtaki bilgisayar sayısını azaltın.",
-        "img": "less-pc.png"
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "title": "Karayolu ulaşım araçları için NB2800",
-        "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Tüm yönlendiriciler CE uyumludur (RED) ve otomotiv tip onayına sahiptir (UNECE R10, UNECE R118). Bazı modeller ITxPT standartlarını destekler.",
-        "link": "/products/router/nb2800/",
-        "img": "/images/products/router/nb2800/nb2800.png"
-      },
-      {
-        "id": 2,
-        "title": "Karayolu ulaşım araçları için Antenna-Coach",
-        "text": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Otomotiv endüstrisindeki üreticilerin ve ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
-        "link": "/products/antenna/coach/",
-        "img": "/images/products/antenna/coach/antenna-coach.png"
-      },
-      {
-        "id": 3,
-        "title": "Demiryolu ulaşım araçları için NB3700",
-        "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır.  Tüm yönlendiriciler CE uyumludur (RED) ve demiryolu tip onayına sahiptir (EN 50155, EN 45545).",
-        "link": "/products/router/nb3700/",
-        "img": "/images/products/router/nb3700/nb3700.png"
-      },
-      {
-        "id": 4,
-        "title": "Demiryolu ulaşım araçları için Antenna-Railway",
-        "text": "Demiryollarında çalışan lokomotif, tren, tramvay, vagon benzeri yolcu veya yük taşıma için uygun araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Demiryolu araçları üreticilerinin veya ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
-        "link": "/products/antenna/railway/",
-        "img": "/images/products/antenna/railway/antenna-railway.png"
-      },
-      {
-        "id": 5,
-        "title": "Merkezi Ağ Yönetimi Yazılımı",
-        "text": "Filonuzdaki araçlarda bulunan mobil ağ yönlendirilerin uzaktan izlenebilmesi, yapılandırılabilmesi için Connectivity Suite yazılımını kullanın. Connectivity Suite, NetModule yönlendirici cihazlarının merkezi bir konumdan güvenli bir şekilde yapılandırılmasını ve yönetilmesini sağlar. Connectivity Suite, işletmenize özel ağ altyapınızı oluşturmak ve tüm NetModule cihazlarını tek bir noktadan yönetmek için geliştirilen kullanımı oldukça basit uzaktan yönetim sistemidir.",
-        "link": "/products/software/cs/",
-        "img": "/images/products/software/cs/cs_gray_bg.png"
-      }
-    ]
-  },
-  "pis": {
-    "title": "Yolcu Bilgilendirme Sistemi",
-    "description": "Yolcularınızı, bilgilendirmek, eğlendirmek için terminallerde, duraklarda veya araçlardaki ekranlardan dinamilk içerik yayınlayın. Yolcu deneyimini iyileştirin. Bekleme sürelerini azaltın. Güzergah, kalkış/varış zamanlarını, gecikmeleri yayınlayın.",
-    "summary": "Araçtaki yüksek çözünürlüklü ekranlardan yolcularınıza yaklaşılmakta olan duraklara tahmini varış sürelerini, aracın rotadaki konumunu, gerçek zamanlı yol, hava ve trafik durumu bilgilerini, varılacak duraklardaki diğer toplu taşıma sistemlerinin zaman çizelgelerini, gecikme ve iptal edien seferleri gösterin. Gündeme dair önemli haberleri ve hizmetlerinizi anlatan videolar izletin. Aracın rotasına, tarihe, saate veya coğrafi konuma bağlı olarak değişebilen reklamlardan gelir elde edinin. Yolcularınıza seyahatleri sırasında hoş zaman geçirmelerini sağlayacak ilgi çekici kısa videolar izletin.",
-    "heroText": "Araçlarınızdaki ekranlardan yolcularınızı bilgilendirin, seferler ve yol durumu hakkında gerçek zamanlı bilgi paylaşın. Eğlenceli videolar oynatın.",
-    "image": "passenger-info.png",
-    "groupImage": "passenger-info.png",
-    "group": "transport",
-    "keyProducts": "Router",
-    "benefits": [
-      {
-        "id": 1,
-        "title": "Yolcularınızla iletişiminizi güçlendirin",
-        "text": "Güncel ve doğru bilgiler sunarak yolcularınızın markanıza güvenmelerini sağlayın. Araçtaki yüksek çözünürlüklü ekranlardan veya mobil aygıtlarınan yolcularınıza yaklaşılmakta olan duraklara tahmini varış sürelerini, aracın rotadaki konumunu, gerçek zamanlı yol, hava ve trafik durumu bilgilerini, varılacak duraklardaki diğer toplu taşıma sistemlerinin zaman çizelgelerini gösterin. Gündeme dair önemli haberleri ve hizmetlerinizi anlatan videolar izletin. Aracın rotasına, tarihe, saate veya coğrafi konuma bağlı olarak değişebilen reklamlardan gelir elde edinin. Yolcularınıza seyahatleri sırasında hoş zaman geçirmelerini sağlayacak ilgi çekici kısa videolar izletin."
-      },
-      {
-        "id": 2,
-        "title": "Dinamik ve gerçek zamanlı bilgi paylaşın",
-        "text": "Yolcularınızın araç içindeyken gerçek zamanlı bilgiye erişmesini sağlayın. Yolcularınıza planlı, güvenli ve keyifli seyahat deneyimi yaşatın. Yolcularınız; duraklara tahmini varış zamanlarını, varılacak duraktaki diğer rotalara transfer seçeneklerini, rotada kat edilmiş ve edilecek yolu, trafiğin, havanın durumunu, olası geciklemeleri ve daha fazlasını görebilsinler."
-      },
-      {
-        "id": 3,
-        "title": "İşletmeniz için ek gelir kanalı oluşturun",
-        "text": "Araçtaki ekranlardan yolcularınıza ilgi ekici, eğlenceli, bilgilendirici kısa videolar, öne çıkan haberler ile arada sırada oynatacağınız reklam videoları izletin. Aracın rotasına, tarihe, saate veya coğrafi konumuna bağlı olarak değişebilen bu reklamlardan gelir elde edinin."
-      },
-      {
-        "id": 4,
-        "title": "Güvenliği artırın",
-        "text": "Araç içi güvenlik kameralarından alınan canlı görüntülerin ekranlarda izletin. Araç içerisinde yaşanmasını istemediğiniz vandalizm, hırsızlık, saldırı gibi olayların önüne geçin. Sefer sırasında alınan tüm kayıtları merkezi veri tabanında otomatik olarak arşivleyin."
-      }
-    ],
-    "functionality": [
-      {
-        "id": 1,
-        "title": "Araç içinde etkin WiFi kapsama alanı oluşturun",
-        "text": "Güncel sefer bilgilerini araç içindeki LCD ekranlardan gösterin. Yolcular Android ve iOS destekli akıllı telefonlarından araçtaki WiFi ağına bağlanıp, dilediği bilgiye gerçek zamanlı erişelebilsin. Aracın kalkış ve varış saatlerini, araçtaki doluluk oranını, dijital harita üzerinden anlık konumu, yaklaşılan durağa varış süresini ve benzeri dinamik bilgileri yayınlayın. Araçtaki dijital ekranlarınızın ağ bağlantısı için WiFi kullanın, araç içinde Ethernet kablosu masrafından kurtulun. Araç içinde etkin WiFi kapsamı oluşturmak için WiFi Erişim Noktası olarak yapılandırılabilen karayolu araçları için NB2800 ve demiryolu araçları için NB3700 serisi mobil ağ yönlendiricileri tercih edin.",
-        "img": "perfect-wifi.png"
-      },
-      {
-        "id": 2,
-        "title": "Araç dışındaki sistemler ile hızlı kablosuz bağlantılar kurun",
-        "text": "Merkezi içerik yönetimi sistemine bağlanarak oynatılacak geniş yer kaplayan zengin içeriğin (video, ses vb.) araçtaki içerik sunucusuna indirilmesi, veri sağlayıcı (trafik, sefer, zaman çizelgesi vb.) sunuculardan güncel verilerin alınması, araçtaki telematik verilerinin ilgili merkezi veri tabanlarına aktarılması, uydu bağlantıları kurarak konumun belirlenebilmesi gibi işlemler için yüksek hızlı, güvenli, kesintsiz kablosuz ağ bağlantıların kurulması amacıyla karayolu araçlarında NB2800 ve demiryolu araçlarında NB3700 serisi mobil ağ yönlendiricileri tercih edin.",
-        "img": "multi-wireless.png"
-      },
-      {
-        "id": 3,
-        "title": "Araçtaki bilgisayar sayısını azaltın",
-        "text": "Yolcuların izleyecekleri içeriğin saklandığı, saklanan içeriğin araç içi kablolu veya kablosuz ağ üzerinden yayınlandığı sunucu için dedike bir bilgisayar kullanmanıza gerek yok. İçerik sunucusunun yazılımını, karayolu araçlarında NB2800 ve demiryolu araçlarında ise NB3700 serisi mobil ağ yönlendiricilerdeki seçimlik sunulan dahili 1 TB veri saklama kapasitesine ve Linux tabanlı işletim sistemine sahip sanal bilgisayara kurun. Araçtaki bilgisayar sayısını azaltın.",
-        "img": "less-pc.png"
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "title": "Karayolu ulaşım araçları için NB2800",
-        "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Tüm yönlendiriciler CE uyumludur (RED) ve otomotiv tip onayına sahiptir (UNECE R10, UNECE R118). Bazı modeller ITxPT standartlarını destekler.",
-        "link": "/products/router/nb2800/",
-        "img": "/images/products/router/nb2800/nb2800.png"
-      },
-      {
-        "id": 2,
-        "title": "Karayolu ulaşım araçları için Antenna-Coach",
-        "text": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Otomotiv endüstrisindeki üreticilerin ve ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
-        "link": "/products/antenna/coach/",
-        "img": "/images/products/antenna/coach/antenna-coach.png"
-      },
-      {
-        "id": 3,
-        "title": "Demiryolu ulaşım araçları için NB3700",
-        "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır.  Tüm yönlendiriciler CE uyumludur (RED) ve demiryolu tip onayına sahiptir (EN 50155, EN 45545).",
-        "link": "/products/router/nb3700/",
-        "img": "/images/products/router/nb3700/nb3700.png"
-      },
-      {
-        "id": 4,
-        "title": "Demiryolu ulaşım araçları için Antenna-Railway",
-        "text": "Demiryollarında çalışan lokomotif, tren, tramvay, vagon benzeri yolcu veya yük taşıma için uygun araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Demiryolu araçları üreticilerinin veya ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
-        "link": "/products/antenna/railway/",
-        "img": "/images/products/antenna/railway/antenna-railway.png"
-      },
-      {
-        "id": 5,
-        "title": "Merkezi Ağ Yönetimi Yazılımı",
-        "text": "Filonuzdaki araçlarda bulunan mobil ağ yönlendirilerin uzaktan izlenebilmesi, yapılandırılabilmesi için Connectivity Suite yazılımını kullanın. Connectivity Suite, NetModule yönlendirici cihazlarının merkezi bir konumdan güvenli bir şekilde yapılandırılmasını ve yönetilmesini sağlar. Connectivity Suite, işletmenize özel ağ altyapınızı oluşturmak ve tüm NetModule cihazlarını tek bir noktadan yönetmek için geliştirilen kullanımı oldukça basit uzaktan yönetim sistemidir.",
-        "link": "/products/software/cs/",
-        "img": "/images/products/software/cs/cs_gray_bg.png"
-      }
-    ]
-  },
-  "ptt": {
-    "title": "Acil Durumda Sesli İletişim",
-    "description": "Acil durumlarda yardım almak için; operasyon merkezi, emniyet, ambulans gibi ilgili kurumlar ile sesli iletişim kurulmasına olanak sağlayın.",
-    "summary": "Sürüş güvenliğini aksatmaksızın, araçtaki kişilerin araç dışından kişilerle sesli iletişim kurmasına olanak sağlayın. Seyir sırasında karşılaşılacak beklenmedik bir durumda tek tuşla hızlıca ilgili merkezle iletişime geçilsin. Yolcular araç içindeki bas-konuş istasyonundan yardım talebinde bulunabilsin. Çağrıyı yanıtlayan personel aramanın yapıldığı aracı ve konumunu belirleyebilsin.",
-    "heroText": "Acil durumlarda yardım almak için; operasyon merkezi, emniyet, ambulans gibi ilgili kurumlar ile sesli iletişim kurulmasına olanak sağlayın.",
-    "image": "ptt.png",
-    "groupImage": "ptt.png",
-    "group": "transport",
-    "keyProducts": "Router",
-    "benefits": [
-      {
-        "id": 1,
-        "title": "Acil durumda hızlı destek",
-        "text": "Araçta çalışanlar veya yolcular bir düğmeye basarak, operasyon merkezinden veya acil durumlara müdahaleden sorumlu kuruluşlardan yardım alsınlar. Tuşa bastıklarında aynı anda birden fazla numara aranabilsin."
-      },
-      {
-        "id": 2,
-        "title": "Araç bilgilerine hızlı erişim",
-        "text": "Acil destek çağrısını yanıtlayan kişiler, çağrının yapıldığı anda araca ait coğrafi konum bilgilerini kendi bilgisayar ekranlarında görebilsin. Konum bilgilerinin yanı sıra, araçtaki diğer elektronik sistemlerle bağlantı kurarak acil çağrı sırasında, aracın hızı, kat edilen rota, yakıt miktarı, taşınan yükün miktarı, yolcu sayısı gibi önemli bilgiler de ilgili kuruma otomatik olarak aktarılsın."
-      },
-      {
-        "id": 3,
-        "title": "Uzaktan sesli görüşme",
-        "text": "İşletmenin operasyon merkezinden yetkisi olan kişiler, araçtaki GSM numarasını arayarak, araç içerisindeki sesli anons sisteminden yolculara duyuru yapılabilsin. Araçtaki mobil hatta gelen çağrı otomatik olarak yanıtlansın ve varsa araçtaki mikrofondan, eller serbest, şekilde görüşülebilsin."
-      }
-    ],
-    "functionality": [
-      {
-        "id": 1,
-        "title": "Yedekli mobil bağlantılar",
-        "text": "Yolcularınıza güvenli yolculuk deneyimi yaşatın. Aynı anda birden fazla mobil iletişim sağlayıcısının 5G, 4G, 3G teknolojilerini destekleyen mobil ağlarına erişin. Araç hareket halindeyken, sinyal seviyesine bağlı olarak, etkili servis sunan mobil ağa otomatik olarak bağlanılsın. Araçtaki ses iletişimi sağlayan telefon, bas-konuş mikrofonu, hoparlörü gibi diğer aygıtlar ile uyum sağlayan VoLTE, VoIP, PTT teknolojilerini destekleyen NetModule yönlendiricileri tercih edin.",
-        "img": "fast-mobile.png"
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "title": "Karayolu ulaşım araçları için NB2800",
-        "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Sesli iletişim için gerekli VoIP, PTT, VoGSM, VoLTE gibi teknolojileri destekler. Tüm yönlendiriciler CE uyumludur (RED) ve otomotiv tip onayına sahiptir (UNECE R10, UNECE R118). Bazı modeller ITxPT standartlarını destekler.",
-        "link": "/products/router/nb2800/",
-        "img": "/images/products/router/nb2800/nb2800.png"
-      },
-      {
-        "id": 2,
-        "title": "Karayolu ulaşım araçları için Antenna-Coach",
-        "text": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Otomotiv endüstrisindeki üreticilerin ve ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
-        "link": "/products/antenna/coach/",
-        "img": "/images/products/antenna/coach/antenna-coach.png"
-      },
-      {
-        "id": 3,
-        "title": "Demiryolu ulaşım araçları için NB3700",
-        "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Sesli iletişim için gerekli VoIP, PTT, VoGSM, VoLTE gibi teknolojileri destekler. Tüm yönlendiriciler CE uyumludur (RED) ve demiryolu tip onayına sahiptir (EN 50155, EN 45545).",
-        "link": "/products/router/nb3700/",
-        "img": "/images/products/router/nb3700/nb3700.png"
-      },
-      {
-        "id": 4,
-        "title": "Demiryolu ulaşım araçları için Antenna-Railway",
-        "text": "Demiryollarında çalışan lokomotif, tren, tramvay, vagon benzeri yolcu veya yük taşıma için uygun araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Demiryolu araçları üreticilerinin veya ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
-        "link": "/products/antenna/railway/",
-        "img": "/images/products/antenna/railway/antenna-railway.png"
-      },
-      {
-        "id": 5,
-        "title": "Merkezi Ağ Yönetimi Yazılımı",
-        "text": "Filonuzdaki araçlarda bulunan mobil ağ yönlendirilerin uzaktan izlenebilmesi, yapılandırılabilmesi için Connectivity Suite yazılımını kullanın. Connectivity Suite, NetModule yönlendirici cihazlarının merkezi bir konumdan güvenli bir şekilde yapılandırılmasını ve yönetilmesini sağlar. Connectivity Suite, işletmenize özel ağ altyapınızı oluşturmak ve tüm NetModule cihazlarını tek bir noktadan yönetmek için geliştirilen kullanımı oldukça basit uzaktan yönetim sistemidir.",
-        "link": "/products/software/cs/",
-        "img": "/images/products/software/cs/cs_gray_bg.png"
-      }
-    ]
-  },
-  "telematics": {
-    "title": "Toplu Ulaşım İçin Telematik",
-    "description": "Filonuzdaki araçları 7/24 izleyin. Filonuzdaki araçlardan gerçek zamanlı veri toplayarak operasyonel verimliliğinizi artırın. Veriye dayalı kararlar alın.",
-    "summary": "Filonuzdaki tüm araçlarda toplanan tüm verileri filo yönetimi sistemine otomatik olarak aktarılmasını sağlayın. Gecikmeleri önleyerek ve araçların bakım zamanlarını atlamayarak araçların ömrünü uzatın, filonuzun operasyonel sürekliliğini artırın.",
-    "heroText": "Filonuzdaki araçları 7/24 izleyin. Filonuzdaki araçlardan gerçek zamanlı veri toplayarak operasyonel verimliliğinizi artırın. Veriye dayalı kararlar alın.",
-    "image": "telematics.png",
-    "groupImage": "telematics.png",
-    "group": "transport",
-    "keyProducts": "Router",
-    "benefits": [
-      {
-        "id": 1,
-        "title": "Veriye dayalı kararlar alın",
-        "text": "Araçlarınızdaki sensörlerden (konum, hız, araçtaki yolcu sayısı vb) toplanan verilerle, filonuzun performansını gerçek zamanlı izleyin. Verilerinizi kendi veri merkezinizdeki veya buluttaki sunucularda saklayın. İhtiyaç duyduğunuz raporları üretin."
-      },
-      {
-        "id": 2,
-        "title": "Gerçek zamanlı bilgileri paylaşın",
-        "text": "Araçların duraklara tahmini varış saatini, son anda iptal edilen, gecikme yaşanacak seferler, kalkış saatleri gibi önemli bilgileri yolculara aktarabilmek için araçların konum bilgilerinin merkezi veri tabanına kesintsiz ve gecikmeksiz olarak aktarın."
-      },
-      {
-        "id": 3,
-        "title": "Zaman çizelgesine ve hız limitlerine uyun",
-        "text": "Araçların duraklara vardıkları ve duraktan ayrıldıkları saatleri kayıt edin. Telematik verilerini kullanarak rotalarınızda neler olduğunu izleyin. Rotadaki hız limitlerine uyulduğundan emin olun. Böylece hem verimliliği hem de müşteri memnuniyetini artırın."
-      },
-      {
-        "id": 4,
-        "title": "Yakıt tüketimini denetleyin",
-        "text": "Sert frenleme, aşırı rölanti ve verimsiz rotalar kullanmak yakıt maliyetini artırır. Telematik verileri size sürücü, araç ve rota performansı hakkında görünürlük sağlar. Yakıt israfına neyin sebep olduğunu ve nerede harekete geçilmesi gerektiğini öğrenin."
-      }
-    ],
-    "functionality": [
-      {
-        "id": 1,
-        "title": "wwwww",
-        "text": "-------------",
-        "img": "fast-mobile.png"
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "title": "Karayolu ulaşım araçları için NB2800",
-        "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı, CAN veri yolundan alınan telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Tüm yönlendiriciler CE uyumludur (RED) ve otomotiv tip onayına sahiptir (UNECE R10, UNECE R118). Bazı modeller ITxPT standartlarını destekler.",
-        "link": "/products/router/nb2800/",
-        "img": "/images/products/router/nb2800/nb2800.png"
-      },
-      {
-        "id": 2,
-        "title": "Karayolu ulaşım araçları için Antenna-Coach",
-        "text": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Otomotiv endüstrisindeki üreticilerin ve ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
-        "link": "/products/antenna/coach/",
-        "img": "/images/products/antenna/coach/antenna-coach.png"
-      },
-      {
-        "id": 3,
-        "title": "Demiryolu ulaşım araçları için NB3700",
-        "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı, CAN veri yolundan alınan telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Tüm yönlendiriciler CE uyumludur (RED) ve demiryolu tip onayına sahiptir (EN 50155, EN 45545).",
-        "link": "/products/router/nb3700/",
-        "img": "/images/products/router/nb3700/nb3700.png"
-      },
-      {
-        "id": 4,
-        "title": "Demiryolu ulaşım araçları için Antenna-Railway",
-        "text": "Demiryollarında çalışan lokomotif, tren, tramvay, vagon benzeri yolcu veya yük taşıma için uygun araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Demiryolu araçları üreticilerinin veya ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
-        "link": "/products/antenna/railway/",
-        "img": "/images/products/antenna/railway/antenna-railway.png"
-      },
-      {
-        "id": 5,
-        "title": "Merkezi Ağ Yönetimi Yazılımı",
-        "text": "Filonuzdaki araçlarda bulunan mobil ağ yönlendirilerin uzaktan izlenebilmesi, yapılandırılabilmesi için Connectivity Suite yazılımını kullanın. Connectivity Suite, NetModule yönlendirici cihazlarının merkezi bir konumdan güvenli bir şekilde yapılandırılmasını ve yönetilmesini sağlar. Connectivity Suite, işletmenize özel ağ altyapınızı oluşturmak ve tüm NetModule cihazlarını tek bir noktadan yönetmek için geliştirilen kullanımı oldukça basit uzaktan yönetim sistemidir.",
-        "link": "/products/software/cs/",
-        "img": "/images/products/software/cs/cs_gray_bg.png"
-      }
-    ]
-  },
-  "wifi": {
-    "title": "Yolcular için WiFi",
-    "description": "Yolcularınız, mobil cihazlarından (akıllı telefon, tablet, dizüstü bilgisayar) araç içindeki kablosuz ağa bağlansınlar ve internete erişebilsinler.",
-    "summary": "Araçtaki yüksek çözünürlüklü ekranlardan yolcularınıza yaklaşılmakta olan duraklara tahmini varış sürelerini, aracın rotadaki konumunu, gerçek zamanlı yol, hava ve trafik durumu bilgilerini, varılacak duraklardaki diğer toplu taşıma sistemlerinin zaman çizelgelerini, gecikme ve iptal edien seferleri gösterin. Gündeme dair önemli haberleri ve hizmetlerinizi anlatan videolar izletin. Aracın rotasına, tarihe, saate veya coğrafi konuma bağlı olarak değişebilen reklamlardan gelir elde edinin. Yolcularınıza seyahatleri sırasında hoş zaman geçirmelerini sağlayacak ilgi çekici kısa videolar izletin.",
-    "heroText": "Yolcularınız, mobil cihazlarından (akıllı telefon, tablet, dizüstü bilgisayar) araç içindeki kablosuz ağa bağlansınlar ve internete erişebilsinler.",
-    "image": "passenger-wifi.png",
-    "groupImage": "passenger-wifi.png",
-    "group": "transport",
-    "keyProducts": "Router",
-    "benefits": [
-      {
-        "id": 1,
-        "title": "Müşteri deneyimini iyileştirin",
-        "text": "Yolcularınız internete bağlansın. Benzersiz müşteri deneyimi için yolcularınızı kendi dijital dünyalarına bağlı tutun. Akıllı mobil cihazlarını (akıllı telefon, tablet, dizüstü bilgisayar) yanlarından ayırmayan yolcularınız, seyahatleri süresince internete bağlanabilsin. Araç içi WiFi ile izin verdiğiniz internet sitelerine, sosyal medya hesaplarına, e-postalarına, çevrimiçi seyahat bilgilerine, haberlere, günlük gazetelere erişsinler."
-      },
-      {
-        "id": 2,
-        "title": "Pazarlama kanalı olarak WiFi",
-        "text": "Yolcularınız oturum açmak için e-posta adreslerini veya mobil telefon numaralarını kullanacaklar. İzinlerini alarak onlara kampanyalarınız hakkında içerik gönderin. Oturum başlatma ekranından dilek ve isteklerini iletsinler. Memnuniyet anketinize katılsınlar."
-      }
-    ],
-    "functionality": [
-      {
-        "id": 1,
-        "title": "Araç içinde etkin WiFi kapsama alanı oluşturun",
-        "text": "Yolcular mobil aygıtlarından araçtaki WiFi ağına bağlanıp, internete erişebilsin. WiFi erişim noktasına bağlantı sırasında görüntülenen kullanıcı kimliği belirleme ekranında (Captive Portal olarak anılır) yolculara; Aracın kalkış ve varış saatlerini, yaklaşılan durağa varış süresini, olası gecikme ve benzeri dinamik bilgileri yayınlayın. Araç içinde etkin WiFi kapsamı oluşturmak için WiFi Erişim Noktası olarak yapılandırılabilen karayolu araçları için NB2800 ve demiryolu araçları için NB3700 serisi mobil ağ yönlendiricileri tercih edin.",
-        "img": "perfect-wifi.png"
-      },
-      {
-        "id": 2,
-        "title": "Yedekli mobil internet",
-        "text": "Yolcularınıza kesintisiz ve kaliteli bir internet deneyimi yaşatın. Aynı anda birden fazla mobil internet servis sağlayıcısının 5G, 4G, 3G teknolojilerini destekleyen mobil ağlarına erişin. Araç hareket halindeyken, sinyal seviyesine bağlı olarak, etkili servis sunan mobil ağa otomatik olarak bağlansın. Tren içinde vagon değiştiren yolcuların WiFi bağlantıları kesilmesin. Araçlarınız içinde etkili WiFi kapsamı oluşturmak, mobil ağlara bağlanmak ve araçlarınızdaki tüm ağ bileşenlerinin merkezden yönetimi için NetModule ürünlerini tercih edin.",
-        "img": "fast-mobile.png"
-      },
-      {
-        "id": 3,
-        "title": "İşletmenize özel oturum başlatma ekranı",
-        "text": "Yolcularınız kendi cihazlarıyla (akıllı telefon, tablet vey dizüstü bilgisayar) internete erişmek istediklerinde, işletmeniz için özel olarak tasarlanan, doğrulama ekranı ile karşılanır. İşletmenizin belirleyeceği kullanım şartlarını okuyup onaylayan yolcuların internete erişebilmesine izin verilir.",
-        "img": "captive.png"
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "title": "Karayolu ulaşım araçları için NB2800",
-        "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Tüm yönlendiriciler CE uyumludur (RED) ve otomotiv tip onayına sahiptir (UNECE R10, UNECE R118). Bazı modeller ITxPT standartlarını destekler.",
-        "link": "/products/router/nb2800/",
-        "img": "/images/products/router/nb2800/nb2800.png"
-      },
-      {
-        "id": 2,
-        "title": "Karayolu ulaşım araçları için Antenna-Coach",
-        "text": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Otomotiv endüstrisindeki üreticilerin ve ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
-        "link": "/products/antenna/coach/",
-        "img": "/images/products/antenna/coach/antenna-coach.png"
-      },
-      {
-        "id": 3,
-        "title": "Demiryolu ulaşım araçları için NB3700",
-        "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır.  Tüm yönlendiriciler CE uyumludur (RED) ve demiryolu tip onayına sahiptir (EN 50155, EN 45545).",
-        "link": "/products/router/nb3700/",
-        "img": "/images/products/router/nb3700/nb3700.png"
-      },
-      {
-        "id": 4,
-        "title": "Demiryolu ulaşım araçları için Antenna-Railway",
-        "text": "Demiryollarında çalışan lokomotif, tren, tramvay, vagon benzeri yolcu veya yük taşıma için uygun araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Demiryolu araçları üreticilerinin veya ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
-        "link": "/products/antenna/railway/",
-        "img": "/images/products/antenna/railway/antenna-railway.png"
-      },
-      {
-        "id": 5,
-        "title": "Merkezi Ağ Yönetimi Yazılımı",
-        "text": "Filonuzdaki araçlarda bulunan mobil ağ yönlendirilerin uzaktan izlenebilmesi, yapılandırılabilmesi için Connectivity Suite yazılımını kullanın. Connectivity Suite, NetModule yönlendirici cihazlarının merkezi bir konumdan güvenli bir şekilde yapılandırılmasını ve yönetilmesini sağlar. Connectivity Suite, işletmenize özel ağ altyapınızı oluşturmak ve tüm NetModule cihazlarını tek bir noktadan yönetmek için geliştirilen kullanımı oldukça basit uzaktan yönetim sistemidir.",
-        "link": "/products/software/cs/",
-        "img": "/images/products/software/cs/cs_gray_bg.png"
-      }
-    ]
+  "transport": {
+    "cctv": {
+      "title": "Araçta Güvenlik Kameraları",
+      "description": "Yolcularınızın güvenliği için araca IP tabanlı kameralar yerleştirin. Yolcuların ve eşyalarının güvenli bir şekilde taşınmasını sağlayın.",
+      "summary": "Güvenli yolculuk deneyimi için araçta video gözetimi yardımı ile hırsızlık, vandalizm veya saldırı gibi istenmeyen durumları önleyin. Araçlarınızın içinde ve çevresinde neler olduğunu her yerden ve her zaman izleyin, kayıt edin ve arşivleyin. Yolculara ait eşyaların ve kargonun güvenli taşınmasını sağlayın. Kazaları veya istenmeyen olayları inceleyin. Sürücü performansını değerlendirin.",
+      "heroText": "Yolcularınızın güvenliği için araca IP tabanlı kameralar yerleştirin. Yolcuların ve eşyalarının güvenli bir şekilde taşınmasını sağlayın.",
+      "image": "cctv.png",
+      "groupImage": "cctv.png",
+      "group": "transport",
+      "keyProducts": "Router",
+      "benefits": [
+        {
+          "id": 1,
+          "title": "İstenmeyen olumsuz olayların önüne geçin",
+          "text": "Araç içindeki kameralardan görüntü alındığını görenler, vandalizm, hırsızlık, saldırı gibi istenmeyen olumsuz davranışlarda bulunmaktan çekinecektir. Aldığınız önlemlere rağmen yaşanacak şikayet konusu olaylarda, kayıt edilmiş veya canlı görüntülere dayalı doğru, hızlı ve etkili bir tepki verin."
+        },
+        {
+          "id": 2,
+          "title": "Aldatılmayın",
+          "text": "Yönlendiricide oluşturulan geniş depolama alanında arşivlenen görüntü kayıtlarınızı yönetin. Bunları periyodik olarak buluttaki veya kendi veri merkezinizdeki depolama alanlarınıza arşivleyin. İşletmenizi sigorta dolandırıcılığından, yanlış iddialardan ve çelişkili raporlardan koruyun."
+        },
+        {
+          "id": 3,
+          "title": "Sürüş güvenliğini denetleyin",
+          "text": "Araç içindeki herkesin can güvenliğini riske atacak, sürüş esnasında mobil telefon kullanmak, uykulu sürüş gibi uygunsuz sürücü davranışlarının önüne geçin."
+        }
+      ],
+      "functionality": [
+        {
+          "id": 1,
+          "title": "Araçtaki kameralara uzaktan erişin",
+          "text": "Araçtaki kameraların canlı/arşiv görüntülerine uzaktan erişmek için yüksek hızlı, güvenli ve kesintsiz kablosuz ağ bağlantıların kurulması amacıyla karayolu araçlarında NB2800, demiryolu araçlarında ise NB3700 serisi mobil ağ yönlendiricilerini tercih edin.",
+          "img": "remote-cctv.png"
+        },
+        {
+          "id": 3,
+          "title": "Araçta yüksek kapasiteli kayıt depolama alanı",
+          "text": "Araçtaki kameralarca kaydedilen video görüntüleri, NetModule yönlendiricideki 1 TB kapasiteli katı hal sabit diskinde (Solid-State-Disk, 'SSD') kopyalansın. Depolanan görüntü kayıtları, araçtaki 5G/4G/3G destekli mobil ağ bağlantısı veya aracın vardığı duraktaki WiFi bağlantısı üzerinden, işletme merkezindeki veya buluttaki arşivleme sistemine otomatik olarak aktarılsın.",
+          "img": "ssd.png"
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "Karayolu ulaşım araçları için NB2800",
+          "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini ve araçtaki kameraların kayıtlarını periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Tüm yönlendiriciler CE uyumludur (RED) ve otomotiv tip onayına sahiptir (UNECE R10, UNECE R118). Bazı modeller ITxPT standartlarını destekler.",
+          "link": "/products/router/nb2800/",
+          "img": "/images/products/router/nb2800/nb2800.png"
+        },
+        {
+          "id": 2,
+          "title": "Karayolu ulaşım araçları için Antenna-Coach",
+          "text": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Otomotiv endüstrisindeki üreticilerin ve ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
+          "link": "/products/antenna/coach/",
+          "img": "/images/products/antenna/coach/antenna-coach.png"
+        },
+        {
+          "id": 3,
+          "title": "Demiryolu ulaşım araçları için NB3700",
+          "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini ve araçtaki kameraların kayıtlarını  periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Tüm yönlendiriciler CE uyumludur (RED) ve demiryolu tip onayına sahiptir (EN 50155, EN 45545).",
+          "link": "/products/router/nb3700/",
+          "img": "/images/products/router/nb3700/nb3700.png"
+        },
+        {
+          "id": 4,
+          "title": "Demiryolu ulaşım araçları için Antenna-Railway",
+          "text": "Demiryollarında çalışan lokomotif, tren, tramvay, vagon benzeri yolcu veya yük taşıma için uygun araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Demiryolu araçları üreticilerinin veya ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
+          "link": "/products/antenna/railway/",
+          "img": "/images/products/antenna/railway/antenna-railway.png"
+        },
+        {
+          "id": 5,
+          "title": "Merkezi Ağ Yönetimi Yazılımı",
+          "text": "Filonuzdaki araçlarda bulunan mobil ağ yönlendirilerin uzaktan izlenebilmesi, yapılandırılabilmesi için Connectivity Suite yazılımını kullanın. Connectivity Suite, NetModule yönlendirici cihazlarının merkezi bir konumdan güvenli bir şekilde yapılandırılmasını ve yönetilmesini sağlar. Connectivity Suite, işletmenize özel ağ altyapınızı oluşturmak ve tüm NetModule cihazlarını tek bir noktadan yönetmek için geliştirilen kullanımı oldukça basit uzaktan yönetim sistemidir.",
+          "link": "/products/software/cs/",
+          "img": "/images/products/software/cs/cs_gray_bg.png"
+        }
+      ]
+    },
+    "media": {
+      "title": "Çevrimdışı Video ve Müzik",
+      "description": "Yolcularınız kendi cihazları ile araçtaki elektronik içerik havuzuna, internet bağlantısı gerekmeksizin, erişsin. Film izlesinler, müzik dinlesinler, kitap, gazete veya dergi okusunlar.",
+      "summary": "Yolcularınız kendi akıllı telefon, tablet veya dizüstü bilgisayarlarını kullanarak, internet erişimi gerekmeksizin, seyahat bilgilerine, gazetelerin/dergilerin/kitapların dijital kopyalarına, seçecekleri filmlere, dizilere, müzik kanallarına ve daha fazlasına erişsin. Kendi mobil cihazlarını ve kulaklıklarını kullanacaklarından hijyeni dert etmesinler.",
+      "heroText": "Yolcularınız kendi cihazları ile araçtaki elektronik içerik havuzuna, internet bağlantısı gerekmeksizin, erişsin. Film izlesinler, müzik dinlesinler, kitap, gazete veya dergi okusunlar.",
+      "image": "offline-archive.png",
+      "groupImage": "offline-archive.png",
+      "group": "transport",
+      "keyProducts": "Router",
+      "benefits": [
+        {
+          "id": 1,
+          "title": "Yolcularınızı can sıkıntısından kurtarın",
+          "text": "Yolcukları süresince izledikleri eğlenceli içerik sayesinde hoş bir deneyim yaşayan yolcularınız markanıza sadık kalacaktır. \"Yolcularınız kendi akıllı cihazlarını (akıllı telefonlar, tabletler, dizüstü bilgisayarlar) kullanarak, en yeni filmlere, dizilere ve müziklere erişsinler. Araçlarınızda hoş zaman geçirsinler."
+        },
+        {
+          "id": 2,
+          "title": "Ek gelir olanağı",
+          "text": "Yolcularınız seçtikleri, telif hakkı gerektirmeyen içeriğe ücret ödemeden ulaşsın. Dilerseniz ücretsiz olarak yayınlanacak içeriği oynatmaya başlamadan önce oynatılacak reklamlardan gelir elde edin. Telif hakkı ödenecek içerik için ise -dilerseniz- yolcularınız ücret ödeyebilirler."
+        }
+      ],
+      "functionality": [
+        {
+          "id": 1,
+          "title": "Araç içinde etkin WiFi kapsama alanı oluşturun",
+          "text": "Güncel sefer bilgilerini araç içindeki LCD ekranlardan gösterin. Yolcular Android ve iOS destekli akıllı telefonlarından araçtaki WiFi ağına bağlanıp, dilediği bilgiye gerçek zamanlı erişelebilsin. Aracın kalkış ve varış saatlerini, araçtaki doluluk oranını, dijital harita üzerinden anlık konumu, yaklaşılan durağa varış süresini ve benzeri dinamik bilgileri yayınlayın. Araçtaki dijital ekranlarınızın ağ bağlantısı için WiFi kullanın, araç içinde Ethernet kablosu masrafından kurtulun. Araç içinde etkin WiFi kapsamı oluşturmak için WiFi Erişim Noktası olarak yapılandırılabilen karayolu araçları için NB2800 ve demiryolu araçları için NB3700 serisi mobil ağ yönlendiricileri tercih edin.",
+          "img": "perfect-wifi.png"
+        },
+        {
+          "id": 2,
+          "title": "Araç dışındaki sistemler ile hızlı kablosuz bağlantılar kurun",
+          "text": "Merkezi içerik yönetimi sistemine bağlanarak oynatılacak geniş yer kaplayan zengin içeriğin (video, ses vb.) araçtaki içerik sunucusuna indirilmesi, veri sağlayıcı (trafik, sefer, zaman çizelgesi vb.) sunuculardan güncel verilerin alınması, araçtaki telematik verilerinin ilgili merkezi veri tabanlarına aktarılması, uydu bağlantıları kurarak konumun belirlenebilmesi gibi işlemler için yüksek hızlı, güvenli, kesintsiz mobil ağ bağlantıların kurulması amacıyla karayolu araçlarında NB2800 ve demiryolu araçlarında NB3700 serisi mobil ağ yönlendiricileri tercih edin.",
+          "img": "multi-wireless.png"
+        },
+        {
+          "id": 3,
+          "title": "Araçtaki bilgisayar sayısını azaltın",
+          "text": "Yolcuların izleyecekleri içeriğin saklandığı, saklanan içeriğin araç içi kablolu veya kablosuz ağ üzerinden yayınlandığı sunucu için dedike bir bilgisayar kullanmanıza gerek yok. İçerik sunucusunun yazılımını, karayolu araçlarında NB2800 ve demiryolu araçlarında ise NB3700 serisi mobil ağ yönlendiricilerdeki seçimlik sunulan dahili 1 TB veri saklama kapasitesine ve Linux tabanlı işletim sistemine sahip sanal bilgisayara kurun. Araçtaki bilgisayar sayısını azaltın.",
+          "img": "less-pc.png"
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "Karayolu ulaşım araçları için NB2800",
+          "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Tüm yönlendiriciler CE uyumludur (RED) ve otomotiv tip onayına sahiptir (UNECE R10, UNECE R118). Bazı modeller ITxPT standartlarını destekler.",
+          "link": "/products/router/nb2800/",
+          "img": "/images/products/router/nb2800/nb2800.png"
+        },
+        {
+          "id": 2,
+          "title": "Karayolu ulaşım araçları için Antenna-Coach",
+          "text": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Otomotiv endüstrisindeki üreticilerin ve ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
+          "link": "/products/antenna/coach/",
+          "img": "/images/products/antenna/coach/antenna-coach.png"
+        },
+        {
+          "id": 3,
+          "title": "Demiryolu ulaşım araçları için NB3700",
+          "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır.  Tüm yönlendiriciler CE uyumludur (RED) ve demiryolu tip onayına sahiptir (EN 50155, EN 45545).",
+          "link": "/products/router/nb3700/",
+          "img": "/images/products/router/nb3700/nb3700.png"
+        },
+        {
+          "id": 4,
+          "title": "Demiryolu ulaşım araçları için Antenna-Railway",
+          "text": "Demiryollarında çalışan lokomotif, tren, tramvay, vagon benzeri yolcu veya yük taşıma için uygun araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Demiryolu araçları üreticilerinin veya ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
+          "link": "/products/antenna/railway/",
+          "img": "/images/products/antenna/railway/antenna-railway.png"
+        },
+        {
+          "id": 5,
+          "title": "Merkezi Ağ Yönetimi Yazılımı",
+          "text": "Filonuzdaki araçlarda bulunan mobil ağ yönlendirilerin uzaktan izlenebilmesi, yapılandırılabilmesi için Connectivity Suite yazılımını kullanın. Connectivity Suite, NetModule yönlendirici cihazlarının merkezi bir konumdan güvenli bir şekilde yapılandırılmasını ve yönetilmesini sağlar. Connectivity Suite, işletmenize özel ağ altyapınızı oluşturmak ve tüm NetModule cihazlarını tek bir noktadan yönetmek için geliştirilen kullanımı oldukça basit uzaktan yönetim sistemidir.",
+          "link": "/products/software/cs/",
+          "img": "/images/products/software/cs/cs_gray_bg.png"
+        }
+      ]
+    },
+    "pis": {
+      "title": "Yolcu Bilgilendirme Sistemi",
+      "description": "Yolcularınızı, bilgilendirmek, eğlendirmek için terminallerde, duraklarda veya araçlardaki ekranlardan dinamilk içerik yayınlayın. Yolcu deneyimini iyileştirin. Bekleme sürelerini azaltın. Güzergah, kalkış/varış zamanlarını, gecikmeleri yayınlayın.",
+      "summary": "Araçtaki yüksek çözünürlüklü ekranlardan yolcularınıza yaklaşılmakta olan duraklara tahmini varış sürelerini, aracın rotadaki konumunu, gerçek zamanlı yol, hava ve trafik durumu bilgilerini, varılacak duraklardaki diğer toplu taşıma sistemlerinin zaman çizelgelerini, gecikme ve iptal edien seferleri gösterin. Gündeme dair önemli haberleri ve hizmetlerinizi anlatan videolar izletin. Aracın rotasına, tarihe, saate veya coğrafi konuma bağlı olarak değişebilen reklamlardan gelir elde edinin. Yolcularınıza seyahatleri sırasında hoş zaman geçirmelerini sağlayacak ilgi çekici kısa videolar izletin.",
+      "heroText": "Araçlarınızdaki ekranlardan yolcularınızı bilgilendirin, seferler ve yol durumu hakkında gerçek zamanlı bilgi paylaşın. Eğlenceli videolar oynatın.",
+      "image": "passenger-info.png",
+      "groupImage": "passenger-info.png",
+      "group": "transport",
+      "keyProducts": "Router",
+      "benefits": [
+        {
+          "id": 1,
+          "title": "Yolcularınızla iletişiminizi güçlendirin",
+          "text": "Güncel ve doğru bilgiler sunarak yolcularınızın markanıza güvenmelerini sağlayın. Araçtaki yüksek çözünürlüklü ekranlardan veya mobil aygıtlarınan yolcularınıza yaklaşılmakta olan duraklara tahmini varış sürelerini, aracın rotadaki konumunu, gerçek zamanlı yol, hava ve trafik durumu bilgilerini, varılacak duraklardaki diğer toplu taşıma sistemlerinin zaman çizelgelerini gösterin. Gündeme dair önemli haberleri ve hizmetlerinizi anlatan videolar izletin. Aracın rotasına, tarihe, saate veya coğrafi konuma bağlı olarak değişebilen reklamlardan gelir elde edinin. Yolcularınıza seyahatleri sırasında hoş zaman geçirmelerini sağlayacak ilgi çekici kısa videolar izletin."
+        },
+        {
+          "id": 2,
+          "title": "Dinamik ve gerçek zamanlı bilgi paylaşın",
+          "text": "Yolcularınızın araç içindeyken gerçek zamanlı bilgiye erişmesini sağlayın. Yolcularınıza planlı, güvenli ve keyifli seyahat deneyimi yaşatın. Yolcularınız; duraklara tahmini varış zamanlarını, varılacak duraktaki diğer rotalara transfer seçeneklerini, rotada kat edilmiş ve edilecek yolu, trafiğin, havanın durumunu, olası geciklemeleri ve daha fazlasını görebilsinler."
+        },
+        {
+          "id": 3,
+          "title": "İşletmeniz için ek gelir kanalı oluşturun",
+          "text": "Araçtaki ekranlardan yolcularınıza ilgi ekici, eğlenceli, bilgilendirici kısa videolar, öne çıkan haberler ile arada sırada oynatacağınız reklam videoları izletin. Aracın rotasına, tarihe, saate veya coğrafi konumuna bağlı olarak değişebilen bu reklamlardan gelir elde edinin."
+        },
+        {
+          "id": 4,
+          "title": "Güvenliği artırın",
+          "text": "Araç içi güvenlik kameralarından alınan canlı görüntülerin ekranlarda izletin. Araç içerisinde yaşanmasını istemediğiniz vandalizm, hırsızlık, saldırı gibi olayların önüne geçin. Sefer sırasında alınan tüm kayıtları merkezi veri tabanında otomatik olarak arşivleyin."
+        }
+      ],
+      "functionality": [
+        {
+          "id": 1,
+          "title": "Araç içinde etkin WiFi kapsama alanı oluşturun",
+          "text": "Güncel sefer bilgilerini araç içindeki LCD ekranlardan gösterin. Yolcular Android ve iOS destekli akıllı telefonlarından araçtaki WiFi ağına bağlanıp, dilediği bilgiye gerçek zamanlı erişelebilsin. Aracın kalkış ve varış saatlerini, araçtaki doluluk oranını, dijital harita üzerinden anlık konumu, yaklaşılan durağa varış süresini ve benzeri dinamik bilgileri yayınlayın. Araçtaki dijital ekranlarınızın ağ bağlantısı için WiFi kullanın, araç içinde Ethernet kablosu masrafından kurtulun. Araç içinde etkin WiFi kapsamı oluşturmak için WiFi Erişim Noktası olarak yapılandırılabilen karayolu araçları için NB2800 ve demiryolu araçları için NB3700 serisi mobil ağ yönlendiricileri tercih edin.",
+          "img": "perfect-wifi.png"
+        },
+        {
+          "id": 2,
+          "title": "Araç dışındaki sistemler ile hızlı kablosuz bağlantılar kurun",
+          "text": "Merkezi içerik yönetimi sistemine bağlanarak oynatılacak geniş yer kaplayan zengin içeriğin (video, ses vb.) araçtaki içerik sunucusuna indirilmesi, veri sağlayıcı (trafik, sefer, zaman çizelgesi vb.) sunuculardan güncel verilerin alınması, araçtaki telematik verilerinin ilgili merkezi veri tabanlarına aktarılması, uydu bağlantıları kurarak konumun belirlenebilmesi gibi işlemler için yüksek hızlı, güvenli, kesintsiz kablosuz ağ bağlantıların kurulması amacıyla karayolu araçlarında NB2800 ve demiryolu araçlarında NB3700 serisi mobil ağ yönlendiricileri tercih edin.",
+          "img": "multi-wireless.png"
+        },
+        {
+          "id": 3,
+          "title": "Araçtaki bilgisayar sayısını azaltın",
+          "text": "Yolcuların izleyecekleri içeriğin saklandığı, saklanan içeriğin araç içi kablolu veya kablosuz ağ üzerinden yayınlandığı sunucu için dedike bir bilgisayar kullanmanıza gerek yok. İçerik sunucusunun yazılımını, karayolu araçlarında NB2800 ve demiryolu araçlarında ise NB3700 serisi mobil ağ yönlendiricilerdeki seçimlik sunulan dahili 1 TB veri saklama kapasitesine ve Linux tabanlı işletim sistemine sahip sanal bilgisayara kurun. Araçtaki bilgisayar sayısını azaltın.",
+          "img": "less-pc.png"
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "Karayolu ulaşım araçları için NB2800",
+          "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Tüm yönlendiriciler CE uyumludur (RED) ve otomotiv tip onayına sahiptir (UNECE R10, UNECE R118). Bazı modeller ITxPT standartlarını destekler.",
+          "link": "/products/router/nb2800/",
+          "img": "/images/products/router/nb2800/nb2800.png"
+        },
+        {
+          "id": 2,
+          "title": "Karayolu ulaşım araçları için Antenna-Coach",
+          "text": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Otomotiv endüstrisindeki üreticilerin ve ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
+          "link": "/products/antenna/coach/",
+          "img": "/images/products/antenna/coach/antenna-coach.png"
+        },
+        {
+          "id": 3,
+          "title": "Demiryolu ulaşım araçları için NB3700",
+          "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır.  Tüm yönlendiriciler CE uyumludur (RED) ve demiryolu tip onayına sahiptir (EN 50155, EN 45545).",
+          "link": "/products/router/nb3700/",
+          "img": "/images/products/router/nb3700/nb3700.png"
+        },
+        {
+          "id": 4,
+          "title": "Demiryolu ulaşım araçları için Antenna-Railway",
+          "text": "Demiryollarında çalışan lokomotif, tren, tramvay, vagon benzeri yolcu veya yük taşıma için uygun araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Demiryolu araçları üreticilerinin veya ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
+          "link": "/products/antenna/railway/",
+          "img": "/images/products/antenna/railway/antenna-railway.png"
+        },
+        {
+          "id": 5,
+          "title": "Merkezi Ağ Yönetimi Yazılımı",
+          "text": "Filonuzdaki araçlarda bulunan mobil ağ yönlendirilerin uzaktan izlenebilmesi, yapılandırılabilmesi için Connectivity Suite yazılımını kullanın. Connectivity Suite, NetModule yönlendirici cihazlarının merkezi bir konumdan güvenli bir şekilde yapılandırılmasını ve yönetilmesini sağlar. Connectivity Suite, işletmenize özel ağ altyapınızı oluşturmak ve tüm NetModule cihazlarını tek bir noktadan yönetmek için geliştirilen kullanımı oldukça basit uzaktan yönetim sistemidir.",
+          "link": "/products/software/cs/",
+          "img": "/images/products/software/cs/cs_gray_bg.png"
+        }
+      ]
+    },
+    "ptt": {
+      "title": "Acil Durumda Sesli İletişim",
+      "description": "Acil durumlarda yardım almak için; operasyon merkezi, emniyet, ambulans gibi ilgili kurumlar ile sesli iletişim kurulmasına olanak sağlayın.",
+      "summary": "Sürüş güvenliğini aksatmaksızın, araçtaki kişilerin araç dışından kişilerle sesli iletişim kurmasına olanak sağlayın. Seyir sırasında karşılaşılacak beklenmedik bir durumda tek tuşla hızlıca ilgili merkezle iletişime geçilsin. Yolcular araç içindeki bas-konuş istasyonundan yardım talebinde bulunabilsin. Çağrıyı yanıtlayan personel aramanın yapıldığı aracı ve konumunu belirleyebilsin.",
+      "heroText": "Acil durumlarda yardım almak için; operasyon merkezi, emniyet, ambulans gibi ilgili kurumlar ile sesli iletişim kurulmasına olanak sağlayın.",
+      "image": "ptt.png",
+      "groupImage": "ptt.png",
+      "group": "transport",
+      "keyProducts": "Router",
+      "benefits": [
+        {
+          "id": 1,
+          "title": "Acil durumda hızlı destek",
+          "text": "Araçta çalışanlar veya yolcular bir düğmeye basarak, operasyon merkezinden veya acil durumlara müdahaleden sorumlu kuruluşlardan yardım alsınlar. Tuşa bastıklarında aynı anda birden fazla numara aranabilsin."
+        },
+        {
+          "id": 2,
+          "title": "Araç bilgilerine hızlı erişim",
+          "text": "Acil destek çağrısını yanıtlayan kişiler, çağrının yapıldığı anda araca ait coğrafi konum bilgilerini kendi bilgisayar ekranlarında görebilsin. Konum bilgilerinin yanı sıra, araçtaki diğer elektronik sistemlerle bağlantı kurarak acil çağrı sırasında, aracın hızı, kat edilen rota, yakıt miktarı, taşınan yükün miktarı, yolcu sayısı gibi önemli bilgiler de ilgili kuruma otomatik olarak aktarılsın."
+        },
+        {
+          "id": 3,
+          "title": "Uzaktan sesli görüşme",
+          "text": "İşletmenin operasyon merkezinden yetkisi olan kişiler, araçtaki GSM numarasını arayarak, araç içerisindeki sesli anons sisteminden yolculara duyuru yapılabilsin. Araçtaki mobil hatta gelen çağrı otomatik olarak yanıtlansın ve varsa araçtaki mikrofondan, eller serbest, şekilde görüşülebilsin."
+        }
+      ],
+      "functionality": [
+        {
+          "id": 1,
+          "title": "Yedekli mobil bağlantılar",
+          "text": "Yolcularınıza güvenli yolculuk deneyimi yaşatın. Aynı anda birden fazla mobil iletişim sağlayıcısının 5G, 4G, 3G teknolojilerini destekleyen mobil ağlarına erişin. Araç hareket halindeyken, sinyal seviyesine bağlı olarak, etkili servis sunan mobil ağa otomatik olarak bağlanılsın. Araçtaki ses iletişimi sağlayan telefon, bas-konuş mikrofonu, hoparlörü gibi diğer aygıtlar ile uyum sağlayan VoLTE, VoIP, PTT teknolojilerini destekleyen NetModule yönlendiricileri tercih edin.",
+          "img": "fast-mobile.png"
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "Karayolu ulaşım araçları için NB2800",
+          "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Sesli iletişim için gerekli VoIP, PTT, VoGSM, VoLTE gibi teknolojileri destekler. Tüm yönlendiriciler CE uyumludur (RED) ve otomotiv tip onayına sahiptir (UNECE R10, UNECE R118). Bazı modeller ITxPT standartlarını destekler.",
+          "link": "/products/router/nb2800/",
+          "img": "/images/products/router/nb2800/nb2800.png"
+        },
+        {
+          "id": 2,
+          "title": "Karayolu ulaşım araçları için Antenna-Coach",
+          "text": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Otomotiv endüstrisindeki üreticilerin ve ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
+          "link": "/products/antenna/coach/",
+          "img": "/images/products/antenna/coach/antenna-coach.png"
+        },
+        {
+          "id": 3,
+          "title": "Demiryolu ulaşım araçları için NB3700",
+          "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Sesli iletişim için gerekli VoIP, PTT, VoGSM, VoLTE gibi teknolojileri destekler. Tüm yönlendiriciler CE uyumludur (RED) ve demiryolu tip onayına sahiptir (EN 50155, EN 45545).",
+          "link": "/products/router/nb3700/",
+          "img": "/images/products/router/nb3700/nb3700.png"
+        },
+        {
+          "id": 4,
+          "title": "Demiryolu ulaşım araçları için Antenna-Railway",
+          "text": "Demiryollarında çalışan lokomotif, tren, tramvay, vagon benzeri yolcu veya yük taşıma için uygun araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Demiryolu araçları üreticilerinin veya ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
+          "link": "/products/antenna/railway/",
+          "img": "/images/products/antenna/railway/antenna-railway.png"
+        },
+        {
+          "id": 5,
+          "title": "Merkezi Ağ Yönetimi Yazılımı",
+          "text": "Filonuzdaki araçlarda bulunan mobil ağ yönlendirilerin uzaktan izlenebilmesi, yapılandırılabilmesi için Connectivity Suite yazılımını kullanın. Connectivity Suite, NetModule yönlendirici cihazlarının merkezi bir konumdan güvenli bir şekilde yapılandırılmasını ve yönetilmesini sağlar. Connectivity Suite, işletmenize özel ağ altyapınızı oluşturmak ve tüm NetModule cihazlarını tek bir noktadan yönetmek için geliştirilen kullanımı oldukça basit uzaktan yönetim sistemidir.",
+          "link": "/products/software/cs/",
+          "img": "/images/products/software/cs/cs_gray_bg.png"
+        }
+      ]
+    },
+    "telematics": {
+      "title": "Toplu Ulaşım İçin Telematik",
+      "description": "Filonuzdaki araçları 7/24 izleyin. Filonuzdaki araçlardan gerçek zamanlı veri toplayarak operasyonel verimliliğinizi artırın. Veriye dayalı kararlar alın.",
+      "summary": "Filonuzdaki tüm araçlarda toplanan tüm verileri filo yönetimi sistemine otomatik olarak aktarılmasını sağlayın. Gecikmeleri önleyerek ve araçların bakım zamanlarını atlamayarak araçların ömrünü uzatın, filonuzun operasyonel sürekliliğini artırın.",
+      "heroText": "Filonuzdaki araçları 7/24 izleyin. Filonuzdaki araçlardan gerçek zamanlı veri toplayarak operasyonel verimliliğinizi artırın. Veriye dayalı kararlar alın.",
+      "image": "telematics.png",
+      "groupImage": "telematics.png",
+      "group": "transport",
+      "keyProducts": "Router",
+      "benefits": [
+        {
+          "id": 1,
+          "title": "Veriye dayalı kararlar alın",
+          "text": "Araçlarınızdaki sensörlerden (konum, hız, araçtaki yolcu sayısı vb) toplanan verilerle, filonuzun performansını gerçek zamanlı izleyin. Verilerinizi kendi veri merkezinizdeki veya buluttaki sunucularda saklayın. İhtiyaç duyduğunuz raporları üretin."
+        },
+        {
+          "id": 2,
+          "title": "Gerçek zamanlı bilgileri paylaşın",
+          "text": "Araçların duraklara tahmini varış saatini, son anda iptal edilen, gecikme yaşanacak seferler, kalkış saatleri gibi önemli bilgileri yolculara aktarabilmek için araçların konum bilgilerinin merkezi veri tabanına kesintsiz ve gecikmeksiz olarak aktarın."
+        },
+        {
+          "id": 3,
+          "title": "Zaman çizelgesine ve hız limitlerine uyun",
+          "text": "Araçların duraklara vardıkları ve duraktan ayrıldıkları saatleri kayıt edin. Telematik verilerini kullanarak rotalarınızda neler olduğunu izleyin. Rotadaki hız limitlerine uyulduğundan emin olun. Böylece hem verimliliği hem de müşteri memnuniyetini artırın."
+        },
+        {
+          "id": 4,
+          "title": "Yakıt tüketimini denetleyin",
+          "text": "Sert frenleme, aşırı rölanti ve verimsiz rotalar kullanmak yakıt maliyetini artırır. Telematik verileri size sürücü, araç ve rota performansı hakkında görünürlük sağlar. Yakıt israfına neyin sebep olduğunu ve nerede harekete geçilmesi gerektiğini öğrenin."
+        }
+      ],
+      "functionality": [
+        {
+          "id": 1,
+          "title": "wwwww",
+          "text": "-------------",
+          "img": "fast-mobile.png"
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "Karayolu ulaşım araçları için NB2800",
+          "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı, CAN veri yolundan alınan telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Tüm yönlendiriciler CE uyumludur (RED) ve otomotiv tip onayına sahiptir (UNECE R10, UNECE R118). Bazı modeller ITxPT standartlarını destekler.",
+          "link": "/products/router/nb2800/",
+          "img": "/images/products/router/nb2800/nb2800.png"
+        },
+        {
+          "id": 2,
+          "title": "Karayolu ulaşım araçları için Antenna-Coach",
+          "text": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Otomotiv endüstrisindeki üreticilerin ve ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
+          "link": "/products/antenna/coach/",
+          "img": "/images/products/antenna/coach/antenna-coach.png"
+        },
+        {
+          "id": 3,
+          "title": "Demiryolu ulaşım araçları için NB3700",
+          "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı, CAN veri yolundan alınan telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Tüm yönlendiriciler CE uyumludur (RED) ve demiryolu tip onayına sahiptir (EN 50155, EN 45545).",
+          "link": "/products/router/nb3700/",
+          "img": "/images/products/router/nb3700/nb3700.png"
+        },
+        {
+          "id": 4,
+          "title": "Demiryolu ulaşım araçları için Antenna-Railway",
+          "text": "Demiryollarında çalışan lokomotif, tren, tramvay, vagon benzeri yolcu veya yük taşıma için uygun araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Demiryolu araçları üreticilerinin veya ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
+          "link": "/products/antenna/railway/",
+          "img": "/images/products/antenna/railway/antenna-railway.png"
+        },
+        {
+          "id": 5,
+          "title": "Merkezi Ağ Yönetimi Yazılımı",
+          "text": "Filonuzdaki araçlarda bulunan mobil ağ yönlendirilerin uzaktan izlenebilmesi, yapılandırılabilmesi için Connectivity Suite yazılımını kullanın. Connectivity Suite, NetModule yönlendirici cihazlarının merkezi bir konumdan güvenli bir şekilde yapılandırılmasını ve yönetilmesini sağlar. Connectivity Suite, işletmenize özel ağ altyapınızı oluşturmak ve tüm NetModule cihazlarını tek bir noktadan yönetmek için geliştirilen kullanımı oldukça basit uzaktan yönetim sistemidir.",
+          "link": "/products/software/cs/",
+          "img": "/images/products/software/cs/cs_gray_bg.png"
+        }
+      ]
+    },
+    "wifi": {
+      "title": "Yolcular için WiFi",
+      "description": "Yolcularınız, mobil cihazlarından (akıllı telefon, tablet, dizüstü bilgisayar) araç içindeki kablosuz ağa bağlansınlar ve internete erişebilsinler.",
+      "summary": "Araçtaki yüksek çözünürlüklü ekranlardan yolcularınıza yaklaşılmakta olan duraklara tahmini varış sürelerini, aracın rotadaki konumunu, gerçek zamanlı yol, hava ve trafik durumu bilgilerini, varılacak duraklardaki diğer toplu taşıma sistemlerinin zaman çizelgelerini, gecikme ve iptal edien seferleri gösterin. Gündeme dair önemli haberleri ve hizmetlerinizi anlatan videolar izletin. Aracın rotasına, tarihe, saate veya coğrafi konuma bağlı olarak değişebilen reklamlardan gelir elde edinin. Yolcularınıza seyahatleri sırasında hoş zaman geçirmelerini sağlayacak ilgi çekici kısa videolar izletin.",
+      "heroText": "Yolcularınız, mobil cihazlarından (akıllı telefon, tablet, dizüstü bilgisayar) araç içindeki kablosuz ağa bağlansınlar ve internete erişebilsinler.",
+      "image": "passenger-wifi.png",
+      "groupImage": "passenger-wifi.png",
+      "group": "transport",
+      "keyProducts": "Router",
+      "benefits": [
+        {
+          "id": 1,
+          "title": "Müşteri deneyimini iyileştirin",
+          "text": "Yolcularınız internete bağlansın. Benzersiz müşteri deneyimi için yolcularınızı kendi dijital dünyalarına bağlı tutun. Akıllı mobil cihazlarını (akıllı telefon, tablet, dizüstü bilgisayar) yanlarından ayırmayan yolcularınız, seyahatleri süresince internete bağlanabilsin. Araç içi WiFi ile izin verdiğiniz internet sitelerine, sosyal medya hesaplarına, e-postalarına, çevrimiçi seyahat bilgilerine, haberlere, günlük gazetelere erişsinler."
+        },
+        {
+          "id": 2,
+          "title": "Pazarlama kanalı olarak WiFi",
+          "text": "Yolcularınız oturum açmak için e-posta adreslerini veya mobil telefon numaralarını kullanacaklar. İzinlerini alarak onlara kampanyalarınız hakkında içerik gönderin. Oturum başlatma ekranından dilek ve isteklerini iletsinler. Memnuniyet anketinize katılsınlar."
+        }
+      ],
+      "functionality": [
+        {
+          "id": 1,
+          "title": "Araç içinde etkin WiFi kapsama alanı oluşturun",
+          "text": "Yolcular mobil aygıtlarından araçtaki WiFi ağına bağlanıp, internete erişebilsin. WiFi erişim noktasına bağlantı sırasında görüntülenen kullanıcı kimliği belirleme ekranında (Captive Portal olarak anılır) yolculara; Aracın kalkış ve varış saatlerini, yaklaşılan durağa varış süresini, olası gecikme ve benzeri dinamik bilgileri yayınlayın. Araç içinde etkin WiFi kapsamı oluşturmak için WiFi Erişim Noktası olarak yapılandırılabilen karayolu araçları için NB2800 ve demiryolu araçları için NB3700 serisi mobil ağ yönlendiricileri tercih edin.",
+          "img": "perfect-wifi.png"
+        },
+        {
+          "id": 2,
+          "title": "Yedekli mobil internet",
+          "text": "Yolcularınıza kesintisiz ve kaliteli bir internet deneyimi yaşatın. Aynı anda birden fazla mobil internet servis sağlayıcısının 5G, 4G, 3G teknolojilerini destekleyen mobil ağlarına erişin. Araç hareket halindeyken, sinyal seviyesine bağlı olarak, etkili servis sunan mobil ağa otomatik olarak bağlansın. Tren içinde vagon değiştiren yolcuların WiFi bağlantıları kesilmesin. Araçlarınız içinde etkili WiFi kapsamı oluşturmak, mobil ağlara bağlanmak ve araçlarınızdaki tüm ağ bileşenlerinin merkezden yönetimi için NetModule ürünlerini tercih edin.",
+          "img": "fast-mobile.png"
+        },
+        {
+          "id": 3,
+          "title": "İşletmenize özel oturum başlatma ekranı",
+          "text": "Yolcularınız kendi cihazlarıyla (akıllı telefon, tablet vey dizüstü bilgisayar) internete erişmek istediklerinde, işletmeniz için özel olarak tasarlanan, doğrulama ekranı ile karşılanır. İşletmenizin belirleyeceği kullanım şartlarını okuyup onaylayan yolcuların internete erişebilmesine izin verilir.",
+          "img": "captive.png"
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "Karayolu ulaşım araçları için NB2800",
+          "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır. Tüm yönlendiriciler CE uyumludur (RED) ve otomotiv tip onayına sahiptir (UNECE R10, UNECE R118). Bazı modeller ITxPT standartlarını destekler.",
+          "link": "/products/router/nb2800/",
+          "img": "/images/products/router/nb2800/nb2800.png"
+        },
+        {
+          "id": 2,
+          "title": "Karayolu ulaşım araçları için Antenna-Coach",
+          "text": "Otobüs, minibüs, karavan benzeri toplu taşıma için uygun geniş araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Otomotiv endüstrisindeki üreticilerin ve ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
+          "link": "/products/antenna/coach/",
+          "img": "/images/products/antenna/coach/antenna-coach.png"
+        },
+        {
+          "id": 3,
+          "title": "Demiryolu ulaşım araçları için NB3700",
+          "text": "Yüksek hızlı ve kesintisiz 5G/4G/3G destekli mobil ağ bağlantılarının kurulmasını sağlar. Yayınlanacak zengin içeriğin (görsel, video, müzik vb) tutulduğu yüksek kapasiteli katı hal sürücünü (SSD) barındırır. Aracın coğrafi konumunu belirler. Araç içinde yolcuların erişebileceği WiFi kapsama alanı oluşturur. Merkezi yönetim sistemi, 3ncü taraf servis/içerik sağlayıcıları çevrimiçi bağlantılar kurar. Yayınlanacak yeni içerikleri ve oynatma listelerini otomatik olarak indirir. Aracın anlık konumu, hızı, yolcu sayısı vb telematik bilgilerini periyodik olarak aktarır. Araçtaki LCD ekranların kablolu veya kablosuz ağ bağlantısı ile yolcuların ise mobil aygıtlarındaki uygulamadan kablosuz (WiFi) olarak erişebileceği içerik sunucusunu barındırır.  Tüm yönlendiriciler CE uyumludur (RED) ve demiryolu tip onayına sahiptir (EN 50155, EN 45545).",
+          "link": "/products/router/nb3700/",
+          "img": "/images/products/router/nb3700/nb3700.png"
+        },
+        {
+          "id": 4,
+          "title": "Demiryolu ulaşım araçları için Antenna-Railway",
+          "text": "Demiryollarında çalışan lokomotif, tren, tramvay, vagon benzeri yolcu veya yük taşıma için uygun araçların kesintisiz mobil ağ bağlantıları kurabilmeleri, araç içinde veya dışından erişilebilen kablosuz ağ (WiFi) alanları oluşturabilmeleri için geliştirilmiş üstün özelliklere sahip dayanıklı, hafif, kompakt antenlerdir. Demiryolu araçları üreticilerinin veya ulaşım işletmecilerinin aradıkları RoHS, REAch ve UN ECE-R 118 sertifikalarına sahiptir.",
+          "link": "/products/antenna/railway/",
+          "img": "/images/products/antenna/railway/antenna-railway.png"
+        },
+        {
+          "id": 5,
+          "title": "Merkezi Ağ Yönetimi Yazılımı",
+          "text": "Filonuzdaki araçlarda bulunan mobil ağ yönlendirilerin uzaktan izlenebilmesi, yapılandırılabilmesi için Connectivity Suite yazılımını kullanın. Connectivity Suite, NetModule yönlendirici cihazlarının merkezi bir konumdan güvenli bir şekilde yapılandırılmasını ve yönetilmesini sağlar. Connectivity Suite, işletmenize özel ağ altyapınızı oluşturmak ve tüm NetModule cihazlarını tek bir noktadan yönetmek için geliştirilen kullanımı oldukça basit uzaktan yönetim sistemidir.",
+          "link": "/products/software/cs/",
+          "img": "/images/products/software/cs/cs_gray_bg.png"
+        }
+      ]
+    }
   }
 }

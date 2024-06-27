@@ -1,461 +1,463 @@
 {
-  "cctv": {
-    "title": "CCTV Cameras",
-    "description": "Install IP-based cameras in the vehicle for the safety of your passengers. Ensure safe transportation of passengers and their belongings.",
-    "summary": "Prevent unwanted situations such as theft, vandalism or attack with the help of on-board video surveillance for a safe travel experience. Monitor, record and archive what's happening in and around your vehicles from anywhere, anytime. Ensure safe transportation of passengers' belongings and cargo. Investigate accidents or untoward events. Evaluate driver performance.",
-    "heroText": "Install IP-based cameras in the vehicle for the safety of your passengers. Ensure safe transportation of passengers and their belongings.",
-    "image": "cctv.png",
-    "groupImage": "cctv.png",
-    "group": "transport",
-    "keyProduct": "Router",
-    "benefits": [
-      {
-        "id": 1,
-        "title": "Prevent undesirable negative events",
-        "text": "Those who see that images are being taken from the cameras inside the vehicle will refrain from engaging in undesirable negative behavior such as vandalism, theft, and attack. Respond accurately, quickly and effectively, based on recorded or live images, to incidents that are subject to complaints that may occur despite the precautions you have taken."
-      },
-      {
-        "id": 2,
-        "title": "Don't be deceived",
-        "text": "Manage your video recordings archived in the large storage space created on the router. Periodically archive them to your storage in the cloud or in your own data center. Protect your business from insurance fraud, false claims and conflicting reports."
-      },
-      {
-        "id": 3,
-        "title": "Check driving safety",
-        "text": "Prevent inappropriate driver behavior such as using a mobile phone while driving and drowsy driving, which will risk the life safety of everyone in the vehicle."
-      }
-    ],
-    "functionality": [
-      {
-        "id": 1,
-        "title": "Remotely access on-board cameras",
-        "text": "Choose NB2800 series mobile network routers for road vehicles and NB3700 series mobile network routers for railway vehicles to establish high-speed, secure and uninterrupted wireless network connections to access live/archive images of the cameras in the vehicle remotely.",
-        "img": "remote-cctv.png"
-      },
-      {
-        "id": 3,
-        "title": "High capacity recording storage in the vehicle",
-        "text": "The video images recorded by the cameras in the vehicle are copied to the 1 TB capacity solid state hard disk (Solid-State-Disk, 'SSD') in the NetModule router. Stored image records are automatically transferred to the archiving system at the business center or in the cloud via the 5G/4G/3G supported mobile network connection in the vehicle or the WiFi connection at the stop where the vehicle arrives.",
-        "img": "ssd.png"
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "title": "NB2800 for highway vehicles",
-        "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits CCTV archive, telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have automotive type approval (UNECE R10, UNECE R118). Some models support ITxPT standards.",
-        "link": "/products/router/nb2800",
-        "img": "/images/products/router/nb2800/nb2800.png"
-      },
-      {
-        "id": 2,
-        "title": "Antenna-Coach for highway transport",
-        "text": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by manufacturers in the automotive industry. Some models have UN ECE-R10 and UN ECE-R 118 certificates.",
-        "link": "/products/antenna/coach",
-        "img": "/images/products/antenna/coach/antenna-coach.png"
-      },
-      {
-        "id": 3,
-        "title": "NB3700 for railway vehicles",
-        "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits CCTV archive, telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have railway type approval (EN 50155, EN 45545).",
-        "link": "/products/router/nb3700/",
-        "img": "/images/products/router/nb3700/nb3700.png"
-      },
-      {
-        "id": 4,
-        "title": "Antenna-Railway for railway vehicles",
-        "text": "They are durable, lightweight, compact antennas with superior features developed to enable vehicles suitable for passenger or freight transportation, such as locomotives, trains, trams and wagons, operating on railways, to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by railway vehicle manufacturers or transportation operators.",
-        "link": "/products/antenna/railway/",
-        "img": "/images/products/antenna/railway/antenna-railway.png"
-      },
-      {
-        "id": 5,
-        "title": "Central Network Management Software",
-        "text": "Use the Connectivity Suite software to remotely monitor and configure the NB2800 series mobile network routers in the vehicles in your fleet. Connectivity Suite enables secure configuration and management of NetModule router devices from a central location. Connectivity Suite is a very simple-to-use remote management system developed to create your business-specific network infrastructure and manage all NetModule routers from a single point.",
-        "link": "/products/software/cs",
-        "img": "/images/products/software/cs/cs_gray_bg.png"
-      }
-    ]
-  },
-  "media": {
-    "title": "Offline Video & Music",
-    "description": "Let your passengers access the electronic content pool in the vehicle with their own devices, without requiring an internet connection. Let them watch movies, listen to music, read books, newspapers or magazines.",
-    "summary": "Show your passengers estimated arrival times at upcoming stops, the vehicle's location on the route, real-time road, weather and traffic information, and timetables of other public transportation systems at destination stops, via high-resolution screens in the vehicle. Show videos about important news on the agenda and your services. Earn revenue from ads that may vary depending on the vehicle's route, date, time or geographic location. Show your passengers interesting short videos that will help them have a pleasant time during their travels.",
-    "heroText": "Let your passengers access the electronic content pool in the vehicle with their own devices, without requiring an internet connection. Let them watch movies, listen to music, read books, newspapers or magazines.",
-    "image": "offline-archive.png",
-    "groupImage": "offline-archive.png",
-    "group": "transport",
-    "keyProduct": "Router",
-    "benefits": [
-      {
-        "id": 1,
-        "title": "Save your passengers from boredom",
-        "text": "Your passengers who have a pleasant experience thanks to the entertaining content they watch during their journey will remain loyal to your brand. Let your passengers access the latest movies, TV series and music using their own smart devices (smartphones, tablets, laptops). Let them have a pleasant time in your vehicles."
-      },
-      {
-        "id": 2,
-        "title": "Additional income opportunity",
-        "text": "Let your passengers access copyright-free content of their choice, free of charge. If you wish, you can earn income from the ads that will be played before you start playing the content that will be released for free. If you wish, your passengers can pay a fee for copyrighted content."
-      }
-    ],
-    "functionality": [
-      {
-        "id": 1,
-        "title": "Create effective WiFi coverage in the vehicle",
-        "text": "Show current trip information on the LCD screens in the vehicle. Passengers can connect to the WiFi network in the vehicle from their Android and iOS supported smartphones and access the information they want in real time. Publish dynamic information such as vehicle departure and arrival times, vehicle occupancy rate, current location on a digital map, arrival time to the upcoming stop and similar information. Use WiFi for the network connection of your digital displays in the vehicle and avoid the cost of Ethernet cables in the vehicle. Choose the NB2800 for road vehicles and NB3700 series for rail vehicles mobile network routers that can be configured as WiFi Access Points to create effective in-vehicle WiFi coverage.",
-        "img": "perfect-wifi.png"
-      },
-      {
-        "id": 2,
-        "title": "Establish high-speed wireless connections",
-        "text": "By connecting to the central content management system, downloading the rich content (video, audio, etc.) that takes up a large amount of space to be played to the content server in the vehicle, receiving current data from data provider servers (traffic, voyage, timetable, etc.), transferring the telematics data in the vehicle to the relevant central databases, satellite Choose NB2800 series mobile network routers for road vehicles and NB3700 series mobile network routers for railway vehicles to establish high-speed, secure, uninterrupted mobile network connections for operations such as determining the location by establishing connections.",
-        "img": "multi-wireless.png"
-      },
-      {
-        "id": 3,
-        "title": "Reduce the number of computers in the vehicle",
-        "text": "You do not need to use a dedicated computer for the server where the content that the passengers will watch is stored and the stored content is broadcast over the in-car wired or wireless network. Install the content server software on the virtual computer with 1 TB data storage capacity and Linux-based operating system on the NB2800 series mobile network routers for road vehicles and the NB3700 series for railway vehicles.",
-        "img": "less-pc.png"
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "title": "NB2800 for highway vehicles",
-        "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have automotive type approval (UNECE R10, UNECE R118). Some models support ITxPT standards.",
-        "link": "/products/router/nb2800",
-        "img": "/images/products/router/nb2800/nb2800.png"
-      },
-      {
-        "id": 2,
-        "title": "Antenna-Coach for highway transport",
-        "text": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by manufacturers in the automotive industry. Some models have UN ECE-R10 and UN ECE-R 118 certificates.",
-        "link": "/products/antenna/coach",
-        "img": "/images/products/antenna/coach/antenna-coach.png"
-      },
-      {
-        "id": 3,
-        "title": "NB3700 for railway vehicles",
-        "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have railway type approval (EN 50155, EN 45545).",
-        "link": "/products/router/nb3700/",
-        "img": "/images/products/router/nb3700/nb3700.png"
-      },
-      {
-        "id": 4,
-        "title": "Antenna-Railway for railway vehicles",
-        "text": "They are durable, lightweight, compact antennas with superior features developed to enable vehicles suitable for passenger or freight transportation, such as locomotives, trains, trams and wagons, operating on railways, to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by railway vehicle manufacturers or transportation operators.",
-        "link": "/products/antenna/railway/",
-        "img": "/images/products/antenna/railway/antenna-railway.png"
-      },
-      {
-        "id": 5,
-        "title": "Central Network Management Software",
-        "text": "Use the Connectivity Suite software to remotely monitor and configure the NB2800 series mobile network routers in the vehicles in your fleet. Connectivity Suite enables secure configuration and management of NetModule router devices from a central location. Connectivity Suite is a very simple-to-use remote management system developed to create your business-specific network infrastructure and manage all NetModule routers from a single point.",
-        "link": "/products/software/cs",
-        "img": "/images/products/software/cs/cs_gray_bg.png"
-      }
-    ]
-  },
-  "pis": {
-    "title": "Passenger Information System",
-    "description": "Broadcast content on screens at terminals, stops or in vehicles to inform and entertain your passengers. Improve passenger experience. Reduce waiting times. Publish itinerary, departure/arrival times.",
-    "summary": "Show your passengers estimated arrival times at upcoming stops, the vehicle's location on the route, real-time road, weather and traffic information, and timetables of other public transportation systems at destination stops, via high-resolution screens in the vehicle. Show videos about important news on the agenda and your services. Earn revenue from ads that may vary depending on the vehicle's route, date, time or geographic location. Show your passengers interesting short videos that will help them have a pleasant time during their travels.",
-    "heroText": "Inform your passengers on the screens in your vehicles and share real-time information about schedules and road conditions. Play fun videos.",
-    "image": "passenger-info.png",
-    "groupImage": "passenger-info.png",
-    "group": "transport",
-    "keyProduct": "Router",
-    "benefits": [
-      {
-        "id": 1,
-        "title": "Strengthen your communication with your passengers",
-        "text": "Make your passengers trust your brand by providing up-to-date and accurate information. Show your passengers estimated arrival times at upcoming stops, the vehicle's location on the route, real-time road, weather and traffic information, and timetables of other public transportation systems at destination stops, on high-resolution screens in the vehicle or on their mobile devices. Show videos about important news on the agenda and your services. Earn revenue from ads that may vary depending on the vehicle's route, date, time or geographic location. Show your passengers interesting short videos that will help them have a pleasant time during their travels."
-      },
-      {
-        "id": 2,
-        "title": "Share information dynamically and in real time",
-        "text": "Give your passengers access to real-time information while in the vehicle. Provide your passengers with a planned, safe and enjoyable travel experience. Your passengers; They can see the estimated arrival times at the stops, transfer options to other routes at the destination stop, the distance traveled and to be traveled on the route, traffic, weather conditions, possible delays and more."
-      },
-      {
-        "id": 3,
-        "title": "Create an additional income channel for your business",
-        "text": "Show your passengers interesting, entertaining and informative short videos, featured news and occasional advertising videos on the screens in the vehicle. Earn revenue from these ads, which may vary depending on the vehicle's route, date, time or geographical location."
-      },
-      {
-        "id": 4,
-        "title": "Increase security",
-        "text": "Display live images from in-car security cameras on the screens. Prevent incidents such as vandalism, theft and attack that you do not want to happen inside the vehicle. Automatically archive all records taken during the expedition in the central database."
-      }
-    ],
-    "functionality": [
-      {
-        "id": 1,
-        "title": "Create effective WiFi coverage in the vehicle",
-        "text": "Show current trip information on the LCD screens in the vehicle. Passengers can connect to the WiFi network in the vehicle from their Android and iOS supported smartphones and access the information they want in real time. Publish dynamic information such as vehicle departure and arrival times, vehicle occupancy rate, current location on a digital map, arrival time to the upcoming stop and similar information. Use WiFi for the network connection of your digital displays in the vehicle and avoid the cost of Ethernet cables in the vehicle. Choose the NB2800 for road vehicles and NB3700 series for rail vehicles mobile network routers that can be configured as WiFi Access Points to create effective in-vehicle WiFi coverage.",
-        "img": "perfect-wifi.png"
-      },
-      {
-        "id": 2,
-        "title": "Establish high-speed wireless connections",
-        "text": "By connecting to the central content management system, downloading the rich content (video, audio, etc.) that takes up a large amount of space to be played to the content server in the vehicle, receiving current data from data provider servers (traffic, voyage, timetable, etc.), transferring the telematics data in the vehicle to the relevant central databases, satellite Choose NB2800 series mobile network routers for road vehicles and NB3700 series mobile network routers for railway vehicles to establish high-speed, secure, uninterrupted mobile network connections for operations such as determining the location by establishing connections.",
-        "img": "multi-wireless.png"
-      },
-      {
-        "id": 3,
-        "title": "Reduce the number of computers in the vehicle",
-        "text": "You do not need to use a dedicated computer for the server where the content that the passengers will watch is stored and the stored content is broadcast over the in-car wired or wireless network. Install the content server software on the virtual computer with 1 TB data storage capacity and Linux-based operating system on the NB2800 series mobile network routers for road vehicles and the NB3700 series for railway vehicles.",
-        "img": "less-pc.png"
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "title": "NB2800 for highway vehicles",
-        "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have automotive type approval (UNECE R10, UNECE R118). Some models support ITxPT standards.",
-        "link": "/products/router/nb2800",
-        "img": "/images/products/router/nb2800/nb2800.png"
-      },
-      {
-        "id": 2,
-        "title": "Antenna-Coach for highway transport",
-        "text": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by manufacturers in the automotive industry. Some models have UN ECE-R10 and UN ECE-R 118 certificates.",
-        "link": "/products/antenna/coach",
-        "img": "/images/products/antenna/coach/antenna-coach.png"
-      },
-      {
-        "id": 3,
-        "title": "NB3700 for railway vehicles",
-        "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have railway type approval (EN 50155, EN 45545).",
-        "link": "/products/router/nb3700/",
-        "img": "/images/products/router/nb3700/nb3700.png"
-      },
-      {
-        "id": 4,
-        "title": "Antenna-Railway for railway vehicles",
-        "text": "They are durable, lightweight, compact antennas with superior features developed to enable vehicles suitable for passenger or freight transportation, such as locomotives, trains, trams and wagons, operating on railways, to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by railway vehicle manufacturers or transportation operators.",
-        "link": "/products/antenna/railway/",
-        "img": "/images/products/antenna/railway/antenna-railway.png"
-      },
-      {
-        "id": 5,
-        "title": "Central Network Management Software",
-        "text": "Use the Connectivity Suite software to remotely monitor and configure the NB2800 series mobile network routers in the vehicles in your fleet. Connectivity Suite enables secure configuration and management of NetModule router devices from a central location. Connectivity Suite is a very simple-to-use remote management system developed to create your business-specific network infrastructure and manage all NetModule routers from a single point.",
-        "link": "/products/software/cs",
-        "img": "/images/products/software/cs/cs_gray_bg.png"
-      }
-    ]
-  },
-  "ptt": {
-    "title": "Emergency Calls",
-    "description": "To get help in emergency situations; Allow voice communication with relevant institutions such as the operation center, police, ambulance.",
-    "summary": "Allow people in the vehicle to communicate by voice with people outside the vehicle, without compromising driving safety. In case of an unexpected situation encountered while traveling, you can quickly contact the relevant center with a single click. Passengers can request help from the push-to-talk station in the vehicle. The personnel answering the call can identify the vehicle and location of the call.",
-    "heroText": "To get help in emergency situations; Allow voice communication with relevant institutions such as the operation center, police, ambulance.",
-    "image": "ptt.png",
-    "groupImage": "ptt.png",
-    "group": "transport",
-    "keyProducts": "Router",
-    "benefits": [
-      {
-        "id": 1,
-        "title": "Quick support in case of emergency",
-        "text": "By pressing a button, employees or passengers in the vehicle can get help from the operation center or the organizations responsible for responding to emergency situations. More than one number can be called at the same time when you press the button."
-      },
-      {
-        "id": 2,
-        "title": "Quick access to vehicle information",
-        "text": "People who answer the emergency support call should be able to see the geographical location information of the vehicle on their computer screens at the moment the call is made. In addition to location information, important information such as the speed of the vehicle, the route traveled, the amount of fuel, the amount of cargo carried, the number of passengers can be automatically transferred to the relevant institution during an emergency call by connecting with other electronic systems in the vehicle."
-      },
-      {
-        "id": 3,
-        "title": "Remote voice call",
-        "text": "Authorized persons from the operation center of the business can call the GSM number in the vehicle and make announcements to the passengers through the voice announcement system in the vehicle. Incoming calls to the mobile line in the vehicle will be automatically answered and conversations can be made hands-free via the microphone in the vehicle, if available."
-      }
-    ],
-    "functionality": [
-      {
-        "id": 1,
-        "title": "Redundant mobile connections",
-        "text": "Give your passengers a safe travel experience. Access mobile networks of multiple mobile communications providers supporting 5G, 4G, 3G technologies simultaneously. While the vehicle is in motion, it automatically connects to the mobile network that provides effective service, depending on the signal level. Choose NetModule routers that support VoLTE, VoIP, PTT technologies and are compatible with other devices that provide audio communication in the vehicle, such as phones, push-to-talk microphones and speakers.",
-        "img": "fast-mobile.png"
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "title": "NB2800 for highway vehicles",
-        "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. It supports technologies such as VoIP, PTT, VoGSM, VoLTE required for voice communication. All routers are CE compliant (RED) and have automotive type approval (UNECE R10, UNECE R118). Some models support ITxPT standards.",
-        "link": "/products/router/nb2800",
-        "img": "/images/products/router/nb2800/nb2800.png"
-      },
-      {
-        "id": 2,
-        "title": "Antenna-Coach for highway transport",
-        "text": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by manufacturers in the automotive industry. Some models have UN ECE-R10 and UN ECE-R 118 certificates.",
-        "link": "/products/antenna/coach",
-        "img": "/images/products/antenna/coach/antenna-coach.png"
-      },
-      {
-        "id": 3,
-        "title": "NB3700 for railway vehicles",
-        "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. It supports technologies such as VoIP, PTT, VoGSM, VoLTE required for voice communication. All routers are CE compliant (RED) and have railway type approval (EN 50155, EN 45545).",
-        "link": "/products/router/nb3700/",
-        "img": "/images/products/router/nb3700/nb3700.png"
-      },
-      {
-        "id": 4,
-        "title": "Antenna-Railway for railway vehicles",
-        "text": "They are durable, lightweight, compact antennas with superior features developed to enable vehicles suitable for passenger or freight transportation, such as locomotives, trains, trams and wagons, operating on railways, to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by railway vehicle manufacturers or transportation operators.",
-        "link": "/products/antenna/railway/",
-        "img": "/images/products/antenna/railway/antenna-railway.png"
-      },
-      {
-        "id": 5,
-        "title": "Central Network Management Software",
-        "text": "Use the Connectivity Suite software to remotely monitor and configure the NB2800 series mobile network routers in the vehicles in your fleet. Connectivity Suite enables secure configuration and management of NetModule router devices from a central location. Connectivity Suite is a very simple-to-use remote management system developed to create your business-specific network infrastructure and manage all NetModule routers from a single point.",
-        "link": "/products/software/cs",
-        "img": "/images/products/software/cs/cs_gray_bg.png"
-      }
-    ]
-  },
-  "telematics": {
-    "title": "Telematics for Public Transportation",
-    "description": "Monitor the vehicles in your fleet 24/7.",
-    "summary": "Ensure that all data collected on all vehicles in your fleet is automatically transferred to the fleet management system. Extend the life of your vehicles and increase the operational continuity of your fleet by preventing delays and not skipping vehicle maintenance periods.",
-    "heroText": "Monitor the vehicles in your fleet 24/7.",
-    "image": "telematics.png",
-    "groupImage": "telematics.png",
-    "group": "transport",
-    "keyProducts": "Router",
-    "benefits": [
-      {
-        "id": 1,
-        "title": "dedededede",
-        "text": "------------"
-      }
-    ],
-    "functionality": [
-      {
-        "id": 1,
-        "title": "defrfrfrfr",
-        "text": "rfrfrfrfrfrfr",
-        "img": "fast-mobile.png"
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "title": "NB2800 for highway vehicles",
-        "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. It supports technologies such as VoIP, PTT, VoGSM, VoLTE required for voice communication. All routers are CE compliant (RED) and have automotive type approval (UNECE R10, UNECE R118). Some models support ITxPT standards.",
-        "link": "/products/router/nb2800",
-        "img": "/images/products/router/nb2800/nb2800.png"
-      },
-      {
-        "id": 2,
-        "title": "Antenna-Coach for highway transport",
-        "text": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by manufacturers in the automotive industry. Some models have UN ECE-R10 and UN ECE-R 118 certificates.",
-        "link": "/products/antenna/coach",
-        "img": "/images/products/antenna/coach/antenna-coach.png"
-      },
-      {
-        "id": 3,
-        "title": "NB3700 for railway vehicles",
-        "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. It supports technologies such as VoIP, PTT, VoGSM, VoLTE required for voice communication. All routers are CE compliant (RED) and have railway type approval (EN 50155, EN 45545).",
-        "link": "/products/router/nb3700/",
-        "img": "/images/products/router/nb3700/nb3700.png"
-      },
-      {
-        "id": 4,
-        "title": "Antenna-Railway for railway vehicles",
-        "text": "They are durable, lightweight, compact antennas with superior features developed to enable vehicles suitable for passenger or freight transportation, such as locomotives, trains, trams and wagons, operating on railways, to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by railway vehicle manufacturers or transportation operators.",
-        "link": "/products/antenna/railway/",
-        "img": "/images/products/antenna/railway/antenna-railway.png"
-      },
-      {
-        "id": 5,
-        "title": "Central Network Management Software",
-        "text": "Use the Connectivity Suite software to remotely monitor and configure the NB2800 series mobile network routers in the vehicles in your fleet. Connectivity Suite enables secure configuration and management of NetModule router devices from a central location. Connectivity Suite is a very simple-to-use remote management system developed to create your business-specific network infrastructure and manage all NetModule routers from a single point.",
-        "link": "/products/software/cs",
-        "img": "/images/products/software/cs/cs_gray_bg.png"
-      }
-    ]
-  },
-  "wifi": {
-    "title": "Passenger WiFi",
-    "description": "Let your passengers connect to the wireless network in the vehicle and access the internet from their mobile devices (smartphone, tablet, laptop).",
-    "summary": "Show your passengers estimated arrival times at upcoming stops, the vehicle's location on the route, real-time road, weather and traffic information, timetables of other public transportation systems at the destination stops, and delays and canceled trips on the high-resolution screens in the vehicle. Show videos about important news and your services. Earn revenue from ads that may vary depending on the vehicle's route, date, time or geographic location. Show your passengers interesting short videos that will help them have a pleasant time during their travels.",
-    "heroText": "Let your passengers connect to the wireless network in the vehicle and access the internet from their mobile devices (smartphone, tablet, laptop).",
-    "image": "passenger-wifi.png",
-    "groupImage": "passenger-wifi.png",
-    "group": "transport",
-    "keyProducts": "Router",
-    "benefits": [
-      {
-        "id": 1,
-        "title": "Improve customer experience",
-        "text": "Let your passengers connect to the internet. Keep your passengers connected to their digital world for an unparalleled customer experience. Your passengers, who keep their smart mobile devices (smartphone, tablet, laptop) with them, can connect to the internet during their travels. Let them access the websites, social media accounts, e-mails, online travel information, news and daily newspapers you allow via in-car WiFi."
-      },
-      {
-        "id": 2,
-        "title": "Wifi as marketing channel",
-        "text": "Your passengers will use their email address or mobile phone number to log in. Send them content about your campaigns with their permission. Let them convey their wishes and requests from the session start screen. Let them participate in your satisfaction survey."
-      }
-    ],
-    "functionality": [
-      {
-        "id": 1,
-        "title": "Create effective WiFi coverage in the vehicle",
-        "text": "Passengers can connect to the in-vehicle WiFi network from their mobile devices and access the internet. On the user identification screen (referred to as Captive Portal) displayed during connection to the WiFi access point, passengers are given; Publish dynamic information such as vehicle departure and arrival times, arrival time at the upcoming stop, possible delay and similar information. Choose the NB2800 for road vehicles and NB3700 series for rail vehicles mobile network routers that can be configured as WiFi Access Points to create effective in-vehicle WiFi coverage.",
-        "img": "perfect-wifi.png"
-      },
-      {
-        "id": 2,
-        "title": "Redundant mobile internet",
-        "text": "Provide your passengers with an uninterrupted and high-quality internet experience. Access mobile networks of multiple mobile internet service providers supporting 5G, 4G, 3G technologies at the same time. While the vehicle is in motion, it automatically connects to the mobile network that provides effective service, depending on the signal level. Passengers changing wagons on the train should not have their WiFi connections interrupted. Choose NetModule products to create effective WiFi coverage in your vehicles, connect to mobile networks and centrally manage all network components in your vehicles.",
-        "img": "fast-mobile.png"
-      },
-      {
-        "id": 3,
-        "title": "Custom captive portal",
-        "text": "When your passengers want to access the internet with their own devices (smartphone, tablet or laptop), they are greeted with a verification screen specially designed for your business. Passengers who read and approve the terms of use determined by your business are allowed to access the internet.",
-        "img": "captive.png"
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "title": "NB2800 for highway vehicles",
-        "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have automotive type approval (UNECE R10, UNECE R118). Some models support ITxPT standards.",
-        "link": "/products/router/nb2800",
-        "img": "/images/products/router/nb2800/nb2800.png"
-      },
-      {
-        "id": 2,
-        "title": "Antenna-Coach for highway transport",
-        "text": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by manufacturers in the automotive industry. Some models have UN ECE-R10 and UN ECE-R 118 certificates.",
-        "link": "/products/antenna/coach",
-        "img": "/images/products/antenna/coach/antenna-coach.png"
-      },
-      {
-        "id": 3,
-        "title": "NB3700 for railway vehicles",
-        "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have railway type approval (EN 50155, EN 45545).",
-        "link": "/products/router/nb3700/",
-        "img": "/images/products/router/nb3700/nb3700.png"
-      },
-      {
-        "id": 4,
-        "title": "Antenna-Railway for railway vehicles",
-        "text": "They are durable, lightweight, compact antennas with superior features developed to enable vehicles suitable for passenger or freight transportation, such as locomotives, trains, trams and wagons, operating on railways, to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by railway vehicle manufacturers or transportation operators.",
-        "link": "/products/antenna/railway/",
-        "img": "/images/products/antenna/railway/antenna-railway.png"
-      },
-      {
-        "id": 5,
-        "title": "Central Network Management Software",
-        "text": "Use the Connectivity Suite software to remotely monitor and configure the NB2800 series mobile network routers in the vehicles in your fleet. Connectivity Suite enables secure configuration and management of NetModule router devices from a central location. Connectivity Suite is a very simple-to-use remote management system developed to create your business-specific network infrastructure and manage all NetModule routers from a single point.",
-        "link": "/products/software/cs",
-        "img": "/images/products/software/cs/cs_gray_bg.png"
-      }
-    ]
+  "transport": {
+    "cctv": {
+      "title": "CCTV Cameras",
+      "description": "Install IP-based cameras in the vehicle for the safety of your passengers. Ensure safe transportation of passengers and their belongings.",
+      "summary": "Prevent unwanted situations such as theft, vandalism or attack with the help of on-board video surveillance for a safe travel experience. Monitor, record and archive what's happening in and around your vehicles from anywhere, anytime. Ensure safe transportation of passengers' belongings and cargo. Investigate accidents or untoward events. Evaluate driver performance.",
+      "heroText": "Install IP-based cameras in the vehicle for the safety of your passengers. Ensure safe transportation of passengers and their belongings.",
+      "image": "cctv.png",
+      "groupImage": "cctv.png",
+      "group": "transport",
+      "keyProduct": "Router",
+      "benefits": [
+        {
+          "id": 1,
+          "title": "Prevent undesirable negative events",
+          "text": "Those who see that images are being taken from the cameras inside the vehicle will refrain from engaging in undesirable negative behavior such as vandalism, theft, and attack. Respond accurately, quickly and effectively, based on recorded or live images, to incidents that are subject to complaints that may occur despite the precautions you have taken."
+        },
+        {
+          "id": 2,
+          "title": "Don't be deceived",
+          "text": "Manage your video recordings archived in the large storage space created on the router. Periodically archive them to your storage in the cloud or in your own data center. Protect your business from insurance fraud, false claims and conflicting reports."
+        },
+        {
+          "id": 3,
+          "title": "Check driving safety",
+          "text": "Prevent inappropriate driver behavior such as using a mobile phone while driving and drowsy driving, which will risk the life safety of everyone in the vehicle."
+        }
+      ],
+      "functionality": [
+        {
+          "id": 1,
+          "title": "Remotely access on-board cameras",
+          "text": "Choose NB2800 series mobile network routers for road vehicles and NB3700 series mobile network routers for railway vehicles to establish high-speed, secure and uninterrupted wireless network connections to access live/archive images of the cameras in the vehicle remotely.",
+          "img": "remote-cctv.png"
+        },
+        {
+          "id": 3,
+          "title": "High capacity recording storage in the vehicle",
+          "text": "The video images recorded by the cameras in the vehicle are copied to the 1 TB capacity solid state hard disk (Solid-State-Disk, 'SSD') in the NetModule router. Stored image records are automatically transferred to the archiving system at the business center or in the cloud via the 5G/4G/3G supported mobile network connection in the vehicle or the WiFi connection at the stop where the vehicle arrives.",
+          "img": "ssd.png"
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "NB2800 for highway vehicles",
+          "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits CCTV archive, telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have automotive type approval (UNECE R10, UNECE R118). Some models support ITxPT standards.",
+          "link": "/products/router/nb2800",
+          "img": "/images/products/router/nb2800/nb2800.png"
+        },
+        {
+          "id": 2,
+          "title": "Antenna-Coach for highway transport",
+          "text": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by manufacturers in the automotive industry. Some models have UN ECE-R10 and UN ECE-R 118 certificates.",
+          "link": "/products/antenna/coach",
+          "img": "/images/products/antenna/coach/antenna-coach.png"
+        },
+        {
+          "id": 3,
+          "title": "NB3700 for railway vehicles",
+          "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits CCTV archive, telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have railway type approval (EN 50155, EN 45545).",
+          "link": "/products/router/nb3700/",
+          "img": "/images/products/router/nb3700/nb3700.png"
+        },
+        {
+          "id": 4,
+          "title": "Antenna-Railway for railway vehicles",
+          "text": "They are durable, lightweight, compact antennas with superior features developed to enable vehicles suitable for passenger or freight transportation, such as locomotives, trains, trams and wagons, operating on railways, to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by railway vehicle manufacturers or transportation operators.",
+          "link": "/products/antenna/railway/",
+          "img": "/images/products/antenna/railway/antenna-railway.png"
+        },
+        {
+          "id": 5,
+          "title": "Central Network Management Software",
+          "text": "Use the Connectivity Suite software to remotely monitor and configure the NB2800 series mobile network routers in the vehicles in your fleet. Connectivity Suite enables secure configuration and management of NetModule router devices from a central location. Connectivity Suite is a very simple-to-use remote management system developed to create your business-specific network infrastructure and manage all NetModule routers from a single point.",
+          "link": "/products/software/cs",
+          "img": "/images/products/software/cs/cs_gray_bg.png"
+        }
+      ]
+    },
+    "media": {
+      "title": "Offline Video & Music",
+      "description": "Let your passengers access the electronic content pool in the vehicle with their own devices, without requiring an internet connection. Let them watch movies, listen to music, read books, newspapers or magazines.",
+      "summary": "Show your passengers estimated arrival times at upcoming stops, the vehicle's location on the route, real-time road, weather and traffic information, and timetables of other public transportation systems at destination stops, via high-resolution screens in the vehicle. Show videos about important news on the agenda and your services. Earn revenue from ads that may vary depending on the vehicle's route, date, time or geographic location. Show your passengers interesting short videos that will help them have a pleasant time during their travels.",
+      "heroText": "Let your passengers access the electronic content pool in the vehicle with their own devices, without requiring an internet connection. Let them watch movies, listen to music, read books, newspapers or magazines.",
+      "image": "offline-archive.png",
+      "groupImage": "offline-archive.png",
+      "group": "transport",
+      "keyProduct": "Router",
+      "benefits": [
+        {
+          "id": 1,
+          "title": "Save your passengers from boredom",
+          "text": "Your passengers who have a pleasant experience thanks to the entertaining content they watch during their journey will remain loyal to your brand. Let your passengers access the latest movies, TV series and music using their own smart devices (smartphones, tablets, laptops). Let them have a pleasant time in your vehicles."
+        },
+        {
+          "id": 2,
+          "title": "Additional income opportunity",
+          "text": "Let your passengers access copyright-free content of their choice, free of charge. If you wish, you can earn income from the ads that will be played before you start playing the content that will be released for free. If you wish, your passengers can pay a fee for copyrighted content."
+        }
+      ],
+      "functionality": [
+        {
+          "id": 1,
+          "title": "Create effective WiFi coverage in the vehicle",
+          "text": "Show current trip information on the LCD screens in the vehicle. Passengers can connect to the WiFi network in the vehicle from their Android and iOS supported smartphones and access the information they want in real time. Publish dynamic information such as vehicle departure and arrival times, vehicle occupancy rate, current location on a digital map, arrival time to the upcoming stop and similar information. Use WiFi for the network connection of your digital displays in the vehicle and avoid the cost of Ethernet cables in the vehicle. Choose the NB2800 for road vehicles and NB3700 series for rail vehicles mobile network routers that can be configured as WiFi Access Points to create effective in-vehicle WiFi coverage.",
+          "img": "perfect-wifi.png"
+        },
+        {
+          "id": 2,
+          "title": "Establish high-speed wireless connections",
+          "text": "By connecting to the central content management system, downloading the rich content (video, audio, etc.) that takes up a large amount of space to be played to the content server in the vehicle, receiving current data from data provider servers (traffic, voyage, timetable, etc.), transferring the telematics data in the vehicle to the relevant central databases, satellite Choose NB2800 series mobile network routers for road vehicles and NB3700 series mobile network routers for railway vehicles to establish high-speed, secure, uninterrupted mobile network connections for operations such as determining the location by establishing connections.",
+          "img": "multi-wireless.png"
+        },
+        {
+          "id": 3,
+          "title": "Reduce the number of computers in the vehicle",
+          "text": "You do not need to use a dedicated computer for the server where the content that the passengers will watch is stored and the stored content is broadcast over the in-car wired or wireless network. Install the content server software on the virtual computer with 1 TB data storage capacity and Linux-based operating system on the NB2800 series mobile network routers for road vehicles and the NB3700 series for railway vehicles.",
+          "img": "less-pc.png"
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "NB2800 for highway vehicles",
+          "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have automotive type approval (UNECE R10, UNECE R118). Some models support ITxPT standards.",
+          "link": "/products/router/nb2800",
+          "img": "/images/products/router/nb2800/nb2800.png"
+        },
+        {
+          "id": 2,
+          "title": "Antenna-Coach for highway transport",
+          "text": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by manufacturers in the automotive industry. Some models have UN ECE-R10 and UN ECE-R 118 certificates.",
+          "link": "/products/antenna/coach",
+          "img": "/images/products/antenna/coach/antenna-coach.png"
+        },
+        {
+          "id": 3,
+          "title": "NB3700 for railway vehicles",
+          "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have railway type approval (EN 50155, EN 45545).",
+          "link": "/products/router/nb3700/",
+          "img": "/images/products/router/nb3700/nb3700.png"
+        },
+        {
+          "id": 4,
+          "title": "Antenna-Railway for railway vehicles",
+          "text": "They are durable, lightweight, compact antennas with superior features developed to enable vehicles suitable for passenger or freight transportation, such as locomotives, trains, trams and wagons, operating on railways, to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by railway vehicle manufacturers or transportation operators.",
+          "link": "/products/antenna/railway/",
+          "img": "/images/products/antenna/railway/antenna-railway.png"
+        },
+        {
+          "id": 5,
+          "title": "Central Network Management Software",
+          "text": "Use the Connectivity Suite software to remotely monitor and configure the NB2800 series mobile network routers in the vehicles in your fleet. Connectivity Suite enables secure configuration and management of NetModule router devices from a central location. Connectivity Suite is a very simple-to-use remote management system developed to create your business-specific network infrastructure and manage all NetModule routers from a single point.",
+          "link": "/products/software/cs",
+          "img": "/images/products/software/cs/cs_gray_bg.png"
+        }
+      ]
+    },
+    "pis": {
+      "title": "Passenger Information System",
+      "description": "Broadcast content on screens at terminals, stops or in vehicles to inform and entertain your passengers. Improve passenger experience. Reduce waiting times. Publish itinerary, departure/arrival times.",
+      "summary": "Show your passengers estimated arrival times at upcoming stops, the vehicle's location on the route, real-time road, weather and traffic information, and timetables of other public transportation systems at destination stops, via high-resolution screens in the vehicle. Show videos about important news on the agenda and your services. Earn revenue from ads that may vary depending on the vehicle's route, date, time or geographic location. Show your passengers interesting short videos that will help them have a pleasant time during their travels.",
+      "heroText": "Inform your passengers on the screens in your vehicles and share real-time information about schedules and road conditions. Play fun videos.",
+      "image": "passenger-info.png",
+      "groupImage": "passenger-info.png",
+      "group": "transport",
+      "keyProduct": "Router",
+      "benefits": [
+        {
+          "id": 1,
+          "title": "Strengthen your communication with your passengers",
+          "text": "Make your passengers trust your brand by providing up-to-date and accurate information. Show your passengers estimated arrival times at upcoming stops, the vehicle's location on the route, real-time road, weather and traffic information, and timetables of other public transportation systems at destination stops, on high-resolution screens in the vehicle or on their mobile devices. Show videos about important news on the agenda and your services. Earn revenue from ads that may vary depending on the vehicle's route, date, time or geographic location. Show your passengers interesting short videos that will help them have a pleasant time during their travels."
+        },
+        {
+          "id": 2,
+          "title": "Share information dynamically and in real time",
+          "text": "Give your passengers access to real-time information while in the vehicle. Provide your passengers with a planned, safe and enjoyable travel experience. Your passengers; They can see the estimated arrival times at the stops, transfer options to other routes at the destination stop, the distance traveled and to be traveled on the route, traffic, weather conditions, possible delays and more."
+        },
+        {
+          "id": 3,
+          "title": "Create an additional income channel for your business",
+          "text": "Show your passengers interesting, entertaining and informative short videos, featured news and occasional advertising videos on the screens in the vehicle. Earn revenue from these ads, which may vary depending on the vehicle's route, date, time or geographical location."
+        },
+        {
+          "id": 4,
+          "title": "Increase security",
+          "text": "Display live images from in-car security cameras on the screens. Prevent incidents such as vandalism, theft and attack that you do not want to happen inside the vehicle. Automatically archive all records taken during the expedition in the central database."
+        }
+      ],
+      "functionality": [
+        {
+          "id": 1,
+          "title": "Create effective WiFi coverage in the vehicle",
+          "text": "Show current trip information on the LCD screens in the vehicle. Passengers can connect to the WiFi network in the vehicle from their Android and iOS supported smartphones and access the information they want in real time. Publish dynamic information such as vehicle departure and arrival times, vehicle occupancy rate, current location on a digital map, arrival time to the upcoming stop and similar information. Use WiFi for the network connection of your digital displays in the vehicle and avoid the cost of Ethernet cables in the vehicle. Choose the NB2800 for road vehicles and NB3700 series for rail vehicles mobile network routers that can be configured as WiFi Access Points to create effective in-vehicle WiFi coverage.",
+          "img": "perfect-wifi.png"
+        },
+        {
+          "id": 2,
+          "title": "Establish high-speed wireless connections",
+          "text": "By connecting to the central content management system, downloading the rich content (video, audio, etc.) that takes up a large amount of space to be played to the content server in the vehicle, receiving current data from data provider servers (traffic, voyage, timetable, etc.), transferring the telematics data in the vehicle to the relevant central databases, satellite Choose NB2800 series mobile network routers for road vehicles and NB3700 series mobile network routers for railway vehicles to establish high-speed, secure, uninterrupted mobile network connections for operations such as determining the location by establishing connections.",
+          "img": "multi-wireless.png"
+        },
+        {
+          "id": 3,
+          "title": "Reduce the number of computers in the vehicle",
+          "text": "You do not need to use a dedicated computer for the server where the content that the passengers will watch is stored and the stored content is broadcast over the in-car wired or wireless network. Install the content server software on the virtual computer with 1 TB data storage capacity and Linux-based operating system on the NB2800 series mobile network routers for road vehicles and the NB3700 series for railway vehicles.",
+          "img": "less-pc.png"
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "NB2800 for highway vehicles",
+          "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have automotive type approval (UNECE R10, UNECE R118). Some models support ITxPT standards.",
+          "link": "/products/router/nb2800",
+          "img": "/images/products/router/nb2800/nb2800.png"
+        },
+        {
+          "id": 2,
+          "title": "Antenna-Coach for highway transport",
+          "text": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by manufacturers in the automotive industry. Some models have UN ECE-R10 and UN ECE-R 118 certificates.",
+          "link": "/products/antenna/coach",
+          "img": "/images/products/antenna/coach/antenna-coach.png"
+        },
+        {
+          "id": 3,
+          "title": "NB3700 for railway vehicles",
+          "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have railway type approval (EN 50155, EN 45545).",
+          "link": "/products/router/nb3700/",
+          "img": "/images/products/router/nb3700/nb3700.png"
+        },
+        {
+          "id": 4,
+          "title": "Antenna-Railway for railway vehicles",
+          "text": "They are durable, lightweight, compact antennas with superior features developed to enable vehicles suitable for passenger or freight transportation, such as locomotives, trains, trams and wagons, operating on railways, to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by railway vehicle manufacturers or transportation operators.",
+          "link": "/products/antenna/railway/",
+          "img": "/images/products/antenna/railway/antenna-railway.png"
+        },
+        {
+          "id": 5,
+          "title": "Central Network Management Software",
+          "text": "Use the Connectivity Suite software to remotely monitor and configure the NB2800 series mobile network routers in the vehicles in your fleet. Connectivity Suite enables secure configuration and management of NetModule router devices from a central location. Connectivity Suite is a very simple-to-use remote management system developed to create your business-specific network infrastructure and manage all NetModule routers from a single point.",
+          "link": "/products/software/cs",
+          "img": "/images/products/software/cs/cs_gray_bg.png"
+        }
+      ]
+    },
+    "ptt": {
+      "title": "Emergency Calls",
+      "description": "To get help in emergency situations; Allow voice communication with relevant institutions such as the operation center, police, ambulance.",
+      "summary": "Allow people in the vehicle to communicate by voice with people outside the vehicle, without compromising driving safety. In case of an unexpected situation encountered while traveling, you can quickly contact the relevant center with a single click. Passengers can request help from the push-to-talk station in the vehicle. The personnel answering the call can identify the vehicle and location of the call.",
+      "heroText": "To get help in emergency situations; Allow voice communication with relevant institutions such as the operation center, police, ambulance.",
+      "image": "ptt.png",
+      "groupImage": "ptt.png",
+      "group": "transport",
+      "keyProducts": "Router",
+      "benefits": [
+        {
+          "id": 1,
+          "title": "Quick support in case of emergency",
+          "text": "By pressing a button, employees or passengers in the vehicle can get help from the operation center or the organizations responsible for responding to emergency situations. More than one number can be called at the same time when you press the button."
+        },
+        {
+          "id": 2,
+          "title": "Quick access to vehicle information",
+          "text": "People who answer the emergency support call should be able to see the geographical location information of the vehicle on their computer screens at the moment the call is made. In addition to location information, important information such as the speed of the vehicle, the route traveled, the amount of fuel, the amount of cargo carried, the number of passengers can be automatically transferred to the relevant institution during an emergency call by connecting with other electronic systems in the vehicle."
+        },
+        {
+          "id": 3,
+          "title": "Remote voice call",
+          "text": "Authorized persons from the operation center of the business can call the GSM number in the vehicle and make announcements to the passengers through the voice announcement system in the vehicle. Incoming calls to the mobile line in the vehicle will be automatically answered and conversations can be made hands-free via the microphone in the vehicle, if available."
+        }
+      ],
+      "functionality": [
+        {
+          "id": 1,
+          "title": "Redundant mobile connections",
+          "text": "Give your passengers a safe travel experience. Access mobile networks of multiple mobile communications providers supporting 5G, 4G, 3G technologies simultaneously. While the vehicle is in motion, it automatically connects to the mobile network that provides effective service, depending on the signal level. Choose NetModule routers that support VoLTE, VoIP, PTT technologies and are compatible with other devices that provide audio communication in the vehicle, such as phones, push-to-talk microphones and speakers.",
+          "img": "fast-mobile.png"
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "NB2800 for highway vehicles",
+          "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. It supports technologies such as VoIP, PTT, VoGSM, VoLTE required for voice communication. All routers are CE compliant (RED) and have automotive type approval (UNECE R10, UNECE R118). Some models support ITxPT standards.",
+          "link": "/products/router/nb2800",
+          "img": "/images/products/router/nb2800/nb2800.png"
+        },
+        {
+          "id": 2,
+          "title": "Antenna-Coach for highway transport",
+          "text": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by manufacturers in the automotive industry. Some models have UN ECE-R10 and UN ECE-R 118 certificates.",
+          "link": "/products/antenna/coach",
+          "img": "/images/products/antenna/coach/antenna-coach.png"
+        },
+        {
+          "id": 3,
+          "title": "NB3700 for railway vehicles",
+          "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. It supports technologies such as VoIP, PTT, VoGSM, VoLTE required for voice communication. All routers are CE compliant (RED) and have railway type approval (EN 50155, EN 45545).",
+          "link": "/products/router/nb3700/",
+          "img": "/images/products/router/nb3700/nb3700.png"
+        },
+        {
+          "id": 4,
+          "title": "Antenna-Railway for railway vehicles",
+          "text": "They are durable, lightweight, compact antennas with superior features developed to enable vehicles suitable for passenger or freight transportation, such as locomotives, trains, trams and wagons, operating on railways, to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by railway vehicle manufacturers or transportation operators.",
+          "link": "/products/antenna/railway/",
+          "img": "/images/products/antenna/railway/antenna-railway.png"
+        },
+        {
+          "id": 5,
+          "title": "Central Network Management Software",
+          "text": "Use the Connectivity Suite software to remotely monitor and configure the NB2800 series mobile network routers in the vehicles in your fleet. Connectivity Suite enables secure configuration and management of NetModule router devices from a central location. Connectivity Suite is a very simple-to-use remote management system developed to create your business-specific network infrastructure and manage all NetModule routers from a single point.",
+          "link": "/products/software/cs",
+          "img": "/images/products/software/cs/cs_gray_bg.png"
+        }
+      ]
+    },
+    "telematics": {
+      "title": "Telematics for Public Transportation",
+      "description": "Monitor the vehicles in your fleet 24/7.",
+      "summary": "Ensure that all data collected on all vehicles in your fleet is automatically transferred to the fleet management system. Extend the life of your vehicles and increase the operational continuity of your fleet by preventing delays and not skipping vehicle maintenance periods.",
+      "heroText": "Monitor the vehicles in your fleet 24/7.",
+      "image": "telematics.png",
+      "groupImage": "telematics.png",
+      "group": "transport",
+      "keyProducts": "Router",
+      "benefits": [
+        {
+          "id": 1,
+          "title": "dedededede",
+          "text": "------------"
+        }
+      ],
+      "functionality": [
+        {
+          "id": 1,
+          "title": "defrfrfrfr",
+          "text": "rfrfrfrfrfrfr",
+          "img": "fast-mobile.png"
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "NB2800 for highway vehicles",
+          "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. It supports technologies such as VoIP, PTT, VoGSM, VoLTE required for voice communication. All routers are CE compliant (RED) and have automotive type approval (UNECE R10, UNECE R118). Some models support ITxPT standards.",
+          "link": "/products/router/nb2800",
+          "img": "/images/products/router/nb2800/nb2800.png"
+        },
+        {
+          "id": 2,
+          "title": "Antenna-Coach for highway transport",
+          "text": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by manufacturers in the automotive industry. Some models have UN ECE-R10 and UN ECE-R 118 certificates.",
+          "link": "/products/antenna/coach",
+          "img": "/images/products/antenna/coach/antenna-coach.png"
+        },
+        {
+          "id": 3,
+          "title": "NB3700 for railway vehicles",
+          "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. It supports technologies such as VoIP, PTT, VoGSM, VoLTE required for voice communication. All routers are CE compliant (RED) and have railway type approval (EN 50155, EN 45545).",
+          "link": "/products/router/nb3700/",
+          "img": "/images/products/router/nb3700/nb3700.png"
+        },
+        {
+          "id": 4,
+          "title": "Antenna-Railway for railway vehicles",
+          "text": "They are durable, lightweight, compact antennas with superior features developed to enable vehicles suitable for passenger or freight transportation, such as locomotives, trains, trams and wagons, operating on railways, to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by railway vehicle manufacturers or transportation operators.",
+          "link": "/products/antenna/railway/",
+          "img": "/images/products/antenna/railway/antenna-railway.png"
+        },
+        {
+          "id": 5,
+          "title": "Central Network Management Software",
+          "text": "Use the Connectivity Suite software to remotely monitor and configure the NB2800 series mobile network routers in the vehicles in your fleet. Connectivity Suite enables secure configuration and management of NetModule router devices from a central location. Connectivity Suite is a very simple-to-use remote management system developed to create your business-specific network infrastructure and manage all NetModule routers from a single point.",
+          "link": "/products/software/cs",
+          "img": "/images/products/software/cs/cs_gray_bg.png"
+        }
+      ]
+    },
+    "wifi": {
+      "title": "Passenger WiFi",
+      "description": "Let your passengers connect to the wireless network in the vehicle and access the internet from their mobile devices (smartphone, tablet, laptop).",
+      "summary": "Show your passengers estimated arrival times at upcoming stops, the vehicle's location on the route, real-time road, weather and traffic information, timetables of other public transportation systems at the destination stops, and delays and canceled trips on the high-resolution screens in the vehicle. Show videos about important news and your services. Earn revenue from ads that may vary depending on the vehicle's route, date, time or geographic location. Show your passengers interesting short videos that will help them have a pleasant time during their travels.",
+      "heroText": "Let your passengers connect to the wireless network in the vehicle and access the internet from their mobile devices (smartphone, tablet, laptop).",
+      "image": "passenger-wifi.png",
+      "groupImage": "passenger-wifi.png",
+      "group": "transport",
+      "keyProducts": "Router",
+      "benefits": [
+        {
+          "id": 1,
+          "title": "Improve customer experience",
+          "text": "Let your passengers connect to the internet. Keep your passengers connected to their digital world for an unparalleled customer experience. Your passengers, who keep their smart mobile devices (smartphone, tablet, laptop) with them, can connect to the internet during their travels. Let them access the websites, social media accounts, e-mails, online travel information, news and daily newspapers you allow via in-car WiFi."
+        },
+        {
+          "id": 2,
+          "title": "Wifi as marketing channel",
+          "text": "Your passengers will use their email address or mobile phone number to log in. Send them content about your campaigns with their permission. Let them convey their wishes and requests from the session start screen. Let them participate in your satisfaction survey."
+        }
+      ],
+      "functionality": [
+        {
+          "id": 1,
+          "title": "Create effective WiFi coverage in the vehicle",
+          "text": "Passengers can connect to the in-vehicle WiFi network from their mobile devices and access the internet. On the user identification screen (referred to as Captive Portal) displayed during connection to the WiFi access point, passengers are given; Publish dynamic information such as vehicle departure and arrival times, arrival time at the upcoming stop, possible delay and similar information. Choose the NB2800 for road vehicles and NB3700 series for rail vehicles mobile network routers that can be configured as WiFi Access Points to create effective in-vehicle WiFi coverage.",
+          "img": "perfect-wifi.png"
+        },
+        {
+          "id": 2,
+          "title": "Redundant mobile internet",
+          "text": "Provide your passengers with an uninterrupted and high-quality internet experience. Access mobile networks of multiple mobile internet service providers supporting 5G, 4G, 3G technologies at the same time. While the vehicle is in motion, it automatically connects to the mobile network that provides effective service, depending on the signal level. Passengers changing wagons on the train should not have their WiFi connections interrupted. Choose NetModule products to create effective WiFi coverage in your vehicles, connect to mobile networks and centrally manage all network components in your vehicles.",
+          "img": "fast-mobile.png"
+        },
+        {
+          "id": 3,
+          "title": "Custom captive portal",
+          "text": "When your passengers want to access the internet with their own devices (smartphone, tablet or laptop), they are greeted with a verification screen specially designed for your business. Passengers who read and approve the terms of use determined by your business are allowed to access the internet.",
+          "img": "captive.png"
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "title": "NB2800 for highway vehicles",
+          "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have automotive type approval (UNECE R10, UNECE R118). Some models support ITxPT standards.",
+          "link": "/products/router/nb2800",
+          "img": "/images/products/router/nb2800/nb2800.png"
+        },
+        {
+          "id": 2,
+          "title": "Antenna-Coach for highway transport",
+          "text": "They are durable, lightweight, compact antennas with superior features developed to enable large vehicles suitable for public transportation such as buses, minibuses and caravans to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by manufacturers in the automotive industry. Some models have UN ECE-R10 and UN ECE-R 118 certificates.",
+          "link": "/products/antenna/coach",
+          "img": "/images/products/antenna/coach/antenna-coach.png"
+        },
+        {
+          "id": 3,
+          "title": "NB3700 for railway vehicles",
+          "text": "It enables the establishment of high-speed and uninterrupted 5G/4G/3G supported mobile network connections. It contains a high-capacity solid state drive (SSD) where rich content (images, videos, music, etc.) to be published is kept. Determines the geographical location of the vehicle. It creates a WiFi coverage area within the vehicle that passengers can access. The central management system establishes online connections to 3rd party service/content providers. Automatically downloads new content and playlists to be released. It periodically transmits telematics information such as the vehicle's current location, speed, number of passengers, etc. It contains a content server that the LCD screens in the vehicle can access via wired or wireless network connection, and passengers can access wirelessly (WiFi) from the application on their mobile devices. All routers are CE compliant (RED) and have railway type approval (EN 50155, EN 45545).",
+          "link": "/products/router/nb3700/",
+          "img": "/images/products/router/nb3700/nb3700.png"
+        },
+        {
+          "id": 4,
+          "title": "Antenna-Railway for railway vehicles",
+          "text": "They are durable, lightweight, compact antennas with superior features developed to enable vehicles suitable for passenger or freight transportation, such as locomotives, trains, trams and wagons, operating on railways, to establish uninterrupted mobile network connections and to create wireless network (WiFi) areas that can be accessed inside or outside the vehicle. It has the RoHS, REAch and UN ECE-R 118 certificates sought by railway vehicle manufacturers or transportation operators.",
+          "link": "/products/antenna/railway/",
+          "img": "/images/products/antenna/railway/antenna-railway.png"
+        },
+        {
+          "id": 5,
+          "title": "Central Network Management Software",
+          "text": "Use the Connectivity Suite software to remotely monitor and configure the NB2800 series mobile network routers in the vehicles in your fleet. Connectivity Suite enables secure configuration and management of NetModule router devices from a central location. Connectivity Suite is a very simple-to-use remote management system developed to create your business-specific network infrastructure and manage all NetModule routers from a single point.",
+          "link": "/products/software/cs",
+          "img": "/images/products/software/cs/cs_gray_bg.png"
+        }
+      ]
+    }
   }
 }
