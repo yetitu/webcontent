@@ -330,16 +330,49 @@
       "benefits": [
         {
           "id": 1,
-          "title": "dedededede",
-          "text": "------------"
+          "title": "Make Data-Driven Decisions",
+          "text": "Monitor the performance of your fleet in real-time with data collected from sensors in your vehicles (location, speed, number of passengers, etc.). Store your data on servers in your own data center or in the cloud. Generate the reports you need."
+        },
+        {
+          "id": 2,
+          "title": "Share Real-Time Information",
+          "text": "Transmit the location information of vehicles to the central database continuously and without delay to convey important information to passengers, such as estimated arrival times at stops, last-minute cancellations, delays, and departure times."
+        },
+        {
+          "id": 3,
+          "title": "Adhere to Schedules and Speed Limits",
+          "text": "Record the times vehicles arrive at and depart from stops. Use telematics data to monitor what is happening on your routes. Ensure compliance with speed limits on the route. This will enhance both efficiency and customer satisfaction."
+        },
+        {
+          "id": 4,
+          "title": "Control Fuel Consumption",
+          "text": "Harsh braking, excessive idling, and inefficient routes increase fuel costs. Telematics data provides visibility into driver, vehicle, and route performance. Learn what causes fuel waste and where action needs to be taken."
         }
       ],
       "functionality": [
         {
           "id": 1,
-          "title": "defrfrfrfr",
-          "text": "rfrfrfrfrfrfr",
+          "title": "Fast and Secure Mobile Connections",
+          "text": "NetModule’s proven vehicle routers used in public transportation (UN ECE R10/EN 50155) provide reliable network connectivity for vehicles via the mobile network and also enable data transmission from the condition monitoring system to the central office.",
           "img": "fast-mobile.png"
+        },
+        {
+          "id": 2,
+          "title": "Collection and Processing of Vehicle Data",
+          "text": "Multiple interfaces such as CAN, RS-232, RS-485, and digital I/O provide excellent interaction with onboard electronics. The devices are also suitable for analyzing passenger data, such as passenger count. Collected data can be locally stored on the internal SSD and directly processed by the router using LXC (Linux container) technology. The integrated GNSS module allows the control center to pinpoint the vehicles with high accuracy.",
+          "img": ""
+        },
+        {
+          "id": 3,
+          "title": "QoS and VPN",
+          "text": "Before data leaves the onboard network, it can be prioritized using Quality of Service (QoS) routing based on its importance. This ensures that operational data, which is critical for the system, always receives the highest priority. The latest VPN technologies, such as OpenVPN, ensure the secure transmission of operational data to the central office.",
+          "img": ""
+        },
+        {
+          "id": 4,
+          "title": "Durable",
+          "text": "The durable routers meet the challenging requirements encountered in public transportation, such as a wide temperature range (-40°C/-40°F to +85°C/+185°F), electromagnetic compatibility, safety, and fire protection. This makes them suitable for applications where mechanical stress, humidity, condensation, dirt, and dust are common.",
+          "img": ""
         }
       ],
       "products": [

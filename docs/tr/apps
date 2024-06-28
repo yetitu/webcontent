@@ -352,10 +352,29 @@
       "functionality": [
         {
           "id": 1,
-          "title": "wwwww",
-          "text": "-------------",
+          "title": "Hızlı ve güvenli mobil bağlantılar",
+          "text": "NetModule’un toplu taşımada kullanılan (UN ECE R10/EN 50155) kanıtlanmış araç yönlendiricileri, mobil ağ üzerinden araçlar için güvenilir bir ağ bağlantısı sağlar ve aynı zamanda durum izleme sisteminden merkezi ofise veri iletimini mümkün kılar.",
           "img": "fast-mobile.png"
-        }
+        },
+        {
+          "id": 2,
+          "title": "Araç verilerinin toplanması ve işlenmesi",
+          "text": "CAN, RS-232, RS-485 ve dijital I/O gibi birçok arayüz, araç içi elektroniklerle mükemmel etkileşim sağlar. Cihazlar ayrıca yolcu sayısı gibi yolcu verilerini analiz etmek için de uygundur. Toplanan veriler, dahili SSD'de yerel olarak saklanabilir ve LXC (Linux container) teknolojisi kullanılarak yönlendirici tarafından doğrudan işlenebilir. Entegre GNSS modülü, kontrol merkezinin araçları nokta atışı doğrulukla bulmasını sağlar.",
+          "img": ""
+        },
+        {
+          "id": 3,
+          "title": "QoS ve VPN",
+          "text": "Veriler araç içi ağdan ayrılmadan önce, önemine göre Hizmet Kalitesi (QoS) yönlendirmesi kullanılarak önceliklendirilebilir. Bu, sistem için en önemli olan işletim verilerinin her zaman en üst düzeyde öncelik kazanmasını sağlar. OpenVPN gibi en son VPN teknolojileri, işletim verilerinin merkezi ofise güvenli bir şekilde aktarılmasını sağlar.",
+          "img": ""
+        },
+        {
+          "id": 4,
+          "title": "Dayanıklı",
+          "text": "Dayanıklı yönlendiriciler, toplu taşımada karşılaşılan sıcaklık aralığı (-40°C/-40°F ile +85°C/+185°F), elektromanyetik uyumluluk, güvenlik ve yangın koruma gibi zorlu gereksinimleri karşılar. Bu, mekanik stres, nem ve yoğuşma yanı sıra kir ve tozun yaygın olduğu uygulamalar için onları uygun hale getirir.",
+          "img": ""
+        },
+
       ],
       "products": [
         {
