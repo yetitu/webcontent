@@ -1,0 +1,34 @@
+{
+  "transport": {
+    "cctv": {
+      "title": "Onboard Security Cameras",
+      "description": "Install IP-based cameras in the vehicle for the safety of your passengers. Ensure the safe transport of passengers and their belongings.",
+      "groupImage": "cctv.png"
+    },
+    "media": {
+      "title": "Offline Video and Music",
+      "description": "Allow your passengers to access the electronic content pool in the vehicle with their own devices without the need for an internet connection. Let them watch movies, listen to music, read books, newspapers, or magazines.",
+      "groupImage": "offline-archive.png"
+    },
+    "pis": {
+      "title": "Passenger Information System",
+      "description": "Broadcast dynamic content on screens at terminals, stops, or inside vehicles to inform and entertain your passengers. Improve the passenger experience. Reduce waiting times. Publish route, departure/arrival times, and delays.",
+      "groupImage": "passenger-info.png"
+    },
+    "ptt": {
+      "title": "Emergency Voice Communication",
+      "description": "Enable voice communication with relevant institutions such as the operations center, police, and ambulance in case of emergencies to get help.",
+      "groupImage": "ptt.png"
+    },
+    "telematics": {
+      "title": "Telematics for Public Transport",
+      "description": "Monitor the vehicles in your fleet 24/7. Increase your operational efficiency by collecting real-time data from the vehicles in your fleet. Make data-driven decisions.",
+      "groupImage": "telematics.png"
+    },
+    "wifi": {
+      "title": "WiFi for Passengers",
+      "description": "Allow your passengers to connect to the wireless network inside the vehicle with their mobile devices (smartphone, tablet, laptop) and access the internet.",
+      "groupImage": "passenger-wifi.png"
+    }
+  }
+}

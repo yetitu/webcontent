@@ -1,0 +1,34 @@
+{
+  "transport": {
+    "cctv": {
+      "title": "Araçta Güvenlik Kameraları",
+      "description": "Yolcularınızın güvenliği için araca IP tabanlı kameralar yerleştirin. Yolcuların ve eşyalarının güvenli bir şekilde taşınmasını sağlayın.",
+      "groupImage": "cctv.png"
+    },
+    "media": {
+      "title": "Çevrimdışı Video ve Müzik",
+      "description": "Yolcularınız kendi cihazları ile araçtaki elektronik içerik havuzuna, internet bağlantısı gerekmeksizin, erişsin. Film izlesinler, müzik dinlesinler, kitap, gazete veya dergi okusunlar.",
+      "groupImage": "offline-archive.png"
+    },
+    "pis": {
+      "title": "Yolcu Bilgilendirme Sistemi",
+      "description": "Yolcularınızı, bilgilendirmek, eğlendirmek için terminallerde, duraklarda veya araçlardaki ekranlardan dinamilk içerik yayınlayın. Yolcu deneyimini iyileştirin. Bekleme sürelerini azaltın. Güzergah, kalkış/varış zamanlarını, gecikmeleri yayınlayın.",
+      "groupImage": "passenger-info.png"
+    },
+    "ptt": {
+      "title": "Acil Durumda Sesli İletişim",
+      "description": "Acil durumlarda yardım almak için; operasyon merkezi, emniyet, ambulans gibi ilgili kurumlar ile sesli iletişim kurulmasına olanak sağlayın.",
+      "groupImage": "ptt.png"
+    },
+    "telematics": {
+      "title": "Toplu Ulaşım İçin Telematik",
+      "description": "Filonuzdaki araçları 7/24 izleyin. Filonuzdaki araçlardan gerçek zamanlı veri toplayarak operasyonel verimliliğinizi artırın. Veriye dayalı kararlar alın.",
+      "groupImage": "telematics.png"
+    },
+    "wifi": {
+      "title": "Yolcular için WiFi",
+      "description": "Yolcularınız, mobil cihazlarından (akıllı telefon, tablet, dizüstü bilgisayar) araç içindeki kablosuz ağa bağlansınlar ve internete erişebilsinler.",
+      "groupImage": "passenger-wifi.png"
+    }
+  }
+}
