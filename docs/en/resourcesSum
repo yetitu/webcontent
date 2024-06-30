@@ -1,0 +1,9 @@
+{
+  "articles": {
+    "connectedVehicles": {
+      "title": "Connected Vehicles",
+      "description": "Connected vehicle technologies provide significant advantages for the owner, driver and passenger of the vehicle, as well as for smart cities that have achieved digitalization. ",
+      "groupImage": "connectedVehicles.png"
+    }
+  }
+}
