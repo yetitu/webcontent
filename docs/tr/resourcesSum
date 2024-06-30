@@ -3,7 +3,8 @@
     "connectedVehicles": {
       "title": "Bağlantılı Araçlar",
       "description": "Bağlantılı araç teknolojileri aracın sahibine, sürücüsüne, yolcusuna olduğu kadar dijitalleşmeyi gerçekleştirmiş akıllı kentler için de çok önemli avantajlar sağlıyor. ",
-      "groupImage": "connectedVehicles.png"
+      "groupImage": "connectedVehicles.png",
+      "slug": "connected-vehicles"
     }
   }
 }
