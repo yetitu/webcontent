@@ -1,0 +1,57 @@
+{
+  "connected-vehicles": {
+    "paragraphs": [
+      {
+        "title": "Bağlantılı Araç Nedir?",
+        "text": "Uyarlanabilir donanım ve yazılım altyapılarından destek alan araç teknolojisine “bağlantılı araç” adı veriliyor. Bu araç sistemlerinde, günümüzde kullanılan iletişim protokolleriyle araçların bir nevi iletişim kurması sağlanıyor. 4.5G, Bluetooth ve Edge gibi protokoller aracılığıyla mekanik sistemlerden sürücü için kişiselleştirilen özelliklere kadar pek çok konuda anlık veri akışı elde edilebiliyor. Sistem ile entegre olan web tabanlı ya da mobil uygulamalar, sürücülerin veri yönetimini kolaylaştırıyor.",
+        "links": [
+          "deded",
+          "deded"
+        ],
+        "images": [
+          "dedede",
+          "dedede"
+        ]
+      },
+      {
+        "title": "Gezgin Veri Merkezi",
+        "text": "Gereksinimlere göre yapılandırılabilen donanım ve yazılım altyapılarının bir araya getirilmesi ile ortaya çıkan çözümlere 'Bağlantılı Araç' adını veriyoruz. Mekanik sistemlerden, taşınan yolcu sayısına, aracın konumundan, hızına varıncaya kadar araçta toplanan tüm anlık verilerin araçtaki ve araç dışındaki bilgi işlem sistemleriyle anlık olarak paylaşılması, araç ile bilgi işlem sistemleri arasında iki yönlü veri iletişimi sağlanması bağlantılı araç sistemlerinin temelini oluşturuyor. Yüksek hızda anlık veri akışı için 5G ve 4G gibi modern kablosuz iletişim teknolojilerinin yardımıyla sağlanıyor. Sürücü ve diğer kullanıcılar ile internet arayüzü veya mobil uygulamalar yardımı ile etkileşim sağlanıyor. Aslında, Bağlantı araç çözümleri yardımıyla araçlar birer gezgin veri merkezine dönüştürülüyor bile denilebilir.",
+        "links": [
+          "deded",
+          "deded"
+        ],
+        "images": [
+          "dedede",
+          "dedede"
+        ]
+      },
+      {
+        "title": "Yapay Zekâ",
+        "text": "Sürücüyü, yolu, aracı, yolcuları, kargoyu izleyen çeşitli kameraların aldığı anlık görüntüler ile araçtaki veya araç dışındaki bilgi sistemlerinde çalışan yapay zekâ algoritmaları, güvenli seyahat için gerekli şartları sağlar. Örneğin, bir okul servisinde sürüş sırasında yolcuların koltuklarından kalkmaları durumunda hem sürücü hem de filoyu canlı olarak izleyen harekât memurlarının aynı anda uyarılmasını sağlanabilir. Sürücüyü izleyen kameradan alınan görüntüler yardımıyla sürücünün dikkatini ne ölçüde yola ve sürüşe verdiği izlenebilir. Sürüş durumunda sürücünün cep telefonu ile konuşması tespit edildiğinde ilgi kişilere bildirim gönderilir."
+      },
+      {
+        "text": "Yapay zekâ, toplu ulaşımda yolcu deneyimini de geliştirir. Örneğin yolcular araç içindeki ekranlardan veya kendi mobil cihazlarından, bir sonraki durağa tahmini varış zamanını izleyebilir. Araç dışındaki bilgi sistemleri yardımıyla servis sağlayan yapay zekâ algoritmaları, aracın izlediği rotadaki anlık trafik yoğunluğu, aracın anlık konum ve hız verilerini kullanarak hedefe tahmin varış zamanını hesaplar."
+      },
+      {
+        "title": "Telista’nın donanım tedarikçisi: NetModule",
+        "text": "2008 yılından günümüze dek bağlantılı araç uygulamaları için alanında dünya lideri Belden şirketler grubunun bünyesinde yer alan Almanya’dan NetModule’ün firmasının ağ donanımı ürünlerinin Türkiye distribütörlüğünü sürdürmekteyiz."
+      },
+      {
+        "title": "",
+        "text": "NetModule’ün ürün portföyünde yer alan yönlendiriciler; 5G/4G/3G/2G mobil iletişim teknolojilerini destekleyerek hızlı, kesintisiz ve güvenli veri aktarımı, internet bağlantısı ve ses araması olanaklarını sağlar. WiFi-5/WiFi-6 desteği araçtaki yolcular için mobil internet bağlantısından yararlanma ve araç içindeki kablosuz ağa bağlanma olanağı sağlar. BLE teknolojisi yardımıyla araçtaki sensör ve aktüatörler ile bağlantı kurulur. CAN bağlantısı, aracın CANBus veri yolundaki tüm verileri okuma veya değiştirebilme olanağını getirir. GNNS ile aracın coğrafi konumu belirlenir. Yüksek kapasiteli SSD ile geniş veri saklama kapasitesi sağlanır. LXC desteği ile araç içinde başka bir bilgisayara gerek kalmaksızın yönlendirici içinde yönlendiricinin kaynaklarını kullanan sanal bir bilgisayar oluşturulur. SDK desteği ile uygulamaya özel otomasyon geliştirilebilir."
+      }
+    ],
+    "ctas": [
+      {
+        "type": "link",
+        "text": "Karayollarında çalışan araçlar için uygun, UN ECE R10 ve UN ECE R118 tip onaylı yönlendiriciler için tıklayın.",
+        "url": "/products/router/nb2800"
+      },
+      {
+        "type": "link",
+        "text": "Demiryollarında çalışan araçlar için uygun, EN 50155 ve EN 45545 tip onaylı yönlendiriciler için tıklayın.",
+        "url": "/products/router/nb3800"
+      }
+    ]
+  }
+}

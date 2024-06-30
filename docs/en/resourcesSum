@@ -2,7 +2,7 @@
   "articles": {
     "connectedVehicles": {
       "title": "Connected Vehicles",
-      "description": "Connected vehicle technologies provide significant advantages for the owner, driver and passenger of the vehicle, as well as for smart cities that have achieved digitalization. ",
+      "description": "Cities with smart infrastructure provide significant advantages to vehicle owners, drivers and passengers. It is created by utilizing machine-to-machine communication (M2M), internet of things, artificial intelligence-supported analytics and edge computing technologies.",
       "groupImage": "connectedVehicles.png",
       "slug": "connected-vehicles"
     }

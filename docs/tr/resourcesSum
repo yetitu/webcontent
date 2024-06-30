@@ -2,7 +2,7 @@
   "articles": {
     "connectedVehicles": {
       "title": "Bağlantılı Araçlar",
-      "description": "Bağlantılı araç teknolojileri aracın sahibine, sürücüsüne, yolcusuna olduğu kadar dijitalleşmeyi gerçekleştirmiş akıllı kentler için de çok önemli avantajlar sağlıyor. ",
+      "description": "Araçların sahiplerine, sürücülere, yolculara, akıllı alt yapısı olan kentler önemli avantajlar sağlar. Makineler arası iletişim (M2M), nesnelerin interneti, yapay zekâ destekli analitik ve uç bilişim teknolojilerinden yararlanılarak oluşturulur.",
       "groupImage": "connectedVehicles.png",
       "slug": "connected-vehicles"
     }
