@@ -3,7 +3,6 @@
     "connectedVehicles": {
       "title": "Bağlantılı Araçlar",
       "description": "Araçların sahiplerine, sürücülere, yolculara, akıllı alt yapısı olan kentler önemli avantajlar sağlar. Makineler arası iletişim (M2M), nesnelerin interneti, yapay zekâ destekli analitik ve uç bilişim teknolojilerinden yararlanılarak oluşturulur.",
-      "groupImage": "connectedVehicles.png",
       "slug": "connected-vehicles"
     }
   }
