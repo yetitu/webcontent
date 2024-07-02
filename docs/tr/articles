@@ -18,8 +18,7 @@
         "title": "Gezgin Veri Merkezi",
         "text": "Gereksinimlere göre yapılandırılabilen donanım ve yazılım altyapılarının bir araya getirilmesi ile ortaya çıkan çözümlere 'Bağlantılı Araç' adını veriyoruz. Mekanik sistemlerden, taşınan yolcu sayısına, aracın konumundan, hızına varıncaya kadar araçta toplanan tüm anlık verilerin araçtaki ve araç dışındaki bilgi işlem sistemleriyle anlık olarak paylaşılması, araç ile bilgi işlem sistemleri arasında iki yönlü veri iletişimi sağlanması bağlantılı araç sistemlerinin temelini oluşturuyor. Yüksek hızda anlık veri akışı için 5G ve 4G gibi modern kablosuz iletişim teknolojilerinin yardımıyla sağlanıyor. Sürücü ve diğer kullanıcılar ile internet arayüzü veya mobil uygulamalar yardımı ile etkileşim sağlanıyor. Aslında, Bağlantı araç çözümleri yardımıyla araçlar birer gezgin veri merkezine dönüştürülüyor bile denilebilir.",
         "image": {
-          "src": "https://placehold.co/600x400/orange/white",
-          "url": "https://www.telista.com.tr"
+          "src": "https://placehold.co/600x400/orange/white"
         }
       },
       {
