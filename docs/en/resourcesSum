@@ -3,7 +3,13 @@
     "connectedVehicles": {
       "title": "Connected Vehicles",
       "description": "Cities with smart infrastructure provide significant advantages to vehicle owners, drivers and passengers. It is created by utilizing machine-to-machine communication (M2M), internet of things, artificial intelligence-supported analytics and edge computing technologies.",
-      "slug": "connected-vehicles"
+      "slug": "connected-vehicles",
+      "date": "02.07.2024",
+      "author": "Yetkin POLAT",
+      "tags": [
+        "router",
+        "connected vehicles"
+      ]
     }
   }
 }

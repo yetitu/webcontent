@@ -3,7 +3,13 @@
     "connectedVehicles": {
       "title": "Bağlantılı Araçlar",
       "description": "Araçların sahiplerine, sürücülere, yolculara, akıllı alt yapısı olan kentler önemli avantajlar sağlar. Makineler arası iletişim (M2M), nesnelerin interneti, yapay zekâ destekli analitik ve uç bilişim teknolojilerinden yararlanılarak oluşturulur.",
-      "slug": "connected-vehicles"
+      "slug": "connected-vehicles",
+      "date": "02.07.2024",
+      "author": "Yetkin POLAT",
+      "tags": [
+        "router",
+        "connected vehicles"
+      ]
     }
   }
 }
