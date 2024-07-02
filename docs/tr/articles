@@ -2,8 +2,11 @@
   "connected-vehicles": {
     "title": "Bağlantılı Araçlar",
     "date": "02.07.2024",
-    "author":"Yetkin POLAT",
-    "tags": ["router","connected vehicles"],
+    "author": "Yetkin POLAT",
+    "tags": [
+      "router",
+      "connected vehicles"
+    ],
     "description": "Araçların sahiplerine, sürücülere, yolculara, akıllı alt yapısı olan kentler önemli avantajlar sağlar. Makineler arası iletişim (M2M), nesnelerin interneti, yapay zekâ destekli analitik ve uç bilişim teknolojilerinden yararlanılarak oluşturulur.",
     "slug": "connected-vehicles",
     "paragraphs": [
@@ -14,10 +17,7 @@
           "deded",
           "deded"
         ],
-        "images": [
-          "dedede",
-          "dedede"
-        ]
+        "image": "dedede"
       },
       {
         "title": "Gezgin Veri Merkezi",
@@ -26,10 +26,7 @@
           "deded",
           "deded"
         ],
-        "images": [
-          "dedede",
-          "dedede"
-        ]
+        "image": "dedede"
       },
       {
         "title": "Yapay Zekâ",
