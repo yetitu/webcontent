@@ -33,5 +33,12 @@
 		"desc": "Terminal cihazından şirket ağına kadar, her noktada, tutarlı ve güvenli iletişimi sağlayan, tüm cihazlarda standart bir işletim ve yapılandırma konseptine uygun geliştirilen yazılım ürünlerine göz atın.",
 		"slug": "yazilim",
 		"url": "/software"
+	},
+	{
+		"name": "Aksesuarlar",
+		"imageUrl": "/images/categories/accessory.png",
+		"desc": "NetModule marka yönlendiriciler ile birlikte kullanılabilen, uygulamanıza uygun antenler ile farklı tiplerde montaj aksesuarlarını Telista'da bulabilirsiniz.",
+		"slug": "accessory",
+		"url": "/accessory"
 	}
 ]

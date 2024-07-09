@@ -33,5 +33,12 @@
 		"desc": "Take a look at the software products developed in accordance with a standard operating and configuration concept on all devices, ensuring consistent and secure communication at every point, from the terminal device to the company network.",
 		"slug": "software",
 		"url": "/software"
+	},
+	{
+		"name": "Accessories",
+		"imageUrl": "/images/categories/accessory.png",
+		"desc": "You can find antennas and different types of mounting accessories suitable for your application, which can be used with NetModule brand routers, at Telista.",
+		"slug": "accessory",
+		"url": "/accessory"
 	}
 ]
