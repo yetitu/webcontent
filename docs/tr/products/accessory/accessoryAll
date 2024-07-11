@@ -1,0 +1,572 @@
+[
+  {
+    "name": "cablesAndConnectors",
+    "products": [
+      {
+        "productCode": "Adapter-CMC48-01",
+        "shortDesc": "NG800 serisi yönlendiriciler için Molex CMC-48 çok amaçlı adaptör kablosu",
+        "longDesc": "Bu adaptör kablosu, NG800'ün Molex CMC48 konektöründe bulunan çeşitli arayüzlere erişim sağlar. Kablonun amacı ürünün kolayca devreye alınmasını kolaylaştırmaktır, kalıcı kurulumlarda kullanılması amaçlanmamıştır.",
+        "connectors": [
+          "1x Power 4mm/Banana Connector",
+          "1x Fast Ethernet RJ45",
+          "1x Console USB",
+          "2x CAN D-Sub 9 female",
+          "2x BroadR RCY"
+        ],
+        "orderCode": "Adapter-CMC48-01"
+      },
+      {
+        "productCode": "Adapter-FAKRAf-SMAf",
+        "shortDesc": "NB2800 serisi yönlendiriciler için FAKRA-Z-f'ten SMA-f'e Dönüştürücü",
+        "image": "adapter-fakraf-smaf.png",
+        "orderCode": "Adapter-FAKRAf-SMAf"
+      },
+      {
+        "productCode": "Adapter-SMAm-FAKRAm",
+        "shortDesc": "NB2700 ve NB800 E-mark serisi yönlendiriciler için SMAm'den FAKRA-Z-m'e Dönüştürücü",
+        "image": "adapter-smam-fakram.png",
+        "orderCode": "Adapter-FAKRAf-SMAf"
+      },
+      {
+        "productCode": "Con-M12-4Pol-f",
+        "shortDesc": "NB3700 ve NB3800 serisi yönlendiriciler için M12 Güç Konnektörü (4pol, female)",
+        "image": "con-m12-4pol-f.png",
+        "orderCode": "Con-M12-4Pol-f"
+      },
+      {
+        "productCode": "Pwr-Cable-01-ES3300-M12-2",
+        "shortDesc": "ES3000 serisi anahtarlayıcılar için M12-Litze güç kablosu (ECE R118, 2m)",
+        "compliance": "ECE R118",
+        "image": "pwr-cable-01-es3300-m12-2.png",
+        "orderCode": "Pwr-Cable-01-ES3300-M12-2"
+      },
+      {
+        "productCode": "Pwr-Cable-Railway-01-M12-0.5",
+        "shortDesc": "NB3000 serisi için açık uçlu, 0.5m, M12 konnektörlü kablo",
+        "compliance": "EN45545-2",
+        "image": "pwr-cable-railway-01-m12.png",
+        "orderCode": "Pwr-Cable-Railway-01-M12-0.5"
+      },
+      {
+        "productCode": "Pwr-Cable-Railway-01-M12-3",
+        "shortDesc": "NB3000 serisi için açık uçlu, 3m, M12 konnektörlü kablo",
+        "compliance": "EN45545-2",
+        "image": "pwr-cable-railway-01-m12.png",
+        "orderCode": "Pwr-Cable-Railway-01-M12-3"
+      },
+      {
+        "productCode": "USB-Cable-01-ES3300-M12-USB",
+        "shortDesc": "ES3300 serisi anahtarlayıcılar için adaptör kablosu M12 - USB tip A dişi soket",
+        "image": "usb-cable-01-es3300-m12-usb.png",
+        "orderCode": "USB-Cable-01-ES3300-M12-USB"
+      }
+    ]
+  },
+  {
+    "name": "powerSupplies",
+    "products": [
+      {
+        "productCode": "Power-Supply",
+        "shortDesc": "230V - 12V PSU EU/CH (5mm)",
+        "input": "230V",
+        "output": "12V",
+        "connector": "5mm aralık, 2 pozisyon",
+        "image": "router-power-supply.png",
+        "orderCode": "Power-Supply"
+      },
+      {
+        "productCode": "Power-Supply-3.5P",
+        "shortDesc": "230V - 12V PSU EU/CH (3.5mm)",
+        "input": "230V",
+        "output": "12V",
+        "connector": "3.5mm aralık, 2 pozisyon",
+        "image": "router-power-supply.png",
+        "orderCode": "Power-Supply-3.5P"
+      },
+      {
+        "productCode": "Power-Supply-Int-24V-3.5P",
+        "shortDesc": "110/230 V - 24 V PSU Interational 3.5mm aralık",
+        "input": "110/230 V",
+        "output": "24 V",
+        "current": "1.25 A",
+        "power": "30 W",
+        "connector": "3.5mm aralık, 2 pozisyon",
+        "image": "router-power-supply.png",
+        "orderCode": "Power-Supply-Int-24V-3.5P"
+      },
+      {
+        "productCode": "Power-Supply-Int-24V-IGN",
+        "shortDesc": "110/230 V - 24 V PSU International 5mm aralık ve 'Ignition Sense'",
+        "input": "110/230 V",
+        "output": "24 V",
+        "current": "1.25 A",
+        "power": "30 W",
+        "connector": "5mm aralık, 3 pozisyon",
+        "image": "router-power-supply.png",
+        "orderCode": "Power-Supply-Int-24V-IGN"
+      }
+    ]
+  },
+  {
+    "name": "kits",
+    "products": [
+      {
+        "productCode": "Accessory-Starter-Kit",
+        "shortDesc": "Accessory-Starter-Kit (5mm aralık)",
+        "consist": [
+          "230V - 12V (1.5 A, 18 W) 5mm aralık, EU/CH",
+          "2x Antenna-Port-N (5G, LTE, UMTS, GSM ve WLAN)"
+        ],
+        "intended": "Yalnızca laboratuvar ve test amaçlıdır",
+        "image": "accessory-starter-kit.png",
+        "orderCode": "Accessory-Starter-Kit"
+      },
+      {
+        "productCode": "Accessory-Starter-Kit-3.5P",
+        "shortDesc": "Accessory-Starter-Kit (3.5mm aralık)",
+        "consist": [
+          "230V - 12V (1.5 A, 18 W) 3.5mm aralık, EU/CH",
+          "2x Antenna-Port-N (5G, LTE, UMTS, GSM ve WLAN)"
+        ],
+        "intended": "Yalnızca laboratuvar ve test amaçlıdır",
+        "image": "accessory-starter-kit.png",
+        "orderCode": "Accessory-Starter-Kit"
+      },
+      {
+        "productCode": "Accessory-Starter-Kit-Int",
+        "shortDesc": "Accessory-Starter-Kit International 5mm aralık",
+        "consist": [
+          "110/230V - 24V (1.25 A, 30 W) 5mm aralık, EU/CH",
+          "2x Antenna-Port-N (5G, LTE, UMTS, GSM ve WLAN)"
+        ],
+        "intended": "Yalnızca laboratuvar ve test amaçlıdır",
+        "image": "accessory-starter-kit.png",
+        "orderCode": "Accessory-Starter-Kit-Int"
+      },
+      {
+        "productCode": "Accessory-Starter-Kit-Int-3.5P",
+        "shortDesc": "Accessory-Starter-Kit International 3.5mm aralık",
+        "consist": [
+          "110/230V - 24V (1.25 A, 30 W) 3.5mm aralık, EU/CH",
+          "2x Antenna-Port-N (5G, LTE, UMTS, GSM ve WLAN)"
+        ],
+        "intended": "Yalnızca laboratuvar ve test amaçlıdır",
+        "image": "accessory-starter-kit.png",
+        "orderCode": "Accessory-Starter-Kit-Int-3.5P"
+      },
+      {
+        "productCode": "Accessory-Starter-Kit-Int-IGN",
+        "shortDesc": "Accessory-Starter-Kit International 5mm aralık",
+        "consist": [
+          "110/230V - 24V (1.25 A, 30 W) Ignition Sense, 5mm aralık, EU/CH",
+          "2x Antenna-Port-N (5G, LTE, UMTS, GSM ve WLAN)",
+          "3x Adapter FAKRA-f-SMA-f"
+        ],
+        "intended": "Yalnızca laboratuvar ve test amaçlıdır",
+        "image": "accessory-starter-kit.png",
+        "orderCode": "Accessory-Starter-Kit-Int-IGN"
+      },
+      {
+        "productCode": "Accessory-Starter-Kit-Int-Railway",
+        "shortDesc": "Railway Accessory Starter Kit International",
+        "consist": [
+          "110/230V - 24V (1.25 A, 30 W)",
+          "2x digital I/O konnektör",
+          "4x Antenna-Port-N (5G, LTE, UMTS, GSM ve WLAN)",
+          "1x Antenna-Roof-2LG",
+          "7x Antenna adapter TNCm - SMAf",
+          "1x Ethernet adapter M12 - RJ45",
+          "1x Ethernet adapter M12 - RJ45 GbE"
+        ],
+        "intended": "Yalnızca laboratuvar ve test amaçlıdır",
+        "image": "accessory-starter-kit.png",
+        "orderCode": "Accessory-Starter-Kit-Int-Railway"
+      }
+    ]
+  },
+  {
+    "name": "licenses",
+    "products": [
+      {
+        "productCode": "Software Key FMS2IP",
+        "shortDesc": "FMS'ten IP'ye Ağ Geçiti",
+        "features": [
+          "CAN mesajlarının FMS Standardına göre IP datagramlarına otomatik olarak çevrilmesini sağlar. ITxPT hizmetleri:",
+          "FMStoIP",
+          "VEHICLEtoIP"
+        ],
+        "orderCode": "F"
+      },
+      {
+        "productCode": "Software Key GNSS",
+        "shortDesc": "GNSS Programı",
+        "features": [
+          "JSON-, NMEA akışına sahip Sunucu ile GNSS konum hizmeti (donanım tarafından destekleniyorsa)"
+        ],
+        "orderCode": "G"
+      },
+      {
+        "productCode": "Software Key ITxPT",
+        "shortDesc": "ITxPT Servisleri",
+        "features": [
+          "Aşağıdaki hizmetlerle birlikte ITxPT özellikleri S01 v2.0.1 ve S02 v2.0.1:",
+          "Modül envanter hizmeti",
+          "Zaman servisi",
+          "GNSS Konum servisi (-G opsiyonu gerektirir)",
+          "FMStoIP servisi ve ilgili alt servisler (-F opsiyonu gerektirir)",
+          "VEHICLEtoIP servisi (-F opsiyonu gerektirir)"
+        ],
+        "compliance": "ITxPT donanım uyumluluğu uygun ürün donanımıyla sağlanabilir.",
+        "orderCode": "Ix"
+      },
+      {
+        "productCode": "Software Key RF Enhanced",
+        "shortDesc": "Genişletilmiş WLAN Yapılandırması",
+        "features": [
+          "Profesyoneller için gelişmiş WLAN yapılandırmasına olanak tanır:",
+          "Frekanslar",
+          "Anten kazancı",
+          "Düzenleyici kurum ayarları"
+        ],
+        "orderCode": "Rf"
+      },
+      {
+        "productCode": "Software Key Server",
+        "shortDesc": "OpenVPN Sunucu Lisansı (en fazla 25 istemci)",
+        "features": [
+          "OpenVPN istemcilerinin sayısını 10'dan 25'e çıkarır ve DynDNS sunucusunu etkinleştirir"
+        ],
+        "orderCode": "S"
+      },
+      {
+        "productCode": "Software Key eUICC",
+        "shortDesc": "Uzaktan eUICC SIM Profili Yönetimi",
+        "features": [
+          "Statik profil yönetimi ile uzaktan eUICC SIM profili güncellemesi. GSMA tarafından SGP.21 ve 22'de standartlaştırılan ve SGP.23'e göre doğrulanan uzak abone provizyonuna göre."
+        ],
+        "prerequisite": "eUICC uyumlu bir SIM kartın veya yerleşik eSIM yongasına sahip bir ürünün (ör. NG800) kullanılması.",
+        "orderCode": "Se"
+      },
+      {
+        "productCode": "Software Key Voice",
+        "shortDesc": "Ses Ağ Geçiti",
+        "features": [
+          "Sorunsuz çağrı yönlendirme için çok yönlü ses ağ geçidi 2G/3G/4G, POTS, VoIP ve PTT çağrılarını yönlendirir (donanım tarafından destekleniyorsa)"
+        ],
+        "numberVoiceChannels": "Ürün tipine bağlı olarak 4'e kadar ses kanalı. Yorum: Her devre anahtarlamalı çağrı bir modem gerektirir.",
+        "orderCode": "V"
+      },
+      {
+        "productCode": "Software Key Virtualization",
+        "shortDesc": "LXC Container",
+        "features": [
+          "NRSW'den (uç bilgi işlem) ayrılmış müşteri uygulamalarını çalıştırmak için LXC konteyner dağıtımını destekleyen ortam"
+        ],
+        "orderCode": "Vi"
+      }
+    ]
+  },
+  {
+    "name": "approvals",
+    "products": [
+      {
+        "productCode": "E-Mark Approval",
+        "shortDesc": "E-Mark / UN ECE R10",
+        "label": "Ürünün UN ECE R10'a göre E-Mark onayını beyan eder",
+        "orderCode": "E"
+      }
+    ]
+  },
+  {
+    "name": "modems",
+    "products": [
+      {
+        "productCode": "5G/4G Rel.15 Cat 20 Modem",
+        "shortDesc": "5G-NR, LTE-Advanced Pro, UMTS Worldwide (2014/53/EU (RED): EMEA)",
+        "threeG": "B1, B2, B3, B4, B5, B6, B8, B9, B19, 2014/53/EU (RED): B1 (2100), B3 (1800), B8 (900)",
+        "fourGLtePro": "B1, B2, B3, B4, B5, B7, B8, B12, B13, B14, B17, B18, B19, B20, B25, B26, B28, B29DL, B30, B32, B34, B38, B39, B40, B41, B42, B43*, B46(LAA), B48(CRS), B66, B71, 2014/53/EU (RED): B1, B3, B7, B8, B20, B28, B38, B40",
+        "fiveG": "n1, n2, n3, n5, n7, n8, n12*, n20, n25, n28, n38, n40, n41, n48, n66, n71, n77, n78, n79, 2014/53/EU (RED): n1, n3, n7, n8, n20, n28, n38, n40, n77, n78",
+        "category": "5G/4G Rel. 15 LTE Cat. 20",
+        "antennaPorts": "4x4 MIMO",
+        "datarate": "5.5 Gbps / 2.7 Gbps",
+        "voice": "-",
+        "model": "Telit FN980",
+        "formFactor": "M2 (with miniPCIe adapter)",
+        "desc": "future module firmware release",
+        "orderCode": "N"
+      },
+      {
+        "productCode": "LTE Cat 4 Modem",
+        "shortDesc": "LTE, UMTS, GSM Modem for EMEA",
+        "fourG": "B1, B3,B7, B8, B20, B28A",
+        "threeG": "B1 (2100), B3 (1800), B8 (900)",
+        "twoG": "B3 (1800), B8 (900)",
+        "category": "LTE Cat 4",
+        "antennaPorts": "2x2 MIMO",
+        "datarate": "150 Mbps / 50 Mbps",
+        "voice": "CSFB, VoLTE",
+        "model": "Telit LE910C4-EU",
+        "formFactor": "miniPCIe (USB)",
+        "orderCode": "L"
+      },
+      {
+        "productCode": "LTE Cat 12 Modem",
+        "shortDesc": "LTE Advanced Pro, UMTS Worldwide (2014/53/EU (RED): EMEA)",
+        "fourGLtePro": "B1, B2, B3, B4, B5, B7, B8, B12, B13, B14, B17, B18, B19, B20, B25, B26, B28, B29, B30, B38, B39, B40, B41, B42, B43, B48 (CBRS), B66, B71, 2014/53/EU (RED): B1, B3, B7, B8, B20, B28, B38, B40",
+        "threeG": "B1, B2, B4, B5, B6, B8, B9, B19, 2014/53/EU (RED): B1, B8",
+        "category": "LTE Cat 12",
+        "antennaPorts": "2x2 MIMO",
+        "datarate": "600 Mbps / 150 Mbps",
+        "voice": "-",
+        "model": "Telit LN920A12-WW",
+        "formFactor": "M.2 (with miniPCIe adapter)",
+        "orderCode": "Lp"
+      },
+      {
+        "productCode": "GSM-R Modem",
+        "shortDesc": "GSM-R for EMEA",
+        "twoG": "GSM-R (876-880 / 921-925), B8 (900), B3 (1800)",
+        "category": "GPRS Multislot class 10",
+        "outputPower": "GSM-R Power Class 4 (2W)",
+        "antennaPorts": "SISO",
+        "datarate": "85.6 kbps / 42.8 kbps",
+        "voice": "GSM (HR/FR/EFR/AMR)",
+        "model": "Triorail TRM-5",
+        "formFactor": "miniPCIe (USB)",
+        "orderCode": "Gr"
+      }
+    ]
+  },
+  {
+    "name": "wlan",
+    "products": [
+      {
+        "productCode": "WLAN module",
+        "shortDesc": "Dual-band WLAN 2.4/5 GHz a/b/g/n",
+        "standard": "IEEE 802.11a/b/g/n (Wi-Fi 4)",
+        "frequency": "2.4/5 GHz",
+        "diversity": "2x2 MIMO",
+        "datarate": "300 Mbps",
+        "modes": "Station or access point (up to 100 clients)",
+        "module": "Compex WLE200NX",
+        "formFactor": "miniPCIe (PCIe)",
+        "orderCode": "W"
+      },
+      {
+        "productCode": "WLAN module",
+        "shortDesc": "Dual-band WLAN 2.4/5 GHz a/b/g/n/ac",
+        "standard": "IEEE 802.11a/b/g/n/ac (Wi-Fi 5)",
+        "frequency": "2.4/5 GHz",
+        "diversity": "2x2 MIMO",
+        "datarate": "300 Mbps (2.4 GHz) / 866 Mbps (5 GHz)",
+        "modes": "Station or access point (up to 100 clients)",
+        "module": "Compex WLE600VX",
+        "formFactor": "miniPCIe (PCIe)",
+        "orderCode": "Wac"
+      }
+    ]
+  },
+  {
+    "name": "modules",
+    "products": [
+      {
+        "productCode": "Mod-Audio",
+        "shortDesc": "Audio/Voice Module, 2x Line-in, 2x Line-out, miniPCIe",
+        "features": "2x Analog line-in, 2x Analog line-out",
+        "aSignals": "Line in +/-, line out: +/-",
+        "aLineIn": "21 kΩ, signal level 1.9 Vpp, 100 Hz- 15 kHz",
+        "aLineOut": "600 Ω, signal level 3.6 Vpp, 300 Hz- 4 kHz",
+        "digitalInSignals": "",
+        "digitalInLevels": "",
+        "digitalOutSignals": "",
+        "digitalOutLevels": "",
+        "digitalOutIsolation": "",
+        "formFactor": "miniPCIe (USB)",
+        "softwareSupport": "Voice Gateway (Lic-V) and SDK in NRSW or LXC Container",
+        "canSignals": "",
+        "canSignalLevel": "",
+        "canBitrate": "",
+        "canIsolation": "",
+        "canTermination": "",
+        "busAccess": "",
+        "rS485Signals": "",
+        "rS485SignalLevel": "",
+        "rS485Bitrate": "",
+        "rs485Isolation": "",
+        "diSignal": "",
+        "diLevel": "",
+        "diIsolation": "",
+        "doLevel": "",
+        "doSignals": "",
+        "doIsolation": "",
+        "drModes": "",
+        "antennas": "",
+        "accuracy": "",
+        "sensitivity": "",
+        "ibisSignals": "",
+        "ibisSignalLevel": "",
+        "ibisBitrate": "",
+        "ibisIsolation": "",
+        "rs232Signals": "",
+        "rs232SignalLevel": "",
+        "rs232Bitrate": "",
+        "rs232Isolation": "",
+        "capacity": "",
+        "technology": "",
+        "data": "",
+        "orderCode": "A"
+      },
+      {
+        "productCode": "Mod-2xCAN",
+        "shortDesc": "CAN Module, 2x CAN, miniPCIe",
+        "formFactor": "miniPCIe (USB)",
+        "softwareSupport": "NRSW via SDK or LXC Container",
+        "canSignals": "CANH, CANL",
+        "canSignalLevel": "High > 2.75 V, low < 2.0 V",
+        "canBitrate": "Up to 1 Mbps",
+        "canIsolation": "1500 VDC, galvanic isolation",
+        "canTermination": "No internal bus termination",
+        "busAccess": "Passive: read access only, Active: read + write access",
+        "orderCode": "2Cm - 2x CAN Passive (ready only), 2Cn - 2x CAN Active (read + write), CmCn - 1x CAN Passive and 1x CAN Active"
+      },
+      {
+        "productCode": "Mod-CAN/RS485",
+        "shortDesc": "CAN, RS-485 Module, 1x CAN, 1x RS-485, miniPCIe",
+        "features": "1x Controller Area Network V2.0B (ISO 11898), 1x RS-485 serial interface",
+        "formFactor": "miniPCIe (USB)",
+        "softwareSupport": "NRSW via SDK or LXC Container",
+        "canSignals": "CANH, CANL",
+        "canSignalLevel": "High > 2.75 V, low < 2.0 V",
+        "canBitrate": "Up to 1 Mbps",
+        "canIsolation": "1500 VDC, galvanic isolation",
+        "canTermination": "No internal bus termination",
+        "busAccess": "Active: read + write access",
+        "rS485Signals": "A, B",
+        "rS485SignalLevel": "Differential output voltage, loaded 1.5 VDC – 3.6 VDC",
+        "rS485Bitrate": "Up to 460'800 bps",
+        "rs485Isolation": "1500 VDC, galvanic isolation",
+        "orderCode": "Cn (CAN Active), Sa (RS-485)"
+      },
+      {
+        "productCode": "Mod-DIO",
+        "shortDesc": "Digital I/O Modüle, 2x Digital Inputs, 2x Digital Outputs, miniPCIe",
+        "features": "2x digital input, 2x digital output",
+        "diSignal": "+/-",
+        "diLevel": "Low: 0 - 5 VDC, high 9 - 60 VDC",
+        "diIsolation": "1500 VDC, galvanic isolation",
+        "doLevel": "0 - 60 VDC/1A",
+        "doSignals": "NO, NC, COM",
+        "doIsolation": "1500 VDC, relais",
+        "formFactor": "miniPCIe (USB)",
+        "softwareSupport": "NRSW via SDK or LXC Container",
+        "orderCode": "2D"
+      },
+      {
+        "productCode": "Mod-GNSS-ADR (NEO-M8L)",
+        "shortDesc": "GNSS-DR Module, Multi-GNSS with Dead Reckoning, miniPCIe",
+        "features": "GNSS with BeiDou, Galileo, GLONASS, GPS/QZSS, 72-channel u-blox M8 engine, 3 concurrent GNSS channels, Integrated motion sensors",
+        "formFactor": "miniPCIe (USB)",
+        "softwareSupport": "Supported in NRSW",
+        "drModes": "UDR: Untethered Dead Reckoning (without wheel tick), ADR: Automotive Dead Reckoning (requires wheel tick)",
+        "antennas": "Active or passive",
+        "accuracy": "Up to 2.5 m CEP",
+        "sensitivity": "Up to –160 dBm",
+        "orderCode": "Gd"
+      },
+      {
+        "productCode": "Mod-IBIS/RS232",
+        "shortDesc": "IBIS, RS-232 Module, 1x IBIS slave, 1x RS-232, miniPCIe",
+        "features": "1x Analog line-in, 1x Analog line-out, 1x Digital-input, 1x Digital-output",
+        "ibisSignals": "WBED, WBME, WBSD, WBMS",
+        "ibisSignalLevel": "High > 5VDC, low < -5 VDC",
+        "ibisBitrate": "1200 bps",
+        "ibisIsolation": "1500 VDC, galvanic isolation",
+        "rs232Signals": "TX, RX,  CTS, RTS",
+        "rs232SignalLevel": "High > 5 VDC, low < -5 VDC",
+        "rs232Bitrate": "Up to 1 Mbps",
+        "rs232Isolation": "1500 VDC, galvanic isolation",
+        "formFactor": "miniPCIe (USB)",
+        "softwareSupport": "IBIS support on request, RS-232 in NRSW SDK or LXC Container",
+        "orderCode": "I (IBIS), Sb (RS-232)"
+      },
+      {
+        "productCode": "Mod-Audio-PTT",
+        "shortDesc": "Push-to-Talk Module, Line in/out + digital in/out, miniPCIe",
+        "features": "1x Analog line-in, 1x Analog line-out, 1x Digital-input, 1x Digital-output",
+        "aSignals": "Line in +/-, line out: +/-",
+        "aLineIn": "21 kΩ, signal level 1.9 Vpp, 100 Hz- 15 kHz",
+        "aLineOut": "600 Ω, signal level 3.6 Vpp, 300 Hz- 4 kHz",
+        "digitalInSignals": "+,-",
+        "digitalInLevels": "Low 0 - 5 VDC, high 7.2 - 60 VDC",
+        "digitalOutSignals": "NO, COM",
+        "digitalOutLevels": "0 - 60 VDC/1A",
+        "digitalOutIsolation": "100 VDC",
+        "formFactor": "miniPCIe (USB)",
+        "softwareSupport": "Voice Gateway (Lic-V) and SDK in NRSW or LXC Container",
+        "orderCode": "Ap"
+      },
+      {
+        "productCode": "Mod-SSD",
+        "shortDesc": "Solid State Disk Module, 32, 64, 128, 256, 512, 1024 GB SSD",
+        "features": "SSD storage card for application data",
+        "capacity": "32 GB, 64 GB, 128 GB, 256 GB, 512 GB, 1 TB",
+        "technology": "SSD (Solid State Disk)",
+        "data": "Application data such as logs, media content, ...",
+        "formFactor": "SATA Disk",
+        "softwareSupport": "SDK in NRSW or LXC Container",
+        "orderCode": "Da, Db, Dc, Dd, De, Df"
+      },
+      {
+        "productCode": "Shield-CAN",
+        "shortDesc": "CAN Shield, 2xCAN",
+        "features": "2x Controller Area Network V2.0B (ISO 11898)",
+        "formFactor": "Shield",
+        "softwareSupport": "NRSW via SDK or LXC Container",
+        "canSignals": "CANH, CANL",
+        "canSignalLevel": "High > 2.75 V, low < 2.0 V",
+        "canBitrate": "Up to 1 Mbps",
+        "canTermination": "No internal bus termination, On request: 120 Ω configurable by software",
+        "busAccess": "Passive (read access only) or write access (on request)",
+        "orderCode": "2C"
+      },
+      {
+        "productCode": "Shield-COMIO",
+        "shortDesc": "COM-I/O Shield, 1x RS-232/485, 1x digital input, 1x digital output, shield",
+        "features": "1x RS-232/485, 1x digital input, 1x digital output",
+        "formFactor": "Shield",
+        "softwareSupport": "NRSW via SDK or LXC Container",
+        "rS485Signals": "A, B",
+        "rS485SignalLevel": "Differential output voltage, loaded 1.5 VDC – 3.6 VDC",
+        "rS485Bitrate": "Up to 1 Mbps",
+        "rs485Isolation": "120 Ω for RS-485 configurable by software",
+        "diSignal": "+, -",
+        "diLevel": "Low: 0 - 3 VDC, high: 9 - 32 VDC",
+        "diIsolation": "NO, NC, COM",
+        "doLevel": "0 - 32 VDC/1A",
+        "doSignals": "1500 VAC",
+        "doIsolation": "",
+        "rs232Signals": "TX, RX",
+        "rs232SignalLevel": "High > 5 VDC, low < -5 VDC",
+        "rs232Bitrate": "Up to 1 Mbps",
+        "orderCode": "Sc"
+      }
+    ]
+  },
+  {
+    "name": "mounting",
+    "products": [
+      {
+        "productCode": "DIN-Rail-Mounting-Clip",
+        "shortDesc": "DIN-Rail Mounting Clip for NB800 series",
+        "image": "din-rail-mouting-clip.png",
+        "orderCode": "DIN-Rail-Mounting-Clip"
+      },
+      {
+        "productCode": "DIN-Rail-Mounting-Kit",
+        "shortDesc": "DIN-Rail Mounting Clip for NB2000 line",
+        "image": "din-rail-mounting-kit.png",
+        "orderCode": "DIN-Rail-Mounting-Kit"
+      }
+    ]
+  }
+]
