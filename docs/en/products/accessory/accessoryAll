@@ -193,7 +193,7 @@
         "features": [
           "It provides automatic translation of CAN messages into IP datagrams according to the FMS Standard. ITxPT services:",
           "FMStoIP",
-          "andHICLEtoIP"
+          "VEHICLEtoIP"
         ],
         "orderCode": "F"
       },
@@ -214,7 +214,7 @@
           "Time service",
           "GNSS Location service (requires -G option)",
           "FMStoIP service and related subservices (requires -F option)",
-          "andHICLEtoIP service (requires -F option)"
+          "VEHICLEtoIP service (requires -F option)"
         ],
         "compliance": "ITxPT hardware compatibility can be achieved with appropriate product hardware.",
         "orderCode": "Ix"
