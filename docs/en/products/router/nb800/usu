@@ -13,7 +13,7 @@
     "A cellular network connection is established with a Multimode GSM module on the device that supports 3G- DC-HSPA+/UMTS and 2G- GSM/GPRS/EDGE networks.",
     "It is resistant to the harsh physical conditions with its IP40 level protected design. It operates between -40°C and +70°C.",
     "The device is equipped with single Fast Ethernet (10/100 Mbps) port (RJ45).",
-    "It has certificates of conformity with CE (2014/53/EU, RED), 2011/65/EU (RoHS) directives.",
+    "It has certificates of conformity with CE (2014/53/EU, RED), 2011/65/EU (RoHS) directives."
   ],
   "cellular": {
     "standard": "1x GSM module, 3G-DC-HSPA+/UMTS, 2G-GSM/GPRS/EDGE",
