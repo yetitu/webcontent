@@ -12,7 +12,7 @@
     },
     "pis": {
       "title": "Yolcu Bilgilendirme Sistemi",
-      "description": "Yolcularınızı, bilgilendirmek, eğlendirmek için terminallerde, duraklarda veya araçlardaki ekranlardan dinamilk içerik yayınlayın. Yolcu deneyimini iyileştirin. Bekleme sürelerini azaltın. Güzergah, kalkış/varış zamanlarını, gecikmeleri yayınlayın.",
+      "description": "Yolcularınızı, bilgilendirmek, eğlendirmek için terminallerde, duraklarda veya araçlardaki ekranlardan dinamik içerik yayınlayın. Yolcu deneyimini iyileştirin. Bekleme sürelerini azaltın. Güzergah, kalkış/varış zamanlarını, gecikmeleri yayınlayın.",
       "groupImage": "passenger-info.png"
     },
     "ptt": {

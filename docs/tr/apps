@@ -159,7 +159,7 @@
     },
     "pis": {
       "title": "Yolcu Bilgilendirme Sistemi",
-      "description": "Yolcularınızı, bilgilendirmek, eğlendirmek için terminallerde, duraklarda veya araçlardaki ekranlardan dinamilk içerik yayınlayın. Yolcu deneyimini iyileştirin. Bekleme sürelerini azaltın. Güzergah, kalkış/varış zamanlarını, gecikmeleri yayınlayın.",
+      "description": "Yolcularınızı, bilgilendirmek, eğlendirmek için terminallerde, duraklarda veya araçlardaki ekranlardan dinamik içerik yayınlayın. Yolcu deneyimini iyileştirin. Bekleme sürelerini azaltın. Güzergah, kalkış/varış zamanlarını, gecikmeleri yayınlayın.",
       "summary": "Araçtaki yüksek çözünürlüklü ekranlardan yolcularınıza yaklaşılmakta olan duraklara tahmini varış sürelerini, aracın rotadaki konumunu, gerçek zamanlı yol, hava ve trafik durumu bilgilerini, varılacak duraklardaki diğer toplu taşıma sistemlerinin zaman çizelgelerini, gecikme ve iptal edien seferleri gösterin. Gündeme dair önemli haberleri ve hizmetlerinizi anlatan videolar izletin. Aracın rotasına, tarihe, saate veya coğrafi konuma bağlı olarak değişebilen reklamlardan gelir elde edinin. Yolcularınıza seyahatleri sırasında hoş zaman geçirmelerini sağlayacak ilgi çekici kısa videolar izletin.",
       "heroText": "Araçlarınızdaki ekranlardan yolcularınızı bilgilendirin, seferler ve yol durumu hakkında gerçek zamanlı bilgi paylaşın. Eğlenceli videolar oynatın.",
       "image": "passenger-info.png",
