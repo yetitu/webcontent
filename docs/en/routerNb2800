@@ -13,7 +13,7 @@
       "title": "Passenger Information System",
       "lead": "Inform your passengers on high-definition screens installed at stops, hubs, stations, waiting rooms or vehicles. Increase your revenue with commercials while they having a pleasant time with entertaining videos.",
       "text": "Show your passengers estimated arrival times to upcoming stops, geo-location of the vehicle on the route, real-time road, weather and traffic information, timelines of other public transport systems at destination stops. Let them watch funny videos, breaking news about and your services. Earn revenue from ads that may change based on the vehicle's route, date, time or geographic location.",
-      "url": "transport/pis",
+      "url": "pis",
       "img": "passenger-info.png"
     },
     {
@@ -21,13 +21,13 @@
       "title": "Offline Video & Music in the Vehicle",
       "lead": "Let your passengers access your content archive saved on your vehicle computer with their own mobile devices. Let them watch movies, listen to music, read books, newspapers or magazines.",
       "text": "Using their smartphones, tablets or laptops, your passengers can access travel information, digital copies of newspapers/magazines/books, select movies, series, music channels and more, without the need for internet access. With their own mobile devices and headphones, they should not worry about hygiene.",
-      "url": "transport/media",
+      "url": "media",
       "img": "offline-archive.png"
     },
     {
       "id": 3,
       "title": "WiFi for Passengers",
-      "url": "transport/wifi",
+      "url": "wifi",
       "lead": "Let your passengers connect to internet using 'WiFi for passengers' service in your vehicle.",
       "text": "For a unique customer experience keep your passengers connected to their digital world. Let your passengers, who keep their smart mobile devices (smartphone, tablet, laptop) with them, connect to the internet during their travels.",
       "img": "passenger-wifi.png",
@@ -39,7 +39,7 @@
       "lead": "Install security cameras in the vehicle for the safety of people and cargo in the vehicle.",
       "text": "Prevent unwanted situations such as theft, vandalism or assault with the help of video surveillance in the vehicle for a safe travel experience. Monitor, record and archive what's happening in and around your vehicles from anywhere and anytime.",
       "img": "cctv.png",
-      "url": "transport/cctv"
+      "url": "cctv"
     },
     {
       "id": 5,
@@ -47,7 +47,7 @@
       "lead": "Enable single click voice communication with first responders in case of emergency.",
       "text": "Allow people in the vehicle to communicate with outside without compromising driving safety. You can quickly contact the relevant center with one click in an unexpected situation that may be encountered during the cruise. Passengers can request assistance from the push-to-talk station installed in the vehicle. Let the personnel answering the call identify the vehicle from which the call was made and its geo-location.",
       "img": "ptt.png",
-      "url": "transport/ptt"
+      "url": "ptt"
     },
     {
       "id": 6,

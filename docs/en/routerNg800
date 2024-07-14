@@ -14,7 +14,7 @@
       "title": "Passenger Information System",
       "lead": "Inform your passengers through the high-resolution screens in the vehicle and ensure they have a pleasant time with entertaining videos. Increase your revenue by playing advertising videos.",
       "text": "Display estimated arrival times to approaching stops, the vehicle's location on the route, real-time information on road, weather, and traffic conditions to your passengers through the screens in the vehicle. Show the time schedules of other public transportation systems at the upcoming stops. Play videos featuring important news and showcasing your services. Generate revenue from advertisements that can vary based on the vehicle's route, date, time, or geographical location. Entertain your passengers with engaging short videos to ensure they have a pleasant time during their travels.",
-      "url": "transport/pis",
+      "url": "pis",
       "img": "passenger-info.png"
     },
     {
@@ -22,13 +22,13 @@
       "title": "Offline Video & Music in the Vehicle",
       "lead": "Allow your passengers to access your electronic content archive with their own mobile devices",
       "text": "Enable your passengers to access travel information, digital copies of newspapers/magazines/books, selected movies, series, music channels, and more without the need for internet access using their own smartphones, tablets, or laptops. They can use their own mobile devices and headphones, so they don't have to worry about hygiene.",
-      "url": "transport/media",
+      "url": "media",
       "img": "offline-archive.png"
     },
     {
       "id": 3,
       "title": "WiFi for Passengers",
-      "url": "transport/wifi",
+      "url": "wifi",
       "lead": "Let your passengers connect to Internet",
       "text": "For an unforgettable customer experience, keep your passengers seamlessly connected to their digital lives! With our onboard WiFi service, travelers can stay online throughout their journey, whether for work or play. Never miss a beat with the option to connect to the internet, available at your fingertips. Enhance their ride with the convenience of staying connected, making every moment on the road more enjoyable. Upgrade your service today and delight your passengers with uninterrupted connectivity!",
       "img": "passenger-wifi.png",
@@ -40,7 +40,7 @@
       "lead": "Install IP-based cameras in your vehicle for the safety of your passengers.",
       "text": "Ensure your passengers' safety by equipping your vehicle with IP-based cameras. With state-of-the-art surveillance technology, keep a watchful eye on every journey. Upgrade your fleet today for peace of mind and unmatched safety! For a secure travel experience, prevent unwanted situations such as theft, vandalism, or attacks with video surveillance assistance in the vehicle. Monitor, record, and archive what's happening inside and around your vehicles from anywhere, at any time. Stay ahead of potential risks and ensure the safety of your passengers with continuous monitoring.",
       "img": "cctv.png",
-      "url": "transport/cctv"
+      "url": "cctv"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "lead": "Enable voice communication with relevant authorities in emergency situations",
       "text": "Keep communication seamless while ensuring driving safety - allow individuals inside the vehicle to communicate with those outside with ease. In case of unexpected situations during the journey, connect swiftly to the relevant center with just one touch. Passengers can request assistance using the push-to-talk station inside the vehicle. The responding personnel can identify the calling vehicle and its location. Stay connected, stay safe, effortlessly.",
       "img": "ptt.png",
-      "url": "transport/ptt"
+      "url": "ptt"
     },
     {
       "id": 6,

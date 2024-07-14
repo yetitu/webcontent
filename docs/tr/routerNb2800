@@ -13,7 +13,7 @@
       "title": "Yolcu Bilgilendirme Sistemi",
       "lead": "Araçtaki yüksek çözünürlüklü ekranlardan yolcularınızı bilgilendirin, eğlenceli videolar ile hoş zaman geçirmelerini sağlayın. Oynatacağınız reklam videoları ile gelirinizi artırın.",
       "text": "Araçtaki ekranlardan yolcularınıza yaklaşılmakta olan duraklara tahmini varış sürelerini, aracın rotadaki konumunu, gerçek zamanlı yol, hava ve trafik durumu bilgilerini, varılacak duraklardaki diğer toplu taşıma sistemlerinin zaman çizelgelerini gösterin. Gündeme dair önemli haberleri ve hizmetlerinizi anlatan videolar izletin. Aracın rotasına, tarihe, saate veya coğrafi konuma bağlı olarak değişebilen reklamlardan gelir elde edinin. Yolcularınıza seyahatleri sırasında hoş zaman geçirmelerini sağlayacak ilgi çekici kısa videolar izletin.",
-      "url": "transport/pis",
+      "url": "pis",
       "img": "passenger-info.png"
     },
     {
@@ -21,13 +21,13 @@
       "title": "Çevrimdışı Video ve Müzik",
       "lead": "Yolcularınız kendi cihazları ile elektronik içerik havuzuna erişsin. Film izlesinler, müzik dinlesinler, kitap, gazete veya dergi okusunlar.",
       "text": "Yolcularınız kendi akıllı telefon, tablet veya dizüstü bilgisayarlarını kullanarak, internet erişimi gerekmeksizin, seyahat bilgilerine, gazetelerin/dergilerin/kitapların dijital kopyalarına, seçecekleri filmlere, dizilere, müzik kanallarına ve daha fazlasına erişsin. Kendi mobil cihazlarını ve kulaklıklarını kullanacaklarından hijyeni dert etmesinler.",
-      "url": "transport/media",
+      "url": "media",
       "img": "offline-archive.png"
     },
     {
       "id": 3,
       "title": "Yolcular için WiFi",
-      "url": "transport/wifi",
+      "url": "wifi",
       "lead": "Araçta WiFi hizmeti ile yolcularınız internete bağlanabilsin.",
       "text": "Benzersiz müşteri deneyimi için yolcularınızı kendi dijital dünyalarına bağlı tutun. Akıllı mobil cihazlarını (akıllı telefon, tablet, dizüstü bilgisayar) yanlarından ayırmayan yolcularınıza seyahatleri süresince, dilerseniz ücretli veya ücretsiz, internete bağlanabilme olanağı sunun.",
       "img": "passenger-wifi.png",
@@ -38,7 +38,7 @@
       "title": "Araçta Güvenlik Kameraları",
       "lead": "Yolcularınızın güvenliği için araca IP tabanlı kameralar yerleştirin.",
       "text": "Güvenli yolculuk deneyimi için araçta video gözetimi yardımı ile hırsızlık, vandalizm veya saldırı gibi istenmeyen durumları önleyin. Araçlarınızın içinde ve çevresinde neler olduğunu her yerden ve her zaman izleyin, kayıt edin ve arşivleyin.",
-      "url": "transport/cctv",
+      "url": "cctv",
       "img": "cctv.png"
     },
     {
@@ -47,7 +47,7 @@
       "lead": "Acil durumlarda ilgili kurumlar ile sesli iletişim kurulmasına olanak sağlayın.",
       "text": "Sürüş güvenliğini aksatmaksızın, araçtaki kişilerin araç dışından kişilerle sesli iletişim kurmasına olanak sağlayın. Seyir sırasında karşılaşılacak beklenmedik bir durumda tek tuşla hızlıca ilgili merkezle iletişime geçilsin. Yolcular araç içindeki bas-konuş istasyonundan yardım talebinde bulunabilsin. Çağrıyı yanıtlayan personel aramanın yapıldığı aracı ve konumunu belirleyebilsin.",
       "img": "ptt.png",
-      "url": "transport/ptt"
+      "url": "ptt"
     },
     {
       "id": 6,
