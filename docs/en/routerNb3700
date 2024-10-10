@@ -98,7 +98,7 @@
     {
       "id": 1,
       "title": "Standard Hardware Features",
-      "text": "Thanks to intelligent routing and connection management software, it can access the networks of up to four cellular network operators, either from all of them simultaneously or sequentially to provide redundancy. In all models; Cellular networks supporting UMTS of countries in the EMEA region can be accessed. The router has 5 Fast Ethernet, 4 Digital I/O ports, 1 USB port and a satellite receiver providing GNSS services. All models are Complies with 2014/53/EU (RED), 2011/65/EU (RoHS) EN50155 and EN 45545 directives. In all models in the NB3700 series; IT infrastructure consisting of a 1.3 GHz dual-core central processor, 1 GB RAM memory and embedded Linux operating system was used. The features of the standard NRSW (NetModule Router Software) software, which provides the functionality expected from the router, are listed below. Check out all models with different capacities and capabilities."
+      "text": "Ideal for rail transportation vehicles, the routers in the NB3700 series can establish only one cellular network connection at a time. Models in this series include a maximum of 1 GSM module that can access LTE/UMTS/GSM supporting cellular networks of countries in the EMEA region, IEEE 802.11a/b/g/n/ac (Wi-Fi5) supporting (at least one or two radios depending on the model), 5 Fast Ethernet (FE), 1 RS-232, 1 USB, 4 Digital Input/Output ports and 1 satellite receiver providing GNSS services. All models are CE compliant (RED) and have railway type approval (EN 50155, EN 45545). All models in the NB3700 series include; The IT infrastructure consisting of a 1.3 GHz dual core central processor, 1 GB RAM memory, 24, 48 VDC or 72, 96, 110 VDC input power unit and embedded Linux operating system is used. The features of the standard NRSW (NetModule Router Software) software that provides the expected functionality from the router are listed below. Take a look at all models with different capacities and capabilities."
     },
     {
       "id": 2,
@@ -357,6 +357,11 @@
               "text": "DynDNS server"
             }
           ]
+        },
+        {
+          "id": 3,
+          "title": "LXC",
+          "text": "The LXC virtualization license allows the installation and execution of client applications in parallel with the router application on the same hardware (router). Using Linux Containers (LXC, Linux Container), several isolated Linux systems can be run on the same host at the operating system level. LXC creates a virtual environment with its own processes using the kernel of the host system (router). The router functions and the virtualized computer are securely prevented from affecting each other."
         }
       ]
     }

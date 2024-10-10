@@ -356,88 +356,8 @@
         },
         {
           "id": 3,
-          "title": "Ses geçidi",
-          "text": "Bu lisans ile NetModule yönlendiricileri, VoIP telefonu (IP üzerinden Ses) için bir ses ağ geçidi görevi de görebilir. Mobil ağ üzerinden gelen aramalar, NetModule yönlendiricisi aracılığıyla VoIP istemcilerine bağlanabilir. VoIP istemcilerinden başlatılan giden aramalar da mobil ağ üzerinden yapılır. Sesli iletişimi, doğrudan varsa cihaz üzerindeki FXS veya Bas-Konuş bağlantı noktalarının ses arabiriminden de sağlanabilir. (Not\":\"\" Kullanılabilir özellikler, kullanılan donanıma bağlıdır.",
-          "bullets": [
-            {
-              "id": 1,
-              "text": "2G/3G/4G/5G, POTS, VoIP, Audio, Bas-Konuş sesli çağrıları"
-            },
-            {
-              "id": 2,
-              "text": "Dört adede kadar eşzamanlı ses kanalı (kanal başına bir adet modem gereklidir)"
-            }
-          ]
-        },
-        {
-          "id": 4,
           "title": "LXC",
           "text": "LXC sanallaştırma lisansı, aynı donanım (yönlendirici) üzerinde yönlendirici uygulamasına paralel olarak müşteri uygulamalarının kurulmasına ve yürütülmesine izin verir. Linux Kapsayıcıları (LXC, Linux Container) kullanılarak, birkaç yalıtılmış Linux sistemi, işletim sistemi düzeyinde aynı ana bilgisayar üzerinde çalıştırılabilir. LXC, ana bilgisayar sisteminin (yönlendiricinin) çekirdeğini kullanarak kendi süreçleriyle sanal bir ortam oluşturur. Yönlendirici işlevlerinin ve sanallaştırılmış bilgisayarın güvenli biçimde, birbirlerinin etkilemeleri önlenir."
-        },
-        {
-          "id": 5,
-          "title": "FMStoIP",
-          "text": "Bu yazılım lisansı, CAN arabirimlerindeki J1939 paketlerini alır, dönüştürür ve yerel olarak araç içindeki veya uzaktaki diğer sistemlere gönderir.",
-          "bullets": [
-            {
-              "id": 1,
-              "text": "İleti süzme ve yapılandırma"
-            },
-            {
-              "id": 2,
-              "text": "FMS standartında, FMStoIP, VEHICLEtoIP"
-            },
-            {
-              "id": 3,
-              "text": "ITxPT-Uygunluk (destekleyen modeldeki cihazlarda)"
-            }
-          ]
-        },
-        {
-          "id": 6,
-          "title": "ITxPT-Uygunluk Etiketi",
-          "text": "Etiket, aşağıdaki hizmetler için ürünün ITxPT spesifikasyonları S01 v2.0.1 ve S02 v2.0.1 ile uygunluğunun beyanıdır.",
-          "bullets": [
-            {
-              "id": 1,
-              "text": "Modül envanteri"
-            },
-            {
-              "id": 2,
-              "text": "Zaman"
-            },
-            {
-              "id": 3,
-              "text": "GNSS konumu (GNSS lisansı da gerektirir)"
-            },
-            {
-              "id": 4,
-              "text": "FMStoIP (FSMtoIP Lisansı da gerektirir)"
-            },
-            {
-              "id": 5,
-              "text": "VEHICLEtoIP (FSMtoIP lisansı da gerektirir)"
-            }
-          ]
-        },
-        {
-          "id": 7,
-          "title": "Gelişmiş RF yapılandırma",
-          "text": "Aşağıdaki gelişmiş WLAN yapılandırma ayarlarının değiştirilebilmesine izin verir.",
-          "bullets": [
-            {
-              "id": 1,
-              "text": "Frekans"
-            },
-            {
-              "id": 2,
-              "text": "Anten kazancı"
-            },
-            {
-              "id": 3,
-              "text": "Düzenleyici otorite ayarları"
-            }
-          ]
         }
       ]
     }
