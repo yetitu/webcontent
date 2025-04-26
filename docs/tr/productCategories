@@ -14,20 +14,6 @@
 		"url": "/antenna"
 	},
 	{
-		"name": "WiFi Erişim Noktası",
-		"imageUrl": "/images/categories/ap.png",
-		"desc": "Tren ve tramvaylarda WLAN için WiFi-6'yı destekleyen NetModule AP3400 erişim noktasını seçin. Yolcularınız ve personeliniz için tren boyunca kesintisiz LTE ve 5G bağlantısı sağlayın.",
-		"slug": "erisim-noktasi",
-		"url": "/ap"
-	},
-	{
-		"name": "LAN Anahtarı",
-		"imageUrl": "/images/categories/switch.png",
-		"desc": "Araç içi kablosuz ağ erişim noktalarını, yolcu bilgilendirme ekranlarını (PIS) ve güvenlik kameralarını M12 Ethernet bağlantı noktalarıyla, Gigabit yerel ağ omurgasına kolayca bağlayın. ITxPT uyumlu ve birlikte çalışabilirlik onaylı, internet özellikli bir IP omurgası oluşturun.",
-		"slug": "anahtar",
-		"url": "/switch"
-	},
-	{
 		"name": "Yazılım",
 		"imageUrl": "/images/categories/software.png",
 		"desc": "Terminal cihazından şirket ağına kadar, her noktada, tutarlı ve güvenli iletişimi sağlayan, tüm cihazlarda standart bir işletim ve yapılandırma konseptine uygun geliştirilen yazılım ürünlerine göz atın.",

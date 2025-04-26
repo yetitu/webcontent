@@ -14,20 +14,6 @@
 		"url": "/antenna"
 	},
 	{
-		"name": "WiFi Access Point",
-		"imageUrl": "/images/categories/ap.png",
-		"desc": "For WLAN on trains and trams, choose NetModule AP3400 access point, which supports the WiFi-6. Provide uninterrupted LTE and 5G connectivity throughout the train for your passengers and staff.",
-		"slug": "accesspoint",
-		"url": "/ap"
-	},
-	{
-		"name": "LAN Switch",
-		"imageUrl": "/images/categories/switch.png",
-		"desc": "Easily connect in-vehicle wireless network access points, PIS  and security cameras with M12 Ethernet ports to the Gigabit local network backbone. Build an internet-enabled IP backbone – ITxPT compliant and interoperability approved.",
-		"slug": "switch",
-		"url": "/switch"
-	},
-	{
 		"name": "Software",
 		"imageUrl": "/images/categories/software.png",
 		"desc": "Take a look at the software products developed in accordance with a standard operating and configuration concept on all devices, ensuring consistent and secure communication at every point, from the terminal device to the company network.",
