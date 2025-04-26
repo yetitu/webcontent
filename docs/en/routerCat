@@ -9,14 +9,6 @@
   },
   {
     "brand": "NetModule",
-    "series": "NB1600",
-    "imageUrl": "/images/products/router/nb1600/nb1600_front.jpg",
-    "desc": "NB1600 series of mobile routers operate between -40 °C and +70 °C. Provide wireless 4G, WiFi, BLE network connections for critical devices in industrial environments. There are 4 Ethernet, serial and USB ports.",
-    "usage": "IIoT",
-    "url": "/nb1600"
-  },
-  {
-    "brand": "NetModule",
     "series": "NB1800",
     "imageUrl": "/images/products/router/nb1800/nb1800_front.jpg",
     "desc": "NB1800 series of mobile routers operate between -40 °C and +70 °C. Provide wireless 5G, 4G, WiFi, BLE network connections for critical devices in industrial environments. They have Gigabit Ethernet, SFP, serial and USB ports.",
@@ -33,27 +25,10 @@
   },
   {
     "brand": "NetModule",
-    "series": "NB3700",
-    "imageUrl": "/images/products/router/nb3700/nb3700_front.jpg",
-    "desc": "NB3700 series of mobile routers provide wireless 4G, WiFi and GPS connections for the vehicles operating on railways. They have Ethernet, Digital I/O and USB ports. They are ideal for harsh physical conditions. They comply with all the directives sought in the railway industry.",
-    "usage": "Railway Vehicles",
-    "url": "/nb3700"
-  },
-  {
-    "brand": "NetModule",
     "series": "NB3800",
     "imageUrl": "/images/products/router/nb3800/nb3800_front.jpg",
     "desc": "NB3800 series of mobile routers provide wireless 5G, 4G, WiFi, BLE and GPS connections for the vehicles operating on railways. They have Ethernet, serial and USB ports. They are ideal for harsh physical conditions. They comply with all the directives sought in the railway industry.",
     "usage": "Railway Vehicles",
     "url": "/nb3800"
-  },
-  {
-    "brand": "NetModule",
-    "series": "NG800",
-    "imageUrl": "/images/products/router/ng800/ng800_front.jpg",
-    "desc": "NG800 series of mobile routers provide wireless 5G, 4G, WiFi, BLE and GPS connections for vehicles operating on highways. They have Ethernet, Auto-Ethernet, serial and USB ports. Their compact design is ideal for harsh physical conditions. They comply with all directives sought in the automotive industry. They support electronic SIM (eUICC).",
-    "usage": "Highway Vehicles",
-    "url": "/ng800"
   }
 ]
-
