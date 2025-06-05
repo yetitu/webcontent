@@ -2,10 +2,10 @@
   "manual": {
     "nb800": {
       "title": "NB800",
-      "description": "NB800 serisi yönlendiriciler için kullanım kılavuzu",
+      "description": "User manual for NB800 series routers",
       "version": 2.2038,
       "firmware": "4.9.0.102",
-      "file": "nb800_tr.pdf"
+      "file": "nb800_en.pdf"
     }
   }
 }
