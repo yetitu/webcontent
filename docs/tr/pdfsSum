@@ -7,5 +7,12 @@
       "firmware": "4.9.0.102",
       "file": "nb800_tr.pdf"
     }
+  },
+  "howto": {
+    "wifiSwitch": {
+      "title": "WiFi Switch",
+      "description": "Müthiş bi şi",
+      "file": "howto_tr.pdf"
+    }
   }
 }
